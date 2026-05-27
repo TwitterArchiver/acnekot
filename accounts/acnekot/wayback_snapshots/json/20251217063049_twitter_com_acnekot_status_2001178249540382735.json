@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000854766239494144"
+      ],
+      "media_source_tweet_id": [
+        "2000855178942275659"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2001178249540382735",
+    "created_at": "2025-12-17T06:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T07:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001178249540382735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990587604146925568",
+          "start": 3,
+          "username": "Nakkar7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f8brQUhCnI",
+          "end": 39,
+          "expanded_url": "https://x.com/Nakkar7/status/2000855178942275659/photo/1",
+          "media_key": "3_2000854766239494144",
+          "start": 16,
+          "url": "https://t.co/f8brQUhCnI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001178249540382735",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 425
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000855178942275659",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nakkar7: 💺🎫 https://t.co/f8brQUhCnI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2000854766239494144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8R2zxTaMAAlnIE.jpg",
+        "width": 992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000854766239494144"
+          ],
+          "media_source_tweet_id": [
+            "2000855178942275659"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2001178249540382735",
+        "created_at": "2025-12-17T06:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T07:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001178249540382735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990587604146925568",
+              "start": 3,
+              "username": "Nakkar7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f8brQUhCnI",
+              "end": 39,
+              "expanded_url": "https://x.com/Nakkar7/status/2000855178942275659/photo/1",
+              "media_key": "3_2000854766239494144",
+              "start": 16,
+              "url": "https://t.co/f8brQUhCnI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001178249540382735",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 425
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000855178942275659",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nakkar7: 💺🎫 https://t.co/f8brQUhCnI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000854766239494144"
+          ]
+        },
+        "author_id": "990587604146925568",
+        "conversation_id": "2000855178942275659",
+        "created_at": "2025-12-16T09:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T10:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000855178942275659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f8brQUhCnI",
+              "end": 26,
+              "expanded_url": "https://x.com/Nakkar7/status/2000855178942275659/photo/1",
+              "media_key": "3_2000854766239494144",
+              "start": 3,
+              "url": "https://t.co/f8brQUhCnI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000855178942275659",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 345,
+          "impression_count": 49514,
+          "like_count": 4687,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 425
+        },
+        "reply_settings": "everyone",
+        "text": "💺🎫 https://t.co/f8brQUhCnI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明\nSignal:nanno64",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PS09"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999088067693654016/sMoxaqQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 511,
+          "like_count": 55887,
+          "listed_count": 5,
+          "media_count": 1991,
+          "tweet_count": 9262
+        },
+        "url": "https://t.co/raYZh1PS09",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-29T13:44:23.000Z",
+        "description": "かわいいイラストレ〜タ〜 ┊SHOP ➭ https://t.co/AAZW8Vxyje ┊FANBOX ➭ https://t.co/YgsKSZVNtu ┊感想とか！ ➭ #かなめなかエゴサ用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 98,
+                "start": 88,
+                "tag": "かなめなかエゴサ用"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "shanshando.booth.pm",
+                "end": 44,
+                "expanded_url": "http://shanshando.booth.pm",
+                "start": 21,
+                "url": "https://t.co/AAZW8Vxyje"
+              },
+              {
+                "display_url": "nakkar7.fanbox.cc",
+                "end": 78,
+                "expanded_url": "https://nakkar7.fanbox.cc/",
+                "start": 55,
+                "url": "https://t.co/YgsKSZVNtu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Nakkar7",
+                "end": 23,
+                "expanded_url": "https://lit.link/Nakkar7",
+                "start": 0,
+                "url": "https://t.co/HcT4NaaKwI"
+              }
+            ]
+          }
+        },
+        "id": "990587604146925568",
+        "location": "休養中です！💤",
+        "name": "かなめなか 2日目西ひ42a",
+        "pinned_tweet_id": "1993271878883196997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970698538691764225/NvaHdUTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69299,
+          "following_count": 203,
+          "like_count": 15992,
+          "listed_count": 660,
+          "media_count": 1016,
+          "tweet_count": 27249
+        },
+        "url": "https://t.co/HcT4NaaKwI",
+        "username": "Nakkar7",
+        "verified": false
+      }
+    ]
+  }
+}

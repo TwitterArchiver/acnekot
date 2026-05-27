@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951628308623605760"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "1951628311987462573",
+    "created_at": "2025-08-02T12:57:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T13:57:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951628311987462573"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 17,
+          "tag": "我的X周年纪念日"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PuYexzcZG0",
+          "end": 50,
+          "expanded_url": "https://x.com/acnekot/status/1951628311987462573/photo/1",
+          "media_key": "3_1951628308623605760",
+          "start": 27,
+          "url": "https://t.co/PuYexzcZG0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951628311987462573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还记得你何时加入 X 吗？我知道！#我的X周年纪念日 https://t.co/PuYexzcZG0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1951628308623605760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxWTm0UbQAA7nFt.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951628308623605760"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "1951628311987462573",
+        "created_at": "2025-08-02T12:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T13:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951628311987462573"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 17,
+              "tag": "我的X周年纪念日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PuYexzcZG0",
+              "end": 50,
+              "expanded_url": "https://x.com/acnekot/status/1951628311987462573/photo/1",
+              "media_key": "3_1951628308623605760",
+              "start": 27,
+              "url": "https://t.co/PuYexzcZG0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951628311987462573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还记得你何时加入 X 吗？我知道！#我的X周年纪念日 https://t.co/PuYexzcZG0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "观察着…你和我",
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871051316312895489/MYVorhms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 420,
+          "like_count": 42432,
+          "listed_count": 3,
+          "media_count": 1841,
+          "tweet_count": 8545
+        },
+        "username": "acnekot",
+        "verified": false
+      }
+    ]
+  }
+}

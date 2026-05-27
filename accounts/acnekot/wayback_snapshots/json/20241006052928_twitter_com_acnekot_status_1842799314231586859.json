@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1778081012594979054",
+    "created_at": "2024-10-06T05:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T06:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842799314231586859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1251112663934885888",
+          "start": 0,
+          "username": "TCMhacker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842799314231586859",
+    "in_reply_to_user_id": "1251112663934885888",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842782202280677380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TCMhacker 玩，仅限于刷插件）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1778081012594979054",
+        "created_at": "2024-10-06T05:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T06:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842799314231586859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1251112663934885888",
+              "start": 0,
+              "username": "TCMhacker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842799314231586859",
+        "in_reply_to_user_id": "1251112663934885888",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842782202280677380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TCMhacker 玩，仅限于刷插件）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1251112663934885888",
+        "conversation_id": "1778081012594979054",
+        "created_at": "2024-10-06T04:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T05:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842782202280677380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842782202280677380",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1778081012594979054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 你也玩越狱的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "Into Nothing.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/acnekot",
+                "end": 23,
+                "expanded_url": "https://bonjour.bio/acnekot",
+                "start": 0,
+                "url": "https://t.co/dihqxxtjTA"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 346,
+          "like_count": 38694,
+          "listed_count": 5,
+          "tweet_count": 7872
+        },
+        "url": "https://t.co/dihqxxtjTA",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-17T11:38:09.000Z",
+        "description": "中医,TCM,伤寒论,经方",
+        "id": "1251112663934885888",
+        "location": "Hong Kong",
+        "name": "TCMhacker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842779601682178048/QxUA_24L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 15,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 9
+        },
+        "username": "TCMhacker",
+        "verified": false
+      }
+    ]
+  }
+}

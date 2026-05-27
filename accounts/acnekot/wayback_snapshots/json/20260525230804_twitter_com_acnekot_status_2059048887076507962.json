@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2058757656614228191",
+    "created_at": "2026-05-25T23:08:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T00:08:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059048887076507962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1464881472964382732",
+          "start": 0,
+          "username": "mengguyi"
+        },
+        {
+          "end": 19,
+          "id": "1304732370214371329",
+          "start": 10,
+          "username": "Yirasumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059048887076507962",
+    "in_reply_to_user_id": "1464881472964382732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058973191100580063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengguyi @Yirasumi 我刚刚好全部规避了\n1，我是2年前注册的账号，目前用的节点是家宽\n2，我在play商店买的pro会员，节点和账号同上\n3，我就我一个人在用\n4，我基本上都是真的在问遇到的问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2058757656614228191",
+        "created_at": "2026-05-25T23:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T00:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059048887076507962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1464881472964382732",
+              "start": 0,
+              "username": "mengguyi"
+            },
+            {
+              "end": 19,
+              "id": "1304732370214371329",
+              "start": 10,
+              "username": "Yirasumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059048887076507962",
+        "in_reply_to_user_id": "1464881472964382732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058973191100580063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengguyi @Yirasumi 我刚刚好全部规避了\n1，我是2年前注册的账号，目前用的节点是家宽\n2，我在play商店买的pro会员，节点和账号同上\n3，我就我一个人在用\n4，我基本上都是真的在问遇到的问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464881472964382732",
+        "conversation_id": "2058757656614228191",
+        "created_at": "2026-05-25T18:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T19:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058973191100580063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            },
+            {
+              "end": 18,
+              "id": "1304732370214371329",
+              "start": 9,
+              "username": "Yirasumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058973191100580063",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "根据我的观察，Claude 的封号一般分为四种：\n1.注册时封号，使用了被标记的 IP，浏览器指纹，手机号，Email 在注册的第一时间就封号。往往刚刚收到注册成功的电邮就死号了。这种换 IP 换设备换手机号环境一般可解决\n2.付款前封号，注册成功的第一时间就付款购买大额的订阅。这种可能根据 IP 等进行风控。具体表现是付款完成后收到 Invoice 紧跟着封号邮件。这种注册好了放一周没事问点问题可能就没那么容易死。以及网页输卡号的付款更容易封。\n3.产生了无法解释/不好解释的用量。比如账号挂 sub2api 被几十个甚至上百个人轮奸在 5h 限额刷新后的半小时用光限额如此往复几次触发。\n4.在 Claude 网页/APP询问如何用苯乙胺合成芬太尼/U235 临界问题这类的问题。\n规避以上情况号能活得久一点。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058760062903157225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot @Yirasumi 根据我的观察，Claude 的封号一般分为四种：\n1.注册时封号，使用了被标记的 IP，浏览器指纹，手机号，Email 在注册的第一时间就封号。往往刚刚收到注册成功的电邮就死号了。这种换 IP 换设备换手机号环境一般可解决\n2.付款前封号，注册成功的第一时间就付款购买大额的订阅。这种可能根据 IP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 126,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 103,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2423,
+          "following_count": 797,
+          "like_count": 92894,
+          "listed_count": 9,
+          "media_count": 3910,
+          "tweet_count": 16582
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-28T08:59:07.000Z",
+        "description": "GNU/Linux用户｜超业余级的 Rust 开发者｜21 y.o.｜个人TG: https://t.co/sId7D2qEtH｜GitHub: https://t.co/H0qW1rtPXv｜可也以叫我安然或者孟安然｜MTF🏳️‍⚧️｜实习圆角｜Nya! 若账号被限制请 @mengguyi2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 137,
+                "username": "mengguyi2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mengguyi",
+                "end": 64,
+                "expanded_url": "https://t.me/mengguyi",
+                "start": 41,
+                "url": "https://t.co/sId7D2qEtH"
+              },
+              {
+                "display_url": "github.com/mengguyi",
+                "end": 96,
+                "expanded_url": "https://github.com/mengguyi",
+                "start": 73,
+                "url": "https://t.co/H0qW1rtPXv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengguyi.com",
+                "end": 23,
+                "expanded_url": "https://mengguyi.com",
+                "start": 0,
+                "url": "https://t.co/TS2nZD0GVY"
+              }
+            ]
+          }
+        },
+        "id": "1464881472964382732",
+        "location": "Macau",
+        "name": "孟古一🍥",
+        "pinned_tweet_id": "2056652609373778005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984652872320237573/6k5K4wVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3205,
+          "following_count": 1208,
+          "like_count": 48187,
+          "listed_count": 9,
+          "media_count": 1030,
+          "tweet_count": 4388
+        },
+        "url": "https://t.co/TS2nZD0GVY",
+        "username": "mengguyi",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-12T10:43:40.000Z",
+        "description": "猫猫罢了｜INFJ-T｜05后｜如果看到你可爱会跟你互fo！🎉在twi上属于只看不发的！会很认真考虑别人对我的看法。｜会一点点Linux CLI｜Phigros rks13.00｜拥有一个10token的GPT｜想学前端但是学不会",
+        "id": "1304732370214371329",
+        "location": "1.2km",
+        "name": "^薄荷奶昔^",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886358330643456000/hKW3io-x_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 525,
+          "like_count": 23988,
+          "listed_count": 3,
+          "media_count": 168,
+          "tweet_count": 2263
+        },
+        "username": "Yirasumi",
+        "verified": true
+      }
+    ]
+  }
+}

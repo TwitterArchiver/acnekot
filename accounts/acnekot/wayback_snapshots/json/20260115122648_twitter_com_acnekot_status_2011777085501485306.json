@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2011467119150747648"
+      ],
+      "media_source_tweet_id": [
+        "2011467135441375370"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899469046054924",
+          "name": "Virtual reality games"
+        }
+      }
+    ],
+    "conversation_id": "2011777085501485306",
+    "created_at": "2026-01-15T12:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T13:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011777085501485306"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 23,
+          "tag": "VRChat"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1318854948264628224",
+          "start": 3,
+          "username": "No_REDruri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kkmvzSLHT9",
+          "end": 54,
+          "expanded_url": "https://x.com/No_REDruri/status/2011467135441375370/photo/1",
+          "media_key": "16_2011467119150747648",
+          "start": 31,
+          "url": "https://t.co/kkmvzSLHT9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011777085501485306",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011467135441375370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @No_REDruri: ﾁｮﾜﾖｰ\n\n#VRChat https://t.co/kkmvzSLHT9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "16_2011467119150747648",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G-oqsApb0AAosqQ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G-oqsApb0AAosqQ.mp4"
+          }
+        ],
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2011467119150747648"
+          ],
+          "media_source_tweet_id": [
+            "2011467135441375370"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2011777085501485306",
+        "created_at": "2026-01-15T12:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T13:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011777085501485306"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 23,
+              "tag": "VRChat"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1318854948264628224",
+              "start": 3,
+              "username": "No_REDruri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kkmvzSLHT9",
+              "end": 54,
+              "expanded_url": "https://x.com/No_REDruri/status/2011467135441375370/photo/1",
+              "media_key": "16_2011467119150747648",
+              "start": 31,
+              "url": "https://t.co/kkmvzSLHT9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011777085501485306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011467135441375370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @No_REDruri: ﾁｮﾜﾖｰ\n\n#VRChat https://t.co/kkmvzSLHT9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2011467119150747648"
+          ]
+        },
+        "author_id": "1318854948264628224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2011467135441375370",
+        "created_at": "2026-01-14T15:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T16:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011467135441375370"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 7,
+              "tag": "VRChat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kkmvzSLHT9",
+              "end": 38,
+              "expanded_url": "https://x.com/No_REDruri/status/2011467135441375370/photo/1",
+              "media_key": "16_2011467119150747648",
+              "start": 15,
+              "url": "https://t.co/kkmvzSLHT9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011467135441375370",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 4413,
+          "like_count": 253,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "ﾁｮﾜﾖｰ\n\n#VRChat https://t.co/kkmvzSLHT9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "到处闲逛的猫ᗜ_ᗜ\n音游爱好者|不鉴证|欢迎和我互动|VRChat|无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n\nいつ終わるかな 意味もないのに",
+        "id": "1552213521253150720",
+        "location": "http://mocat.asia",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 583,
+          "like_count": 67491,
+          "listed_count": 5,
+          "media_count": 2286,
+          "tweet_count": 10249
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-21T10:02:14.000Z",
+        "description": "18↑\n🖤Tiktok→https://t.co/XDLobgiEgg 🪽\n🖤Skeb→https://t.co/kTbHKDdch8 🪽",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/HSioE",
+                "end": 35,
+                "expanded_url": "https://x.gd/HSioE",
+                "start": 12,
+                "url": "https://t.co/XDLobgiEgg"
+              },
+              {
+                "display_url": "x.gd/Z13jD",
+                "end": 67,
+                "expanded_url": "https://x.gd/Z13jD",
+                "start": 44,
+                "url": "https://t.co/kTbHKDdch8"
+              }
+            ]
+          }
+        },
+        "id": "1318854948264628224",
+        "location": "Skebにてロゴ受け付けてます！",
+        "name": "☦︎︎黒羽るり☦︎︎",
+        "pinned_tweet_id": "1944367317401407651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775701123250397184/21oW-6ah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 1299,
+          "like_count": 100546,
+          "listed_count": 11,
+          "media_count": 725,
+          "tweet_count": 10076
+        },
+        "username": "No_REDruri",
+        "verified": false
+      }
+    ]
+  }
+}

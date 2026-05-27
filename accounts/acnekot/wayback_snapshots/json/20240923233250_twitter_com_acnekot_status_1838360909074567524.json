@@ -1,0 +1,523 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "1834588232056770732",
+    "created_at": "2024-09-23T23:32:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T00:32:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838360909074567524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1348709138487005184",
+          "start": 0,
+          "username": "uaidoinsaidabaw"
+        },
+        {
+          "end": 26,
+          "id": "261741721",
+          "start": 17,
+          "username": "maretu01"
+        },
+        {
+          "end": 35,
+          "id": "10228272",
+          "start": 27,
+          "username": "YouTube"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "drive.google.com/file/d/1FwJU6m…",
+          "end": 59,
+          "expanded_url": "https://drive.google.com/file/d/1FwJU6muh9zRdvcCWbcNfH1nLAv0G2JeI/view?usp=sharing",
+          "start": 36,
+          "status": 200,
+          "title": "IMG_1484.MOV",
+          "unwound_url": "https://drive.google.com/file/d/1FwJU6muh9zRdvcCWbcNfH1nLAv0G2JeI/view?usp=sharing",
+          "url": "https://t.co/RZoEldE7ui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838360909074567524",
+    "in_reply_to_user_id": "1348709138487005184",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838257691694625167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uaidoinsaidabaw @maretu01 @YouTube https://t.co/RZoEldE7ui"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1834588232056770732",
+        "created_at": "2024-09-23T23:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T00:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838360909074567524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1348709138487005184",
+              "start": 0,
+              "username": "uaidoinsaidabaw"
+            },
+            {
+              "end": 26,
+              "id": "261741721",
+              "start": 17,
+              "username": "maretu01"
+            },
+            {
+              "end": 35,
+              "id": "10228272",
+              "start": 27,
+              "username": "YouTube"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "drive.google.com/file/d/1FwJU6m…",
+              "end": 59,
+              "expanded_url": "https://drive.google.com/file/d/1FwJU6muh9zRdvcCWbcNfH1nLAv0G2JeI/view?usp=sharing",
+              "start": 36,
+              "status": 200,
+              "title": "IMG_1484.MOV",
+              "unwound_url": "https://drive.google.com/file/d/1FwJU6muh9zRdvcCWbcNfH1nLAv0G2JeI/view?usp=sharing",
+              "url": "https://t.co/RZoEldE7ui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838360909074567524",
+        "in_reply_to_user_id": "1348709138487005184",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838257691694625167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uaidoinsaidabaw @maretu01 @YouTube https://t.co/RZoEldE7ui"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1348709138487005184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1834588232056770732",
+        "created_at": "2024-09-23T16:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T17:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838257691694625167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            },
+            {
+              "end": 18,
+              "id": "261741721",
+              "start": 9,
+              "username": "maretu01"
+            },
+            {
+              "end": 27,
+              "id": "10228272",
+              "start": 19,
+              "username": "YouTube"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838257691694625167",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838169676121325615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot @maretu01 @YouTube Yez please"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "awa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "177404.xyz",
+                "end": 23,
+                "expanded_url": "http://177404.xyz",
+                "start": 0,
+                "url": "https://t.co/Jk6nRkHp3d"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 337,
+          "like_count": 37474,
+          "listed_count": 5,
+          "tweet_count": 7738
+        },
+        "url": "https://t.co/Jk6nRkHp3d",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-11T19:12:01.000Z",
+        "description": "Fan del anime, geometry dash, manga etc...",
+        "id": "1348709138487005184",
+        "name": "uaidoinsaidabaw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768486114627616768/mCsIXDN1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 38,
+          "like_count": 19995,
+          "listed_count": 0,
+          "tweet_count": 2372
+        },
+        "username": "uaidoinsaidabaw",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-06T16:14:35.000Z",
+        "description": "◉YouTube(1) : https://t.co/X4Y3HAMXJ5 ◉YouTube(2) : https://t.co/lx5uIP6TlG ◉FAQ：https://t.co/IycCoZZ0uJ ◉:@maretu00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 107,
+                "username": "maretu00"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "goo.gl/tCJ58E",
+                "end": 37,
+                "expanded_url": "http://goo.gl/tCJ58E",
+                "start": 14,
+                "url": "https://t.co/X4Y3HAMXJ5"
+              },
+              {
+                "display_url": "x.gd/dVl5u",
+                "end": 75,
+                "expanded_url": "https://x.gd/dVl5u",
+                "start": 52,
+                "url": "https://t.co/lx5uIP6TlG"
+              },
+              {
+                "display_url": "maretu01.wixsite.com/mrtclb/about",
+                "end": 104,
+                "expanded_url": "https://maretu01.wixsite.com/mrtclb/about",
+                "start": 81,
+                "url": "https://t.co/IycCoZZ0uJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maretu01.wixsite.com/mrtclb",
+                "end": 23,
+                "expanded_url": "https://maretu01.wixsite.com/mrtclb",
+                "start": 0,
+                "url": "https://t.co/CVIycczvC1"
+              }
+            ]
+          }
+        },
+        "id": "261741721",
+        "location": "◉Mail : maretu01@gmail.com",
+        "name": "MARETU",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793969298836537344/38lp58hQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269366,
+          "following_count": 964,
+          "like_count": 2835,
+          "listed_count": 1087,
+          "tweet_count": 3206
+        },
+        "url": "https://t.co/CVIycczvC1",
+        "username": "maretu01",
+        "verified": false
+      },
+      {
+        "created_at": "2007-11-13T21:43:46.000Z",
+        "description": "like and subscribe.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com",
+                "end": 23,
+                "expanded_url": "http://youtube.com",
+                "start": 0,
+                "url": "https://t.co/bUisN3Y1A6"
+              }
+            ]
+          }
+        },
+        "id": "10228272",
+        "location": "San Bruno, CA",
+        "name": "YouTube",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1427292844612595720/RC1YSvuT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79735943,
+          "following_count": 1169,
+          "like_count": 6218,
+          "listed_count": 79179,
+          "tweet_count": 59480
+        },
+        "url": "https://t.co/bUisN3Y1A6",
+        "username": "YouTube",
+        "verified": true
+      }
+    ]
+  }
+}

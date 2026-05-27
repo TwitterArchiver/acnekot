@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2010680209629155328"
+      ],
+      "media_source_tweet_id": [
+        "2010680250741764190"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2010882653202104722",
+    "created_at": "2026-01-13T01:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T02:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010882653202104722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1307763629089906689",
+          "start": 3,
+          "username": "Leff0127"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9tzjlejwyv",
+          "end": 37,
+          "expanded_url": "https://x.com/Leff0127/status/2010680250741764190/video/1",
+          "media_key": "7_2010680209629155328",
+          "start": 14,
+          "url": "https://t.co/9tzjlejwyv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010882653202104722",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010680250741764190",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Leff0127: https://t.co/9tzjlejwyv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12277,
+        "height": 854,
+        "media_key": "7_2010680209629155328",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2010680209629155328/pu/img/pxU1Ha4IGFMhi_F9.jpg",
+        "public_metrics": {
+          "view_count": 11924
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010680209629155328/pu/vid/avc1/320x568/OsVgjlN228j1a2BN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010680209629155328/pu/vid/avc1/480x854/G8tU1XePrnnrx_eG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2010680209629155328/pu/pl/YyyT5_dE3s-edGap.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2010680209629155328"
+          ],
+          "media_source_tweet_id": [
+            "2010680250741764190"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2010882653202104722",
+        "created_at": "2026-01-13T01:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T02:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010882653202104722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1307763629089906689",
+              "start": 3,
+              "username": "Leff0127"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9tzjlejwyv",
+              "end": 37,
+              "expanded_url": "https://x.com/Leff0127/status/2010680250741764190/video/1",
+              "media_key": "7_2010680209629155328",
+              "start": 14,
+              "url": "https://t.co/9tzjlejwyv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010882653202104722",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010680250741764190",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Leff0127: https://t.co/9tzjlejwyv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2010680209629155328"
+          ]
+        },
+        "author_id": "1307763629089906689",
+        "conversation_id": "2010680250741764190",
+        "created_at": "2026-01-12T11:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T12:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010680250741764190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9tzjlejwyv",
+              "end": 23,
+              "expanded_url": "https://x.com/Leff0127/status/2010680250741764190/video/1",
+              "media_key": "7_2010680209629155328",
+              "start": 0,
+              "url": "https://t.co/9tzjlejwyv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010680250741764190",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 19646,
+          "like_count": 841,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9tzjlejwyv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "到处闲逛的猫ᗜ_ᗜ\n音游爱好者|不鉴证|欢迎和我互动|VRChat|非敌对友好\n非中文使用翻译器 如有错意欢迎指正\n回fo请私信或者留言 不然就是纯随机(笑\nいつ終わるかな 意味もないのに",
+        "id": "1552213521253150720",
+        "location": "http://mocat.asia",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 569,
+          "like_count": 65837,
+          "listed_count": 5,
+          "media_count": 2210,
+          "tweet_count": 10049
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-20T19:28:52.000Z",
+        "description": "឵ ឵ ឵ ឵ ឵ ឵ ឵ ឵ ឵ ឵ ឵ ឵",
+        "id": "1307763629089906689",
+        "location": "󠀀឵ 󠀀឵ 󠀀឵ 󠀀឵ 󠀀឵󠀀឵ 󠀀឵",
+        "name": "឵ ឵ ឵",
+        "pinned_tweet_id": "2006617648587747471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010680604292239360/Y3XR11FY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25581,
+          "following_count": 930,
+          "like_count": 103162,
+          "listed_count": 66,
+          "media_count": 21856,
+          "tweet_count": 105975
+        },
+        "username": "Leff0127",
+        "verified": false
+      }
+    ]
+  }
+}

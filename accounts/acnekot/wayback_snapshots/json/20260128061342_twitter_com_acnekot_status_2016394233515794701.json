@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2016368663713218680",
+    "created_at": "2026-01-28T06:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T07:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016394233515794701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1765421318873481220",
+          "start": 0,
+          "username": "lyn49556"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016394233515794701",
+    "in_reply_to_user_id": "1765421318873481220",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016368663713218680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyn49556 ?"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22380,
+        "height": 448,
+        "media_key": "13_2016368605672415232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016368605672415232/img/1XZ0dL75IXOQTaTr.jpg",
+        "public_metrics": {
+          "view_count": 8498
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016368605672415232/vid/avc1/432x270/RFrmd1S5TbHjayzN.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016368605672415232/vid/avc1/720x448/PDm-6wOcPXat3UY8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016368605672415232/pl/-bdaXSyaAKvHKdxE.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2016368663713218680",
+        "created_at": "2026-01-28T06:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T07:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016394233515794701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1765421318873481220",
+              "start": 0,
+              "username": "lyn49556"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016394233515794701",
+        "in_reply_to_user_id": "1765421318873481220",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016368663713218680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyn49556 ?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016368605672415232"
+          ]
+        },
+        "author_id": "1765421318873481220",
+        "conversation_id": "2016368663713218680",
+        "created_at": "2026-01-28T04:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T05:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016368663713218680"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "ArknightsEndfield",
+              "probability": 0.8943,
+              "start": 8,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 7,
+              "tag": "ArknightsEndfield"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZaVjEladVE",
+              "end": 49,
+              "expanded_url": "https://x.com/lyn49556/status/2016368663713218680/video/1",
+              "media_key": "13_2016368605672415232",
+              "start": 26,
+              "url": "https://t.co/ZaVjEladVE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016368663713218680",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 141,
+          "impression_count": 17300,
+          "like_count": 665,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "Noice\n\n#ArknightsEndfield https://t.co/ZaVjEladVE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者|不鉴证|欢迎和我互动|VRChat|无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語 以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\n\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "tg@nanno_64",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 722,
+          "like_count": 73124,
+          "listed_count": 6,
+          "media_count": 2436,
+          "tweet_count": 11115
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-06T16:57:33.000Z",
+        "description": "All about Gacha, Memes, News, Anime, Etc.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lootbar.gg/shop/Lyn",
+                "end": 23,
+                "expanded_url": "https://lootbar.gg/shop/Lyn",
+                "start": 0,
+                "url": "https://t.co/IBQGxE9Jf9"
+              }
+            ]
+          }
+        },
+        "id": "1765421318873481220",
+        "location": "Tokyo",
+        "name": "lyn",
+        "pinned_tweet_id": "2016116345121960067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873260444502376450/w2bymgpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75440,
+          "following_count": 50,
+          "like_count": 433,
+          "listed_count": 146,
+          "media_count": 4966,
+          "tweet_count": 6741
+        },
+        "url": "https://t.co/IBQGxE9Jf9",
+        "username": "lyn49556",
+        "verified": true
+      }
+    ]
+  }
+}

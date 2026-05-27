@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2035674158496141317",
+    "created_at": "2026-03-22T11:32:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T12:32:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035680899581546912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1222746184592150530",
+          "start": 0,
+          "username": "wulongao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035680899581546912",
+    "in_reply_to_user_id": "1222746184592150530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035674158496141317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wulongao 100%-我不想上学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2035674158496141317",
+        "created_at": "2026-03-22T11:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T12:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035680899581546912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1222746184592150530",
+              "start": 0,
+              "username": "wulongao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035680899581546912",
+        "in_reply_to_user_id": "1222746184592150530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035674158496141317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wulongao 100%-我不想上学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1222746184592150530",
+        "conversation_id": "2035674158496141317",
+        "created_at": "2026-03-22T11:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T12:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035674158496141317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/acnekot/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/acnekot/status/2035603029052080550",
+              "start": 29,
+              "url": "https://t.co/Lkq844gRez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035674158496141317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035603029052080550",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "30%這他媽是什麼\n30%那他媽是什麼\n40%午餐吃什麼 https://t.co/Lkq844gRez"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动\n发言纯依靠我那微薄的知识 如有错意欢迎指正\nあなたと繋いだ それが浮遊感",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1794,
+          "following_count": 787,
+          "like_count": 86980,
+          "listed_count": 6,
+          "media_count": 3202,
+          "tweet_count": 14467
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-30T04:59:49.000Z",
+        "description": "20⬆️｜鯉單推人｜Mandarin, English🉑｜坑雜/我全都吃/凹3刷文人｜按讚吵到你非常抱歉，我很喜歡你的圖｜ 鴿子銜枝之年…",
+        "id": "1222746184592150530",
+        "location": "Taipei City, Taiwan",
+        "name": "gao",
+        "pinned_tweet_id": "1924851945526984741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024587410051629056/sbfA56ON_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 2192,
+          "like_count": 97533,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 23166
+        },
+        "username": "wulongao",
+        "verified": false
+      }
+    ]
+  }
+}

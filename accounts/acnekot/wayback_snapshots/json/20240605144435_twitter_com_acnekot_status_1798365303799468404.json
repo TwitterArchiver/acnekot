@@ -1,0 +1,557 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1797490954385100800"
+      ],
+      "media_source_tweet_id": [
+        "1797490961590940132"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1798365303799468404",
+    "created_at": "2024-06-05T14:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-05T15:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798365303799468404"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 59,
+          "normalized_text": "Arknights",
+          "probability": 0.8938,
+          "start": 51,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "294038797",
+          "start": 3,
+          "username": "nambarimasu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/Jzv5B2jfpn",
+          "end": 133,
+          "expanded_url": "https://twitter.com/nambarimasu/status/1797490961590940132/photo/1",
+          "media_key": "3_1797490954385100800",
+          "start": 110,
+          "url": "https://t.co/Jzv5B2jfpn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798365303799468404",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5149
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797490961590940132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nambarimasu: Happy children's day! i drew this Arknights illustration hoping it'll warm your heart! 🐰💐🌼🌸🌷 https://t.co/Jzv5B2jfpn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1797490954385100800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPH4f98aEAAKMt0.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1797490954385100800"
+          ],
+          "media_source_tweet_id": [
+            "1797490961590940132"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1798365303799468404",
+        "created_at": "2024-06-05T14:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T15:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798365303799468404"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 59,
+              "normalized_text": "Arknights",
+              "probability": 0.8938,
+              "start": 51,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "294038797",
+              "start": 3,
+              "username": "nambarimasu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Jzv5B2jfpn",
+              "end": 133,
+              "expanded_url": "https://twitter.com/nambarimasu/status/1797490961590940132/photo/1",
+              "media_key": "3_1797490954385100800",
+              "start": 110,
+              "url": "https://t.co/Jzv5B2jfpn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798365303799468404",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5149
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797490961590940132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nambarimasu: Happy children's day! i drew this Arknights illustration hoping it'll warm your heart! 🐰💐🌼🌸🌷 https://t.co/Jzv5B2jfpn"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1797490954385100800"
+          ]
+        },
+        "author_id": "294038797",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1797490961590940132",
+        "created_at": "2024-06-03T04:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T05:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797490961590940132"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "Arknights",
+              "probability": 0.8931,
+              "start": 34,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Jzv5B2jfpn",
+              "end": 116,
+              "expanded_url": "https://twitter.com/nambarimasu/status/1797490961590940132/photo/1",
+              "media_key": "3_1797490954385100800",
+              "start": 93,
+              "url": "https://t.co/Jzv5B2jfpn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797490961590940132",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1308,
+          "impression_count": 555358,
+          "like_count": 23895,
+          "quote_count": 36,
+          "reply_count": 99,
+          "retweet_count": 5149
+        },
+        "reply_settings": "everyone",
+        "text": "Happy children's day! i drew this Arknights illustration hoping it'll warm your heart! 🐰💐🌼🌸🌷 https://t.co/Jzv5B2jfpn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "我已然丢失自我",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "A'CID",
+        "pinned_tweet_id": "1774830360578384099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 320,
+          "like_count": 34084,
+          "listed_count": 5,
+          "tweet_count": 7287
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-06T12:33:21.000Z",
+        "description": "I like drawing and a lot of things!!! 日本語勉強中｜https://t.co/n4s1hWRy1q 🌲初個展「Wanderlust」https://t.co/la27kVXnuL 🌲",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "potofu.me/namie",
+                "end": 68,
+                "expanded_url": "https://potofu.me/namie",
+                "start": 45,
+                "url": "https://t.co/n4s1hWRy1q"
+              },
+              {
+                "display_url": "pixiv-waengallery.com/exhibition/nam…",
+                "end": 108,
+                "expanded_url": "https://pixiv-waengallery.com/exhibition/namie_wanderlust/",
+                "start": 85,
+                "url": "https://t.co/la27kVXnuL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "namie.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://namie.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/uDysEcuHt1"
+              }
+            ]
+          }
+        },
+        "id": "294038797",
+        "location": "please don't use my illust",
+        "name": "Namie",
+        "pinned_tweet_id": "1737037710454600150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/3433487594/3fd4d26c8224bb217dfd3e986d81c752_normal.gif",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461865,
+          "following_count": 739,
+          "like_count": 18589,
+          "listed_count": 3263,
+          "tweet_count": 17504
+        },
+        "url": "https://t.co/uDysEcuHt1",
+        "username": "nambarimasu",
+        "verified": true
+      }
+    ]
+  }
+}

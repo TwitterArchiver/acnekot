@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2037456351727927308",
+    "created_at": "2026-03-28T06:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T07:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037775895822471563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1389579464770670593",
+          "start": 0,
+          "username": "lbc93041736"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037775895822471563",
+    "in_reply_to_user_id": "1389579464770670593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037770983545991450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lbc93041736 我觉得还好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2037456351727927308",
+        "created_at": "2026-03-28T06:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T07:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037775895822471563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1389579464770670593",
+              "start": 0,
+              "username": "lbc93041736"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037775895822471563",
+        "in_reply_to_user_id": "1389579464770670593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037770983545991450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lbc93041736 我觉得还好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1389579464770670593",
+        "conversation_id": "2037456351727927308",
+        "created_at": "2026-03-28T05:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T06:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037770983545991450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037770983545991450",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037456351727927308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 看一个测评的说有股中药味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动\n发言纯依靠我那微薄的知识 如有错意欢迎指正\nあなたと繋いだ それが浮遊感",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "距离你0.5KM",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1945,
+          "following_count": 790,
+          "like_count": 87700,
+          "listed_count": 6,
+          "media_count": 3280,
+          "tweet_count": 14695
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-04T13:55:47.000Z",
+        "description": "就当我是个哈士奇，不犯二不拆家老家不是西伯利亚会芜芜的叫，喜欢看点好康的，毕竟是个狗所以有时候不干人事，会叼走东西。喜欢刀。见到什么都先尝尝。因为成精了所以可以吃巧克力等普通狗狗吃不了的食物",
+        "id": "1389579464770670593",
+        "location": "重云斋",
+        "name": "husky-",
+        "pinned_tweet_id": "1628408078956916736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1628007699161165824/G0TNwp4J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 328,
+          "like_count": 97009,
+          "listed_count": 7,
+          "media_count": 1273,
+          "tweet_count": 42576
+        },
+        "username": "lbc93041736",
+        "verified": false
+      }
+    ]
+  }
+}

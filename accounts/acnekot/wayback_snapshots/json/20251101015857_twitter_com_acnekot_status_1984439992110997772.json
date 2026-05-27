@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1984202462430204183",
+    "created_at": "2025-11-01T01:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T02:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984439992110997772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1980199465429725184",
+          "start": 0,
+          "username": "HaruAmamiyaDev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984439992110997772",
+    "in_reply_to_user_id": "1980199465429725184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984202462430204183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaruAmamiyaDev 看起来很赞诶"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 80000,
+        "height": 720,
+        "media_key": "13_1984202356612050944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1984202356612050944/img/SlDWSD1o8pzEnUtx.jpg",
+        "public_metrics": {
+          "view_count": 199
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984202356612050944/vid/avc1/480x270/QIRyGCxoNfm1xowm.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984202356612050944/vid/avc1/640x360/Rvn2_xfmzK6MpOD-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984202356612050944/vid/avc1/1280x720/YH4G0KdR48h5KDNs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1984202356612050944/pl/-s-6RmLopC8CUirY.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1984202462430204183",
+        "created_at": "2025-11-01T01:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T02:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984439992110997772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1980199465429725184",
+              "start": 0,
+              "username": "HaruAmamiyaDev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984439992110997772",
+        "in_reply_to_user_id": "1980199465429725184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984202462430204183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaruAmamiyaDev 看起来很赞诶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1984202356612050944"
+          ]
+        },
+        "author_id": "1980199465429725184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "1984202462430204183",
+        "created_at": "2025-10-31T10:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T11:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984202462430204183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tjYbEVI71J",
+              "end": 77,
+              "expanded_url": "https://x.com/HaruAmamiyaDev/status/1984202462430204183/video/1",
+              "media_key": "13_1984202356612050944",
+              "start": 54,
+              "url": "https://t.co/tjYbEVI71J"
+            },
+            {
+              "display_url": "x.com/HaruAmamiyaDev…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/HaruAmamiyaDev/status/1982379455310921776",
+              "start": 78,
+              "url": "https://t.co/NpR5zr1QJd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984202462430204183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这个原型制作是告一段落了，并不是我对它满意了，而是我作业的ddl到了。虽然不太满意，不过也学到了一些东西。\n\n实际上有了获得陪伴感这个想法之后，最初的设想是能像第三人称的vrchat那样，可以自定义模型和地图，让角色能自由的移动和交互。不过后来之前提到的多媒体课要求建模并做成作品展示，于是就想借着这个机会把自己的想法和作业要求结合起来。\n\n结果就是，在仅是为建模和展示的作业的要求时间内，我需要制作所有的模型，整个前端UI，threejs渲染，shader，以及后端，最后是服务器部署。于是作业迟交了，很多特性也没来得及做。投入在整个项目的时间大概也就4天左右，建模大概占了两天，vibe coding两天。真正的意识到了，无限的想法谁都有，但是在有限的时间内能做到最好才是本事。\n\n这次也是体会到了如何正确的使用vibe coding，因为到后面没有写代码的时间的时候，完全没有脑子去处理AI生成的一段段代码，然后当代码文件越来越多的时候出现各种问题，却很难debug。于是得出了就算是vibe coding也一定要控制好现有的文件以及仔细审查它生成的每一段代码的结论，因为就算是完全不动脑的实现了很多需求，时间久了出问题或者想继续拓展也会无从下手了。\n\n视频放在下面仅供参考，模型因为是自己做的所以有点丑，功能也欠缺打磨。这个原型大概不会在维护了，不过我对陪伴感的高效获得方式还将继续探索。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 920,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982379455310921776",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个原型制作是告一段落了，并不是我对它满意了，而是我作业的ddl到了。虽然不太满意，不过也学到了一些东西。 https://t.co/tjYbEVI71J https://t.co/NpR5zr1QJd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "观察着…你和我\n阶段性活跃",
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974148680497442825/9HN3NUHo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 449,
+          "like_count": 43856,
+          "listed_count": 4,
+          "media_count": 1871,
+          "tweet_count": 8634
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T09:09:01.000Z",
+        "description": "被激情所驱使，被梦想所引导，渴望热爱生活",
+        "id": "1980199465429725184",
+        "name": "雨宮 晴",
+        "pinned_tweet_id": "1981109570388009014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980199806459883520/MtadfAui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 109,
+          "like_count": 600,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 103
+        },
+        "username": "HaruAmamiyaDev",
+        "verified": true
+      }
+    ]
+  }
+}

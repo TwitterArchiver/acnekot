@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1985216408771547433",
+    "created_at": "2025-11-03T06:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T07:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985230934908768296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1581866233225281538",
+          "start": 0,
+          "username": "K1ta_Ikuyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985230934908768296",
+    "in_reply_to_user_id": "1581866233225281538",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985230645971612075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K1ta_Ikuyo hhhhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1985216408771547433",
+        "created_at": "2025-11-03T06:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T07:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985230934908768296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1581866233225281538",
+              "start": 0,
+              "username": "K1ta_Ikuyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985230934908768296",
+        "in_reply_to_user_id": "1581866233225281538",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985230645971612075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K1ta_Ikuyo hhhhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581866233225281538",
+        "conversation_id": "1985216408771547433",
+        "created_at": "2025-11-03T06:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T07:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985230645971612075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985230645971612075",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985217285540524310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 假的，刚刚修好了，现在可以关注了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远",
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984849769211314179/Mzcgzncy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 458,
+          "like_count": 44621,
+          "listed_count": 4,
+          "media_count": 1878,
+          "tweet_count": 8694
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T04:34:43.000Z",
+        "description": "結束バンドのボーカル兼ギタリスト（もう亡くなった）",
+        "id": "1581866233225281538",
+        "location": "Tokyo Japan",
+        "name": "きた いくよ",
+        "pinned_tweet_id": "1937031572701729195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904847516891504640/hVukVI-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10452,
+          "following_count": 2490,
+          "like_count": 31261,
+          "listed_count": 16,
+          "media_count": 841,
+          "tweet_count": 12842
+        },
+        "username": "K1ta_Ikuyo",
+        "verified": false
+      }
+    ]
+  }
+}

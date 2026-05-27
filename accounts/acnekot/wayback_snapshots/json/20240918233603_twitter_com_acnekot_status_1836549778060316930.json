@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1836509292515725721",
+    "created_at": "2024-09-18T23:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T00:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836549778060316930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1429405137198452736",
+          "start": 0,
+          "username": "IshiharaMayi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836549778060316930",
+    "in_reply_to_user_id": "1429405137198452736",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836509292515725721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IshiharaMayi 👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1836509292515725721",
+        "created_at": "2024-09-18T23:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T00:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836549778060316930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429405137198452736",
+              "start": 0,
+              "username": "IshiharaMayi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836549778060316930",
+        "in_reply_to_user_id": "1429405137198452736",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836509292515725721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IshiharaMayi 👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836509289663578112"
+          ]
+        },
+        "author_id": "1429405137198452736",
+        "conversation_id": "1836509292515725721",
+        "created_at": "2024-09-18T20:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T21:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836509292515725721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2evn6vfl2t",
+              "end": 51,
+              "expanded_url": "https://twitter.com/IshiharaMayi/status/1836509292515725721/photo/1",
+              "media_key": "3_1836509289663578112",
+              "start": 28,
+              "url": "https://t.co/2Evn6vfL2t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836509292515725721",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正在清理關注者（\n如果你不想被我清理掉就在這下面留言😢 https://t.co/2Evn6vfL2t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "Break.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "177404.xyz",
+                "end": 23,
+                "expanded_url": "http://177404.xyz",
+                "start": 0,
+                "url": "https://t.co/Jk6nRkHp3d"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 332,
+          "like_count": 37226,
+          "listed_count": 5,
+          "tweet_count": 7688
+        },
+        "url": "https://t.co/Jk6nRkHp3d",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T11:28:44.000Z",
+        "description": "To explore everything with cold rationality... | holder of #bnb #btc\nFriendly to the LGBTQ community🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 59,
+                "tag": "bnb"
+              },
+              {
+                "end": 68,
+                "start": 64,
+                "tag": "btc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "systemspace.top",
+                "end": 23,
+                "expanded_url": "https://systemspace.top",
+                "start": 0,
+                "url": "https://t.co/i5pVuxnmFs"
+              }
+            ]
+          }
+        },
+        "id": "1429405137198452736",
+        "location": "N/A",
+        "name": "IshiharaMayi",
+        "pinned_tweet_id": "1833272111982645399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800166615193104384/ogmmHTVF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7356,
+          "following_count": 942,
+          "like_count": 122847,
+          "listed_count": 34,
+          "tweet_count": 21899
+        },
+        "url": "https://t.co/i5pVuxnmFs",
+        "username": "IshiharaMayi",
+        "verified": true
+      }
+    ]
+  }
+}

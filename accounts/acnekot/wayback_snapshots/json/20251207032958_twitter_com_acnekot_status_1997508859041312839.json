@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1997190035821731978",
+    "created_at": "2025-12-07T03:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T04:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997508859041312839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1442050453194244102",
+          "start": 0,
+          "username": "HfSr_official"
+        },
+        {
+          "end": 30,
+          "id": "1971006655430262784",
+          "start": 15,
+          "username": "FxxkApexLegend"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997508859041312839",
+    "in_reply_to_user_id": "1442050453194244102",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997214836430942303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HfSr_official @FxxkApexLegend 何意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1997190035821731978",
+        "created_at": "2025-12-07T03:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T04:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997508859041312839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1442050453194244102",
+              "start": 0,
+              "username": "HfSr_official"
+            },
+            {
+              "end": 30,
+              "id": "1971006655430262784",
+              "start": 15,
+              "username": "FxxkApexLegend"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997508859041312839",
+        "in_reply_to_user_id": "1442050453194244102",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997214836430942303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HfSr_official @FxxkApexLegend 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442050453194244102",
+        "conversation_id": "1997190035821731978",
+        "created_at": "2025-12-06T08:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T09:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997214836430942303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1971006655430262784",
+              "start": 0,
+              "username": "FxxkApexLegend"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997214836430942303",
+        "in_reply_to_user_id": "1971006655430262784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32037,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997190035821731978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FxxkApexLegend 屁眼(字面意)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明\nSignal:nanno64",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PS09"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984849769211314179/Mzcgzncy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 486,
+          "like_count": 50593,
+          "listed_count": 4,
+          "media_count": 1928,
+          "tweet_count": 8984
+        },
+        "url": "https://t.co/raYZh1PS09",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-26T08:56:58.000Z",
+        "description": "在炎炎国人/希望互关请私信/备用账号:@HfSr_unofficial/仅限熟人小号:@HfSr_hidden/正在与冰霜哥布林@kawaiiangel42散发恋爱的酸臭味😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "HfSr_unofficial"
+              },
+              {
+                "end": 55,
+                "start": 43,
+                "username": "HfSr_hidden"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "kawaiiangel42"
+              }
+            ]
+          }
+        },
+        "id": "1442050453194244102",
+        "location": "/dev/null",
+        "name": "HfSr🇨🇳🇹🇼🇷🇺🇺🇦🇵🇸🇮🇱🇰🇵🇰🇷🇵🇰🇮🇳",
+        "pinned_tweet_id": "1939184333845340312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794946950015660032/uc_vaLVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1671,
+          "following_count": 333,
+          "like_count": 35505,
+          "listed_count": 12,
+          "media_count": 1826,
+          "tweet_count": 25731
+        },
+        "username": "HfSr_official",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T00:19:51.000Z",
+        "description": "17岁，是翎，嗯造两年雌二醇，🇲🇴  MtX💜🖤💛🤍 蓝标是@goldwater8964 送的😁 对象❤️@juhao0721 ☮️和平主义者 🇺🇦🇵🇸 我不关心政治 我只关心活生生的人\n 买💊雌二醇补佳乐色谱龙减肥/促智药物💊找@chosekinoraneko @minokakay作担保😁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "goldwater8964"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "juhao0721"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "chosekinoraneko"
+              },
+              {
+                "end": 142,
+                "start": 132,
+                "username": "minokakay"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apexlegendsstatus.com/profile/PC/Ak1…",
+                "end": 23,
+                "expanded_url": "https://apexlegendsstatus.com/profile/PC/Ak1raComplex",
+                "start": 0,
+                "url": "https://t.co/BKhBrEbyHV"
+              }
+            ]
+          }
+        },
+        "id": "1971006655430262784",
+        "location": "🇲🇴",
+        "name": "🍁🍥翎🍥🍁",
+        "pinned_tweet_id": "1990388232681361811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997192651431727105/bBdkrh9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2629,
+          "following_count": 404,
+          "like_count": 5555,
+          "listed_count": 8,
+          "media_count": 558,
+          "tweet_count": 4741
+        },
+        "url": "https://t.co/BKhBrEbyHV",
+        "username": "FxxkApexLegend",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1815783060090347697",
+    "created_at": "2024-07-24T03:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-24T04:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815947734412894246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "786202276184502272",
+          "start": 0,
+          "username": "520Uki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815947734412894246",
+    "in_reply_to_user_id": "786202276184502272",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815783060090347697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520Uki 👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1815783060090347697",
+        "created_at": "2024-07-24T03:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T04:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815947734412894246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "786202276184502272",
+              "start": 0,
+              "username": "520Uki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815947734412894246",
+        "in_reply_to_user_id": "786202276184502272",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815783060090347697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520Uki 👀"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1815783054117584896"
+          ]
+        },
+        "author_id": "786202276184502272",
+        "conversation_id": "1815783060090347697",
+        "created_at": "2024-07-23T16:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T17:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815783060090347697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/PcUVa3Bs3y",
+              "end": 96,
+              "expanded_url": "https://twitter.com/520Uki/status/1815783060090347697/photo/1",
+              "media_key": "3_1815783054117584896",
+              "start": 73,
+              "url": "https://t.co/PcUVa3Bs3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815783060090347697",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2247,
+          "like_count": 155,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "測試一點東西\n看見本條貼的友友，請盡量互動一下，評論或者點心都可以，謝謝你們\n只是想測試一下自己某個未成形的朦朧想法，暫無實際含義，總之謝謝你們 https://t.co/PcUVa3Bs3y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "真理就是没真理",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "酸·好奇猫a",
+        "pinned_tweet_id": "1774830360578384099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 324,
+          "like_count": 34954,
+          "listed_count": 5,
+          "tweet_count": 7387
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-12T13:50:04.000Z",
+        "description": "｜🥰 鹿鹿 @Yu_moeri_chan｜喵，你說什麼？貓貓不知道耶～｜可愛小洋芋👉 @MoePotatoChan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "Yu_moeri_chan"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "MoePotatoChan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/520Uki",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/520Uki",
+                "start": 0,
+                "url": "https://t.co/ZR2LZTrEE1"
+              }
+            ]
+          }
+        },
+        "id": "786202276184502272",
+        "name": "𝒀𝒖𝒌𝒊. ᡣ𐭩 ( 限定咸蔥版 )",
+        "pinned_tweet_id": "1796617714355909061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801210808430649344/HlDez8AH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 340,
+          "like_count": 27821,
+          "listed_count": 3,
+          "tweet_count": 2848
+        },
+        "url": "https://t.co/ZR2LZTrEE1",
+        "username": "520Uki",
+        "verified": false
+      }
+    ]
+  }
+}

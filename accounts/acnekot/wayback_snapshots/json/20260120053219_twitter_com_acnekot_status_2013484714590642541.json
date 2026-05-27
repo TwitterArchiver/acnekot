@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2013484651206123520"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2013484714590642541",
+    "created_at": "2026-01-20T05:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T06:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013484714590642541"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qQ0oTTGqFB",
+          "end": 31,
+          "expanded_url": "https://x.com/acnekot/status/2013484714590642541/video/1",
+          "media_key": "13_2013484651206123520",
+          "start": 8,
+          "url": "https://t.co/qQ0oTTGqFB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013484714590642541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给我自己写笑了 https://t.co/qQ0oTTGqFB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 72490,
+        "height": 392,
+        "media_key": "13_2013484651206123520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2013484651206123520/img/L6jB_ytTRNPmBUCW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013484651206123520/vid/avc1/286x270/__2Egu5ToB1ZA390.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013484651206123520/vid/avc1/418x392/96ZgXhEWtVPKb_r-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2013484651206123520/pl/vZQ5NI73vAMxMun7.m3u8"
+          }
+        ],
+        "width": 418
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013484651206123520"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2013484714590642541",
+        "created_at": "2026-01-20T05:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T06:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013484714590642541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qQ0oTTGqFB",
+              "end": 31,
+              "expanded_url": "https://x.com/acnekot/status/2013484714590642541/video/1",
+              "media_key": "13_2013484651206123520",
+              "start": 8,
+              "url": "https://t.co/qQ0oTTGqFB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013484714590642541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给我自己写笑了 https://t.co/qQ0oTTGqFB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者|不鉴证|欢迎和我互动|VRChat|无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PkaB"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "tg@nanno_64",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 694,
+          "like_count": 69856,
+          "listed_count": 5,
+          "media_count": 2345,
+          "tweet_count": 10588
+        },
+        "url": "https://t.co/raYZh1PkaB",
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2003415254148202855",
+    "created_at": "2025-12-23T10:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T11:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003416719772336339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "758296624875446272",
+          "start": 0,
+          "username": "ShimonaChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003416719772336339",
+    "in_reply_to_user_id": "758296624875446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003415254148202855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShimonaChan 我当时买了根d5 16g寨条（200块钱），然后出闲鱼卖了想买英睿达的，当我反应过来的时候，价格已经跑到799了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2003415254148202855",
+        "created_at": "2025-12-23T10:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T11:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003416719772336339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "758296624875446272",
+              "start": 0,
+              "username": "ShimonaChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003416719772336339",
+        "in_reply_to_user_id": "758296624875446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003415254148202855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShimonaChan 我当时买了根d5 16g寨条（200块钱），然后出闲鱼卖了想买英睿达的，当我反应过来的时候，价格已经跑到799了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "758296624875446272",
+        "conversation_id": "2003415254148202855",
+        "created_at": "2025-12-23T10:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T11:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003415254148202855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/adityadotdev/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/adityadotdev/status/2003151772412760356",
+              "start": 3,
+              "url": "https://t.co/WGiJJ6JeI7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003415254148202855",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003151772412760356",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "32 https://t.co/WGiJJ6JeI7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明\nSignal:nanno64\nMatrix:@acnekot:https://t.co/F1pslBOfS7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 56,
+                "username": "acnekot"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "matrix.org",
+                "end": 88,
+                "expanded_url": "http://matrix.org",
+                "start": 65,
+                "url": "https://t.co/F1pslBOfS7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PkaB"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999088067693654016/sMoxaqQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 543,
+          "like_count": 59304,
+          "listed_count": 5,
+          "media_count": 2035,
+          "tweet_count": 9458
+        },
+        "url": "https://t.co/raYZh1PkaB",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| CN/EN/JP || Shimona or Rophlis || Banner: おにやまけい 様 || Fragments and Threads from the Void… || #まのさば #ヨグソトースの庭 #NeedyGirlOverdose",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 102,
+                "start": 97,
+                "tag": "まのさば"
+              },
+              {
+                "end": 112,
+                "start": 103,
+                "tag": "ヨグソトースの庭"
+              },
+              {
+                "end": 131,
+                "start": 113,
+                "tag": "NeedyGirlOverdose"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Rophlis",
+        "name": "Shimona@共犯者",
+        "pinned_tweet_id": "2002402464046481696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002699974103175168/DvbZ9cen_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28070,
+          "following_count": 3627,
+          "like_count": 11796,
+          "listed_count": 29,
+          "media_count": 4421,
+          "tweet_count": 30478
+        },
+        "username": "ShimonaChan",
+        "verified": true
+      }
+    ]
+  }
+}

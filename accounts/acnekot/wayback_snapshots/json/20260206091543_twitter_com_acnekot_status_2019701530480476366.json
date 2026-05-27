@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019574317424795648"
+      ],
+      "media_source_tweet_id": [
+        "2019591879982215564"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2019701530480476366",
+    "created_at": "2026-02-06T09:15:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T10:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019701530480476366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845239283382353920",
+          "start": 3,
+          "username": "kuroneko3ai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VTFHjAymm8",
+          "end": 40,
+          "expanded_url": "https://x.com/kuroneko3ai/status/2019591879982215564/photo/1",
+          "media_key": "3_2019574317424795648",
+          "start": 17,
+          "url": "https://t.co/VTFHjAymm8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019701530480476366",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 131
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019591879982215564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuroneko3ai: https://t.co/VTFHjAymm8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2019574317424795648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAb4JDubYAAnF06.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019574317424795648"
+          ],
+          "media_source_tweet_id": [
+            "2019591879982215564"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2019701530480476366",
+        "created_at": "2026-02-06T09:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T10:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019701530480476366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845239283382353920",
+              "start": 3,
+              "username": "kuroneko3ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VTFHjAymm8",
+              "end": 40,
+              "expanded_url": "https://x.com/kuroneko3ai/status/2019591879982215564/photo/1",
+              "media_key": "3_2019574317424795648",
+              "start": 17,
+              "url": "https://t.co/VTFHjAymm8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019701530480476366",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 131
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019591879982215564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuroneko3ai: https://t.co/VTFHjAymm8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019574317424795648"
+          ]
+        },
+        "author_id": "1845239283382353920",
+        "conversation_id": "2019591879982215564",
+        "created_at": "2026-02-06T02:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T03:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019591879982215564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VTFHjAymm8",
+              "end": 23,
+              "expanded_url": "https://x.com/kuroneko3ai/status/2019591879982215564/photo/1",
+              "media_key": "3_2019574317424795648",
+              "start": 0,
+              "url": "https://t.co/VTFHjAymm8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019591879982215564",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 21212,
+          "like_count": 2275,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VTFHjAymm8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語 以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 734,
+          "like_count": 75866,
+          "listed_count": 6,
+          "media_count": 2541,
+          "tweet_count": 11677
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T23:05:25.000Z",
+        "description": "眼鏡好きによる眼鏡好きさんのための眼鏡イラストアカウントです👓\n掲載イラストは生成AI（加筆・修正あり）で作っています。\n実は黒猫さん（@StudioNoGimmick）のサブ垢です",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 68,
+                "username": "StudioNoGimmick"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kuroneko3ai",
+                "end": 23,
+                "expanded_url": "https://lit.link/kuroneko3ai",
+                "start": 0,
+                "url": "https://t.co/TetB5Sh4UG"
+              }
+            ]
+          }
+        },
+        "id": "1845239283382353920",
+        "name": "眼鏡猫さん👓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970272844065157120/BMwG0c2I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12410,
+          "following_count": 598,
+          "like_count": 24781,
+          "listed_count": 116,
+          "media_count": 2794,
+          "tweet_count": 15823
+        },
+        "url": "https://t.co/TetB5Sh4UG",
+        "username": "kuroneko3ai",
+        "verified": true
+      }
+    ]
+  }
+}

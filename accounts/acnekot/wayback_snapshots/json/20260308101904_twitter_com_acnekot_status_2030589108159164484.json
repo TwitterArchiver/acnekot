@@ -1,0 +1,628 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Nico Nico Douga",
+          "id": "1034894313908396037",
+          "name": "Nico Nico Douga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nico Nico Douga",
+          "id": "1034894313908396037",
+          "name": "Nico Nico Douga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2030589108159164484",
+    "created_at": "2026-03-08T10:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T11:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030589108159164484"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "ユレール",
+          "probability": 0.6968,
+          "start": 20,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2778838711",
+          "start": 3,
+          "username": "inabakumori"
+        },
+        {
+          "end": 131,
+          "id": "869526895322292225",
+          "start": 120,
+          "username": "NKNK_NGRMS"
+        }
+      ],
+      "urls": [
+        {
+          "description": "稲葉曇です。20th Anniversary Live「AHS Sensation」 弦巻マキへの書き下ろし楽曲です。20th Anniversa...",
+          "display_url": "nicovideo.jp/watch/sm460337…",
+          "end": 64,
+          "expanded_url": "https://www.nicovideo.jp/watch/sm46033795",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2030584315298353153/cqeDl39G?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2030584315298353153/cqeDl39G?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 41,
+          "status": 200,
+          "title": "稲葉曇『ユレール』Vo. 弦巻マキ",
+          "unwound_url": "https://www.nicovideo.jp/watch/sm46033795",
+          "url": "https://t.co/Wip9ixJJ4e"
+        },
+        {
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "display_url": "youtu.be/2r4W_LoVFxA",
+          "end": 96,
+          "expanded_url": "https://youtu.be/2r4W_LoVFxA",
+          "start": 73,
+          "status": 200,
+          "title": "- YouTube",
+          "unwound_url": "https://www.youtube.com/watch?v=2r4W_LoVFxA&feature=youtu.be",
+          "url": "https://t.co/QEdsZ4sB7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030589108159164484",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 405
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030584308444934222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @inabakumori: 新曲『ユレール』投稿しました\nniconico　https://t.co/Wip9ixJJ4e\nYouTube　https://t.co/QEdsZ4sB7y\n\nボーカル　弦巻マキ\n絵　ぬくぬくにぎりめし @NKNK_NGRMS\n\nBPM137…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35535,
+        "height": 1080,
+        "media_key": "13_2030582023702933504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030582023702933504/img/DQjqw-Va2Z12JYor.jpg",
+        "public_metrics": {
+          "view_count": 1864
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030582023702933504/vid/avc1/480x270/adrikHA65zCVowMc.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030582023702933504/vid/avc1/640x360/e-a6G2I8G4wLcMAm.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030582023702933504/vid/avc1/1280x720/dEtfpqBskcrq3tIo.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030582023702933504/pl/b0ZEkz7GIOoOpAzY.m3u8?tag=14&v=a1d"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2030589108159164484",
+        "created_at": "2026-03-08T10:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T11:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030589108159164484"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "ユレール",
+              "probability": 0.6968,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2778838711",
+              "start": 3,
+              "username": "inabakumori"
+            },
+            {
+              "end": 131,
+              "id": "869526895322292225",
+              "start": 120,
+              "username": "NKNK_NGRMS"
+            }
+          ],
+          "urls": [
+            {
+              "description": "稲葉曇です。20th Anniversary Live「AHS Sensation」 弦巻マキへの書き下ろし楽曲です。20th Anniversa...",
+              "display_url": "nicovideo.jp/watch/sm460337…",
+              "end": 64,
+              "expanded_url": "https://www.nicovideo.jp/watch/sm46033795",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2030584315298353153/cqeDl39G?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2030584315298353153/cqeDl39G?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 41,
+              "status": 200,
+              "title": "稲葉曇『ユレール』Vo. 弦巻マキ",
+              "unwound_url": "https://www.nicovideo.jp/watch/sm46033795",
+              "url": "https://t.co/Wip9ixJJ4e"
+            },
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtu.be/2r4W_LoVFxA",
+              "end": 96,
+              "expanded_url": "https://youtu.be/2r4W_LoVFxA",
+              "start": 73,
+              "status": 200,
+              "title": "- YouTube",
+              "unwound_url": "https://www.youtube.com/watch?v=2r4W_LoVFxA&feature=youtu.be",
+              "url": "https://t.co/QEdsZ4sB7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030589108159164484",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 405
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030584308444934222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @inabakumori: 新曲『ユレール』投稿しました\nniconico　https://t.co/Wip9ixJJ4e\nYouTube　https://t.co/QEdsZ4sB7y\n\nボーカル　弦巻マキ\n絵　ぬくぬくにぎりめし @NKNK_NGRMS\n\nBPM137…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030582023702933504"
+          ]
+        },
+        "author_id": "2778838711",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2030584308444934222",
+        "created_at": "2026-03-08T10:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030584308444934222"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 148,
+              "start": 137,
+              "tag": "vocaloPost"
+            },
+            {
+              "end": 162,
+              "start": 149,
+              "tag": "smsm46033795"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 114,
+              "id": "869526895322292225",
+              "start": 103,
+              "username": "NKNK_NGRMS"
+            }
+          ],
+          "urls": [
+            {
+              "description": "稲葉曇です。20th Anniversary Live「AHS Sensation」 弦巻マキへの書き下ろし楽曲です。20th Anniversa...",
+              "display_url": "nicovideo.jp/watch/sm460337…",
+              "end": 47,
+              "expanded_url": "https://www.nicovideo.jp/watch/sm46033795",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2030584315298353153/cqeDl39G?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2030584315298353153/cqeDl39G?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "稲葉曇『ユレール』Vo. 弦巻マキ",
+              "unwound_url": "https://www.nicovideo.jp/watch/sm46033795",
+              "url": "https://t.co/Wip9ixJJ4e"
+            },
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtu.be/2r4W_LoVFxA",
+              "end": 79,
+              "expanded_url": "https://youtu.be/2r4W_LoVFxA",
+              "start": 56,
+              "status": 200,
+              "title": "- YouTube",
+              "unwound_url": "https://www.youtube.com/watch?v=2r4W_LoVFxA&feature=youtu.be",
+              "url": "https://t.co/QEdsZ4sB7y"
+            },
+            {
+              "display_url": "pic.x.com/c2B0bbEttQ",
+              "end": 186,
+              "expanded_url": "https://x.com/inabakumori/status/2030584308444934222/video/1",
+              "media_key": "13_2030582023702933504",
+              "start": 163,
+              "url": "https://t.co/c2B0bbEttQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030584308444934222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 9953,
+          "like_count": 854,
+          "quote_count": 18,
+          "reply_count": 5,
+          "retweet_count": 405
+        },
+        "reply_settings": "everyone",
+        "text": "新曲『ユレール』投稿しました\nniconico　https://t.co/Wip9ixJJ4e\nYouTube　https://t.co/QEdsZ4sB7y\n\nボーカル　弦巻マキ\n絵　ぬくぬくにぎりめし @NKNK_NGRMS\n\nBPM137です\nよろしくおねがいします\n#vocaloPost #smsm46033795 https://t.co/c2B0bbEttQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度｜好丽友派:@wxb_NB\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好｜同类互关请私信）\n猫喜欢搬点梗图给大伙看看（炫耀\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "wxb_NB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "好奇?哈气!!!这对吗？这对的",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 789,
+          "like_count": 84371,
+          "listed_count": 7,
+          "media_count": 2955,
+          "tweet_count": 13698
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2014-08-29T17:18:25.000Z",
+        "description": "ボカロ音楽 / niconico https://t.co/kTlJMAIuDH / YouTube https://t.co/Bwu3Rn5NNl / Listen https://t.co/7bhPzrJDwH / Goods https://t.co/SGrkWg9KXH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/2BCOswU",
+                "end": 40,
+                "expanded_url": "http://bit.ly/2BCOswU",
+                "start": 17,
+                "url": "https://t.co/kTlJMAIuDH"
+              },
+              {
+                "display_url": "youtube.com/@inabakumori",
+                "end": 74,
+                "expanded_url": "https://www.youtube.com/@inabakumori",
+                "start": 51,
+                "url": "https://t.co/Bwu3Rn5NNl"
+              },
+              {
+                "display_url": "lnk.to/inabakumori",
+                "end": 107,
+                "expanded_url": "http://lnk.to/inabakumori",
+                "start": 84,
+                "url": "https://t.co/7bhPzrJDwH"
+              },
+              {
+                "display_url": "inabakumori.booth.pm",
+                "end": 139,
+                "expanded_url": "https://inabakumori.booth.pm/",
+                "start": 116,
+                "url": "https://t.co/SGrkWg9KXH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inabakumori.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://inabakumori.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/FnfyjLgQNz"
+              }
+            ]
+          }
+        },
+        "id": "2778838711",
+        "name": "稲葉曇",
+        "pinned_tweet_id": "2015726418395553799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1456197874325553152/yZm2O9p2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228431,
+          "following_count": 196,
+          "like_count": 4470,
+          "listed_count": 798,
+          "media_count": 445,
+          "tweet_count": 4145
+        },
+        "url": "https://t.co/FnfyjLgQNz",
+        "username": "inabakumori",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-30T12:12:21.000Z",
+        "description": "ぱっつんジト目がすきです お仕事のご相談はDMかこちら（nknk.ngrms2525@gmail.com）まで",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/nknkngrms",
+                "end": 23,
+                "expanded_url": "https://potofu.me/nknkngrms",
+                "start": 0,
+                "url": "https://t.co/s27gNO21a1"
+              }
+            ]
+          }
+        },
+        "id": "869526895322292225",
+        "location": "リンクなど→",
+        "name": "ぬくぬくにぎりめし",
+        "pinned_tweet_id": "1486285131614601216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1201844098052702208/fF-djNBb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151854,
+          "following_count": 156,
+          "like_count": 7667,
+          "listed_count": 816,
+          "media_count": 59,
+          "tweet_count": 6111
+        },
+        "url": "https://t.co/s27gNO21a1",
+        "username": "NKNK_NGRMS",
+        "verified": true
+      }
+    ]
+  }
+}

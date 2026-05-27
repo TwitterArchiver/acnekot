@@ -1,0 +1,200 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1665226714795081730",
+    "created_at": "2023-06-04T09:33:09.000Z",
+    "edit_controls": {
+      "editable_until": "2023-06-04T10:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1665290584742055936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1538522512392220672",
+          "start": 0,
+          "username": "chuanchuansuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1665290584742055936",
+    "in_reply_to_user_id": "1538522512392220672",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1665226714795081730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuanchuansuki 草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1665226714795081730",
+        "created_at": "2023-06-04T09:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-04T10:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1665290584742055936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1538522512392220672",
+              "start": 0,
+              "username": "chuanchuansuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1665290584742055936",
+        "in_reply_to_user_id": "1538522512392220672",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1665226714795081730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuanchuansuki 草"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1665226711036985344"
+          ]
+        },
+        "author_id": "1538522512392220672",
+        "conversation_id": "1665226714795081730",
+        "created_at": "2023-06-04T05:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-04T05:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1665226714795081730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/MvdvKI3vIT",
+              "end": 34,
+              "expanded_url": "https://twitter.com/chuanchuansuki/status/1665226714795081730/photo/1",
+              "media_key": "3_1665226711036985344",
+              "start": 11,
+              "url": "https://t.co/MvdvKI3vIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1665226714795081730",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 1162,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坏了，被大数据逮捕了 https://t.co/MvdvKI3vIT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "Play Like You Never Did Before.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "acnekot.top",
+                "end": 23,
+                "expanded_url": "http://acnekot.top",
+                "start": 0,
+                "url": "https://t.co/MN9buXYtWy"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Random.",
+        "name": "H₂CO₃",
+        "pinned_tweet_id": "1663597878361849856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662249900996952064/XiboDrFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 217,
+          "listed_count": 1,
+          "tweet_count": 2309
+        },
+        "url": "https://t.co/MN9buXYtWy",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-19T14:02:15.000Z",
+        "description": "无证含糖mtf（HRT2023.2.15）/大龄天赋党/19/167/49 /75a/37码/ENTP/性取向带把就行/纯受/想变成可爱的女孩子/欢迎聊天交友/同类都会回fo的～想要贴贴～/过🚪20➕QQ（支付宝口令红包（女孩子免）/绒布球 @mengxintu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "mengxintu"
+              }
+            ]
+          }
+        },
+        "id": "1538522512392220672",
+        "location": "Amsterdam, The Netherlands",
+        "name": "川川。🏳️‍⚧️",
+        "pinned_tweet_id": "1660500015553609728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657055584909156354/Sc8r9vj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 469,
+          "listed_count": 9,
+          "tweet_count": 1484
+        },
+        "username": "chuanchuansuki",
+        "verified": false
+      }
+    ]
+  }
+}

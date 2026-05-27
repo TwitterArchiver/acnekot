@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1886344924892905736",
+    "created_at": "2025-02-04T08:23:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T09:23:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886691936792404311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1809966416822771712",
+          "start": 0,
+          "username": "fishhccc"
+        },
+        {
+          "end": 18,
+          "id": "1433678976564662273",
+          "start": 10,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886691936792404311",
+    "in_reply_to_user_id": "1809966416822771712",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886432324373360910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fishhccc @hsn8086 awmc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1886344924892905736",
+        "created_at": "2025-02-04T08:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T09:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886691936792404311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809966416822771712",
+              "start": 0,
+              "username": "fishhccc"
+            },
+            {
+              "end": 18,
+              "id": "1433678976564662273",
+              "start": 10,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886691936792404311",
+        "in_reply_to_user_id": "1809966416822771712",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886432324373360910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fishhccc @hsn8086 awmc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886432321735118849"
+          ]
+        },
+        "author_id": "1809966416822771712",
+        "conversation_id": "1886344924892905736",
+        "created_at": "2025-02-03T15:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T16:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886432324373360910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jDH0J01x41",
+              "end": 32,
+              "expanded_url": "https://x.com/fishhccc/status/1886432324373360910/photo/1",
+              "media_key": "3_1886432321735118849",
+              "start": 9,
+              "url": "https://t.co/jDH0J01x41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886432324373360910",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7204,
+          "like_count": 64,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886344924892905736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 https://t.co/jDH0J01x41"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "在忙着给自己改花刀",
+        "id": "1552213521253150720",
+        "location": "THE UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871051316312895489/MYVorhms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 384,
+          "like_count": 40731,
+          "listed_count": 3,
+          "media_count": 1776,
+          "tweet_count": 8253
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T15:03:49.000Z",
+        "description": "08苦逼高中生，破打音游的，偶尔碰两把方舟，不键政，剩下想不出来说什么了，就这样",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/B5qaXk3",
+                "end": 23,
+                "expanded_url": "https://b23.tv/B5qaXk3",
+                "start": 0,
+                "url": "https://t.co/dUdFQqFa80"
+              }
+            ]
+          }
+        },
+        "id": "1809966416822771712",
+        "location": "大都会",
+        "name": "Flower9",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884701538318213120/2KHhrFT4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 252,
+          "like_count": 1083,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 176
+        },
+        "url": "https://t.co/dUdFQqFa80",
+        "username": "fishhccc",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1846240135534596297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35135,
+          "following_count": 905,
+          "like_count": 36490,
+          "listed_count": 96,
+          "media_count": 5829,
+          "tweet_count": 10870
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

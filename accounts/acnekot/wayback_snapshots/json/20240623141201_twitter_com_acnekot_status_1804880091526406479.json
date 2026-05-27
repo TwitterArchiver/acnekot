@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1804563940032266294",
+    "created_at": "2024-06-23T14:12:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T15:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804880091526406479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1775764776230031361",
+          "start": 0,
+          "username": "ADSLK114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804880091526406479",
+    "in_reply_to_user_id": "1775764776230031361",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804563940032266294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ADSLK114 👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1804563940032266294",
+        "created_at": "2024-06-23T14:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T15:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804880091526406479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1775764776230031361",
+              "start": 0,
+              "username": "ADSLK114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804880091526406479",
+        "in_reply_to_user_id": "1775764776230031361",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804563940032266294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ADSLK114 👀"
+      },
+      {
+        "attachments": {},
+        "author_id": "1775764776230031361",
+        "conversation_id": "1804563940032266294",
+        "created_at": "2024-06-22T17:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T18:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804563940032266294"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1804563940032266294",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 14795,
+          "like_count": 168,
+          "quote_count": 0,
+          "reply_count": 200,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🥺想试试抄你们的id和名字，在这个帖回复的我都抄🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "我已然丢失自我",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "A'CID",
+        "pinned_tweet_id": "1774830360578384099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 322,
+          "like_count": 34092,
+          "listed_count": 5,
+          "tweet_count": 7317
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T05:58:23.000Z",
+        "description": "没有r18，有事加神秘代码691189616",
+        "id": "1775764776230031361",
+        "location": "家里蹲",
+        "name": "霜落FrostFall",
+        "pinned_tweet_id": "1785756539422449784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804718037859500032/VWFE8VuI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 150,
+          "like_count": 16,
+          "listed_count": 0,
+          "tweet_count": 94
+        },
+        "username": "ADSLK114",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1837327804519829701",
+    "created_at": "2024-09-21T03:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T04:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837328894824960268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1205505625603465216",
+          "start": 0,
+          "username": "RuYu_6011"
+        },
+        {
+          "end": 22,
+          "id": "1253165636210978817",
+          "start": 11,
+          "username": "Exusiai159"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837328894824960268",
+    "in_reply_to_user_id": "1205505625603465216",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837328322944192840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RuYu_6011 @Exusiai159 感觉应该主要是扩列吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1837327804519829701",
+        "created_at": "2024-09-21T03:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T04:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837328894824960268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1205505625603465216",
+              "start": 0,
+              "username": "RuYu_6011"
+            },
+            {
+              "end": 22,
+              "id": "1253165636210978817",
+              "start": 11,
+              "username": "Exusiai159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837328894824960268",
+        "in_reply_to_user_id": "1205505625603465216",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837328322944192840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RuYu_6011 @Exusiai159 感觉应该主要是扩列吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1205505625603465216",
+        "conversation_id": "1837327804519829701",
+        "created_at": "2024-09-21T03:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T04:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837328322944192840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1253165636210978817",
+              "start": 0,
+              "username": "Exusiai159"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837328322944192840",
+        "in_reply_to_user_id": "1253165636210978817",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837327804519829701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Exusiai159 角色太热门了，都应该有了吧，不如放点冷门的比如说暴雨九色鹿这种（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "Break.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "177404.xyz",
+                "end": 23,
+                "expanded_url": "http://177404.xyz",
+                "start": 0,
+                "url": "https://t.co/Jk6nRkHp3d"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 332,
+          "like_count": 37356,
+          "listed_count": 5,
+          "tweet_count": 7715
+        },
+        "url": "https://t.co/Jk6nRkHp3d",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-13T15:12:03.000Z",
+        "description": "这边是尝试对所有人友好的如雨也可以叫我阿雨，喜欢交朋友，情感也有重度依赖别人…有时会突然发癫发可爱动物，那一定是我把你当做我的好朋友啦www",
+        "id": "1205505625603465216",
+        "name": "如雨",
+        "pinned_tweet_id": "1831491373843018195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828655340230946816/Z88mKnaS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 246,
+          "like_count": 2351,
+          "listed_count": 0,
+          "tweet_count": 1706
+        },
+        "username": "RuYu_6011",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T03:36:01.000Z",
+        "description": "某双非成绩垫底垃圾大学牲，粥批，正太控，能厨，术力口/\n头图来自剧毒的KCN老师/\n⚠️会转发正太黄推🔞，如有介意请不要关注/\n推特用来当日记本和涩涩/\n爱好折腾数码产品/\n痛恨永远学不会的编程和音游/\n鹿野灸一生推/\n拒绝政治歧视仇恨等言论/\n会互fo，除非是键政壬/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Exusiai159",
+                "end": 23,
+                "expanded_url": "https://t.me/Exusiai159",
+                "start": 0,
+                "url": "https://t.co/7uMHbOqbVv"
+              }
+            ]
+          }
+        },
+        "id": "1253165636210978817",
+        "location": "炎國 龍門 企鵝物流",
+        "name": "一只能天使（绝赞减重中⬇️）",
+        "pinned_tweet_id": "1830324266199601483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837130973684846596/GXas0mvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2901,
+          "following_count": 3165,
+          "like_count": 50306,
+          "listed_count": 10,
+          "tweet_count": 17204
+        },
+        "url": "https://t.co/7uMHbOqbVv",
+        "username": "Exusiai159",
+        "verified": false
+      }
+    ]
+  }
+}

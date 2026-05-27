@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1839314120899965289",
+    "created_at": "2024-09-26T14:40:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-26T15:40:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1839314120899965289"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/acnekot/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/acnekot/status/1836273025039380606",
+          "start": 8,
+          "url": "https://t.co/uxcGh0YBa5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839314120899965289",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836273025039380606",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最新消息，断了 https://t.co/uxcGh0YBa5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1839314120899965289",
+        "created_at": "2024-09-26T14:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T15:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839314120899965289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/acnekot/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/acnekot/status/1836273025039380606",
+              "start": 8,
+              "url": "https://t.co/uxcGh0YBa5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839314120899965289",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836273025039380606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最新消息，断了 https://t.co/uxcGh0YBa5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836273013697970176"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "1836273025039380606",
+        "created_at": "2024-09-18T05:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T06:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836273025039380606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4k5bpzyxei",
+              "end": 46,
+              "expanded_url": "https://twitter.com/acnekot/status/1836273025039380606/photo/1",
+              "media_key": "3_1836273013697970176",
+              "start": 23,
+              "url": "https://t.co/4K5BPzyXeI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836273025039380606",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是很懂这种容易损坏的设计，换个其他的也好啊 https://t.co/4K5BPzyXeI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "awa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/acnekot",
+                "end": 23,
+                "expanded_url": "https://bonjour.bio/acnekot",
+                "start": 0,
+                "url": "https://t.co/dihqxxtjTA"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 342,
+          "like_count": 37834,
+          "listed_count": 5,
+          "tweet_count": 7783
+        },
+        "url": "https://t.co/dihqxxtjTA",
+        "username": "acnekot",
+        "verified": false
+      }
+    ]
+  }
+}

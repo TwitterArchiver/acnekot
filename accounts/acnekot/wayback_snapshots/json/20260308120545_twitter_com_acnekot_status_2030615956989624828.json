@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2030615956989624828",
+    "created_at": "2026-03-08T12:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T13:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030615956989624828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1451053796549857282",
+          "start": 3,
+          "username": "SparrowHe"
+        },
+        {
+          "end": 29,
+          "id": "1759787246587379712",
+          "start": 15,
+          "username": "Luckilyzixaun"
+        },
+        {
+          "end": 38,
+          "id": "1552213521253150720",
+          "start": 30,
+          "username": "acnekot"
+        }
+      ],
+      "urls": [
+        {
+          "description": "之前了解到移动安全之后陆续看了各个平台的soc的安全漏洞，包括mtk unisoc qualcomm kirin 还有apple的一些经典漏洞。在说qualcomm之前我先把之前一点点微小的工作总结一下吧。 然后我是研究了kirin的bootrom复现了checkm30，然后在别人的帮助下搞定了新批",
+          "display_url": "cnblogs.com/hicode002/p/19…",
+          "end": 71,
+          "expanded_url": "https://www.cnblogs.com/hicode002/p/19643843",
+          "start": 48,
+          "title": "对高通启动链的一点研究 - hicode002 - 博客园",
+          "unwound_url": "https://www.cnblogs.com/hicode002/p/19643843",
+          "url": "https://t.co/5w5cUPvn6h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030615956989624828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030615786122043664",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SparrowHe: @Luckilyzixaun @acnekot 更具体的分析在：\nhttps://t.co/5w5cUPvn6h"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2030615956989624828",
+        "created_at": "2026-03-08T12:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T13:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030615956989624828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1451053796549857282",
+              "start": 3,
+              "username": "SparrowHe"
+            },
+            {
+              "end": 29,
+              "id": "1759787246587379712",
+              "start": 15,
+              "username": "Luckilyzixaun"
+            },
+            {
+              "end": 38,
+              "id": "1552213521253150720",
+              "start": 30,
+              "username": "acnekot"
+            }
+          ],
+          "urls": [
+            {
+              "description": "之前了解到移动安全之后陆续看了各个平台的soc的安全漏洞，包括mtk unisoc qualcomm kirin 还有apple的一些经典漏洞。在说qualcomm之前我先把之前一点点微小的工作总结一下吧。 然后我是研究了kirin的bootrom复现了checkm30，然后在别人的帮助下搞定了新批",
+              "display_url": "cnblogs.com/hicode002/p/19…",
+              "end": 71,
+              "expanded_url": "https://www.cnblogs.com/hicode002/p/19643843",
+              "start": 48,
+              "title": "对高通启动链的一点研究 - hicode002 - 博客园",
+              "unwound_url": "https://www.cnblogs.com/hicode002/p/19643843",
+              "url": "https://t.co/5w5cUPvn6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030615956989624828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030615786122043664",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SparrowHe: @Luckilyzixaun @acnekot 更具体的分析在：\nhttps://t.co/5w5cUPvn6h"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1451053796549857282",
+        "conversation_id": "2030545716301778997",
+        "created_at": "2026-03-08T12:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T13:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030615786122043664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1759787246587379712",
+              "start": 0,
+              "username": "Luckilyzixaun"
+            },
+            {
+              "end": 23,
+              "id": "1552213521253150720",
+              "start": 15,
+              "username": "acnekot"
+            }
+          ],
+          "urls": [
+            {
+              "description": "之前了解到移动安全之后陆续看了各个平台的soc的安全漏洞，包括mtk unisoc qualcomm kirin 还有apple的一些经典漏洞。在说qualcomm之前我先把之前一点点微小的工作总结一下吧。 然后我是研究了kirin的bootrom复现了checkm30，然后在别人的帮助下搞定了新批",
+              "display_url": "cnblogs.com/hicode002/p/19…",
+              "end": 56,
+              "expanded_url": "https://www.cnblogs.com/hicode002/p/19643843",
+              "start": 33,
+              "title": "对高通启动链的一点研究 - hicode002 - 博客园",
+              "unwound_url": "https://www.cnblogs.com/hicode002/p/19643843",
+              "url": "https://t.co/5w5cUPvn6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030615786122043664",
+        "in_reply_to_user_id": "1759787246587379712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030549606975803761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luckilyzixaun @acnekot 更具体的分析在：\nhttps://t.co/5w5cUPvn6h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度｜好丽友派:@wxb_NB\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好｜同类互关请私信）\n猫喜欢搬点梗图给大伙看看（炫耀\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "wxb_NB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "好奇?哈气!!!这对吗？这对的",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 789,
+          "like_count": 84392,
+          "listed_count": 7,
+          "media_count": 2956,
+          "tweet_count": 13710
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-21T05:12:45.000Z",
+        "description": "🚆/🛫/📻KO6BHN/💻/🎮/🐱 | Languages: CN/EN | Coding | @YANTEOXCY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "YANTEOXCY"
+              }
+            ]
+          }
+        },
+        "id": "1451053796549857282",
+        "location": "P223 | 122.9 MHz | GND-7800M",
+        "name": "Sparrow He➡️毛了个毛",
+        "pinned_tweet_id": "1689108775901519872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1524979053048266753/OhIl5Qhc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 553,
+          "like_count": 1892,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 1965
+        },
+        "username": "SparrowHe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "MTF｜INFP｜09 English/日本語/简繁中文 \nXiaomi Promoter UTC+8\n独立思考，明辨是非｜\n做自己而不是解释自己｜\n真诚是必杀技｜\n专注次元产品经理、公关部总经理｜数码玩家、乐子人、社会民主主义、自由派",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mi.com",
+                "end": 23,
+                "expanded_url": "http://mi.com",
+                "start": 0,
+                "url": "https://t.co/8NnopKeAgF"
+              }
+            ]
+          }
+        },
+        "id": "1759787246587379712",
+        "location": "IP 属地:沙特阿拉伯",
+        "name": "夏日重现🍥",
+        "pinned_tweet_id": "2030231432388599814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027376561813594113/GHdKm-Dy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 927,
+          "like_count": 998,
+          "listed_count": 5,
+          "media_count": 129,
+          "tweet_count": 606
+        },
+        "url": "https://t.co/8NnopKeAgF",
+        "username": "Luckilyzixaun",
+        "verified": false
+      }
+    ]
+  }
+}

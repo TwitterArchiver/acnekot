@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1843147172168306975",
+    "created_at": "2024-10-07T18:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T19:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843354426675003708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1673364955171782657",
+          "start": 0,
+          "username": "kxk1388574"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843354426675003708",
+    "in_reply_to_user_id": "1673364955171782657",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843147172168306975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kxk1388574 awo？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1843147172168306975",
+        "created_at": "2024-10-07T18:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T19:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843354426675003708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1673364955171782657",
+              "start": 0,
+              "username": "kxk1388574"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843354426675003708",
+        "in_reply_to_user_id": "1673364955171782657",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843147172168306975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kxk1388574 awo？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843147168842215425"
+          ]
+        },
+        "author_id": "1673364955171782657",
+        "conversation_id": "1843147172168306975",
+        "created_at": "2024-10-07T04:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T05:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843147172168306975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yXOzPvsf38",
+              "end": 27,
+              "expanded_url": "https://x.com/kxk1388574/status/1843147172168306975/photo/1",
+              "media_key": "3_1843147168842215425",
+              "start": 4,
+              "url": "https://t.co/yXOzPvsf38"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843147172168306975",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 39367,
+          "like_count": 602,
+          "quote_count": 6,
+          "reply_count": 100,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "我妈↓ https://t.co/yXOzPvsf38"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "awa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/acnekot",
+                "end": 23,
+                "expanded_url": "https://bonjour.bio/acnekot",
+                "start": 0,
+                "url": "https://t.co/dihqxxtjTA"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 347,
+          "like_count": 38850,
+          "listed_count": 5,
+          "tweet_count": 7905
+        },
+        "url": "https://t.co/dihqxxtjTA",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "你在看咱的主页对吧！那就给我个关注，我会送一杯🍋茶",
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "kxk🍋",
+        "pinned_tweet_id": "1805204776810168386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 470,
+          "like_count": 4570,
+          "listed_count": 2,
+          "tweet_count": 779
+        },
+        "username": "kxk1388574",
+        "verified": false
+      }
+    ]
+  }
+}

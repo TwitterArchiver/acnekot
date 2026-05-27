@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010321209737768960"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2010321222505308669",
+    "created_at": "2026-01-11T12:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T13:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010321222505308669"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lxsrz1Cf5o",
+          "end": 27,
+          "expanded_url": "https://x.com/acnekot/status/2010321222505308669/photo/1",
+          "media_key": "3_2010321209737768960",
+          "start": 4,
+          "url": "https://t.co/lxsrz1Cf5o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010321222505308669",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上机😋 https://t.co/lxsrz1Cf5o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2010321209737768960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-YYfTbacAAcJQl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010321209737768960"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2010321222505308669",
+        "created_at": "2026-01-11T12:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T13:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010321222505308669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lxsrz1Cf5o",
+              "end": 27,
+              "expanded_url": "https://x.com/acnekot/status/2010321222505308669/photo/1",
+              "media_key": "3_2010321209737768960",
+              "start": 4,
+              "url": "https://t.co/lxsrz1Cf5o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010321222505308669",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上机😋 https://t.co/lxsrz1Cf5o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "到处闲逛的猫ᗜ_ᗜ\n音游爱好者|不鉴证|欢迎和我互动|VRChat\n非中文使用翻译器 如有错意欢迎指正\nいつ終わるかな 意味もないのに",
+        "id": "1552213521253150720",
+        "location": "http://mocat.asia",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 581,
+          "like_count": 65111,
+          "listed_count": 5,
+          "media_count": 2180,
+          "tweet_count": 9946
+        },
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1831151645058859189",
+    "created_at": "2024-09-04T15:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-04T16:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831352063156273558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1286152429965160448",
+          "start": 0,
+          "username": "ckyf1134"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831352063156273558",
+    "in_reply_to_user_id": "1286152429965160448",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831151645058859189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ckyf1134 祝君安好"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1831151645058859189].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1831151645058859189",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1831151645058859189"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1831151645058859189",
+        "created_at": "2024-09-04T15:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T16:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831352063156273558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1286152429965160448",
+              "start": 0,
+              "username": "ckyf1134"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831352063156273558",
+        "in_reply_to_user_id": "1286152429965160448",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831151645058859189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ckyf1134 祝君安好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "只做自己开心的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "177404.xyz",
+                "end": 23,
+                "expanded_url": "http://177404.xyz",
+                "start": 0,
+                "url": "https://t.co/Jk6nRkHp3d"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 330,
+          "like_count": 36760,
+          "listed_count": 5,
+          "tweet_count": 7628
+        },
+        "url": "https://t.co/Jk6nRkHp3d",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T04:13:40.000Z",
+        "description": "沃尔玛购物袋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lianfanqiyu.icu",
+                "end": 23,
+                "expanded_url": "http://lianfanqiyu.icu",
+                "start": 0,
+                "url": "https://t.co/rKH9wLs9jf"
+              }
+            ]
+          }
+        },
+        "id": "1286152429965160448",
+        "location": "Sweet Dream",
+        "name": "涟帆祈雨",
+        "pinned_tweet_id": "1823046780977823908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825827100122820610/bSt7SAyq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 121,
+          "like_count": 31019,
+          "listed_count": 0,
+          "tweet_count": 1438
+        },
+        "url": "https://t.co/rKH9wLs9jf",
+        "username": "ckyf1134",
+        "verified": false
+      }
+    ]
+  }
+}

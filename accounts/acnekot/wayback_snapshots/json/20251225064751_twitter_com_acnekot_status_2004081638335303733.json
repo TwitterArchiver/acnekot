@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2003878937798296000",
+    "created_at": "2025-12-25T06:47:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T07:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004081638335303733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1251721968958582784",
+          "start": 0,
+          "username": "MacchiatoFika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004081638335303733",
+    "in_reply_to_user_id": "1251721968958582784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003878937798296000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MacchiatoFika 圣诞节快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2003878937798296000",
+        "created_at": "2025-12-25T06:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T07:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004081638335303733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1251721968958582784",
+              "start": 0,
+              "username": "MacchiatoFika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004081638335303733",
+        "in_reply_to_user_id": "1251721968958582784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003878937798296000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MacchiatoFika 圣诞节快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1251721968958582784",
+        "conversation_id": "2003878937798296000",
+        "created_at": "2025-12-24T17:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T18:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003878937798296000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003878937798296000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "圣诞节快乐喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明\nSignal:nanno64\nMatrix:@acnekot:https://t.co/F1pslBOfS7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 56,
+                "username": "acnekot"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "matrix.org",
+                "end": 88,
+                "expanded_url": "http://matrix.org",
+                "start": 65,
+                "url": "https://t.co/F1pslBOfS7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PkaB"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999088067693654016/sMoxaqQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 549,
+          "like_count": 60305,
+          "listed_count": 5,
+          "media_count": 2052,
+          "tweet_count": 9541
+        },
+        "url": "https://t.co/raYZh1PkaB",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-19T03:59:27.000Z",
+        "description": "Fragmented.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MacchiatoFika",
+                "end": 23,
+                "expanded_url": "https://t.me/MacchiatoFika",
+                "start": 0,
+                "url": "https://t.co/DvR9acHRuQ"
+              }
+            ]
+          }
+        },
+        "id": "1251721968958582784",
+        "location": "N/A",
+        "name": "Fika✨",
+        "pinned_tweet_id": "1881674970847424596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980170177934155776/5md61nKV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7330,
+          "following_count": 778,
+          "like_count": 39848,
+          "listed_count": 30,
+          "media_count": 1989,
+          "tweet_count": 8380
+        },
+        "url": "https://t.co/DvR9acHRuQ",
+        "username": "MacchiatoFika",
+        "verified": false
+      }
+    ]
+  }
+}

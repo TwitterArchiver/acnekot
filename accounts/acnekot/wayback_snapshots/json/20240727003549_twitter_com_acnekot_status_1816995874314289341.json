@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1816995864164048896"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1816995874314289341",
+    "created_at": "2024-07-27T00:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T01:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1816995874314289341"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 24,
+          "tag": "我的Twitter週年紀念日"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/gaHZ9AvSD3",
+          "end": 63,
+          "expanded_url": "https://twitter.com/acnekot/status/1816995874314289341/photo/1",
+          "media_key": "3_1816995864164048896",
+          "start": 40,
+          "url": "https://t.co/gaHZ9AvSD3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816995874314289341",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "記得你是何時加入 Twitter 的嗎？我記得！#我的Twitter週年紀念日 https://t.co/gaHZ9AvSD3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1816995864164048896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GTdEHJHaIAAwrY5.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1816995864164048896"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1816995874314289341",
+        "created_at": "2024-07-27T00:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T01:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816995874314289341"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 24,
+              "tag": "我的Twitter週年紀念日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/gaHZ9AvSD3",
+              "end": 63,
+              "expanded_url": "https://twitter.com/acnekot/status/1816995874314289341/photo/1",
+              "media_key": "3_1816995864164048896",
+              "start": 40,
+              "url": "https://t.co/gaHZ9AvSD3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816995874314289341",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "記得你是何時加入 Twitter 的嗎？我記得！#我的Twitter週年紀念日 https://t.co/gaHZ9AvSD3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "真理就是没真理",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "酸·好奇猫a",
+        "pinned_tweet_id": "1774830360578384099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 322,
+          "like_count": 35097,
+          "listed_count": 5,
+          "tweet_count": 7405
+        },
+        "username": "acnekot",
+        "verified": false
+      }
+    ]
+  }
+}

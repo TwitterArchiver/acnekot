@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2024959541209702400"
+      ],
+      "media_source_tweet_id": [
+        "2024959584071246061"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025401812883570850",
+    "created_at": "2026-02-22T02:46:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T03:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025401812883570850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1727722368284442624",
+          "start": 3,
+          "username": "Tia_Marocas"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IcADbZ0igt",
+          "end": 51,
+          "expanded_url": "https://x.com/Tia_Marocas/status/2024959584071246061/video/1",
+          "media_key": "7_2024959541209702400",
+          "start": 28,
+          "url": "https://t.co/IcADbZ0igt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025401812883570850",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5180
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024959584071246061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tia_Marocas: Good night https://t.co/IcADbZ0igt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28376,
+        "height": 1280,
+        "media_key": "7_2024959541209702400",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2024959541209702400/pu/img/JUm3dPmGXJb2NTUl.jpg",
+        "public_metrics": {
+          "view_count": 335628
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024959541209702400/pu/vid/avc1/320x568/vA2GY4Ctd4NMCibX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024959541209702400/pu/vid/avc1/480x852/u6vftDWdZ7LlvvLe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2024959541209702400/pu/vid/avc1/720x1280/Bs4pIctTZ_8NRddm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2024959541209702400/pu/pl/S91PXc0kX8X-zlQl.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2024959541209702400"
+          ],
+          "media_source_tweet_id": [
+            "2024959584071246061"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025401812883570850",
+        "created_at": "2026-02-22T02:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T03:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025401812883570850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1727722368284442624",
+              "start": 3,
+              "username": "Tia_Marocas"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IcADbZ0igt",
+              "end": 51,
+              "expanded_url": "https://x.com/Tia_Marocas/status/2024959584071246061/video/1",
+              "media_key": "7_2024959541209702400",
+              "start": 28,
+              "url": "https://t.co/IcADbZ0igt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025401812883570850",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5180
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024959584071246061",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tia_Marocas: Good night https://t.co/IcADbZ0igt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2024959541209702400"
+          ]
+        },
+        "author_id": "1727722368284442624",
+        "conversation_id": "2024959584071246061",
+        "created_at": "2026-02-20T21:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T22:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024959584071246061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IcADbZ0igt",
+              "end": 34,
+              "expanded_url": "https://x.com/Tia_Marocas/status/2024959584071246061/video/1",
+              "media_key": "7_2024959541209702400",
+              "start": 11,
+              "url": "https://t.co/IcADbZ0igt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024959584071246061",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3961,
+          "impression_count": 660309,
+          "like_count": 31592,
+          "quote_count": 209,
+          "reply_count": 39,
+          "retweet_count": 5180
+        },
+        "reply_settings": "everyone",
+        "text": "Good night https://t.co/IcADbZ0igt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94kyF"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 779,
+          "like_count": 80680,
+          "listed_count": 6,
+          "media_count": 2723,
+          "tweet_count": 12638
+        },
+        "url": "https://t.co/HEkBb94kyF",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-23T16:15:01.000Z",
+        "description": "Posto tudo que acho engraçado, pode até não ser às vezes...\nSialata Lendária ✨🌸\n\n(Página gerida por gatos estranhos)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/uxaJA5G67Q",
+                "end": 23,
+                "expanded_url": "https://discord.gg/uxaJA5G67Q",
+                "start": 0,
+                "url": "https://t.co/ghA7G5Shfk"
+              }
+            ]
+          }
+        },
+        "id": "1727722368284442624",
+        "location": "Ela, Dela",
+        "name": "Tia Marocas 💖🌈",
+        "pinned_tweet_id": "1965145408977637597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021199825807794176/cJGC4IRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7369,
+          "following_count": 1375,
+          "like_count": 30930,
+          "listed_count": 12,
+          "media_count": 5183,
+          "tweet_count": 17410
+        },
+        "url": "https://t.co/ghA7G5Shfk",
+        "username": "Tia_Marocas",
+        "verified": false
+      }
+    ]
+  }
+}

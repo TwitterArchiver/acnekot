@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2010321678639964519",
+    "created_at": "2026-01-13T06:20:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T07:20:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010960180885012947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1554997800030461952",
+          "start": 0,
+          "username": "Plne7_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010960180885012947",
+    "in_reply_to_user_id": "1554997800030461952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010960016149475549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Plne7_ 期待~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2010321678639964519",
+        "created_at": "2026-01-13T06:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T07:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010960180885012947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1554997800030461952",
+              "start": 0,
+              "username": "Plne7_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010960180885012947",
+        "in_reply_to_user_id": "1554997800030461952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010960016149475549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Plne7_ 期待~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554997800030461952",
+        "conversation_id": "2010321678639964519",
+        "created_at": "2026-01-13T06:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T07:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010960016149475549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010960016149475549",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010510998193758341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 等我今晚写一篇推分析一下他的源码"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "到处闲逛的猫ᗜ_ᗜ\n音游爱好者|不鉴证|欢迎和我互动|VRChat|无敌对友好\n非中文使用翻译器 如有错意欢迎指正\n\nいつ終わるかな 意味もないのに",
+        "id": "1552213521253150720",
+        "location": "http://mocat.asia",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 568,
+          "like_count": 65962,
+          "listed_count": 5,
+          "media_count": 2219,
+          "tweet_count": 10079
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-04T01:09:29.000Z",
+        "description": "$BTC Holder｜Macro&Crypto｜Artificial Intelligence",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "BTC"
+              }
+            ]
+          }
+        },
+        "id": "1554997800030461952",
+        "name": "Vincent7",
+        "pinned_tweet_id": "2001857329327935531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997116616837156866/4G1jZnZc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 1679,
+          "like_count": 41189,
+          "listed_count": 4,
+          "media_count": 146,
+          "tweet_count": 1908
+        },
+        "username": "Plne7_",
+        "verified": true
+      }
+    ]
+  }
+}

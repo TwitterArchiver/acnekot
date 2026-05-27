@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968895082603626496"
+      ],
+      "media_source_tweet_id": [
+        "1968895107173609965"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1969562262412411341",
+    "created_at": "2025-09-21T00:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T01:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969562262412411341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1452113789869039617",
+          "start": 3,
+          "username": "wang_eth"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cRNu223Knl",
+          "end": 63,
+          "expanded_url": "https://x.com/wang_eth/status/1968895107173609965/photo/1",
+          "media_key": "3_1968895082603626496",
+          "start": 40,
+          "url": "https://t.co/cRNu223Knl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969562262412411341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 455
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968895107173609965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wang_eth: 好消息：到货了\n坏消息：太丑了\n中立消息：抽奖送了 https://t.co/cRNu223Knl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1968895082603626496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1LrpV6aQAAH6-2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968895082603626496"
+          ],
+          "media_source_tweet_id": [
+            "1968895107173609965"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1969562262412411341",
+        "created_at": "2025-09-21T00:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T01:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969562262412411341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1452113789869039617",
+              "start": 3,
+              "username": "wang_eth"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cRNu223Knl",
+              "end": 63,
+              "expanded_url": "https://x.com/wang_eth/status/1968895107173609965/photo/1",
+              "media_key": "3_1968895082603626496",
+              "start": 40,
+              "url": "https://t.co/cRNu223Knl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969562262412411341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 455
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968895107173609965",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wang_eth: 好消息：到货了\n坏消息：太丑了\n中立消息：抽奖送了 https://t.co/cRNu223Knl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968895082603626496"
+          ]
+        },
+        "author_id": "1452113789869039617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1968895107173609965",
+        "created_at": "2025-09-19T04:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T05:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968895107173609965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cRNu223Knl",
+              "end": 49,
+              "expanded_url": "https://x.com/wang_eth/status/1968895107173609965/photo/1",
+              "media_key": "3_1968895082603626496",
+              "start": 26,
+              "url": "https://t.co/cRNu223Knl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968895107173609965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 528741,
+          "like_count": 3243,
+          "quote_count": 11,
+          "reply_count": 1655,
+          "retweet_count": 455
+        },
+        "reply_settings": "everyone",
+        "text": "好消息：到货了\n坏消息：太丑了\n中立消息：抽奖送了 https://t.co/cRNu223Knl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "观察着…你和我\n阶段性活跃",
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959146572509585410/oQKcE1aJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 441,
+          "like_count": 43102,
+          "listed_count": 4,
+          "media_count": 1862,
+          "tweet_count": 8596
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T03:24:54.000Z",
+        "description": "入群小助理：PD123456V ｜月费｜年费｜入群需自我介绍｜不必盲从｜时间有限｜心境｜确定性机会｜懒人勿近｜入群链接｜https://t.co/iDM67uoxCy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/McDonalds1990",
+                "end": 83,
+                "expanded_url": "https://bit.ly/McDonalds1990",
+                "start": 60,
+                "url": "https://t.co/iDM67uoxCy"
+              }
+            ]
+          }
+        },
+        "id": "1452113789869039617",
+        "location": "West New York, NJ",
+        "name": "一颗小青菜.｜KFCDAO",
+        "pinned_tweet_id": "1884054352253575498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868284219455385602/hVzD2oAw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21988,
+          "following_count": 1693,
+          "like_count": 557,
+          "listed_count": 78,
+          "media_count": 612,
+          "tweet_count": 2427
+        },
+        "username": "wang_eth",
+        "verified": true
+      }
+    ]
+  }
+}

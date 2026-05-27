@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042406767884484608"
+      ],
+      "media_source_tweet_id": [
+        "2042406771629912407"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2042505517726347579",
+    "created_at": "2026-04-10T07:30:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T08:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042505517726347579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1571290559708536832",
+          "start": 3,
+          "username": "daily_glt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5U3zI6nlGz",
+          "end": 38,
+          "expanded_url": "https://x.com/daily_glt/status/2042406771629912407/photo/1",
+          "media_key": "3_2042406767884484608",
+          "start": 15,
+          "url": "https://t.co/5U3zI6nlGz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042505517726347579",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042406771629912407",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @daily_glt: https://t.co/5U3zI6nlGz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2042406767884484608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgWIl6bwAA5gF3.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042406767884484608"
+          ],
+          "media_source_tweet_id": [
+            "2042406771629912407"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2042505517726347579",
+        "created_at": "2026-04-10T07:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042505517726347579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1571290559708536832",
+              "start": 3,
+              "username": "daily_glt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5U3zI6nlGz",
+              "end": 38,
+              "expanded_url": "https://x.com/daily_glt/status/2042406771629912407/photo/1",
+              "media_key": "3_2042406767884484608",
+              "start": 15,
+              "url": "https://t.co/5U3zI6nlGz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042505517726347579",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042406771629912407",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @daily_glt: https://t.co/5U3zI6nlGz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042406767884484608"
+          ]
+        },
+        "author_id": "1571290559708536832",
+        "conversation_id": "2042406771629912407",
+        "created_at": "2026-04-10T00:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T01:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042406771629912407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5U3zI6nlGz",
+              "end": 23,
+              "expanded_url": "https://x.com/daily_glt/status/2042406771629912407/photo/1",
+              "media_key": "3_2042406767884484608",
+              "start": 0,
+              "url": "https://t.co/5U3zI6nlGz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042406771629912407",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 7143,
+          "like_count": 1024,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5U3zI6nlGz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "距离你1.5KM",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 791,
+          "like_count": 89523,
+          "listed_count": 6,
+          "media_count": 3464,
+          "tweet_count": 15270
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-18T00:10:47.000Z",
+        "description": "An account for posting Girls' Last Tour daily!\n@lililjiliijili 🍄 🍳",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "lililjiliijili"
+              }
+            ]
+          }
+        },
+        "id": "1571290559708536832",
+        "location": "𓆟",
+        "name": "Daily Girls' Last Tour ✚.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644814199749758977/pI5NzgHP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38118,
+          "following_count": 12,
+          "like_count": 18,
+          "listed_count": 60,
+          "media_count": 1061,
+          "tweet_count": 1083
+        },
+        "username": "daily_glt",
+        "verified": false
+      }
+    ]
+  }
+}

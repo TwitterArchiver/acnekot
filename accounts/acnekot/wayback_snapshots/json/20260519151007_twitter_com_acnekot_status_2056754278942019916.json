@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056690934235160576"
+      ],
+      "media_source_tweet_id": [
+        "2056692857935913245"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2056754278942019916",
+    "created_at": "2026-05-19T15:10:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056754278942019916"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 28,
+          "tag": "osagechanFA"
+        },
+        {
+          "end": 46,
+          "start": 41,
+          "tag": "イラスト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1601585956020449280",
+          "start": 3,
+          "username": "ManahamRoses"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3MvCYZ9GBM",
+          "end": 70,
+          "expanded_url": "https://x.com/ManahamRoses/status/2056692857935913245/photo/1",
+          "media_key": "3_2056690934235160576",
+          "start": 47,
+          "url": "https://t.co/3MvCYZ9GBM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056754278942019916",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056692857935913245",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ManahamRoses: 寝起きおさげちゃん\n#osagechanFA #イラスト https://t.co/3MvCYZ9GBM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2056690934235160576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrVggPaYAAN5uE.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056690934235160576"
+          ],
+          "media_source_tweet_id": [
+            "2056692857935913245"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2056754278942019916",
+        "created_at": "2026-05-19T15:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056754278942019916"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 28,
+              "tag": "osagechanFA"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "イラスト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1601585956020449280",
+              "start": 3,
+              "username": "ManahamRoses"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3MvCYZ9GBM",
+              "end": 70,
+              "expanded_url": "https://x.com/ManahamRoses/status/2056692857935913245/photo/1",
+              "media_key": "3_2056690934235160576",
+              "start": 47,
+              "url": "https://t.co/3MvCYZ9GBM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056754278942019916",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056692857935913245",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ManahamRoses: 寝起きおさげちゃん\n#osagechanFA #イラスト https://t.co/3MvCYZ9GBM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056690934235160576"
+          ]
+        },
+        "author_id": "1601585956020449280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2056692857935913245",
+        "created_at": "2026-05-19T11:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056692857935913245"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 10,
+              "tag": "osagechanFA"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "イラスト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3MvCYZ9GBM",
+              "end": 52,
+              "expanded_url": "https://x.com/ManahamRoses/status/2056692857935913245/photo/1",
+              "media_key": "3_2056690934235160576",
+              "start": 29,
+              "url": "https://t.co/3MvCYZ9GBM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056692857935913245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 1568,
+          "like_count": 213,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "寝起きおさげちゃん\n#osagechanFA #イラスト https://t.co/3MvCYZ9GBM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 126,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 103,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2422,
+          "following_count": 796,
+          "like_count": 92387,
+          "listed_count": 7,
+          "media_count": 3873,
+          "tweet_count": 16418
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-10T14:33:58.000Z",
+        "description": "ガンプラ作ってたり絵描いてたりしてやす。最近は日常が原神に侵食されてます。",
+        "id": "1601585956020449280",
+        "name": "マナハム",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051987210665340928/XTTZbiJj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 110,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 29
+        },
+        "username": "ManahamRoses",
+        "verified": false
+      }
+    ]
+  }
+}

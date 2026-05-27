@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009819771106377728"
+      ],
+      "media_source_tweet_id": [
+        "2009822516458532967"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2009822758335906286",
+    "created_at": "2026-01-10T03:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T04:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009822758335906286"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 48,
+          "normalized_text": "二階堂ヒロ",
+          "probability": 0.6343,
+          "start": 44,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 82,
+          "start": 77,
+          "tag": "まのむら"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1924685886115217412",
+          "start": 3,
+          "username": "mahoumura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J001XqxgC3",
+          "end": 106,
+          "expanded_url": "https://x.com/mahoumura/status/2009822516458532967/photo/1",
+          "media_key": "3_2009819771106377728",
+          "start": 83,
+          "url": "https://t.co/J001XqxgC3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009822758335906286",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 99
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009822516458532967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mahoumura: § 生誕日 §\n\nよそもののみなさま。\n\n本日はよそもの【二階堂ヒロ】の生誕日です。\n\n儀式まで幸せにお過ごしください。\n\n#まのむら https://t.co/J001XqxgC3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2009819771106377728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-RQbu9aQAAflrG.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009819771106377728"
+          ],
+          "media_source_tweet_id": [
+            "2009822516458532967"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009822758335906286",
+        "created_at": "2026-01-10T03:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T04:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009822758335906286"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "二階堂ヒロ",
+              "probability": 0.6343,
+              "start": 44,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 77,
+              "tag": "まのむら"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1924685886115217412",
+              "start": 3,
+              "username": "mahoumura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J001XqxgC3",
+              "end": 106,
+              "expanded_url": "https://x.com/mahoumura/status/2009822516458532967/photo/1",
+              "media_key": "3_2009819771106377728",
+              "start": 83,
+              "url": "https://t.co/J001XqxgC3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009822758335906286",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009822516458532967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mahoumura: § 生誕日 §\n\nよそもののみなさま。\n\n本日はよそもの【二階堂ヒロ】の生誕日です。\n\n儀式まで幸せにお過ごしください。\n\n#まのむら https://t.co/J001XqxgC3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009819771106377728"
+          ]
+        },
+        "author_id": "1924685886115217412",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009822516458532967",
+        "created_at": "2026-01-10T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009822516458532967"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "二階堂ヒロ",
+              "probability": 0.6527,
+              "start": 29,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "まのむら"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J001XqxgC3",
+              "end": 91,
+              "expanded_url": "https://x.com/mahoumura/status/2009822516458532967/photo/1",
+              "media_key": "3_2009819771106377728",
+              "start": 68,
+              "url": "https://t.co/J001XqxgC3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009822516458532967",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 488,
+          "like_count": 197,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "§ 生誕日 §\n\nよそもののみなさま。\n\n本日はよそもの【二階堂ヒロ】の生誕日です。\n\n儀式まで幸せにお過ごしください。\n\n#まのむら https://t.co/J001XqxgC3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "到处闲逛ᗜ_ᗜ\n\nいつ終わるかな 意味もないのに",
+        "id": "1552213521253150720",
+        "location": "http://mocat.asia",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 576,
+          "like_count": 64634,
+          "listed_count": 5,
+          "media_count": 2160,
+          "tweet_count": 9880
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-20T04:37:43.000Z",
+        "description": "魔法をもらった日が、命日――\nNintendo Switch / Steam配信予定ソフト\n原作：Acacia @Acacia_offical_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 56,
+                "username": "Acacia_offical_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mahoumura.com",
+                "end": 23,
+                "expanded_url": "https://mahoumura.com/",
+                "start": 0,
+                "url": "https://t.co/abo7TXcmYk"
+              }
+            ]
+          }
+        },
+        "id": "1924685886115217412",
+        "location": "闃ｱ 蜑･縺第 搗",
+        "name": "魔法少女ノ因習村 公式",
+        "pinned_tweet_id": "1983739449835188317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933152559340138496/NR67SHyk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63451,
+          "following_count": 9,
+          "like_count": 14,
+          "listed_count": 91,
+          "media_count": 21,
+          "tweet_count": 30
+        },
+        "url": "https://t.co/abo7TXcmYk",
+        "username": "mahoumura",
+        "verified": true
+      }
+    ]
+  }
+}

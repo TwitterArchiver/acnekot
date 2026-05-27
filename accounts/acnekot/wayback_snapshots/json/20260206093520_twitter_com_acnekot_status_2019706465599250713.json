@@ -1,0 +1,472 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      }
+    ],
+    "conversation_id": "2019706465599250713",
+    "created_at": "2026-02-06T09:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T10:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019706465599250713"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JenMsft/status…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/JenMsft/status/2019443033129783602",
+          "start": 2,
+          "url": "https://t.co/VkwBV6b84f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019706465599250713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019443033129783602",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "草 https://t.co/VkwBV6b84f"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "A big fluffy blue bath loofah showing as a wallpaper behind the taskbar on Windows",
+        "height": 372,
+        "media_key": "3_2019442941400608768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAaAp95acAA2V8K.png",
+        "width": 539
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2019706465599250713",
+        "created_at": "2026-02-06T09:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T10:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019706465599250713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JenMsft/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/JenMsft/status/2019443033129783602",
+              "start": 2,
+              "url": "https://t.co/VkwBV6b84f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019706465599250713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019443033129783602",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草 https://t.co/VkwBV6b84f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019442941400608768"
+          ]
+        },
+        "author_id": "3309105596",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2019443033129783602",
+        "created_at": "2026-02-05T16:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T17:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019443033129783602"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Windows 11",
+              "probability": 0.9709,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 17,
+              "normalized_text": "loofah",
+              "probability": 0.8564,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BkqMRNRMnw",
+              "end": 50,
+              "expanded_url": "https://x.com/JenMsft/status/2019443033129783602/photo/1",
+              "media_key": "3_2019442941400608768",
+              "start": 27,
+              "url": "https://t.co/BkqMRNRMnw"
+            },
+            {
+              "display_url": "x.com/Lina_Hoshino/s…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/Lina_Hoshino/status/2019363031004881019",
+              "start": 51,
+              "url": "https://t.co/AhlqVxNvuh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019443033129783602",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 375,
+          "impression_count": 173934,
+          "like_count": 12071,
+          "quote_count": 13,
+          "reply_count": 33,
+          "retweet_count": 940
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019363031004881019",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Windows 11: loofah edition https://t.co/BkqMRNRMnw https://t.co/AhlqVxNvuh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語 以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 734,
+          "like_count": 75908,
+          "listed_count": 6,
+          "media_count": 2540,
+          "tweet_count": 11685
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-07T22:21:33.000Z",
+        "description": "I work on the Windows engineering team at Microsoft and help with feedback for Start menu, Settings, taskbar, input + more",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "reddit.com/u/JenMsft",
+                "end": 23,
+                "expanded_url": "http://reddit.com/u/JenMsft",
+                "start": 0,
+                "url": "https://t.co/QPwABa1lDz"
+              }
+            ]
+          }
+        },
+        "id": "3309105596",
+        "location": "Seattle, WA",
+        "name": "Jen Gentleman 🌺",
+        "pinned_tweet_id": "1761425552693662031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1599901888396214272/rVtYrj82_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96314,
+          "following_count": 231,
+          "like_count": 538459,
+          "listed_count": 745,
+          "media_count": 18851,
+          "tweet_count": 136521
+        },
+        "url": "https://t.co/QPwABa1lDz",
+        "username": "JenMsft",
+        "verified": true
+      }
+    ]
+  }
+}

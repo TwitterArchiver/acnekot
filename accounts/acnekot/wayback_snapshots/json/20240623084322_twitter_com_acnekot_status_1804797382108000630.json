@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1804441329684074907",
+    "created_at": "2024-06-23T08:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T09:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804797382108000630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1404517934869798912",
+          "start": 0,
+          "username": "TYDOT__________"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804797382108000630",
+    "in_reply_to_user_id": "1404517934869798912",
+    "lang": "qam",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804441329684074907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TYDOT__________ ??"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1804441329684074907",
+        "created_at": "2024-06-23T08:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T09:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804797382108000630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1404517934869798912",
+              "start": 0,
+              "username": "TYDOT__________"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804797382108000630",
+        "in_reply_to_user_id": "1404517934869798912",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804441329684074907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TYDOT__________ ??"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804441316136521728"
+          ]
+        },
+        "author_id": "1404517934869798912",
+        "conversation_id": "1804441329684074907",
+        "created_at": "2024-06-22T09:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T10:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804441329684074907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/aB8lHsqvw4",
+              "end": 25,
+              "expanded_url": "https://twitter.com/cnmb616/status/1804441329684074907/photo/1",
+              "media_key": "3_1804441316136521728",
+              "start": 2,
+              "url": "https://t.co/aB8lHsqvw4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804441329684074907",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 43834,
+          "like_count": 1370,
+          "quote_count": 22,
+          "reply_count": 42,
+          "retweet_count": 188
+        },
+        "reply_settings": "everyone",
+        "text": "? https://t.co/aB8lHsqvw4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "我已然丢失自我",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "A'CID",
+        "pinned_tweet_id": "1774830360578384099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 323,
+          "like_count": 34088,
+          "listed_count": 5,
+          "tweet_count": 7315
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-14T19:15:55.000Z",
+        "description": "",
+        "id": "1404517934869798912",
+        "location": ".",
+        "name": "被餓爛417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803761039978237952/5IBf8RuF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 3526,
+          "like_count": 51463,
+          "listed_count": 2,
+          "tweet_count": 4082
+        },
+        "username": "TYDOT__________",
+        "verified": false
+      }
+    ]
+  }
+}

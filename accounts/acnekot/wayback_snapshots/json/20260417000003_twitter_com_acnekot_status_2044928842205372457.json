@@ -1,0 +1,551 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044374656833196032"
+      ],
+      "media_source_tweet_id": [
+        "2044374661577015631"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899469046054924",
+          "name": "Virtual reality games"
+        }
+      }
+    ],
+    "conversation_id": "2044928842205372457",
+    "created_at": "2026-04-17T00:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T01:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044928842205372457"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 23,
+          "tag": "VRChat"
+        },
+        {
+          "end": 37,
+          "start": 31,
+          "tag": "キプフェル"
+        },
+        {
+          "end": 44,
+          "start": 38,
+          "tag": "まめひなた"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1936618439394951168",
+          "start": 3,
+          "username": "hideyoo312"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HMtuEvaxOI",
+          "end": 68,
+          "expanded_url": "https://x.com/hideyoo312/status/2044374661577015631/photo/1",
+          "media_key": "3_2044374656833196032",
+          "start": 45,
+          "url": "https://t.co/HMtuEvaxOI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044928842205372457",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 207
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044374661577015631",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hideyoo312: ※取り込み中\n#VRChat #キプフェル #まめひなた https://t.co/HMtuEvaxOI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044374656833196032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF8T6zhakAA5u5u.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044374656833196032"
+          ],
+          "media_source_tweet_id": [
+            "2044374661577015631"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2044928842205372457",
+        "created_at": "2026-04-17T00:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T01:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044928842205372457"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 23,
+              "tag": "VRChat"
+            },
+            {
+              "end": 37,
+              "start": 31,
+              "tag": "キプフェル"
+            },
+            {
+              "end": 44,
+              "start": 38,
+              "tag": "まめひなた"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1936618439394951168",
+              "start": 3,
+              "username": "hideyoo312"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HMtuEvaxOI",
+              "end": 68,
+              "expanded_url": "https://x.com/hideyoo312/status/2044374661577015631/photo/1",
+              "media_key": "3_2044374656833196032",
+              "start": 45,
+              "url": "https://t.co/HMtuEvaxOI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044928842205372457",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 207
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044374661577015631",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hideyoo312: ※取り込み中\n#VRChat #キプフェル #まめひなた https://t.co/HMtuEvaxOI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044374656833196032"
+          ]
+        },
+        "author_id": "1936618439394951168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2044374661577015631",
+        "created_at": "2026-04-15T11:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T12:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044374661577015631"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 7,
+              "tag": "VRChat"
+            },
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "キプフェル"
+            },
+            {
+              "end": 28,
+              "start": 22,
+              "tag": "まめひなた"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HMtuEvaxOI",
+              "end": 52,
+              "expanded_url": "https://x.com/hideyoo312/status/2044374661577015631/photo/1",
+              "media_key": "3_2044374656833196032",
+              "start": 29,
+              "url": "https://t.co/HMtuEvaxOI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044374661577015631",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 17487,
+          "like_count": 1695,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 207
+        },
+        "reply_settings": "everyone",
+        "text": "※取り込み中\n#VRChat #キプフェル #まめひなた https://t.co/HMtuEvaxOI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n回fo请私信\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 133,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 110,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2168,
+          "following_count": 797,
+          "like_count": 90296,
+          "listed_count": 6,
+          "media_count": 3591,
+          "tweet_count": 15621
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-22T02:53:24.000Z",
+        "description": "@akiyo_312 の絵の置き場",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "akiyo_312"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@hideyoo312",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@hideyoo312",
+                "start": 0,
+                "url": "https://t.co/nLH1SsCf4J"
+              }
+            ]
+          }
+        },
+        "id": "1936618439394951168",
+        "name": "あきえ",
+        "pinned_tweet_id": "2044755099482988626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044400421926756353/6d5FR416_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 688,
+          "like_count": 3466,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 254
+        },
+        "url": "https://t.co/nLH1SsCf4J",
+        "username": "hideyoo312",
+        "verified": false
+      }
+    ]
+  }
+}

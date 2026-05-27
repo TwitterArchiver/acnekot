@@ -1,0 +1,246 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1777408872891961544",
+    "created_at": "2024-05-14T23:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-15T00:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790528522265718862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1421940279624364034",
+          "start": 0,
+          "username": "HAHALOSAH"
+        },
+        {
+          "end": 21,
+          "id": "1323755841519050759",
+          "start": 11,
+          "username": "ItzKofo88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790528522265718862",
+    "in_reply_to_user_id": "1421940279624364034",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790424985544323526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HAHALOSAH @ItzKofo88 ok，i will try"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1777408872891961544",
+        "created_at": "2024-05-14T23:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T00:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790528522265718862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1421940279624364034",
+              "start": 0,
+              "username": "HAHALOSAH"
+            },
+            {
+              "end": 21,
+              "id": "1323755841519050759",
+              "start": 11,
+              "username": "ItzKofo88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790528522265718862",
+        "in_reply_to_user_id": "1421940279624364034",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790424985544323526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HAHALOSAH @ItzKofo88 ok，i will try"
+      },
+      {
+        "attachments": {},
+        "author_id": "1421940279624364034",
+        "conversation_id": "1777408872891961544",
+        "created_at": "2024-05-14T16:52:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T17:52:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790424985544323526"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "palera1n",
+              "probability": 0.5306,
+              "start": 44,
+              "type": "Other"
+            },
+            {
+              "end": 67,
+              "normalized_text": "revert",
+              "probability": 0.4633,
+              "start": 62,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            },
+            {
+              "end": 19,
+              "id": "1323755841519050759",
+              "start": 9,
+              "username": "ItzKofo88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790424985544323526",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1781988930805727528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot @ItzKofo88 FakeFS is corrupted\nUse palera1n to force revert, then try again"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "似梦非梦，沉沦其中",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "A'CID",
+        "pinned_tweet_id": "1774830360578384099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 312,
+          "like_count": 33680,
+          "listed_count": 5,
+          "tweet_count": 7224
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T21:06:19.000Z",
+        "description": "nekojb frfr",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/HAHALOSAH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/HAHALOSAH",
+                "start": 0,
+                "url": "https://t.co/x1arbSm0ge"
+              }
+            ]
+          }
+        },
+        "id": "1421940279624364034",
+        "location": "AppleMobileFileIntegrity.kext",
+        "name": "HAHALOSAH",
+        "pinned_tweet_id": "1777408872891961544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1513698961122816001/jwt0HPKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2406,
+          "following_count": 59,
+          "like_count": 111,
+          "listed_count": 9,
+          "tweet_count": 343
+        },
+        "url": "https://t.co/x1arbSm0ge",
+        "username": "HAHALOSAH",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-03T22:36:05.000Z",
+        "description": "3xpl0lt",
+        "id": "1323755841519050759",
+        "name": "1337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1323755983294898178/csqs6YYf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 90,
+          "like_count": 29,
+          "listed_count": 0,
+          "tweet_count": 16
+        },
+        "username": "ItzKofo88",
+        "verified": false
+      }
+    ]
+  }
+}

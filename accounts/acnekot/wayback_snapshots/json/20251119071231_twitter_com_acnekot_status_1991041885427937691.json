@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1990908829064913378",
+    "created_at": "2025-11-19T07:12:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T08:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991041885427937691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1242074475400548352",
+          "start": 0,
+          "username": "A1oneSKy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991041885427937691",
+    "in_reply_to_user_id": "1242074475400548352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990908829064913378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1oneSKy 感觉只要不是版权管的很严的它都能回答，我问他SPT的私服怎么搭建也告诉我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990908823377489920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6EhBs2bMAAlRqo.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1990908829064913378",
+        "created_at": "2025-11-19T07:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T08:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991041885427937691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1242074475400548352",
+              "start": 0,
+              "username": "A1oneSKy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991041885427937691",
+        "in_reply_to_user_id": "1242074475400548352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990908829064913378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1oneSKy 感觉只要不是版权管的很严的它都能回答，我问他SPT的私服怎么搭建也告诉我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990908823377489920"
+          ]
+        },
+        "author_id": "1242074475400548352",
+        "conversation_id": "1990908829064913378",
+        "created_at": "2025-11-18T22:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T23:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990908829064913378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VXhp8oE8RK",
+              "end": 35,
+              "expanded_url": "https://x.com/A1oneSKy/status/1990908829064913378/photo/1",
+              "media_key": "3_1990908823377489920",
+              "start": 12,
+              "url": "https://t.co/VXhp8oE8RK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990908829064913378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "GPT居然也有黑群晖吗 https://t.co/VXhp8oE8RK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hhco.asia",
+                "end": 23,
+                "expanded_url": "http://hhco.asia",
+                "start": 0,
+                "url": "https://t.co/eaLztUrJeR"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984849769211314179/Mzcgzncy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 465,
+          "like_count": 46995,
+          "listed_count": 4,
+          "media_count": 1908,
+          "tweet_count": 8893
+        },
+        "url": "https://t.co/eaLztUrJeR",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-23T13:03:36.000Z",
+        "description": "한국어나 다른 언어 내용 포함가능",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "alonesky.site",
+                "end": 23,
+                "expanded_url": "https://alonesky.site",
+                "start": 0,
+                "url": "https://t.co/oEkdekCfAG"
+              }
+            ]
+          }
+        },
+        "id": "1242074475400548352",
+        "name": "𝓐𝓛𝓸𝓷𝓮𝓢𝓚𝔂",
+        "pinned_tweet_id": "1567905692379664384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950855415992078337/jdc1F1qB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 1363,
+          "like_count": 4439,
+          "listed_count": 4,
+          "media_count": 4546,
+          "tweet_count": 16200
+        },
+        "url": "https://t.co/oEkdekCfAG",
+        "username": "A1oneSKy",
+        "verified": false
+      }
+    ]
+  }
+}

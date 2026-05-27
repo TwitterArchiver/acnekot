@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2034952744541593601"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2034941844770234719",
+    "created_at": "2026-03-20T11:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T12:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034952759209075063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1279242635341729792",
+          "start": 0,
+          "username": "maigomaigoHH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lmcLP6KFIr",
+          "end": 37,
+          "expanded_url": "https://x.com/acnekot/status/2034952759209075063/photo/1",
+          "media_key": "16_2034952744541593601",
+          "start": 14,
+          "url": "https://t.co/lmcLP6KFIr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034952759209075063",
+    "in_reply_to_user_id": "1279242635341729792",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034952404945576147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maigomaigoHH https://t.co/lmcLP6KFIr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2034952744541593601",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HD2avVEboAEkGRl.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HD2avVEboAEkGRl.mp4"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2034952744541593601"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2034941844770234719",
+        "created_at": "2026-03-20T11:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T12:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034952759209075063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1279242635341729792",
+              "start": 0,
+              "username": "maigomaigoHH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lmcLP6KFIr",
+              "end": 37,
+              "expanded_url": "https://x.com/acnekot/status/2034952759209075063/photo/1",
+              "media_key": "16_2034952744541593601",
+              "start": 14,
+              "url": "https://t.co/lmcLP6KFIr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034952759209075063",
+        "in_reply_to_user_id": "1279242635341729792",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034952404945576147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maigomaigoHH https://t.co/lmcLP6KFIr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279242635341729792",
+        "conversation_id": "2034941844770234719",
+        "created_at": "2026-03-20T11:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T12:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034952404945576147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034952404945576147",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034941844770234719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 我给你互动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动\n发言纯依靠我那微薄的知识 如有错意欢迎指正\nあなたと繋いだ それが浮遊感",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 787,
+          "like_count": 86476,
+          "listed_count": 6,
+          "media_count": 3143,
+          "tweet_count": 14333
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-04T02:36:35.000Z",
+        "description": "倒霉蛋",
+        "id": "1279242635341729792",
+        "location": "你身后",
+        "name": "コガ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730168178297417728/0GKje4hv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5844,
+          "following_count": 850,
+          "like_count": 24562,
+          "listed_count": 31,
+          "media_count": 1467,
+          "tweet_count": 19615
+        },
+        "username": "maigomaigoHH",
+        "verified": true
+      }
+    ]
+  }
+}

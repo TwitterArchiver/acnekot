@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2004704522388865091",
+    "created_at": "2025-12-28T10:51:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T11:51:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005230207133942182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1562342245897932800",
+          "start": 0,
+          "username": "MSNYS08"
+        },
+        {
+          "end": 20,
+          "id": "33466711",
+          "start": 9,
+          "username": "gongminmin"
+        },
+        {
+          "end": 29,
+          "id": "2262723812",
+          "start": 21,
+          "username": "abskoop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005230207133942182",
+    "in_reply_to_user_id": "1562342245897932800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005225327476506639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MSNYS08 @gongminmin @abskoop --- 10.0.3.1 ping 统计 ---\n已发送 9 个包， 已接收 4 个包, 55% packet loss\nround-trip min/avg/max = 3211900.8/5222806.6/6388671.9 ms\n\n脚本结束于 2001年 4月 28日 星期六 14:14:28\n\n这样看丢包确实高"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2004704522388865091",
+        "created_at": "2025-12-28T10:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T11:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005230207133942182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1562342245897932800",
+              "start": 0,
+              "username": "MSNYS08"
+            },
+            {
+              "end": 20,
+              "id": "33466711",
+              "start": 9,
+              "username": "gongminmin"
+            },
+            {
+              "end": 29,
+              "id": "2262723812",
+              "start": 21,
+              "username": "abskoop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005230207133942182",
+        "in_reply_to_user_id": "1562342245897932800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005225327476506639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MSNYS08 @gongminmin @abskoop --- 10.0.3.1 ping 统计 ---\n已发送 9 个包， 已接收 4 个包, 55% packet loss\nround-trip min/avg/max = 3211900.8/5222806.6/6388671.9 ms\n\n脚本结束于 2001年 4月 28日 星期六 14:14:28\n\n这样看丢包确实高"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1562342245897932800",
+        "conversation_id": "2004704522388865091",
+        "created_at": "2025-12-28T10:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T11:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005225327476506639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "33466711",
+              "start": 0,
+              "username": "gongminmin"
+            },
+            {
+              "end": 20,
+              "id": "1552213521253150720",
+              "start": 12,
+              "username": "acnekot"
+            },
+            {
+              "end": 29,
+              "id": "2262723812",
+              "start": 21,
+              "username": "abskoop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005225327476506639",
+        "in_reply_to_user_id": "33466711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004831458008203463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gongminmin @acnekot @abskoop 丟包率你是一點也不提啊😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PkaB"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 551,
+          "like_count": 61215,
+          "listed_count": 5,
+          "media_count": 2065,
+          "tweet_count": 9596
+        },
+        "url": "https://t.co/raYZh1PkaB",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-24T07:33:18.000Z",
+        "description": "操你妈个逼的别他妈查我了",
+        "id": "1562342245897932800",
+        "location": "中国广州",
+        "name": "芸茹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951372323615113216/uSpQGHuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 61,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "username": "MSNYS08",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-20T09:10:52.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "klayge.org",
+                "end": 23,
+                "expanded_url": "http://www.klayge.org",
+                "start": 0,
+                "url": "https://t.co/NhVWlx0BID"
+              }
+            ]
+          }
+        },
+        "id": "33466711",
+        "location": "Redmond, WA",
+        "name": "Minmin Gong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1107021399/41464_100001469863441_6805_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 82,
+          "like_count": 201,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 1471
+        },
+        "url": "https://t.co/NhVWlx0BID",
+        "username": "gongminmin",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-26T11:26:41.000Z",
+        "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 104,
+                "tag": "AI"
+              },
+              {
+                "end": 113,
+                "start": 108,
+                "tag": "Tech"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "Tools"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "tag": "InternetTools"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "tag": "Learning"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "ahhhhfs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/abskoop",
+                "end": 72,
+                "expanded_url": "http://t.me/abskoop",
+                "start": 49,
+                "url": "https://t.co/OmSvNms9yl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dizhi.abskoop.com",
+                "end": 23,
+                "expanded_url": "https://dizhi.abskoop.com/",
+                "start": 0,
+                "url": "https://t.co/cidh0H49OY"
+              }
+            ]
+          }
+        },
+        "id": "2262723812",
+        "location": "有空翻翻👉",
+        "name": "ahhhhfs",
+        "pinned_tweet_id": "1864977466198257739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734998,
+          "following_count": 1194,
+          "like_count": 26102,
+          "listed_count": 2636,
+          "media_count": 23040,
+          "tweet_count": 59451
+        },
+        "url": "https://t.co/cidh0H49OY",
+        "username": "abskoop",
+        "verified": true
+      }
+    ]
+  }
+}

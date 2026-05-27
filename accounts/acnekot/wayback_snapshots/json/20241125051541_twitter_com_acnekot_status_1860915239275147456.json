@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1860277604122538485",
+    "created_at": "2024-11-25T05:15:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T06:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860915239275147456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1830546768779755520",
+          "start": 0,
+          "username": "c25vdw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860915239275147456",
+    "in_reply_to_user_id": "1830546768779755520",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860277604122538485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c25vdw 1G\n1M"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1860277604122538485",
+        "created_at": "2024-11-25T05:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T06:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860915239275147456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1830546768779755520",
+              "start": 0,
+              "username": "c25vdw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860915239275147456",
+        "in_reply_to_user_id": "1830546768779755520",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860277604122538485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c25vdw 1G\n1M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860277588163190784"
+          ]
+        },
+        "author_id": "1830546768779755520",
+        "conversation_id": "1860277604122538485",
+        "created_at": "2024-11-23T11:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T12:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860277604122538485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HUcKFUbiWO",
+              "end": 23,
+              "expanded_url": "https://x.com/c25vdw/status/1860277604122538485/photo/1",
+              "media_key": "3_1860277588163190784",
+              "start": 0,
+              "url": "https://t.co/HUcKFUbiWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860277604122538485",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4887,
+          "like_count": 59,
+          "quote_count": 6,
+          "reply_count": 61,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HUcKFUbiWO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "awo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/acnekot",
+                "end": 23,
+                "expanded_url": "https://bonjour.bio/acnekot",
+                "start": 0,
+                "url": "https://t.co/dihqxxtjTA"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 370,
+          "like_count": 39733,
+          "listed_count": 3,
+          "tweet_count": 8050
+        },
+        "url": "https://t.co/dihqxxtjTA",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-02T10:02:57.000Z",
+        "description": "「ともに奏でよう、奇跡の歌を」\n警告：本帳戶下的推文會定期清空",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/8lysvr21ofbqb7v",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/8lysvr21ofbqb7v",
+                "start": 0,
+                "url": "https://t.co/tGDCp8Ygi0"
+              }
+            ]
+          }
+        },
+        "id": "1830546768779755520",
+        "location": "チュウニズムの前",
+        "name": "正在閉關的阿雪(真顏代管中)",
+        "pinned_tweet_id": "1856631972917043587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860477818389291008/MQR8OQJM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 67,
+          "like_count": 2688,
+          "listed_count": 0,
+          "tweet_count": 113
+        },
+        "url": "https://t.co/tGDCp8Ygi0",
+        "username": "c25vdw",
+        "verified": false
+      }
+    ]
+  }
+}

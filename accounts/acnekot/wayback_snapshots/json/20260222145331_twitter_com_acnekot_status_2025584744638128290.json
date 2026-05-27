@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2025584744638128290",
+    "created_at": "2026-02-22T14:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T15:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025584744638128290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1556329235912212481",
+          "start": 3,
+          "username": "BG0EJN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025584744638128290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025568001706356983",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BG0EJN: 出现LoginError:Attestation denied报错（或无法登录小号）的解决方案：\n1.确认自己的谷歌三件套齐全且为最新\n2.确认推特不是魔改/旧版且未root（已root请找红迪论坛上的方法）\n3.如果手机系统非原生，试试在手机设置里将系…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2025584744638128290",
+        "created_at": "2026-02-22T14:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T15:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025584744638128290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1556329235912212481",
+              "start": 3,
+              "username": "BG0EJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025584744638128290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025568001706356983",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BG0EJN: 出现LoginError:Attestation denied报错（或无法登录小号）的解决方案：\n1.确认自己的谷歌三件套齐全且为最新\n2.确认推特不是魔改/旧版且未root（已root请找红迪论坛上的方法）\n3.如果手机系统非原生，试试在手机设置里将系…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556329235912212481",
+        "conversation_id": "2025568001706356983",
+        "created_at": "2026-02-22T13:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T14:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025568001706356983"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025568001706356983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "出现LoginError:Attestation denied报错（或无法登录小号）的解决方案：\n1.确认自己的谷歌三件套齐全且为最新\n2.确认推特不是魔改/旧版且未root（已root请找红迪论坛上的方法）\n3.如果手机系统非原生，试试在手机设置里将系统语言设置为英文（登录后改回来）登录，这次登录应该是强制需要二步验证"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度｜好丽友派:@wxb_NB\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好｜互关请私信\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "wxb_NB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 780,
+          "like_count": 80902,
+          "listed_count": 6,
+          "media_count": 2738,
+          "tweet_count": 12718
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-07T17:19:46.000Z",
+        "description": "BG0EJN's humanoid interface                   \n              \nOtaku,\n版本号1.8.3校验码0C00                                     \n正在对着创想三维的垃圾打印机无能狂怒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "QRZ.COM/DB/BG0EJN",
+                "end": 23,
+                "expanded_url": "https://QRZ.COM/DB/BG0EJN",
+                "start": 0,
+                "url": "https://t.co/pfRTkxOoor"
+              }
+            ]
+          }
+        },
+        "id": "1556329235912212481",
+        "location": "NN16?? ,Maintenance Center",
+        "name": "T72M2'Moderna'",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025566531334311936/y_sKBReH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 227,
+          "like_count": 26568,
+          "listed_count": 1,
+          "media_count": 909,
+          "tweet_count": 7573
+        },
+        "url": "https://t.co/pfRTkxOoor",
+        "username": "BG0EJN",
+        "verified": false
+      }
+    ]
+  }
+}

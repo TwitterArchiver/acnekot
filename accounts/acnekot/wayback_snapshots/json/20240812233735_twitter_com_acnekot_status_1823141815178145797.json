@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1823141815178145797",
+    "created_at": "2024-08-12T23:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-13T00:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1823141815178145797"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/allpureicebar/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/allpureicebar/status/1822722708041535570",
+          "start": 6,
+          "url": "https://t.co/sCPdOf98ks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823141815178145797",
+    "lang": "qst",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822722708041535570",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RIP🕯️ https://t.co/sCPdOf98ks"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1823141815178145797",
+        "created_at": "2024-08-12T23:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T00:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823141815178145797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/allpureicebar/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/allpureicebar/status/1822722708041535570",
+              "start": 6,
+              "url": "https://t.co/sCPdOf98ks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823141815178145797",
+        "lang": "qst",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822722708041535570",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RIP🕯️ https://t.co/sCPdOf98ks"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1233881677975322624",
+        "conversation_id": "1822722708041535570",
+        "created_at": "2024-08-11T19:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-11T20:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822722708041535570"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1822722708041535570",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 49734,
+          "like_count": 183,
+          "quote_count": 3,
+          "reply_count": 101,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "我妈于 15 Jul 2024 因车祸逝世。\n\n大伙注意出行安全，\n希望我接下来没有更麻烦的事情。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "真理就是没真理",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "酸_好奇猫a",
+        "pinned_tweet_id": "1774830360578384099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 322,
+          "like_count": 35712,
+          "listed_count": 5,
+          "tweet_count": 7475
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-29T22:28:26.000Z",
+        "description": "千と八百の年、超えてさえ進歩無しか…。/ SP 八段",
+        "id": "1233881677975322624",
+        "name": "APicebar",
+        "pinned_tweet_id": "1542530681837826048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1233881919680479232/od0SPP4L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 66,
+          "like_count": 1426,
+          "listed_count": 0,
+          "tweet_count": 1065
+        },
+        "username": "allpureicebar",
+        "verified": false
+      }
+    ]
+  }
+}

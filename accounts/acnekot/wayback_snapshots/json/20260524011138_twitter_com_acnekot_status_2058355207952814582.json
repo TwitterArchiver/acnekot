@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2058342555805471180",
+    "created_at": "2026-05-24T01:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T02:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058355207952814582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1842504398850928640",
+          "start": 0,
+          "username": "hsn8086k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058355207952814582",
+    "in_reply_to_user_id": "1842504398850928640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058342555805471180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086k 难绷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 878,
+        "media_key": "3_2058342472389210112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJCzkrTbsAA2gJe.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1439,
+        "media_key": "3_2058342472393388032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJCzkrUbcAA_eAB.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1903,
+        "media_key": "3_2058342523119218688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJCznoSaMAAZBJJ.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2058342555805471180",
+        "created_at": "2026-05-24T01:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T02:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058355207952814582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058355207952814582",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058342555805471180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 难绷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058342472389210112",
+            "3_2058342472393388032",
+            "3_2058342523119218688"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2058342555805471180",
+        "created_at": "2026-05-24T00:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T01:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058342555805471180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8NemFu8G8L",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086k/status/2058342555805471180/photo/1",
+              "media_key": "3_2058342472389210112",
+              "start": 0,
+              "url": "https://t.co/8NemFu8G8L"
+            },
+            {
+              "display_url": "pic.x.com/8NemFu8G8L",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086k/status/2058342555805471180/photo/1",
+              "media_key": "3_2058342472393388032",
+              "start": 0,
+              "url": "https://t.co/8NemFu8G8L"
+            },
+            {
+              "display_url": "pic.x.com/8NemFu8G8L",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086k/status/2058342555805471180/photo/1",
+              "media_key": "3_2058342523119218688",
+              "start": 0,
+              "url": "https://t.co/8NemFu8G8L"
+            },
+            {
+              "display_url": "x.com/aaron1007_ylq/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/aaron1007_ylq/status/2058117038938485098",
+              "start": 24,
+              "url": "https://t.co/Lon3z95qrV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058342555805471180",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058117038938485098",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/8NemFu8G8L https://t.co/Lon3z95qrV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 126,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 103,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2425,
+          "following_count": 797,
+          "like_count": 92696,
+          "listed_count": 7,
+          "media_count": 3891,
+          "tweet_count": 16507
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2092,
+          "following_count": 222,
+          "like_count": 8169,
+          "listed_count": 9,
+          "media_count": 196,
+          "tweet_count": 2069
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

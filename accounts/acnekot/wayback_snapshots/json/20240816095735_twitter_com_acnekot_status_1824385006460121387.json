@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1824356889284710543",
+    "created_at": "2024-08-16T09:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T10:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824385006460121387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1247544266626183168",
+          "start": 0,
+          "username": "CuSO4_04410162"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824385006460121387",
+    "in_reply_to_user_id": "1247544266626183168",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824356889284710543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuSO4_04410162 NTR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1824356889284710543",
+        "created_at": "2024-08-16T09:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T10:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824385006460121387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1247544266626183168",
+              "start": 0,
+              "username": "CuSO4_04410162"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824385006460121387",
+        "in_reply_to_user_id": "1247544266626183168",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824356889284710543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuSO4_04410162 NTR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824356880963211264"
+          ]
+        },
+        "author_id": "1247544266626183168",
+        "conversation_id": "1824356889284710543",
+        "created_at": "2024-08-16T08:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T09:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824356889284710543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lheb6hkfce",
+              "end": 25,
+              "expanded_url": "https://twitter.com/CuSO4_04410162/status/1824356889284710543/photo/1",
+              "media_key": "3_1824356880963211264",
+              "start": 2,
+              "url": "https://t.co/LHEb6hKfcE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824356889284710543",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/LHEb6hKfcE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "真理就是没真理",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "酸_好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 327,
+          "like_count": 35988,
+          "listed_count": 5,
+          "tweet_count": 7512
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-07T15:18:35.000Z",
+        "description": "我在半夜两点听到了鸟叫，从来没想过那是硬盘自检的声音。 I heard bird singing at 2 a.m. never thought that's hard drive running a self-test",
+        "id": "1247544266626183168",
+        "location": "阿姆斯特朗环形山",
+        "name": "CuSO4",
+        "pinned_tweet_id": "1816794319942295757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761701633401176064/OMiZkZ2B_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 1144,
+          "like_count": 33799,
+          "listed_count": 1,
+          "tweet_count": 8115
+        },
+        "username": "CuSO4_04410162",
+        "verified": true
+      }
+    ]
+  }
+}

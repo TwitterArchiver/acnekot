@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1796603241545023794",
+    "created_at": "2024-05-31T18:11:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-31T19:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796605540099129446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1590340022808739842",
+          "start": 0,
+          "username": "Ko1toLikY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796605540099129446",
+    "in_reply_to_user_id": "1590340022808739842",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796605399539515732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ko1toLikY 别了，纯纯黑历史😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1796603241545023794",
+        "created_at": "2024-05-31T18:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T19:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796605540099129446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1590340022808739842",
+              "start": 0,
+              "username": "Ko1toLikY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796605540099129446",
+        "in_reply_to_user_id": "1590340022808739842",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796605399539515732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ko1toLikY 别了，纯纯黑历史😭"
+      },
+      {
+        "attachments": {},
+        "author_id": "1590340022808739842",
+        "conversation_id": "1796603241545023794",
+        "created_at": "2024-05-31T18:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T19:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796605399539515732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796605399539515732",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796603241545023794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 给个链接，我听听"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "我已然丢失自我",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "A'CID",
+        "pinned_tweet_id": "1774830360578384099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 319,
+          "like_count": 34082,
+          "listed_count": 5,
+          "tweet_count": 7282
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-09T13:46:41.000Z",
+        "description": "超大只废物/你觉得我是什么我就是什么（摆）",
+        "id": "1590340022808739842",
+        "location": "P.R.C Mainland KHN",
+        "name": "Ko1to LikY～(￣▽￣～)~",
+        "pinned_tweet_id": "1739258883829580231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681688960026972160/Vh4jCZef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 92,
+          "like_count": 441,
+          "listed_count": 0,
+          "tweet_count": 451
+        },
+        "username": "Ko1toLikY",
+        "verified": false
+      }
+    ]
+  }
+}

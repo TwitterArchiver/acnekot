@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2020795230748901846",
+    "created_at": "2026-02-09T09:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T10:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020795230748901846"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "中国",
+          "probability": 0.8616,
+          "start": 25,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "941682926755856384",
+          "start": 3,
+          "username": "matcha__ore_p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020795230748901846",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020794284652233021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @matcha__ore_p: 想像の何倍も中国で流行し、ミーム化していたとは！\nそしてなぜ私の漫画が流行しているのかわかりました🐈\nあの漫画は私の過去の実話になります\nもうあの漫画のようではなく、とても元気で薬も飲んでいません！\n14ちゃんという名前が付けられているそう…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2020795230748901846",
+        "created_at": "2026-02-09T09:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T10:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020795230748901846"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "中国",
+              "probability": 0.8616,
+              "start": 25,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "941682926755856384",
+              "start": 3,
+              "username": "matcha__ore_p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020795230748901846",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020794284652233021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @matcha__ore_p: 想像の何倍も中国で流行し、ミーム化していたとは！\nそしてなぜ私の漫画が流行しているのかわかりました🐈\nあの漫画は私の過去の実話になります\nもうあの漫画のようではなく、とても元気で薬も飲んでいません！\n14ちゃんという名前が付けられているそう…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "941682926755856384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2020794284652233021",
+        "created_at": "2026-02-09T09:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T10:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020794284652233021"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "中国",
+              "probability": 0.8645,
+              "start": 6,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020794284652233021",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 410,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "想像の何倍も中国で流行し、ミーム化していたとは！\nそしてなぜ私の漫画が流行しているのかわかりました🐈\nあの漫画は私の過去の実話になります\nもうあの漫画のようではなく、とても元気で薬も飲んでいません！\n14ちゃんという名前が付けられているそうです\nまったゃおれを見つけてくれてありがとう！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語 以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 747,
+          "like_count": 76827,
+          "listed_count": 6,
+          "media_count": 2568,
+          "tweet_count": 11855
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-15T14:54:40.000Z",
+        "description": "#たゃおれ絵 お仕事はDM𓆜 𓆝 𓆞 𓆟 グッズ・本(https://t.co/aYVpW4piOg) 未公開イラスト等（https://t.co/mmvyzwEzmX）⚠︎︎AI学習禁止⚠︎︎アイコン（@2525monaca）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "たゃおれ絵"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "2525monaca"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "matcha-ore-p.booth.pm",
+                "end": 50,
+                "expanded_url": "https://matcha-ore-p.booth.pm",
+                "start": 27,
+                "url": "https://t.co/aYVpW4piOg"
+              },
+              {
+                "display_url": "matcha-ore-p.fanbox.cc",
+                "end": 84,
+                "expanded_url": "https://matcha-ore-p.fanbox.cc",
+                "start": 61,
+                "url": "https://t.co/mmvyzwEzmX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@matcha__ore_p",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@matcha__ore_p",
+                "start": 0,
+                "url": "https://t.co/EcWAl4h6to"
+              }
+            ]
+          }
+        },
+        "id": "941682926755856384",
+        "name": "まったゃおれ",
+        "pinned_tweet_id": "1989670198346223966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944998115263832064/DOOC6_GA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31504,
+          "following_count": 196,
+          "like_count": 55271,
+          "listed_count": 260,
+          "media_count": 667,
+          "tweet_count": 5427
+        },
+        "url": "https://t.co/EcWAl4h6to",
+        "username": "matcha__ore_p",
+        "verified": false
+      }
+    ]
+  }
+}

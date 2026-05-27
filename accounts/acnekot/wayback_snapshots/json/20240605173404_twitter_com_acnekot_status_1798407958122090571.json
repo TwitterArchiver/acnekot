@@ -1,0 +1,242 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1798266520285696000"
+      ],
+      "media_source_tweet_id": [
+        "1798266524614250880"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "1798407958122090571",
+    "created_at": "2024-06-05T17:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-05T18:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798407958122090571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1508790173642878976",
+          "start": 3,
+          "username": "kurone_zero"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/VJ5plQcaeh",
+          "end": 46,
+          "expanded_url": "https://twitter.com/kurone_zero/status/1798266524614250880/photo/1",
+          "media_key": "3_1798266520285696000",
+          "start": 23,
+          "url": "https://t.co/VJ5plQcaeh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798407958122090571",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 287
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798266524614250880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kurone_zero: 今、これ。 https://t.co/VJ5plQcaeh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1680,
+        "media_key": "3_1798266520285696000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPS532EbUAAElte.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798266520285696000"
+          ],
+          "media_source_tweet_id": [
+            "1798266524614250880"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "1798407958122090571",
+        "created_at": "2024-06-05T17:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T18:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798407958122090571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1508790173642878976",
+              "start": 3,
+              "username": "kurone_zero"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/VJ5plQcaeh",
+              "end": 46,
+              "expanded_url": "https://twitter.com/kurone_zero/status/1798266524614250880/photo/1",
+              "media_key": "3_1798266520285696000",
+              "start": 23,
+              "url": "https://t.co/VJ5plQcaeh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798407958122090571",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 287
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798266524614250880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kurone_zero: 今、これ。 https://t.co/VJ5plQcaeh"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798266520285696000"
+          ]
+        },
+        "author_id": "1508790173642878976",
+        "conversation_id": "1798266524614250880",
+        "created_at": "2024-06-05T08:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T09:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798266524614250880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/VJ5plQcaeh",
+              "end": 29,
+              "expanded_url": "https://twitter.com/kurone_zero/status/1798266524614250880/photo/1",
+              "media_key": "3_1798266520285696000",
+              "start": 6,
+              "url": "https://t.co/VJ5plQcaeh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798266524614250880",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 57796,
+          "like_count": 1914,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 287
+        },
+        "reply_settings": "everyone",
+        "text": "今、これ。 https://t.co/VJ5plQcaeh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "我已然丢失自我",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "A'CID",
+        "pinned_tweet_id": "1774830360578384099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 320,
+          "like_count": 34162,
+          "listed_count": 5,
+          "tweet_count": 7294
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-29T12:56:46.000Z",
+        "description": "アークナイツのドクター。※サブ垢@shironekko_zero です※アイコン絵：＠kurone_zero (私)※ヘッダー絵：二二先生(@ninirakugaki)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "shironekko_zero"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "kurone_zero"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "ninirakugaki"
+              }
+            ]
+          }
+        },
+        "id": "1508790173642878976",
+        "location": "ቺቻቺቻパインコーン",
+        "name": "くろねっこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767235349586284544/Pl37hKP6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7314,
+          "following_count": 503,
+          "like_count": 15175,
+          "listed_count": 34,
+          "tweet_count": 6429
+        },
+        "username": "kurone_zero",
+        "verified": false
+      }
+    ]
+  }
+}

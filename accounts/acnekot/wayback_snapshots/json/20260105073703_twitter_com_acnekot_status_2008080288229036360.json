@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2007121532225794544",
+    "created_at": "2026-01-05T07:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T08:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008080288229036360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1407768933105610754",
+          "start": 0,
+          "username": "XGZIYE1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008080288229036360",
+    "in_reply_to_user_id": "1407768933105610754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007121532225794544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XGZIYE1 推特更改了验证机制，软件要最新版、设备要过play验证"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2007121532225794544",
+        "created_at": "2026-01-05T07:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T08:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008080288229036360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1407768933105610754",
+              "start": 0,
+              "username": "XGZIYE1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008080288229036360",
+        "in_reply_to_user_id": "1407768933105610754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007121532225794544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XGZIYE1 推特更改了验证机制，软件要最新版、设备要过play验证"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407768933105610754",
+        "conversation_id": "2007121532225794544",
+        "created_at": "2026-01-02T16:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T17:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007121532225794544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007121532225794544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 431,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近换了新手机 但是登不了推特了 不知道怎么回事 有人知道吗 一直显示LoginError.AttestationDenied 然后是一串数字"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PkaB"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "距离你2.3KM",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 562,
+          "like_count": 62742,
+          "listed_count": 5,
+          "media_count": 2096,
+          "tweet_count": 9703
+        },
+        "url": "https://t.co/raYZh1PkaB",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-23T18:34:13.000Z",
+        "description": "这里梓烨 🇨🇳CN（ok）🇺🇸EN（ok）🇯🇵JP🇰🇷KR（use translator）重度龙控 目前大二 正在尝试接拼豆定制单来赚钱约稿或换稿 有事推特私信⚠️禁止转载设定图/任何稿件⚠️不混任何圈⚠️",
+        "id": "1407768933105610754",
+        "location": "诺弗兰特",
+        "name": "XGZIYE",
+        "pinned_tweet_id": "1819176412013846783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884338290192449537/7rzgOBRf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 251,
+          "like_count": 671,
+          "listed_count": 1,
+          "media_count": 336,
+          "tweet_count": 3528
+        },
+        "username": "XGZIYE1",
+        "verified": false
+      }
+    ]
+  }
+}

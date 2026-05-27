@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1994642715158745391",
+    "created_at": "2025-11-29T07:35:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T08:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994671453032382635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1634940148147441667",
+          "start": 0,
+          "username": "emiya436900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994671453032382635",
+    "in_reply_to_user_id": "1634940148147441667",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994642715158745391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emiya436900 骇死我哩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1011,
+        "media_key": "3_1994642699690151937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G65k96DbkAEF_Kl.jpg",
+        "width": 950
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1994642715158745391",
+        "created_at": "2025-11-29T07:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T08:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994671453032382635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1634940148147441667",
+              "start": 0,
+              "username": "emiya436900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994671453032382635",
+        "in_reply_to_user_id": "1634940148147441667",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994642715158745391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emiya436900 骇死我哩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994642699690151937"
+          ]
+        },
+        "author_id": "1634940148147441667",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994642715158745391",
+        "created_at": "2025-11-29T05:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994642715158745391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fm7W8tLcrP",
+              "end": 23,
+              "expanded_url": "https://x.com/emiya436900/status/1994642715158745391/photo/1",
+              "media_key": "3_1994642699690151937",
+              "start": 0,
+              "url": "https://t.co/fm7W8tLcrP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994642715158745391",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 421,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fm7W8tLcrP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PS09"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984849769211314179/Mzcgzncy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 474,
+          "like_count": 48215,
+          "listed_count": 4,
+          "media_count": 1919,
+          "tweet_count": 8934
+        },
+        "url": "https://t.co/raYZh1PS09",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:31:31.000Z",
+        "description": "#世界治愈计划 #自杀干预 #树洞 一个匿名提问箱https://t.co/qN5UYD3cR4\n小小的荧光，只能散发出微小的光芒",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "世界治愈计划"
+              },
+              {
+                "end": 13,
+                "start": 8,
+                "tag": "自杀干预"
+              },
+              {
+                "end": 17,
+                "start": 14,
+                "tag": "树洞"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/emiya4369",
+                "end": 48,
+                "expanded_url": "https://ngl.link/emiya4369",
+                "start": 25,
+                "url": "https://t.co/qN5UYD3cR4"
+              }
+            ]
+          }
+        },
+        "id": "1634940148147441667",
+        "name": "荧光",
+        "pinned_tweet_id": "1977673236474482893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898513488735272960/v6of14g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4178,
+          "following_count": 467,
+          "like_count": 1872,
+          "listed_count": 10,
+          "media_count": 499,
+          "tweet_count": 2862
+        },
+        "username": "emiya436900",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2009498830165930324",
+    "created_at": "2026-01-10T07:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T08:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009883197904171477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999034817514807296",
+          "start": 0,
+          "username": "Kirara_Kazari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009883197904171477",
+    "in_reply_to_user_id": "1999034817514807296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009498830165930324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirara_Kazari 感觉这个像ai，但是我没有证据"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2009498762570559488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Msek-a8AA6FE5.jpg",
+        "width": 1446
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2009498830165930324",
+        "created_at": "2026-01-10T07:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T08:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009883197904171477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999034817514807296",
+              "start": 0,
+              "username": "Kirara_Kazari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009883197904171477",
+        "in_reply_to_user_id": "1999034817514807296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009498830165930324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirara_Kazari 感觉这个像ai，但是我没有证据"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009498762570559488"
+          ]
+        },
+        "author_id": "1999034817514807296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009498830165930324",
+        "created_at": "2026-01-09T05:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T06:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009498830165930324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pX9W77x6wi",
+              "end": 23,
+              "expanded_url": "https://x.com/Kirara_Kazari/status/2009498830165930324/photo/1",
+              "media_key": "3_2009498762570559488",
+              "start": 0,
+              "url": "https://t.co/pX9W77x6wi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009498830165930324",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 14020,
+          "like_count": 546,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pX9W77x6wi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "到处闲逛ᗜ_ᗜ\n\nいつ終わるかな 意味もないのに",
+        "id": "1552213521253150720",
+        "location": "http://mocat.asia",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 577,
+          "like_count": 64670,
+          "listed_count": 5,
+          "media_count": 2160,
+          "tweet_count": 9885
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T08:33:47.000Z",
+        "description": "愿我们重新起航。起飞吧，一起。|  osu 5 digit player | 前端小趴菜 |\nopen to everything. | 宝宝@ttzzy114514 | 一代目:@Kirara_Miku 寻回中 | 欢迎新朋友老朋友互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 71,
+                "username": "ttzzy114514"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "Kirara_Miku"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/13928307",
+                "end": 23,
+                "expanded_url": "https://osu.ppy.sh/users/13928307",
+                "start": 0,
+                "url": "https://t.co/TzQPM7aR5o"
+              }
+            ]
+          }
+        },
+        "id": "1999034817514807296",
+        "location": "風莉の星",
+        "name": "雲母風莉",
+        "pinned_tweet_id": "1999050355527839797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999034960959963137/ClOIp2wD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 340,
+          "like_count": 6948,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 630
+        },
+        "url": "https://t.co/TzQPM7aR5o",
+        "username": "Kirara_Kazari",
+        "verified": true
+      }
+    ]
+  }
+}

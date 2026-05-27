@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2041107621143556096"
+      ],
+      "media_source_tweet_id": [
+        "2041108141266653325"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2041309582648357077",
+    "created_at": "2026-04-07T00:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T01:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041309582648357077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1457760054011121674",
+          "start": 3,
+          "username": "blended_jpeg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CXtxjSRDf1",
+          "end": 54,
+          "expanded_url": "https://x.com/blended_jpeg/status/2041108141266653325/video/1",
+          "media_key": "13_2041107621143556096",
+          "start": 31,
+          "url": "https://t.co/CXtxjSRDf1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041309582648357077",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1398
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041108141266653325",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blended_jpeg: bad claude.. https://t.co/CXtxjSRDf1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13633,
+        "height": 1080,
+        "media_key": "13_2041107621143556096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041107621143556096/img/6Nlh49D6TZxg1A3I.jpg",
+        "public_metrics": {
+          "view_count": 2295302
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041107621143556096/vid/avc1/320x320/Jp4QU1EZbcbvROet.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041107621143556096/vid/avc1/540x540/qdPQH-h2oO1u2Lh0.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041107621143556096/vid/avc1/720x720/RpEEM8PF8rm-P-4h.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041107621143556096/pl/t2gZomwUIHwjZ-fw.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041107621143556096"
+          ],
+          "media_source_tweet_id": [
+            "2041108141266653325"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2041309582648357077",
+        "created_at": "2026-04-07T00:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T01:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041309582648357077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1457760054011121674",
+              "start": 3,
+              "username": "blended_jpeg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CXtxjSRDf1",
+              "end": 54,
+              "expanded_url": "https://x.com/blended_jpeg/status/2041108141266653325/video/1",
+              "media_key": "13_2041107621143556096",
+              "start": 31,
+              "url": "https://t.co/CXtxjSRDf1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041309582648357077",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1398
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041108141266653325",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @blended_jpeg: bad claude.. https://t.co/CXtxjSRDf1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041107621143556096"
+          ]
+        },
+        "author_id": "1457760054011121674",
+        "conversation_id": "2041108141266653325",
+        "created_at": "2026-04-06T10:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041108141266653325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CXtxjSRDf1",
+              "end": 36,
+              "expanded_url": "https://x.com/blended_jpeg/status/2041108141266653325/video/1",
+              "media_key": "13_2041107621143556096",
+              "start": 13,
+              "url": "https://t.co/CXtxjSRDf1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041108141266653325",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3589,
+          "impression_count": 3339319,
+          "like_count": 16477,
+          "quote_count": 579,
+          "reply_count": 418,
+          "retweet_count": 1398
+        },
+        "reply_settings": "everyone",
+        "text": "bad claude.. https://t.co/CXtxjSRDf1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n小窝只过熟人和互关\n回fo只回面熟\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 103,
+                "username": "nanno_64"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "距离你1.5KM",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1979,
+          "following_count": 789,
+          "like_count": 89260,
+          "listed_count": 6,
+          "media_count": 3386,
+          "tweet_count": 15096
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-08T17:21:10.000Z",
+        "description": "🌏💫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/GitFrog1111/ba…",
+                "end": 23,
+                "expanded_url": "https://github.com/GitFrog1111/badclaude",
+                "start": 0,
+                "url": "https://t.co/IWaIRTeINJ"
+              }
+            ]
+          }
+        },
+        "id": "1457760054011121674",
+        "name": "yaml",
+        "pinned_tweet_id": "2041108141266653325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040373860928040960/q5waOsPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 465,
+          "like_count": 268,
+          "listed_count": 6,
+          "media_count": 29,
+          "tweet_count": 130
+        },
+        "url": "https://t.co/IWaIRTeINJ",
+        "username": "blended_jpeg",
+        "verified": true
+      }
+    ]
+  }
+}

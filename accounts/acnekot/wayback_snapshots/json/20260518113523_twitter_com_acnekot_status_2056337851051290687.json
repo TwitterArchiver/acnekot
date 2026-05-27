@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2056164808941240406",
+    "created_at": "2026-05-18T11:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T12:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056337851051290687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "89880888",
+          "start": 0,
+          "username": "Map1en_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056337851051290687",
+    "in_reply_to_user_id": "89880888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056164808941240406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Map1en_ 我第一次不带vr晕了vr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19887,
+        "height": 1010,
+        "media_key": "13_2056164736765689857",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056164736765689857/img/XukdahAMIyEg6cEo.jpg",
+        "public_metrics": {
+          "view_count": 106
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056164736765689857/pl/qQeevLnyb6hH7dQR.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056164736765689857/vid/avc1/1920x1010/w8JSQp-Fxfq6mTZn.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056164736765689857/vid/avc1/684x360/c_X8_CtA6zHgBCRE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056164736765689857/vid/avc1/1368x720/qeCIH192497YgNfK.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056164736765689857/vid/avc1/512x270/ixctyqF2EmXPqXPm.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2056164808941240406",
+        "created_at": "2026-05-18T11:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056337851051290687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "89880888",
+              "start": 0,
+              "username": "Map1en_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056337851051290687",
+        "in_reply_to_user_id": "89880888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056164808941240406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Map1en_ 我第一次不带vr晕了vr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056164736765689857"
+          ]
+        },
+        "author_id": "89880888",
+        "conversation_id": "2056164808941240406",
+        "created_at": "2026-05-18T00:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T01:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056164808941240406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kvgM30eANU",
+              "end": 28,
+              "expanded_url": "https://x.com/Map1en_/status/2056164808941240406/video/1",
+              "media_key": "13_2056164736765689857",
+              "start": 5,
+              "url": "https://t.co/kvgM30eANU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056164808941240406",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 243,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早早早早 https://t.co/kvgM30eANU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 126,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 103,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2402,
+          "following_count": 795,
+          "like_count": 92264,
+          "listed_count": 7,
+          "media_count": 3861,
+          "tweet_count": 16377
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-14T05:45:28.000Z",
+        "description": "这是一本日记 中国語95% 计算机软件爱好者 真冬ちゃん大好き Sleeping in VRChat Former VRCX maintainer 妹@fuzz_alin 不欢迎点赞很多的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 75,
+                "username": "fuzz_alin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Map1en/VRCX-0",
+                "end": 23,
+                "expanded_url": "https://github.com/Map1en/VRCX-0",
+                "start": 0,
+                "url": "https://t.co/WgOkiWt4QS"
+              }
+            ]
+          }
+        },
+        "id": "89880888",
+        "name": "pa",
+        "pinned_tweet_id": "2054586040036606138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041818852452134918/SUZS1J4r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 1238,
+          "like_count": 10137,
+          "listed_count": 12,
+          "media_count": 4009,
+          "tweet_count": 83541
+        },
+        "url": "https://t.co/WgOkiWt4QS",
+        "username": "Map1en_",
+        "verified": true
+      }
+    ]
+  }
+}

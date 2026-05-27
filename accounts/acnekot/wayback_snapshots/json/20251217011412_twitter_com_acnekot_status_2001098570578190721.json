@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000843210269319170"
+      ],
+      "media_source_tweet_id": [
+        "2000843285368324335"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2001098570578190721",
+    "created_at": "2025-12-17T01:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T02:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001098570578190721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1721931164322258945",
+          "start": 3,
+          "username": "snackanimals"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ebct30jc3w",
+          "end": 43,
+          "expanded_url": "https://x.com/snackanimals/status/2000843285368324335/photo/1",
+          "media_key": "3_2000843210269319170",
+          "start": 20,
+          "url": "https://t.co/ebct30jc3w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001098570578190721",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4174
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000843285368324335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @snackanimals: 🍔 https://t.co/ebct30jc3w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 627,
+        "media_key": "3_2000843210269319170",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8RsTH9a4AI94sR.jpg",
+        "width": 987
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000843210269319170"
+          ],
+          "media_source_tweet_id": [
+            "2000843285368324335"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2001098570578190721",
+        "created_at": "2025-12-17T01:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T02:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001098570578190721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1721931164322258945",
+              "start": 3,
+              "username": "snackanimals"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ebct30jc3w",
+              "end": 43,
+              "expanded_url": "https://x.com/snackanimals/status/2000843285368324335/photo/1",
+              "media_key": "3_2000843210269319170",
+              "start": 20,
+              "url": "https://t.co/ebct30jc3w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001098570578190721",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4174
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000843285368324335",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @snackanimals: 🍔 https://t.co/ebct30jc3w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000843210269319170"
+          ]
+        },
+        "author_id": "1721931164322258945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2000843285368324335",
+        "created_at": "2025-12-16T08:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T09:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000843285368324335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ebct30jc3w",
+              "end": 25,
+              "expanded_url": "https://x.com/snackanimals/status/2000843285368324335/photo/1",
+              "media_key": "3_2000843210269319170",
+              "start": 2,
+              "url": "https://t.co/ebct30jc3w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000843285368324335",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1820,
+          "impression_count": 409826,
+          "like_count": 21259,
+          "quote_count": 291,
+          "reply_count": 43,
+          "retweet_count": 4174
+        },
+        "reply_settings": "everyone",
+        "text": "🍔 https://t.co/ebct30jc3w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明\nSignal:nanno64",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PS09"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999088067693654016/sMoxaqQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 508,
+          "like_count": 55275,
+          "listed_count": 5,
+          "media_count": 1986,
+          "tweet_count": 9233
+        },
+        "url": "https://t.co/raYZh1PS09",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-07T16:42:46.000Z",
+        "description": "pfp sticker icon ok #snackanimals",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 20,
+                "tag": "snackanimals"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/snackanimals_m…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/snackanimals_moom?igsh=MWJhYzBld2RlNWxvMg%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/fHpfZyBz5W"
+              }
+            ]
+          }
+        },
+        "id": "1721931164322258945",
+        "location": "info@snackanimals.com",
+        "name": "🍨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988420763825909760/8V9FGd-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83995,
+          "following_count": 68,
+          "like_count": 8600,
+          "listed_count": 240,
+          "media_count": 263,
+          "tweet_count": 395
+        },
+        "url": "https://t.co/fHpfZyBz5W",
+        "username": "snackanimals",
+        "verified": true
+      }
+    ]
+  }
+}

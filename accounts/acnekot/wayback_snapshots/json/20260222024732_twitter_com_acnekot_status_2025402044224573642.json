@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2024734101203496960"
+      ],
+      "media_source_tweet_id": [
+        "2024734283605377185"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2025402044224573642",
+    "created_at": "2026-02-22T02:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T03:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025402044224573642"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 17,
+          "tag": "超かぐや姫"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1836199268841132032",
+          "start": 3,
+          "username": "hanisentaku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xthwkzLEHo",
+          "end": 54,
+          "expanded_url": "https://x.com/hanisentaku/status/2024734283605377185/video/1",
+          "media_key": "13_2024734101203496960",
+          "start": 31,
+          "url": "https://t.co/xthwkzLEHo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025402044224573642",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1416
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024734283605377185",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hanisentaku: #超かぐや姫\nファンアニメ https://t.co/xthwkzLEHo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15850,
+        "height": 1080,
+        "media_key": "13_2024734101203496960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024734101203496960/img/XSZaTJrKMJ6liz3t.jpg",
+        "public_metrics": {
+          "view_count": 117208
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024734101203496960/vid/avc1/480x270/WqTj5A5QDfb10usw.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024734101203496960/vid/avc1/640x360/biw9Lkci0BAcoGPD.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024734101203496960/vid/avc1/1280x720/jlSIiaEHm5JO9GNO.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024734101203496960/pl/D8KcyzTLkqcT2hoi.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024734101203496960"
+          ],
+          "media_source_tweet_id": [
+            "2024734283605377185"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2025402044224573642",
+        "created_at": "2026-02-22T02:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T03:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025402044224573642"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1836199268841132032",
+              "start": 3,
+              "username": "hanisentaku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xthwkzLEHo",
+              "end": 54,
+              "expanded_url": "https://x.com/hanisentaku/status/2024734283605377185/video/1",
+              "media_key": "13_2024734101203496960",
+              "start": 31,
+              "url": "https://t.co/xthwkzLEHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025402044224573642",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1416
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024734283605377185",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hanisentaku: #超かぐや姫\nファンアニメ https://t.co/xthwkzLEHo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024734101203496960"
+          ]
+        },
+        "author_id": "1836199268841132032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2024734283605377185",
+        "created_at": "2026-02-20T06:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T07:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024734283605377185"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xthwkzLEHo",
+              "end": 37,
+              "expanded_url": "https://x.com/hanisentaku/status/2024734283605377185/video/1",
+              "media_key": "13_2024734101203496960",
+              "start": 14,
+              "url": "https://t.co/xthwkzLEHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024734283605377185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1532,
+          "impression_count": 214877,
+          "like_count": 14384,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 1416
+        },
+        "reply_settings": "everyone",
+        "text": "#超かぐや姫\nファンアニメ https://t.co/xthwkzLEHo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94kyF"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 779,
+          "like_count": 80682,
+          "listed_count": 6,
+          "media_count": 2723,
+          "tweet_count": 12639
+        },
+        "url": "https://t.co/HEkBb94kyF",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-18T00:23:39.000Z",
+        "description": "趣味：選択範囲",
+        "id": "1836199268841132032",
+        "name": "hanisentaku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022032938389712903/zr1ORF9M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 1361,
+          "like_count": 8829,
+          "listed_count": 3,
+          "media_count": 52,
+          "tweet_count": 5111
+        },
+        "username": "hanisentaku",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026205714205880322"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2025995128255783250",
+    "created_at": "2026-02-24T08:01:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T09:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026205721071861824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1153143701943623680",
+          "start": 0,
+          "username": "GamemagicM"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i4jkJIl5mN",
+          "end": 35,
+          "expanded_url": "https://x.com/acnekot/status/2026205721071861824/photo/1",
+          "media_key": "3_2026205714205880322",
+          "start": 12,
+          "url": "https://t.co/i4jkJIl5mN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026205721071861824",
+    "in_reply_to_user_id": "1153143701943623680",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025995128255783250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GamemagicM https://t.co/i4jkJIl5mN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2026205714205880322",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB6HXJ0bsAI6Bm6.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026205714205880322"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2025995128255783250",
+        "created_at": "2026-02-24T08:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T09:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026205721071861824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1153143701943623680",
+              "start": 0,
+              "username": "GamemagicM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i4jkJIl5mN",
+              "end": 35,
+              "expanded_url": "https://x.com/acnekot/status/2026205721071861824/photo/1",
+              "media_key": "3_2026205714205880322",
+              "start": 12,
+              "url": "https://t.co/i4jkJIl5mN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026205721071861824",
+        "in_reply_to_user_id": "1153143701943623680",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025995128255783250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GamemagicM https://t.co/i4jkJIl5mN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153143701943623680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2025995128255783250",
+        "created_at": "2026-02-23T18:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T19:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025995128255783250"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025995128255783250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 615,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我用上Arch Linux了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度｜好丽友派:@wxb_NB\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好｜同类互关请私信）\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "wxb_NB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 767,
+          "like_count": 81469,
+          "listed_count": 6,
+          "media_count": 2776,
+          "tweet_count": 12900
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-22T03:24:17.000Z",
+        "description": "Tags: 物竞(已经毕业)/Minecraft/魂类/音游/编程/数学/galgame.\nblog: https://t.co/ddFAoytsiQ   欢迎加友链\n很高兴认识你.    |     Q.E.D. 万岁.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nkns.cc",
+                "end": 75,
+                "expanded_url": "https://nkns.cc",
+                "start": 52,
+                "url": "https://t.co/ddFAoytsiQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nkns.cc",
+                "end": 23,
+                "expanded_url": "http://nkns.cc",
+                "start": 0,
+                "url": "https://t.co/WWVobHpAgn"
+              }
+            ]
+          }
+        },
+        "id": "1153143701943623680",
+        "location": "Somewhere In Your Heart.",
+        "name": "𝙉𝙖𝙠𝙖𝙣𝙤𝙨𝙖𝙣🔮",
+        "pinned_tweet_id": "1975889051044782550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009241220443455488/1bTBoHF8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 372,
+          "like_count": 20851,
+          "listed_count": 6,
+          "media_count": 233,
+          "tweet_count": 1781
+        },
+        "url": "https://t.co/WWVobHpAgn",
+        "username": "GamemagicM",
+        "verified": false
+      }
+    ]
+  }
+}

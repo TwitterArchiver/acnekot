@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2022779259106820110",
+    "created_at": "2026-02-15T03:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T04:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022877628320092397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1779556990500630528",
+          "start": 0,
+          "username": "Anatdx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022877628320092397",
+    "in_reply_to_user_id": "1779556990500630528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022779259106820110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anatdx 哈人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 436,
+        "media_key": "3_2022779233958031360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBJa_wMa8AA3Uef.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2022779259106820110",
+        "created_at": "2026-02-15T03:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022877628320092397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1779556990500630528",
+              "start": 0,
+              "username": "Anatdx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022877628320092397",
+        "in_reply_to_user_id": "1779556990500630528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022779259106820110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anatdx 哈人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022779233958031360"
+          ]
+        },
+        "author_id": "1779556990500630528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2022779259106820110",
+        "created_at": "2026-02-14T21:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T22:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022779259106820110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xyjZrUCWfr",
+              "end": 42,
+              "expanded_url": "https://x.com/Anatdx/status/2022779259106820110/photo/1",
+              "media_key": "3_2022779233958031360",
+              "start": 19,
+              "url": "https://t.co/xyjZrUCWfr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022779259106820110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操我上了一下远古原神号突然发现不对 https://t.co/xyjZrUCWfr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語 以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 758,
+          "like_count": 78290,
+          "listed_count": 6,
+          "media_count": 2620,
+          "tweet_count": 12117
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-14T17:07:16.000Z",
+        "description": "わがはいは具合が悪い。大声を出されるとわがはいの具合がもっと悪くなる。だから一──【出て行け】。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "anatdx.com",
+                "end": 23,
+                "expanded_url": "https://anatdx.com",
+                "start": 0,
+                "url": "https://t.co/CabvTQy1Su"
+              }
+            ]
+          }
+        },
+        "id": "1779556990500630528",
+        "location": "絶海の孤島",
+        "name": "Anan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020383339073662982/-xeXvSm5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 587,
+          "like_count": 22914,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 231
+        },
+        "url": "https://t.co/CabvTQy1Su",
+        "username": "Anatdx",
+        "verified": false
+      }
+    ]
+  }
+}

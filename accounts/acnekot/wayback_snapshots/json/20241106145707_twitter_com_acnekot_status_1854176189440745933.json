@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1854176161540284417"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "1854176189440745933",
+    "created_at": "2024-11-06T14:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T15:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1854176189440745933"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BaLemYJ10Y",
+          "end": 29,
+          "expanded_url": "https://x.com/acnekot/status/1854176189440745933/photo/1",
+          "media_key": "16_1854176161540284417",
+          "start": 6,
+          "url": "https://t.co/BaLemYJ10Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854176189440745933",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "冒泡awo https://t.co/BaLemYJ10Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_1854176161540284417",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GbtbZSObIAEJTwj.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GbtbZSObIAEJTwj.mp4"
+          }
+        ],
+        "width": 410
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1854176161540284417"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "1854176189440745933",
+        "created_at": "2024-11-06T14:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T15:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854176189440745933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BaLemYJ10Y",
+              "end": 29,
+              "expanded_url": "https://x.com/acnekot/status/1854176189440745933/photo/1",
+              "media_key": "16_1854176161540284417",
+              "start": 6,
+              "url": "https://t.co/BaLemYJ10Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854176189440745933",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冒泡awo https://t.co/BaLemYJ10Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "awo https://t.co/7Z6BWtCrL8 @acnekot.177404.xyz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "acnekot"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/acnekot",
+                "end": 27,
+                "expanded_url": "https://ngl.link/acnekot",
+                "start": 4,
+                "url": "https://t.co/7Z6BWtCrL8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/acnekot",
+                "end": 23,
+                "expanded_url": "https://bonjour.bio/acnekot",
+                "start": 0,
+                "url": "https://t.co/dihqxxtjTA"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 368,
+          "like_count": 39720,
+          "listed_count": 3,
+          "tweet_count": 8033
+        },
+        "url": "https://t.co/dihqxxtjTA",
+        "username": "acnekot",
+        "verified": false
+      }
+    ]
+  }
+}

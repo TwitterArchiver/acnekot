@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030580984006258688"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2030579929482735827",
+    "created_at": "2026-03-08T09:46:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T10:46:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030580994173247901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/goCwwrzGa4",
+          "end": 50,
+          "expanded_url": "https://x.com/acnekot/status/2030580994173247901/photo/1",
+          "media_key": "3_2030580984006258688",
+          "start": 27,
+          "url": "https://t.co/goCwwrzGa4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030580994173247901",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030579929482735827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech 越来越看不懂巨硬想做什么了 https://t.co/goCwwrzGa4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2030580984006258688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC4SpX9bMAAoOAO.jpg",
+        "width": 2160
+      },
+      {
+        "height": 900,
+        "media_key": "3_2030579916824285184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC4RrQZakAAwJ4f.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030580984006258688"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2030579929482735827",
+        "created_at": "2026-03-08T09:46:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T10:46:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030580994173247901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/goCwwrzGa4",
+              "end": 50,
+              "expanded_url": "https://x.com/acnekot/status/2030580994173247901/photo/1",
+              "media_key": "3_2030580984006258688",
+              "start": 27,
+              "url": "https://t.co/goCwwrzGa4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030580994173247901",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030579929482735827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech 越来越看不懂巨硬想做什么了 https://t.co/goCwwrzGa4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030579916824285184"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2030579929482735827",
+        "created_at": "2026-03-08T09:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T10:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030579929482735827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "ourl.co/112075?x",
+              "end": 158,
+              "expanded_url": "https://ourl.co/112075?x",
+              "start": 135,
+              "unwound_url": "https://www.landiannews.com/archives/112075.html?utm_source=x.com&utm_medium=default&utm_campaign=%E5%BE%AE%E8%BD%AF%E7%9A%84%E7%A5%9E%E5%A5%87%E9%80%BB%E8%BE%91%EF%BC%9AWindows+11%E5%B0%86%E6%94%AF%E6%8C%81%E5%BF%AB%E9%80%9F%E5%88%87%E6%8D%A2%E6%B7%B1%E8%89%B2+%E9%80%89%E9%A1%B9%E8%A2%AB%E6%94%BE%E5%9C%A8%E8%8A%82%E8%83%BD%E6%A8%A1%E5%BC%8F%E9%87%8C",
+              "url": "https://t.co/i4yEs894XM"
+            },
+            {
+              "display_url": "pic.x.com/0tcKJgEu0a",
+              "end": 182,
+              "expanded_url": "https://x.com/landiantech/status/2030579929482735827/photo/1",
+              "media_key": "3_2030579916824285184",
+              "start": 159,
+              "url": "https://t.co/0tcKJgEu0a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030579929482735827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "微软的神奇逻辑：Windows 11 将支持快速切换深浅色模式，但选项被放在节能设置里。微软考虑的似乎并不是用户在夜间使用 PC 会不会刺眼，而是启用深色模式时能不能节省那么一点点电量，倘若我是台式机阁下又如何应对呢？好歹也应该将切换按钮作为一级菜单放到快捷操作里才对：https://t.co/i4yEs894XM https://t.co/0tcKJgEu0a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度｜好丽友派:@wxb_NB\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好｜同类互关请私信）\n猫喜欢搬点梗图给大伙看看（炫耀\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "wxb_NB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "好奇?哈气!!!这对吗？这对的",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 788,
+          "like_count": 84363,
+          "listed_count": 7,
+          "media_count": 2951,
+          "tweet_count": 13691
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / OpenClaw 重度用户🦞🦞🦞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33398,
+          "following_count": 704,
+          "like_count": 4175,
+          "listed_count": 268,
+          "media_count": 4934,
+          "tweet_count": 14206
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

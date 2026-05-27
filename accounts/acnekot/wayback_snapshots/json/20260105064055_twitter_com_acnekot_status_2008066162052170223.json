@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008066067156066304"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2007821208587563414",
+    "created_at": "2026-01-05T06:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T07:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008066162052170223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705855853231005696",
+          "start": 0,
+          "username": "real_clover_yan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f2KnnZVDsa",
+          "end": 63,
+          "expanded_url": "https://x.com/acnekot/status/2008066162052170223/photo/1",
+          "media_key": "3_2008066067156066304",
+          "start": 40,
+          "url": "https://t.co/f2KnnZVDsa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008066162052170223",
+    "in_reply_to_user_id": "1705855853231005696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008057502462861335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@real_clover_yan 很奇怪，我降级安装不了\n\n明明我root了啊 https://t.co/f2KnnZVDsa"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2008057502462861335].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2008057502462861335",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2008057502462861335"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 144,
+        "media_key": "3_2008066067156066304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G94VcupaYAA4uGE.png",
+        "width": 140
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008066067156066304"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2007821208587563414",
+        "created_at": "2026-01-05T06:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T07:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008066162052170223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705855853231005696",
+              "start": 0,
+              "username": "real_clover_yan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f2KnnZVDsa",
+              "end": 63,
+              "expanded_url": "https://x.com/acnekot/status/2008066162052170223/photo/1",
+              "media_key": "3_2008066067156066304",
+              "start": 40,
+              "url": "https://t.co/f2KnnZVDsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008066162052170223",
+        "in_reply_to_user_id": "1705855853231005696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008057502462861335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@real_clover_yan 很奇怪，我降级安装不了\n\n明明我root了啊 https://t.co/f2KnnZVDsa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PkaB"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "距离你2.3KM",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 562,
+          "like_count": 62708,
+          "listed_count": 5,
+          "media_count": 2096,
+          "tweet_count": 9701
+        },
+        "url": "https://t.co/raYZh1PkaB",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-24T08:05:19.000Z",
+        "description": "当将死之人化石在灰烬中发芽／INFP-T／男的／欢迎在此或在 Telegram 上私信。／转推、关注、互关不等于完全赞同／可取关，但请勿双取。／申请关注请随意，看到眼熟就通过。会屏蔽人，若认为屏蔽有误请联系。／本人所有账号不主动涉及任何政治内容。／Sorry, but I have a life.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "khyan.top",
+                "end": 23,
+                "expanded_url": "https://www.khyan.top",
+                "start": 0,
+                "url": "https://t.co/sGBcYmnNhD"
+              }
+            ]
+          }
+        },
+        "id": "1705855853231005696",
+        "location": "424.2 m",
+        "name": "𝓒𝓵𝓸𝓿𝓮𝓻 𝓨𝓪𝓷 ～(∠・ω＜)⌒",
+        "pinned_tweet_id": "1818914665768067403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993343063088066561/IHiXBk-C_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 814,
+          "like_count": 20961,
+          "listed_count": 3,
+          "media_count": 250,
+          "tweet_count": 4900
+        },
+        "url": "https://t.co/sGBcYmnNhD",
+        "username": "real_clover_yan",
+        "verified": false
+      }
+    ]
+  }
+}

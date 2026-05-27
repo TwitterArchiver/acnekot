@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1839276114705002524",
+    "created_at": "2024-09-26T23:46:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T00:46:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839451627255947690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1688233455363219456",
+          "start": 0,
+          "username": "Susiethegamer"
+        },
+        {
+          "end": 25,
+          "id": "1699109794471362560",
+          "start": 15,
+          "username": "Monikami_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839451627255947690",
+    "in_reply_to_user_id": "1688233455363219456",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839305333736616067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Susiethegamer @Monikami_ 🫣"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1839305333736616067].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1839305333736616067",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1839305333736616067"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1839276114705002524",
+        "created_at": "2024-09-26T23:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T00:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839451627255947690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1688233455363219456",
+              "start": 0,
+              "username": "Susiethegamer"
+            },
+            {
+              "end": 25,
+              "id": "1699109794471362560",
+              "start": 15,
+              "username": "Monikami_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839451627255947690",
+        "in_reply_to_user_id": "1688233455363219456",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839305333736616067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Susiethegamer @Monikami_ 🫣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "awa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/acnekot",
+                "end": 23,
+                "expanded_url": "https://bonjour.bio/acnekot",
+                "start": 0,
+                "url": "https://t.co/dihqxxtjTA"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 342,
+          "like_count": 37825,
+          "listed_count": 5,
+          "tweet_count": 7793
+        },
+        "url": "https://t.co/dihqxxtjTA",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T17:00:07.000Z",
+        "description": "ヨルシカ◂Ⓘ▸/ゲーム🎮/カルピス🥛/小孩@acenanami/好姐姐@lum1neko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 21,
+                "username": "acenanami"
+              },
+              {
+                "end": 44,
+                "start": 35,
+                "username": "lum1neko"
+              }
+            ]
+          }
+        },
+        "id": "1688233455363219456",
+        "name": "「𝗚𝗼𝗹𝗱𝗲𝗻𝗴𝗹𝗼𝘄」𝒮𝓊𝓈𝒾ℯ 𝒢𝓁𝒾𝓉𝓉ℯ𝓇",
+        "pinned_tweet_id": "1837849254397977009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836788916688736256/dTcXtwY2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 805,
+          "like_count": 119111,
+          "listed_count": 4,
+          "tweet_count": 22338
+        },
+        "username": "Susiethegamer",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-05T17:18:54.000Z",
+        "description": "丨揽责声明：点赞转推不是随手习惯，全都代表本人立场丨@Xgaleocerdo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "Xgaleocerdo"
+              }
+            ]
+          }
+        },
+        "id": "1699109794471362560",
+        "location": "👁️〰️👁️",
+        "name": "Moniko🤩",
+        "pinned_tweet_id": "1838620279058370783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825958516903038976/7Khff85a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 134,
+          "like_count": 45901,
+          "listed_count": 3,
+          "tweet_count": 9433
+        },
+        "username": "Monikami_",
+        "verified": false
+      }
+    ]
+  }
+}

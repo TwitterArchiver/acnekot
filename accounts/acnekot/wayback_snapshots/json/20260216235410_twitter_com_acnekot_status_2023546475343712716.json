@@ -1,0 +1,491 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023546470486704128"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2023306354220286291",
+    "created_at": "2026-02-16T23:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T00:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023546475343712716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "BI3BXI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jSOgcWxiU7",
+          "end": 31,
+          "expanded_url": "https://x.com/acnekot/status/2023546475343712716/photo/1",
+          "media_key": "3_2023546470486704128",
+          "start": 8,
+          "url": "https://t.co/jSOgcWxiU7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023546475343712716",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023306354220286291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BI3BXI https://t.co/jSOgcWxiU7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 314,
+        "media_key": "3_2023546470486704128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBUUyy_bAAAv4fr.jpg",
+        "width": 392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023546470486704128"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2023306354220286291",
+        "created_at": "2026-02-16T23:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T00:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023546475343712716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "BI3BXI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jSOgcWxiU7",
+              "end": 31,
+              "expanded_url": "https://x.com/acnekot/status/2023546475343712716/photo/1",
+              "media_key": "3_2023546470486704128",
+              "start": 8,
+              "url": "https://t.co/jSOgcWxiU7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023546475343712716",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023306354220286291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BI3BXI https://t.co/jSOgcWxiU7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2023306354220286291",
+        "created_at": "2026-02-16T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023306354220286291"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023306354220286291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "春节祝福190条\n1. Windows开机蓝屏\n2. Linux开机Kernel Panic\n3. MacOS开机五国\n4. 服务器iDRAC/iLO/IPMI/KVM全部失联\n5. 开机内核崩溃丢失数据\n6. fastboot线刷回滚报错\n7. twrp卡刷报错\n8. 每次重启必引发无限重启\n9. 刷模块开软件必黑砖\n10. 刷机不光早晚出事，中午刷机也会出事\n11. 用机必烧WiFi\n12. 黑砖端口必连不上\n13. 刷机一半必掉连接\n14. 用任何系统必遇bug\n15. 每次重启必砖格data\n16. 用机续航必血崩\n17. 用Magisk必养蛊\n18. 刷机每一天，黑砖每一天，换主板每一天\n19. 路由器全爆炸\n20. 路由表内存全溢出\n21. 交换机全环路\n22. 防火墙全阻断\n23. 无线信道全冲突\n24. 压接网线全短路\n25. BGP全漏表\n26. 机柜全断电\n27. RAID全爆炸\n28. NAS数据全丢\n29. 光模块全炸\n30. 光纤全不通\n31. 光猫全烫手\n32. 电表全倒转\n33. PHP全Fatal Error\n34. fileinfo全装不上\n35. npm/compose install全报错\n36. Laravel Mix全报未知错误\n37. 服务器全部宕机\n38. 电脑开机报错\n39. Linux rm -rf /*\n40. 数据库Delete\n41. CN2全绕路\n42. 线路全阻断\n43. 海外网站全被墙\n44. 服务器炸库\n45. 网关无响应\n46. 代理500\n47. 网站502\n48. RAID组几个一起炸几个\n49. UPS爆炸\n50. 一年到头DDOS CC不断\n51. 流量几千个T\n52. 并发上亿\n53. ping全超时\n54. 备案全重审\n55. 资源404\n56. SSL全重定向\n57. CDN全部回源\n58. 爬虫永远不来你家\n59. 水冷漏液\n60. CPU弯脚\n61. 风扇断叶\n62. 键盘进水\n63. 显卡花屏\n64. 主板浪涌\n65. 电源爆炸\n66. USB短路\n67. 机械磁碟损坏\n68. 固态坏块\n69. 磁盘全红\n70. RAM不兼容\n71. 网络延迟=999\n72. Windows update致命性错误\n73.刷第三方固件必变砖\n74.鼠标双击\n75.电源烧毁\n76.固态掉盘\n77.磁盘坏道\n78.容麦受潮\n79.内存出错\n80.2345绑架\n81编译器抽风\n82.github连线失败\n83.编译程序全错误\n84.错误全都抛不出\n85.多线程全都调不好\n86.忘记保存必停电\n87.内存全吃满\n88.CPU高发热\n89.调试全崩溃\n90.封装全找不到主类\n91.问题全无法解决\n92.IDE全无响应\n93.找人帮忙全不是大佬\n94.有想法时全尿急\n95.变量全接不到值\n96.写过的代码全忘记\n97.自己的注释全看不懂\n98.程序编译后全是bug，bug越修越多，bug修到不想做\n99.开机账户错误\n100.涂硅脂涂到针脚上\n101. Alipay被自动扣费\n102.忘记密码不重置\n103.twrp卡刷必报错\n104. download模式必掉\n105.9008救砖救不过\n106.黑苹果无兼容efi\n107.数据线断掉\n708.装AMD平台时碰断针脚\n109.装英特尔平台时cpu砸弯主板针脚\n110.装AMD平台时cpu砸弯主板针脚\n111.液金一定四处流\n112.水冷一定死里露\n113.买的塔扇热管必断\n114.下压扇风扇不转\n115.买的显卡必是假卡\n116.买的内存颗粒损坏\n117.安装硬盘失手摔坏\n118.买的固态必是山寨，\n119.送修笔电一定拒保\n120.电源必定个个核弹\n121.机箱必定个个纸片\n122.usb口全部损坏\n123.sata没有一个能用\n124.M.2口里必卡东西\n125.主板损坏必修不好\n126.RGB灯没一个点亮\n127.上M.2一定掰断\n128.打游戏时显卡炸裂\n129.鼠标卡左键\n130.键盘进咖啡\n131.耳机线被老鼠咬断\n132.超频时供电必着火\n133.超内存内存必冒烟\n134.超显卡显卡必爆炸\n135.超显示器必裂屏\n136.二手cpu电容掉大片\n137.笔电一定充不进电\n138.开盖一定刮掉核心\n139.cnc必撞刀\n140.虚拟机必逃逸\n141.买的散片全是轰天雷\n142.CPU必缩肛\n143.AMD必积热\n144.A卡必掉驱动\n145.熊孩子必格式化你机子行动硬碟\n146.显卡张张代码43\n147.格式化硬盘比自动写0\n148.剪视频必掉盘\n149.接线必短路\n150.配件必找不到\n151.找到的配件全有兼容问题\n152.接电必忘断电\n153.家里WiFi信道全部被占\n154.5G出门必降4G\n155.5G信道全干扰\n156.4G信号必蜗速\n157.蜗速必降2G信号\n158.机箱玻璃必自爆\n159.硬件快递必扔坏\n160.硬件快递必没保护\n161.笔记本清灰主板必击穿\n162.拆机必丢螺丝\n163.螺丝全滑丝\n164.塔式清灰必起火\n165.塔式清灰必击穿\n166.购买显卡必有洗衣服\n167.SSH天天被爆破\n168.换端口，改公钥认证\n169.运营商必不给你公网IP\n170.一年到头DDOS CC攻击不停歇\n171.备案全重审\n172.广播IP播几次掉几次\n173.网关必无响应\n174.网安天天查你站\n175.宝塔全部装不上\n176.CDN永远不回源\n177.买了服务器不开25565端口\n178.服务器提供商全跑路\n179.域名忘记续费过期\n180.访问网站跳必黄站\n181.DNS天天被劫持\n182.遇到问题难以解决\n183.所有文档看不懂\n184.代码写一半停电未保存\n185.接电漏电硬盘数据丢失\n186. 手机出问题经常售后\n187.提出所有决策被否决\n188.经常误删重要文件\n189. 手机电话号每月倒贴运营商钱\n190.新手机第一时间屏烧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 18390,
+          "like_count": 220,
+          "quote_count": 5,
+          "reply_count": 23,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "春节祝福190条\n1. Windows开机蓝屏\n2. Linux开机Kernel Panic\n3. MacOS开机五国\n4. 服务器iDRAC/iLO/IPMI/KVM全部失联\n5. 开机内核崩溃丢失数据\n6. fastboot线刷回滚报错\n7. twrp卡刷报错\n8. 每次重启必引发无限重启\n9. 刷模块开软件必黑砖\n10. 刷机不光早晚出事，中午刷机也会出事\n11. 用机必烧WiFi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語 以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 767,
+          "like_count": 79049,
+          "listed_count": 6,
+          "media_count": 2651,
+          "tweet_count": 12266
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "07年的大只Enby｜请不要屏蔽我🥺｜前世 @ryq59｜本体@yqua_｜点击“查看更多”可以了解我～｜老姐 @TennoujiNyano｜牢🦠@Saikin_XiJun",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 22,
+                "username": "ryq59"
+              },
+              {
+                "end": 37,
+                "start": 31,
+                "username": "yqua_"
+              },
+              {
+                "end": 70,
+                "start": 56,
+                "username": "TennoujiNyano"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Saikin_XiJun"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qm.qq.com/q/TT3IUMhhUQ",
+                "end": 23,
+                "expanded_url": "https://qm.qq.com/q/TT3IUMhhUQ",
+                "start": 0,
+                "url": "https://t.co/9ZD7jPC8bX"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "军粮城北站",
+        "name": "你是要气死铨酱么（二代目）",
+        "pinned_tweet_id": "2022688669711417846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7315,
+          "following_count": 3461,
+          "like_count": 32159,
+          "listed_count": 19,
+          "media_count": 1588,
+          "tweet_count": 6404
+        },
+        "url": "https://t.co/9ZD7jPC8bX",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

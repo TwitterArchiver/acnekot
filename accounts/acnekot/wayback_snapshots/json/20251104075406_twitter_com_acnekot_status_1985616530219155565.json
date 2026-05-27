@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1985002071981171001",
+    "created_at": "2025-11-04T07:54:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T08:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985616530219155565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1753377313126072320",
+          "start": 0,
+          "username": "SHIOKI__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985616530219155565",
+    "in_reply_to_user_id": "1753377313126072320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985002071981171001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SHIOKI__ 各有各的魅力吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1985002071981171001",
+        "created_at": "2025-11-04T07:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T08:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985616530219155565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1753377313126072320",
+              "start": 0,
+              "username": "SHIOKI__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985616530219155565",
+        "in_reply_to_user_id": "1753377313126072320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985002071981171001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHIOKI__ 各有各的魅力吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753377313126072320",
+        "conversation_id": "1985002071981171001",
+        "created_at": "2025-11-02T15:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T16:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985002071981171001"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985002071981171001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我该画彩色的才会容易吸引人´_&gt;`"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远",
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984849769211314179/Mzcgzncy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 460,
+          "like_count": 45020,
+          "listed_count": 4,
+          "media_count": 1882,
+          "tweet_count": 8757
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T11:19:03.000Z",
+        "description": "永远16岁的JK！颜文字收藏家╰(*´︶`*)╯绘画学习中\n中文|ENG，感谢关注！",
+        "id": "1753377313126072320",
+        "name": "SHiOKi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944335969760825344/bX27kVDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 108,
+          "like_count": 3058,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 457
+        },
+        "username": "SHIOKI__",
+        "verified": false
+      }
+    ]
+  }
+}

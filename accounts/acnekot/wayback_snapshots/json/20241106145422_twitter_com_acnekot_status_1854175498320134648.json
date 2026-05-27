@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1854038825183686888",
+    "created_at": "2024-11-06T14:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T15:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854175498320134648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1660343948945006593",
+          "start": 0,
+          "username": "qiand33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854175498320134648",
+    "in_reply_to_user_id": "1660343948945006593",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854038825183686888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiand33 哈人"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1854038825183686888].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1854038825183686888",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1854038825183686888"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1854038825183686888",
+        "created_at": "2024-11-06T14:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T15:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854175498320134648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1660343948945006593",
+              "start": 0,
+              "username": "qiand33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854175498320134648",
+        "in_reply_to_user_id": "1660343948945006593",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854038825183686888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiand33 哈人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "awo https://t.co/7Z6BWtCrL8 @acnekot.177404.xyz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "acnekot"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/acnekot",
+                "end": 27,
+                "expanded_url": "https://ngl.link/acnekot",
+                "start": 4,
+                "url": "https://t.co/7Z6BWtCrL8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/acnekot",
+                "end": 23,
+                "expanded_url": "https://bonjour.bio/acnekot",
+                "start": 0,
+                "url": "https://t.co/dihqxxtjTA"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 368,
+          "like_count": 39713,
+          "listed_count": 3,
+          "tweet_count": 8030
+        },
+        "url": "https://t.co/dihqxxtjTA",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-21T17:57:15.000Z",
+        "description": "14歲/infp/10後/抖m屬性 願生活如清泉，永流不息希望生活能更甜一些，苦澀消逝願關係如同在星軌上的星星，願我們永遠在一起，永遠愛與相信 @EDU1991US 來自香港，小學中文水平，星粉(三星愛好者)永遠的三星主義者 中推第一三星正星旗星粉 背景@ShaDow_0528\n白影畫的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 72,
+                "username": "EDU1991US"
+              },
+              {
+                "end": 139,
+                "start": 127,
+                "username": "ShaDow_0528"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qiand33",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qiand33",
+                "start": 0,
+                "url": "https://t.co/Rj8p3CvmoW"
+              }
+            ]
+          }
+        },
+        "id": "1660343948945006593",
+        "location": "永遠陪在你身邊",
+        "name": "千晴",
+        "pinned_tweet_id": "1851501122399191296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853354024118226944/wmSH0PkU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4495,
+          "following_count": 121,
+          "like_count": 35960,
+          "listed_count": 11,
+          "tweet_count": 17189
+        },
+        "url": "https://t.co/Rj8p3CvmoW",
+        "username": "qiand33",
+        "verified": false
+      }
+    ]
+  }
+}

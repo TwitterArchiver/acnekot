@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003097177380495360"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2003052054831591680",
+    "created_at": "2025-12-22T13:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T14:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003097190802379174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757616332240224256",
+          "start": 0,
+          "username": "B_cat38324"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oLOmjOLcAu",
+          "end": 35,
+          "expanded_url": "https://x.com/acnekot/status/2003097190802379174/photo/1",
+          "media_key": "3_2003097177380495360",
+          "start": 12,
+          "url": "https://t.co/oLOmjOLcAu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003097190802379174",
+    "in_reply_to_user_id": "1757616332240224256",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003052054831591680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B_cat38324 https://t.co/oLOmjOLcAu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2003097177380495360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8xuRRxaIAAwMK-.png",
+        "width": 339
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003097177380495360"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2003052054831591680",
+        "created_at": "2025-12-22T13:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T14:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003097190802379174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oLOmjOLcAu",
+              "end": 35,
+              "expanded_url": "https://x.com/acnekot/status/2003097190802379174/photo/1",
+              "media_key": "3_2003097177380495360",
+              "start": 12,
+              "url": "https://t.co/oLOmjOLcAu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003097190802379174",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003052054831591680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 https://t.co/oLOmjOLcAu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "2003052054831591680",
+        "created_at": "2025-12-22T10:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T11:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003052054831591680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AcboxLiu/statu…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/AcboxLiu/status/2003047179699847352",
+              "start": 19,
+              "url": "https://t.co/NDBHFui4CD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003052054831591680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1487,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003047179699847352",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小药娘学不会rust，就是因为没有逼 https://t.co/NDBHFui4CD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明\nSignal:nanno64",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PS09"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999088067693654016/sMoxaqQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 527,
+          "like_count": 58496,
+          "listed_count": 5,
+          "media_count": 2018,
+          "tweet_count": 9392
+        },
+        "url": "https://t.co/raYZh1PS09",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22074,
+          "following_count": 197,
+          "like_count": 690,
+          "listed_count": 72,
+          "media_count": 96,
+          "tweet_count": 21798
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

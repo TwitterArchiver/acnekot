@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2010543737123008687",
+    "created_at": "2026-01-12T02:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T03:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010543737123008687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1839900707610341376",
+          "start": 3,
+          "username": "VRC_ukiyomimo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010543737123008687",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010228417715941663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VRC_ukiyomimo: キモすぎだろWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24682,
+        "height": 1080,
+        "media_key": "13_2010228091566821376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2010228091566821376/img/GxOHa9IWXcM2EqN6.jpg",
+        "public_metrics": {
+          "view_count": 19232
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010228091566821376/vid/avc1/480x270/TcoIX7L7-3LgI0Jf.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010228091566821376/vid/avc1/640x360/_stHApUG24dJXwvy.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010228091566821376/vid/avc1/1280x720/qdMV6qJkfLvkA4Bf.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2010228091566821376/pl/fnqbvlG8QVn75t23.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2010543737123008687",
+        "created_at": "2026-01-12T02:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T03:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010543737123008687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1839900707610341376",
+              "start": 3,
+              "username": "VRC_ukiyomimo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010543737123008687",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010228417715941663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VRC_ukiyomimo: キモすぎだろWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2010228091566821376"
+          ]
+        },
+        "author_id": "1839900707610341376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2010228417715941663",
+        "created_at": "2026-01-11T05:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T06:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010228417715941663"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 216,
+              "start": 207,
+              "tag": "rurune3D"
+            },
+            {
+              "end": 224,
+              "start": 217,
+              "tag": "VRChat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O1lYij9Pa0",
+              "end": 248,
+              "expanded_url": "https://x.com/VRC_ukiyomimo/status/2010228417715941663/video/1",
+              "media_key": "13_2010228091566821376",
+              "start": 225,
+              "url": "https://t.co/O1lYij9Pa0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010228417715941663",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 41530,
+          "like_count": 762,
+          "quote_count": 7,
+          "reply_count": 6,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "キモすぎだろWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW\n#rurune3D #VRChat https://t.co/O1lYij9Pa0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "到处闲逛的猫ᗜ_ᗜ\n音游爱好者|不鉴证|欢迎和我互动|VRChat\n非中文使用翻译器 如有错意欢迎指正\n回fo请私信或者留言 不然就是纯随机(笑\nいつ終わるかな 意味もないのに",
+        "id": "1552213521253150720",
+        "location": "http://mocat.asia",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 574,
+          "like_count": 65482,
+          "listed_count": 5,
+          "media_count": 2198,
+          "tweet_count": 10001
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-28T05:31:35.000Z",
+        "description": "VTuber兼歌い手．ガルバ穣 作詞作曲．ﾀｺﾔｷﾀﾍﾞﾀｲ🐙_____本垢▶︎@kasuhodowameku_ __💍▶︎ @Joker680974E _________干し芋▶︎ https://t.co/B2L8dITo8D",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "kasuhodowameku_"
+              },
+              {
+                "end": 76,
+                "start": 63,
+                "username": "Joker680974E"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/ukiyomimovrc",
+                "end": 115,
+                "expanded_url": "https://lit.link/ukiyomimovrc",
+                "start": 92,
+                "url": "https://t.co/B2L8dITo8D"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/@kasuhodowamek…",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/@kasuhodowameku_?si=gVCcnypmLcZ56T9X",
+                "start": 0,
+                "url": "https://t.co/gtuGJ1xGrI"
+              }
+            ]
+          }
+        },
+        "id": "1839900707610341376",
+        "name": "うきよみも",
+        "pinned_tweet_id": "1928014507646795844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973033716076433408/GKJfy6i0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 200,
+          "like_count": 4196,
+          "listed_count": 3,
+          "media_count": 2229,
+          "tweet_count": 6008
+        },
+        "url": "https://t.co/gtuGJ1xGrI",
+        "username": "VRC_ukiyomimo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1839257249988141561",
+    "created_at": "2024-09-26T14:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-26T15:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839311058143686964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1675157675074785281",
+          "start": 0,
+          "username": "chocomintgtou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839311058143686964",
+    "in_reply_to_user_id": "1675157675074785281",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839257249988141561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chocomintgtou 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1839257249988141561",
+        "created_at": "2024-09-26T14:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T15:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839311058143686964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1675157675074785281",
+              "start": 0,
+              "username": "chocomintgtou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839311058143686964",
+        "in_reply_to_user_id": "1675157675074785281",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839257249988141561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chocomintgtou 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839257247613927424"
+          ]
+        },
+        "author_id": "1675157675074785281",
+        "conversation_id": "1839257249988141561",
+        "created_at": "2024-09-26T10:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T11:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839257249988141561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t5h6qlrvjf",
+              "end": 54,
+              "expanded_url": "https://twitter.com/chocomintgtou/status/1839257249988141561/photo/1",
+              "media_key": "3_1839257247613927424",
+              "start": 31,
+              "url": "https://t.co/T5H6qlRVjf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839257249988141561",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1145,
+          "like_count": 106,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "【予告】\n明日20時に新曲投稿します。よろしくお願いします。 https://t.co/T5H6qlRVjf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "awa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/acnekot",
+                "end": 23,
+                "expanded_url": "https://bonjour.bio/acnekot",
+                "start": 0,
+                "url": "https://t.co/dihqxxtjTA"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 342,
+          "like_count": 37809,
+          "listed_count": 5,
+          "tweet_count": 7773
+        },
+        "url": "https://t.co/dihqxxtjTA",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T15:01:44.000Z",
+        "description": "曲作る。\nニコニコ→https://t.co/qa6Gm8MSMG\n配信ストア→https://t.co/XYSXDFYA41",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/user/44298862?…",
+                "end": 33,
+                "expanded_url": "https://www.nicovideo.jp/user/44298862?ref=androidapp_other",
+                "start": 10,
+                "url": "https://t.co/qa6Gm8MSMG"
+              },
+              {
+                "display_url": "tunecore.co.jp/artists?id=805…",
+                "end": 63,
+                "expanded_url": "https://www.tunecore.co.jp/artists?id=805084",
+                "start": 40,
+                "url": "https://t.co/XYSXDFYA41"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@tassy9010",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@tassy9010",
+                "start": 0,
+                "url": "https://t.co/ymjQJVYNE7"
+              }
+            ]
+          }
+        },
+        "id": "1675157675074785281",
+        "name": "TASSY",
+        "pinned_tweet_id": "1832012835897143339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675421780117422080/ZEOVoAlP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5603,
+          "following_count": 5516,
+          "like_count": 836,
+          "listed_count": 48,
+          "tweet_count": 332
+        },
+        "url": "https://t.co/ymjQJVYNE7",
+        "username": "chocomintgtou",
+        "verified": true
+      }
+    ]
+  }
+}

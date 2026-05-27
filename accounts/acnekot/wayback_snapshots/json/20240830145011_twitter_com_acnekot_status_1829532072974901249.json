@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1659597029579034624",
+    "created_at": "2024-08-30T14:50:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T15:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829532072974901249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1787497458106597376",
+          "start": 0,
+          "username": "HamburgerPionee"
+        },
+        {
+          "end": 32,
+          "id": "1771782989082759168",
+          "start": 17,
+          "username": "Shuishenxiaoye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829532072974901249",
+    "in_reply_to_user_id": "1787497458106597376",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829528228639428974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HamburgerPionee @Shuishenxiaoye o前几天可以，现在不知道什么情况"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1659597029579034624",
+        "created_at": "2024-08-30T14:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T15:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829532072974901249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1787497458106597376",
+              "start": 0,
+              "username": "HamburgerPionee"
+            },
+            {
+              "end": 32,
+              "id": "1771782989082759168",
+              "start": 17,
+              "username": "Shuishenxiaoye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829532072974901249",
+        "in_reply_to_user_id": "1787497458106597376",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829528228639428974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HamburgerPionee @Shuishenxiaoye o前几天可以，现在不知道什么情况"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787497458106597376",
+        "conversation_id": "1659597029579034624",
+        "created_at": "2024-08-30T14:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T15:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829528228639428974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            },
+            {
+              "end": 24,
+              "id": "1771782989082759168",
+              "start": 9,
+              "username": "Shuishenxiaoye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829528228639428974",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798365395054981151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot @Shuishenxiaoye 现在这个链接用不了了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "真理就是没真理",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 328,
+          "like_count": 36619,
+          "listed_count": 5,
+          "tweet_count": 7607
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-06T14:59:49.000Z",
+        "description": "",
+        "id": "1787497458106597376",
+        "name": "Hamburger Pioneer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787497727414452224/7qPBURqZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 1,
+          "like_count": 3,
+          "listed_count": 0,
+          "tweet_count": 2
+        },
+        "username": "HamburgerPionee",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T06:16:04.000Z",
+        "description": "INFJ\n在学国际象棋\n我对486永远忠！诚！\n请，请对我0721吧！！😣",
+        "id": "1771782989082759168",
+        "name": "I♡Nina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797591085205827584/40i9SKzY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 715,
+          "like_count": 8467,
+          "listed_count": 0,
+          "tweet_count": 2347
+        },
+        "username": "Shuishenxiaoye",
+        "verified": false
+      }
+    ]
+  }
+}

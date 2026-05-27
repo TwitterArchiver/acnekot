@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2013825139985784834"
+      ],
+      "media_source_tweet_id": [
+        "2013825160378298841"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2013884994691756351",
+    "created_at": "2026-01-21T08:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T09:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013884994691756351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1648144386772070400",
+          "start": 3,
+          "username": "NoContextArkn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uHBfvZggAi",
+          "end": 42,
+          "expanded_url": "https://x.com/NoContextArkn/status/2013825160378298841/video/1",
+          "media_key": "7_2013825139985784834",
+          "start": 19,
+          "url": "https://t.co/uHBfvZggAi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013884994691756351",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 987
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013825160378298841",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NoContextArkn: https://t.co/uHBfvZggAi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20249,
+        "height": 544,
+        "media_key": "7_2013825139985784834",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2013825139985784834/pu/img/EmcTf4i56A2vrcjM.jpg",
+        "public_metrics": {
+          "view_count": 67707
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013825139985784834/pu/vid/avc1/356x270/BZkLWdjK7A7qbYT6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013825139985784834/pu/vid/avc1/476x360/I2MdMu4uSaZf60iO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013825139985784834/pu/vid/avc1/720x544/f42DgurZeq0C-iIw.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2013825139985784834/pu/pl/a2SGp3yXvNiOx1qn.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2013825139985784834"
+          ],
+          "media_source_tweet_id": [
+            "2013825160378298841"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2013884994691756351",
+        "created_at": "2026-01-21T08:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T09:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013884994691756351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1648144386772070400",
+              "start": 3,
+              "username": "NoContextArkn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uHBfvZggAi",
+              "end": 42,
+              "expanded_url": "https://x.com/NoContextArkn/status/2013825160378298841/video/1",
+              "media_key": "7_2013825139985784834",
+              "start": 19,
+              "url": "https://t.co/uHBfvZggAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013884994691756351",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 987
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013825160378298841",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NoContextArkn: https://t.co/uHBfvZggAi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2013825139985784834"
+          ]
+        },
+        "author_id": "1648144386772070400",
+        "conversation_id": "2013825160378298841",
+        "created_at": "2026-01-21T04:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T05:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013825160378298841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uHBfvZggAi",
+              "end": 23,
+              "expanded_url": "https://x.com/NoContextArkn/status/2013825160378298841/video/1",
+              "media_key": "7_2013825139985784834",
+              "start": 0,
+              "url": "https://t.co/uHBfvZggAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013825160378298841",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1144,
+          "impression_count": 137416,
+          "like_count": 7002,
+          "quote_count": 15,
+          "reply_count": 12,
+          "retweet_count": 987
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uHBfvZggAi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者|不鉴证|欢迎和我互动|VRChat|无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\n\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PkaB"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "tg@nanno_64",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 704,
+          "like_count": 70351,
+          "listed_count": 5,
+          "media_count": 2358,
+          "tweet_count": 10654
+        },
+        "url": "https://t.co/raYZh1PkaB",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-18T02:00:28.000Z",
+        "description": "Arknights Memes,why so serious.❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wisadel.com",
+                "end": 23,
+                "expanded_url": "http://wisadel.com",
+                "start": 0,
+                "url": "https://t.co/s0GAqoY71h"
+              }
+            ]
+          }
+        },
+        "id": "1648144386772070400",
+        "location": "Reunion Coalition",
+        "name": "No Context Arknights",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013815576746147841/yFAw5oaq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49480,
+          "following_count": 677,
+          "like_count": 74823,
+          "listed_count": 71,
+          "media_count": 2609,
+          "tweet_count": 2874
+        },
+        "url": "https://t.co/s0GAqoY71h",
+        "username": "NoContextArkn",
+        "verified": false
+      }
+    ]
+  }
+}

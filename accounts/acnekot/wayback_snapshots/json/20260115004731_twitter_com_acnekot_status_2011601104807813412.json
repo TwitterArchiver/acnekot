@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2011434440548102144"
+      ],
+      "media_source_tweet_id": [
+        "2011434529551184045"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2011601104807813412",
+    "created_at": "2026-01-15T00:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T01:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011601104807813412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "911515604913340416",
+          "start": 3,
+          "username": "oicolatcho"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e3EKu7XHGT",
+          "end": 41,
+          "expanded_url": "https://x.com/oicolatcho/status/2011434529551184045/video/1",
+          "media_key": "13_2011434440548102144",
+          "start": 18,
+          "url": "https://t.co/e3EKu7XHGT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011601104807813412",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011434529551184045",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oicolatcho: 😋 https://t.co/e3EKu7XHGT"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2011601104807813412].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2011601104807813412",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2011601104807813412"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11860,
+        "height": 1920,
+        "media_key": "13_2011434440548102144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2011434440548102144/img/vgH4Ern9sr-6DJ-D.jpg",
+        "public_metrics": {
+          "view_count": 1080
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011434440548102144/vid/avc1/720x1280/wl21WiQkX2X_1JwX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011434440548102144/vid/avc1/480x852/XCC5ZhGJfIxcYj1G.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2011434440548102144/pl/suCI9YLQjTxJe6q_.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011434440548102144/vid/avc1/320x568/hPvlAoTyxaIBGhYD.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011434440548102144/vid/avc1/1080x1920/UoHOVzJVr7dKjUOu.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2011434440548102144"
+          ]
+        },
+        "author_id": "911515604913340416",
+        "conversation_id": "2011434529551184045",
+        "created_at": "2026-01-14T13:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T14:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011434529551184045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e3EKu7XHGT",
+              "end": 25,
+              "expanded_url": "https://x.com/oicolatcho/status/2011434529551184045/video/1",
+              "media_key": "13_2011434440548102144",
+              "start": 2,
+              "url": "https://t.co/e3EKu7XHGT"
+            },
+            {
+              "display_url": "x.com/oicolatcho/sta…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/oicolatcho/status/2010682245586039223",
+              "start": 26,
+              "url": "https://t.co/Z5XzZeSVof"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011434529551184045",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5755,
+          "like_count": 174,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010682245586039223",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😋 https://t.co/e3EKu7XHGT https://t.co/Z5XzZeSVof"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "到处闲逛的猫ᗜ_ᗜ\n音游爱好者|不鉴证|欢迎和我互动|VRChat|无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n\nいつ終わるかな 意味もないのに",
+        "id": "1552213521253150720",
+        "location": "http://mocat.asia",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 573,
+          "like_count": 66842,
+          "listed_count": 5,
+          "media_count": 2265,
+          "tweet_count": 10205
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-23T09:00:30.000Z",
+        "description": "こころのえいようざい。もちもち。\n◇ VRChat: https://t.co/inRAiymlHQ\n◇ VOICEROID: https://t.co/ylbZLjCxu3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@oicolatcho",
+                "end": 50,
+                "expanded_url": "https://youtube.com/@oicolatcho",
+                "start": 27,
+                "url": "https://t.co/inRAiymlHQ"
+              },
+              {
+                "display_url": "nicovideo.jp/user/74565607",
+                "end": 87,
+                "expanded_url": "https://www.nicovideo.jp/user/74565607",
+                "start": 64,
+                "url": "https://t.co/ylbZLjCxu3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@oicolatcho",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@oicolatcho",
+                "start": 0,
+                "url": "https://t.co/inRAiymlHQ"
+              }
+            ]
+          }
+        },
+        "id": "911515604913340416",
+        "location": "やさしいせかい",
+        "name": "おいこらしょ",
+        "pinned_tweet_id": "1363757302222708736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1528996343385321472/NdkFppG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112480,
+          "following_count": 982,
+          "like_count": 24567,
+          "listed_count": 532,
+          "media_count": 2902,
+          "tweet_count": 13616
+        },
+        "url": "https://t.co/inRAiymlHQ",
+        "username": "oicolatcho",
+        "verified": true
+      }
+    ]
+  }
+}

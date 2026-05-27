@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987012536890482688"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1987012548785586207",
+    "created_at": "2025-11-08T04:21:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T05:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987012548785586207"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vOSni8z1WH",
+          "end": 23,
+          "expanded_url": "https://x.com/acnekot/status/1987012548785586207/photo/1",
+          "media_key": "3_1987012536890482688",
+          "start": 0,
+          "url": "https://t.co/vOSni8z1WH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987012548785586207",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/vOSni8z1WH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 778,
+        "media_key": "3_1987012536890482688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5NJX-ma4AAbmfB.jpg",
+        "width": 1262
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987012536890482688"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987012548785586207",
+        "created_at": "2025-11-08T04:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T05:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987012548785586207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vOSni8z1WH",
+              "end": 23,
+              "expanded_url": "https://x.com/acnekot/status/1987012548785586207/photo/1",
+              "media_key": "3_1987012536890482688",
+              "start": 0,
+              "url": "https://t.co/vOSni8z1WH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987012548785586207",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vOSni8z1WH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明",
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984849769211314179/Mzcgzncy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 464,
+          "like_count": 46204,
+          "listed_count": 4,
+          "media_count": 1901,
+          "tweet_count": 8862
+        },
+        "username": "acnekot",
+        "verified": false
+      }
+    ]
+  }
+}

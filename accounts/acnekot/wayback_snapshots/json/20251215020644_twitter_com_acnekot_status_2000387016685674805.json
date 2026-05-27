@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2000070707909448163",
+    "created_at": "2025-12-15T02:06:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T03:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000387016685674805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3305812952",
+          "start": 0,
+          "username": "nakseo123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000387016685674805",
+    "in_reply_to_user_id": "3305812952",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000070707909448163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nakseo123 same"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2716,
+        "height": 720,
+        "media_key": "7_2000070694202494977",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2000070694202494977/pu/img/QeNDB80D2EltItkD.jpg",
+        "public_metrics": {
+          "view_count": 382581
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000070694202494977/pu/vid/avc1/430x270/tz2snV8HY-i0zVEc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000070694202494977/pu/vid/avc1/574x360/ZWelnBs1fSzy0yL7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000070694202494977/pu/vid/avc1/1148x720/fChQAY7Irm15mn2b.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2000070694202494977/pu/pl/7DP4X277R3eFDSt6.m3u8?tag=12"
+          }
+        ],
+        "width": 1148
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2000070707909448163",
+        "created_at": "2025-12-15T02:06:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T03:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000387016685674805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3305812952",
+              "start": 0,
+              "username": "nakseo123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000387016685674805",
+        "in_reply_to_user_id": "3305812952",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000070707909448163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakseo123 same"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2000070694202494977"
+          ]
+        },
+        "author_id": "3305812952",
+        "conversation_id": "2000070707909448163",
+        "created_at": "2025-12-14T05:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T06:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000070707909448163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AzsI1OHU7K",
+              "end": 23,
+              "expanded_url": "https://x.com/nakseo123/status/2000070707909448163/video/1",
+              "media_key": "7_2000070694202494977",
+              "start": 0,
+              "url": "https://t.co/AzsI1OHU7K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000070707909448163",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3284,
+          "impression_count": 911557,
+          "like_count": 34046,
+          "quote_count": 112,
+          "reply_count": 48,
+          "retweet_count": 2962
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AzsI1OHU7K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明\nSignal:nanno64",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PS09"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999088067693654016/sMoxaqQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 502,
+          "like_count": 53767,
+          "listed_count": 5,
+          "media_count": 1951,
+          "tweet_count": 9115
+        },
+        "url": "https://t.co/raYZh1PS09",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-04T07:40:40.000Z",
+        "description": "You don't come here. You end up here.",
+        "id": "3305812952",
+        "location": "冥土",
+        "name": "あガン",
+        "pinned_tweet_id": "1995849056577617927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967949897656578048/5Xcewc5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69900,
+          "following_count": 1280,
+          "like_count": 3328,
+          "listed_count": 323,
+          "media_count": 185,
+          "tweet_count": 1077
+        },
+        "username": "nakseo123",
+        "verified": false
+      }
+    ]
+  }
+}

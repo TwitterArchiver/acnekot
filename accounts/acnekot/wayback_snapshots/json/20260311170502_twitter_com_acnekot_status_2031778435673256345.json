@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2031778435673256345",
+    "created_at": "2026-03-11T17:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T18:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031778435673256345"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/morganoflibera…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/morganofliberal/status/2031777015087673797",
+          "start": 50,
+          "url": "https://t.co/0JFlxUJkZK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031778435673256345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031777015087673797",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ghost ban是shadowban的一种，就是你看不到我的回复，但是你可以看到我发的帖子。。。 https://t.co/0JFlxUJkZK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2031778435673256345",
+        "created_at": "2026-03-11T17:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T18:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031778435673256345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/morganoflibera…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/morganofliberal/status/2031777015087673797",
+              "start": 50,
+              "url": "https://t.co/0JFlxUJkZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031778435673256345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031777015087673797",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ghost ban是shadowban的一种，就是你看不到我的回复，但是你可以看到我发的帖子。。。 https://t.co/0JFlxUJkZK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001998644673994752",
+        "conversation_id": "2031775859456332024",
+        "created_at": "2026-03-11T16:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T17:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031777015087673797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031777015087673797",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031775859456332024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 好像叫 Shadow ban"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度｜好丽友派:@wxb_NB\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好｜同类互关请私信）\n猫喜欢搬点梗图给大伙看看（炫耀\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\nあなたと繋いだ　それが浮遊感",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "wxb_NB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "t.me/memenekos",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 778,
+          "like_count": 84903,
+          "listed_count": 7,
+          "media_count": 3036,
+          "tweet_count": 13904
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-19T12:51:01.000Z",
+        "description": "穷则独善其身，达则兼济天下",
+        "id": "2001998644673994752",
+        "location": "Shinagawa-ku, Tokyo",
+        "name": "Morgan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001999389523623937/zyBvgTZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 388,
+          "like_count": 3665,
+          "listed_count": 3,
+          "media_count": 265,
+          "tweet_count": 2210
+        },
+        "username": "morganofliberal",
+        "verified": false
+      }
+    ]
+  }
+}

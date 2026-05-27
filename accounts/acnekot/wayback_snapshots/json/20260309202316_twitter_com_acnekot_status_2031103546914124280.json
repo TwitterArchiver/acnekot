@@ -1,0 +1,475 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2031098339622871040"
+      ],
+      "media_source_tweet_id": [
+        "2031098671522349324"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "2031103546914124280",
+    "created_at": "2026-03-09T20:23:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T21:23:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031103546914124280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1718745049213849600",
+          "start": 3,
+          "username": "7eaFwi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qwxf0j0OWV",
+          "end": 63,
+          "expanded_url": "https://x.com/7eaFwi/status/2031098671522349324/video/1",
+          "media_key": "13_2031098339622871040",
+          "start": 40,
+          "url": "https://t.co/Qwxf0j0OWV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031103546914124280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031098671522349324",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7eaFwi: リハーサルOKです　本撮影もそんな感じでお願いしますよ https://t.co/Qwxf0j0OWV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19718,
+        "height": 720,
+        "media_key": "13_2031098339622871040",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2031098339622871040/img/ugarCICb8kAR3MLB.jpg",
+        "public_metrics": {
+          "view_count": 55
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031098339622871040/vid/avc1/320x320/Pf3DAarw6cYgtxyH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031098339622871040/vid/avc1/540x540/dISCHAAD680FeSdZ.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031098339622871040/vid/avc1/720x720/5cKI0OlXXGO6Bw72.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2031098339622871040/pl/N4GnJnckjpf732V0.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2031098339622871040"
+          ],
+          "media_source_tweet_id": [
+            "2031098671522349324"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2031103546914124280",
+        "created_at": "2026-03-09T20:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T21:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031103546914124280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1718745049213849600",
+              "start": 3,
+              "username": "7eaFwi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qwxf0j0OWV",
+              "end": 63,
+              "expanded_url": "https://x.com/7eaFwi/status/2031098671522349324/video/1",
+              "media_key": "13_2031098339622871040",
+              "start": 40,
+              "url": "https://t.co/Qwxf0j0OWV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031103546914124280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031098671522349324",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7eaFwi: リハーサルOKです　本撮影もそんな感じでお願いしますよ https://t.co/Qwxf0j0OWV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2031098339622871040"
+          ]
+        },
+        "author_id": "1718745049213849600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2031098671522349324",
+        "created_at": "2026-03-09T20:03:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T21:03:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031098671522349324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qwxf0j0OWV",
+              "end": 51,
+              "expanded_url": "https://x.com/7eaFwi/status/2031098671522349324/video/1",
+              "media_key": "13_2031098339622871040",
+              "start": 28,
+              "url": "https://t.co/Qwxf0j0OWV"
+            },
+            {
+              "display_url": "x.com/7eaFwi/status/…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/7eaFwi/status/2031094326563115307",
+              "start": 52,
+              "url": "https://t.co/BQ5zuCUc7k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031098671522349324",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 203,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031094326563115307",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "リハーサルOKです　本撮影もそんな感じでお願いしますよ https://t.co/Qwxf0j0OWV https://t.co/BQ5zuCUc7k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度｜好丽友派:@wxb_NB\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好｜同类互关请私信）\n猫喜欢搬点梗图给大伙看看（炫耀\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\nあなたと繋いだ　それが浮遊感",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "wxb_NB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "t.me/memenekos",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1585,
+          "following_count": 792,
+          "like_count": 84574,
+          "listed_count": 7,
+          "media_count": 2998,
+          "tweet_count": 13812
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-29T21:42:12.000Z",
+        "description": "魔女🥀🪉, 3D写真  (NOT V/TUBER, NOT V/RChat), 雑多やBMSなど, 音楽の話題NG⚠️\nメインアカウント：@7eaF\nファンアート：#leafbms\n自撮り： #leafbga & ハイライト\nモデル：@Sourxuan939\nデザイン：@toconiwa1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 82,
+                "tag": "leafbms"
+              },
+              {
+                "end": 104,
+                "start": 96,
+                "tag": "leafbga"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 74,
+                "start": 69,
+                "username": "7eaF"
+              },
+              {
+                "end": 129,
+                "start": 117,
+                "username": "Sourxuan939"
+              },
+              {
+                "end": 145,
+                "start": 135,
+                "username": "toconiwa1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCq57M…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCq57Mh587hgFDXaxDjTP6Cw",
+                "start": 0,
+                "url": "https://t.co/i9FB9AuoJ4"
+              }
+            ]
+          }
+        },
+        "id": "1718745049213849600",
+        "name": "LeaF2",
+        "pinned_tweet_id": "2030998248664772635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719313620063109120/PtWqGh_J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29147,
+          "following_count": 554,
+          "like_count": 28284,
+          "listed_count": 33,
+          "media_count": 1324,
+          "tweet_count": 26639
+        },
+        "url": "https://t.co/i9FB9AuoJ4",
+        "username": "7eaFwi",
+        "verified": true
+      }
+    ]
+  }
+}

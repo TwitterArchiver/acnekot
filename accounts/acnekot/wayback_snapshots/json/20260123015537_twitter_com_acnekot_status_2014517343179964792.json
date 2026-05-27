@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2014276982133956609"
+      ],
+      "media_source_tweet_id": [
+        "2014277063709004023"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2014517343179964792",
+    "created_at": "2026-01-23T01:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T02:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014517343179964792"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 71,
+          "normalized_text": "ArknightsEndfield",
+          "probability": 0.6365,
+          "start": 55,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 72,
+          "start": 54,
+          "tag": "ArknightsEndfield"
+        },
+        {
+          "end": 90,
+          "start": 73,
+          "tag": "EndfieldCreators"
+        },
+        {
+          "end": 109,
+          "start": 91,
+          "tag": "ZerothDirectiveCC"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2842208312",
+          "start": 3,
+          "username": "No_Tables"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aTBWS4d7jz",
+          "end": 133,
+          "expanded_url": "https://x.com/No_Tables/status/2014277063709004023/video/1",
+          "media_key": "7_2014276982133956609",
+          "start": 110,
+          "url": "https://t.co/aTBWS4d7jz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014517343179964792",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5151
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014277063709004023",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @No_Tables: Endministrators when the server opens \n#ArknightsEndfield #EndfieldCreators #ZerothDirectiveCC https://t.co/aTBWS4d7jz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57166,
+        "height": 1440,
+        "media_key": "7_2014276982133956609",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2014276982133956609/pu/img/HPaNGBLcrmpDXRkp.jpg",
+        "public_metrics": {
+          "view_count": 251163
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2014276982133956609/pu/vid/avc1/480x270/h9JOkjXCrcIVukIJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2014276982133956609/pu/vid/avc1/640x360/8g1WlVcCxSR_HMZH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2014276982133956609/pu/vid/avc1/1280x720/4gYIhu9oNH8faNf_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2014276982133956609/pu/pl/XFK33M3d4upVyWlx.m3u8?tag=12&v=acb"
+          }
+        ],
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2014276982133956609"
+          ],
+          "media_source_tweet_id": [
+            "2014277063709004023"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014517343179964792",
+        "created_at": "2026-01-23T01:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T02:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014517343179964792"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 71,
+              "normalized_text": "ArknightsEndfield",
+              "probability": 0.6365,
+              "start": 55,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 54,
+              "tag": "ArknightsEndfield"
+            },
+            {
+              "end": 90,
+              "start": 73,
+              "tag": "EndfieldCreators"
+            },
+            {
+              "end": 109,
+              "start": 91,
+              "tag": "ZerothDirectiveCC"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2842208312",
+              "start": 3,
+              "username": "No_Tables"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aTBWS4d7jz",
+              "end": 133,
+              "expanded_url": "https://x.com/No_Tables/status/2014277063709004023/video/1",
+              "media_key": "7_2014276982133956609",
+              "start": 110,
+              "url": "https://t.co/aTBWS4d7jz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014517343179964792",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5151
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014277063709004023",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @No_Tables: Endministrators when the server opens \n#ArknightsEndfield #EndfieldCreators #ZerothDirectiveCC https://t.co/aTBWS4d7jz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2014276982133956609"
+          ]
+        },
+        "author_id": "2842208312",
+        "conversation_id": "2014277063709004023",
+        "created_at": "2026-01-22T10:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T11:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014277063709004023"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 56,
+              "normalized_text": "ArknightsEndfield",
+              "probability": 0.7228,
+              "start": 40,
+              "type": "Other"
+            },
+            {
+              "end": 93,
+              "normalized_text": "ZerothDirectiveCC",
+              "probability": 0.5077,
+              "start": 77,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 39,
+              "tag": "ArknightsEndfield"
+            },
+            {
+              "end": 75,
+              "start": 58,
+              "tag": "EndfieldCreators"
+            },
+            {
+              "end": 94,
+              "start": 76,
+              "tag": "ZerothDirectiveCC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aTBWS4d7jz",
+              "end": 118,
+              "expanded_url": "https://x.com/No_Tables/status/2014277063709004023/video/1",
+              "media_key": "7_2014276982133956609",
+              "start": 95,
+              "url": "https://t.co/aTBWS4d7jz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014277063709004023",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6207,
+          "impression_count": 1022781,
+          "like_count": 26250,
+          "quote_count": 158,
+          "reply_count": 107,
+          "retweet_count": 5151
+        },
+        "reply_settings": "everyone",
+        "text": "Endministrators when the server opens \n#ArknightsEndfield #EndfieldCreators #ZerothDirectiveCC https://t.co/aTBWS4d7jz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者|不鉴证|欢迎和我互动|VRChat|无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\n\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "tg@nanno_64",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 702,
+          "like_count": 70977,
+          "listed_count": 5,
+          "media_count": 2377,
+          "tweet_count": 10769
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-06T10:07:13.000Z",
+        "description": "Professional procrastinator, artist and 3D animator. Does 40k and Genshin Impact animations!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "notables.carrd.co",
+                "end": 23,
+                "expanded_url": "https://notables.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/m4GAxzv4QO"
+              }
+            ]
+          }
+        },
+        "id": "2842208312",
+        "location": "Malaysia but the other half",
+        "name": "No_Tables",
+        "pinned_tweet_id": "1969413901478740410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1459804796370575368/2DY-Petl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26283,
+          "following_count": 3266,
+          "like_count": 86062,
+          "listed_count": 87,
+          "media_count": 483,
+          "tweet_count": 5796
+        },
+        "url": "https://t.co/m4GAxzv4QO",
+        "username": "No_Tables",
+        "verified": false
+      }
+    ]
+  }
+}

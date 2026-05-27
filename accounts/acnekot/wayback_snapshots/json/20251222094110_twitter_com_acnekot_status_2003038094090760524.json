@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2002617666188792118",
+    "created_at": "2025-12-22T09:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T10:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003038094090760524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1474169377280782338",
+          "start": 0,
+          "username": "phoenicasia"
+        },
+        {
+          "end": 24,
+          "id": "756779273155858432",
+          "start": 13,
+          "username": "ScarletKc_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003038094090760524",
+    "in_reply_to_user_id": "1474169377280782338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002986780740784409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@phoenicasia @ScarletKc_ 讲真deepseek在通用性方面真不如其他的模型，给我的感觉不是很好用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2002617666188792118",
+        "created_at": "2025-12-22T09:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T10:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003038094090760524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1474169377280782338",
+              "start": 0,
+              "username": "phoenicasia"
+            },
+            {
+              "end": 24,
+              "id": "756779273155858432",
+              "start": 13,
+              "username": "ScarletKc_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003038094090760524",
+        "in_reply_to_user_id": "1474169377280782338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002986780740784409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@phoenicasia @ScarletKc_ 讲真deepseek在通用性方面真不如其他的模型，给我的感觉不是很好用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1474169377280782338",
+        "conversation_id": "2002617666188792118",
+        "created_at": "2025-12-22T06:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T07:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002986780740784409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "756779273155858432",
+              "start": 0,
+              "username": "ScarletKc_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002986780740784409",
+        "in_reply_to_user_id": "756779273155858432",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002617666188792118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScarletKc_ deepseek：……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明\nSignal:nanno64",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PS09"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999088067693654016/sMoxaqQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 527,
+          "like_count": 58075,
+          "listed_count": 5,
+          "media_count": 2017,
+          "tweet_count": 9386
+        },
+        "url": "https://t.co/raYZh1PS09",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-24T00:05:50.000Z",
+        "description": "辛亥革命萬歲｜\n民族 民權 民生 丨\n自由 平等 博愛 ｜\n革命黨人聯合起來 打倒共產黨反動派 中國人民萬歲｜",
+        "id": "1474169377280782338",
+        "location": "中國大陸",
+        "name": "故月🇹🇼🚩",
+        "pinned_tweet_id": "1772494636092944444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768898932866957312/ijM5ysyB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 407,
+          "like_count": 9902,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 2521
+        },
+        "username": "phoenicasia",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-23T09:13:33.000Z",
+        "description": "AI tinkerer | Python enthusiast | Indie dev | College student | 🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "scarletkc.com",
+                "end": 23,
+                "expanded_url": "https://scarletkc.com/",
+                "start": 0,
+                "url": "https://t.co/YTKXMPiBzd"
+              }
+            ]
+          }
+        },
+        "id": "756779273155858432",
+        "name": "詩音",
+        "pinned_tweet_id": "2002617666188792118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913049579739828224/GClUlD41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2710,
+          "following_count": 878,
+          "like_count": 64839,
+          "listed_count": 6,
+          "media_count": 191,
+          "tweet_count": 6119
+        },
+        "url": "https://t.co/YTKXMPiBzd",
+        "username": "ScarletKc_",
+        "verified": true
+      }
+    ]
+  }
+}

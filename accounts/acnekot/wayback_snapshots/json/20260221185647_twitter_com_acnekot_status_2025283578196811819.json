@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2025283565764960256"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2025228551222669808",
+    "created_at": "2026-02-21T18:56:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T19:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025283578196811819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1943561677762646016",
+          "start": 0,
+          "username": "qusuunmd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aaqXQDhyQT",
+          "end": 33,
+          "expanded_url": "https://x.com/acnekot/status/2025283578196811819/photo/1",
+          "media_key": "16_2025283565764960256",
+          "start": 10,
+          "url": "https://t.co/aaqXQDhyQT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025283578196811819",
+    "in_reply_to_user_id": "1943561677762646016",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025228551222669808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qusuunmd https://t.co/aaqXQDhyQT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "16_2025283565764960256",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HBtArDLbYAAC1AB.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HBtArDLbYAAC1AB.mp4"
+          }
+        ],
+        "width": 640
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025228548337008643",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsOonSbgAMljlj.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2025283565764960256"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2025228551222669808",
+        "created_at": "2026-02-21T18:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T19:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025283578196811819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1943561677762646016",
+              "start": 0,
+              "username": "qusuunmd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aaqXQDhyQT",
+              "end": 33,
+              "expanded_url": "https://x.com/acnekot/status/2025283578196811819/photo/1",
+              "media_key": "16_2025283565764960256",
+              "start": 10,
+              "url": "https://t.co/aaqXQDhyQT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025283578196811819",
+        "in_reply_to_user_id": "1943561677762646016",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025228551222669808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qusuunmd https://t.co/aaqXQDhyQT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025228548337008643"
+          ]
+        },
+        "author_id": "1943561677762646016",
+        "conversation_id": "2025228551222669808",
+        "created_at": "2026-02-21T15:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T16:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025228551222669808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RcYbJwqDjN",
+              "end": 93,
+              "expanded_url": "https://x.com/qusuunmd/status/2025228551222669808/photo/1",
+              "media_key": "3_2025228548337008643",
+              "start": 70,
+              "url": "https://t.co/RcYbJwqDjN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025228551222669808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今日，中推弱智吧版主之一\n草莓艾草群群主\n云上贵鸠现任群主\n中推圈伟大缔造者老资历之一\n草莓走丢了\n为了逃避女装实行了暴政\n我们要讨伐他😡 https://t.co/RcYbJwqDjN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 778,
+          "like_count": 80641,
+          "listed_count": 6,
+          "media_count": 2720,
+          "tweet_count": 12626
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-11T06:44:29.000Z",
+        "description": "2010年的xyn/hrt🍥时间:2025.8.15/无证含糖🍥/高一牲/有点缺爱/想要贴贴/同类互fo喵/常住于青岛喵/过年会回泉州",
+        "id": "1943561677762646016",
+        "location": "Hachinohe-shi, Aomori",
+        "name": "曲速 u🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943564601829859328/eOpvqcX-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 67,
+          "like_count": 335,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 229
+        },
+        "username": "qusuunmd",
+        "verified": false
+      }
+    ]
+  }
+}

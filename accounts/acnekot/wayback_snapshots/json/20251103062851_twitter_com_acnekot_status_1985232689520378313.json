@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1985122099246047704",
+    "created_at": "2025-11-03T06:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T07:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985232689520378313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1837014520692461568",
+          "start": 0,
+          "username": "KalTsit51699"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985232689520378313",
+    "in_reply_to_user_id": "1837014520692461568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985122099246047704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KalTsit51699 一看就是歪卡了（直白"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1985122099246047704].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1985122099246047704",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1985122099246047704"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1985122099246047704",
+        "created_at": "2025-11-03T06:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T07:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985232689520378313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1837014520692461568",
+              "start": 0,
+              "username": "KalTsit51699"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985232689520378313",
+        "in_reply_to_user_id": "1837014520692461568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985122099246047704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KalTsit51699 一看就是歪卡了（直白"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远",
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984849769211314179/Mzcgzncy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 458,
+          "like_count": 44638,
+          "listed_count": 4,
+          "media_count": 1878,
+          "tweet_count": 8696
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T06:23:00.000Z",
+        "description": "你的好友猪咪已下线",
+        "id": "1837014520692461568",
+        "location": "港区-皇家宿舍，柴郡喵的猫窝内",
+        "name": "邪恶柴郡占领地球",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911775296686112769/s60_hv5t_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 1064,
+          "like_count": 58114,
+          "listed_count": 4,
+          "media_count": 2198,
+          "tweet_count": 13026
+        },
+        "username": "KalTsit51699",
+        "verified": false
+      }
+    ]
+  }
+}

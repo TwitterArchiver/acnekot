@@ -1,0 +1,216 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1788654315097526676",
+    "created_at": "2024-05-10T08:35:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T09:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788850386465702127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1435255784313528320",
+          "start": 0,
+          "username": "Kn_QcA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788850386465702127",
+    "in_reply_to_user_id": "1435255784313528320",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788654315097526676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kn_QcA 草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1788654315097526676",
+        "created_at": "2024-05-10T08:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T09:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788850386465702127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1435255784313528320",
+              "start": 0,
+              "username": "Kn_QcA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788850386465702127",
+        "in_reply_to_user_id": "1435255784313528320",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788654315097526676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kn_QcA 草"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1788654306838941697",
+            "3_1788654311477841926"
+          ]
+        },
+        "author_id": "1435255784313528320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1788654315097526676",
+        "created_at": "2024-05-09T19:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-09T20:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788654315097526676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/lXyb3jn1YT",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Kn_QcA/status/1788654315097526676/photo/1",
+              "media_key": "3_1788654306838941697",
+              "start": 0,
+              "url": "https://t.co/lXyb3jn1YT"
+            },
+            {
+              "display_url": "pic.twitter.com/lXyb3jn1YT",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Kn_QcA/status/1788654315097526676/photo/1",
+              "media_key": "3_1788654311477841926",
+              "start": 0,
+              "url": "https://t.co/lXyb3jn1YT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788654315097526676",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lXyb3jn1YT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "似梦非梦，沉沦其中",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "A'CID",
+        "pinned_tweet_id": "1774830360578384099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 315,
+          "like_count": 34027,
+          "listed_count": 5,
+          "tweet_count": 7229
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-07T14:57:09.000Z",
+        "description": "来自地球不知道哪里的宜家购物袋 年龄为51岁是个中年秃头大叔/Trance迷 喜欢Gouryella  AvB Alex M.O.R.P.H/音游淡坑 诶派克斯菜鸡/不资深cd收藏家/300fo沖冲冲！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "astateoftrance.com",
+                "end": 23,
+                "expanded_url": "http://astateoftrance.com",
+                "start": 0,
+                "url": "https://t.co/3wLTNEiYSI"
+              }
+            ]
+          }
+        },
+        "id": "1435255784313528320",
+        "name": "Stars_Stair",
+        "pinned_tweet_id": "1760326491525755213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715915319813009409/3zRgvyay_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 1085,
+          "like_count": 131143,
+          "listed_count": 2,
+          "tweet_count": 4793
+        },
+        "url": "https://t.co/3wLTNEiYSI",
+        "username": "Kn_QcA",
+        "verified": false
+      }
+    ]
+  }
+}

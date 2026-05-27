@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1839170933304836109",
+    "created_at": "2024-09-27T05:26:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T06:26:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839537016436089123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554078434275430400",
+          "start": 0,
+          "username": "Rhine__H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839537016436089123",
+    "in_reply_to_user_id": "1554078434275430400",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839170933304836109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rhine__H ¿¿¿啊？？？这…?啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1839170933304836109",
+        "created_at": "2024-09-27T05:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T06:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839537016436089123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554078434275430400",
+              "start": 0,
+              "username": "Rhine__H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839537016436089123",
+        "in_reply_to_user_id": "1554078434275430400",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839170933304836109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rhine__H ¿¿¿啊？？？这…?啊？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839170925029371904"
+          ]
+        },
+        "author_id": "1554078434275430400",
+        "conversation_id": "1839170933304836109",
+        "created_at": "2024-09-26T05:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-26T06:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839170933304836109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vnbqabedy1",
+              "end": 25,
+              "expanded_url": "https://twitter.com/Rhine__H/status/1839170933304836109/photo/1",
+              "media_key": "3_1839170925029371904",
+              "start": 2,
+              "url": "https://t.co/VNBQAbedy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839170933304836109",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 34415,
+          "like_count": 221,
+          "quote_count": 4,
+          "reply_count": 37,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/VNBQAbedy1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "awa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/acnekot",
+                "end": 23,
+                "expanded_url": "https://bonjour.bio/acnekot",
+                "start": 0,
+                "url": "https://t.co/dihqxxtjTA"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 343,
+          "like_count": 37938,
+          "listed_count": 5,
+          "tweet_count": 7801
+        },
+        "url": "https://t.co/dihqxxtjTA",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-01T12:16:11.000Z",
+        "description": "这里是莱茵( ˘ω˘ ) 会友善对待所有人（除极个别nt 摄影 / ACG / COSPLAY /烹饪 什么都懂一点点 初中在读 小莱茵：@Rhine___H    爱你们哦~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 69,
+                "username": "Rhine___H"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rhine71231",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rhine71231",
+                "start": 0,
+                "url": "https://t.co/UssA2WPIRK"
+              }
+            ]
+          }
+        },
+        "id": "1554078434275430400",
+        "location": "31°25'25\"N 91°11'19\"E",
+        "name": "29°39'05N 101°40'58E",
+        "pinned_tweet_id": "1833497884668662159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834818453729165314/vCqgHQjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21504,
+          "following_count": 1119,
+          "like_count": 40974,
+          "listed_count": 44,
+          "tweet_count": 9072
+        },
+        "url": "https://t.co/UssA2WPIRK",
+        "username": "Rhine__H",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1902560198100971521"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "1902440684344504327",
+    "created_at": "2025-03-20T03:17:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T04:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902560201305420246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1298928410358505473",
+          "start": 0,
+          "username": "echirru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qs8qqjo7wv",
+          "end": 32,
+          "expanded_url": "https://x.com/acnekot/status/1902560201305420246/photo/1",
+          "media_key": "3_1902560198100971521",
+          "start": 9,
+          "url": "https://t.co/qs8qqjo7wv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902560201305420246",
+    "in_reply_to_user_id": "1298928410358505473",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902533393805611412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@echirru https://t.co/qs8qqjo7wv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1902560198100971521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmdAa4Oa8AEzgUy.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902560198100971521"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "1902440684344504327",
+        "created_at": "2025-03-20T03:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T04:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902560201305420246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1298928410358505473",
+              "start": 0,
+              "username": "echirru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qs8qqjo7wv",
+              "end": 32,
+              "expanded_url": "https://x.com/acnekot/status/1902560201305420246/photo/1",
+              "media_key": "3_1902560198100971521",
+              "start": 9,
+              "url": "https://t.co/qs8qqjo7wv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902560201305420246",
+        "in_reply_to_user_id": "1298928410358505473",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902533393805611412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@echirru https://t.co/qs8qqjo7wv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1298928410358505473",
+        "conversation_id": "1902440684344504327",
+        "created_at": "2025-03-20T01:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T02:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902533393805611412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902533393805611412",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902440684344504327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "观察着…你和我",
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871051316312895489/MYVorhms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 407,
+          "like_count": 42321,
+          "listed_count": 3,
+          "media_count": 1822,
+          "tweet_count": 8481
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-27T10:21:13.000Z",
+        "description": "破碎的记忆/是过于普通啥都不会的废柴的乙乙/也可以叫我“孤久为安”or\"Ann\"(安)/ LGBTQ+ friendly /中文-English-日本語/国际主义 Internationalist/碎碎念/如想入tg频道请私信/头像及横幅来自@mari_kosaji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 121,
+                "username": "mari_kosaji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "echiru.top",
+                "end": 23,
+                "expanded_url": "https://echiru.top",
+                "start": 0,
+                "url": "https://t.co/u5a2ZMl1yx"
+              }
+            ]
+          }
+        },
+        "id": "1298928410358505473",
+        "location": "Universe",
+        "name": "CH₃COOC₂H₅",
+        "pinned_tweet_id": "1440319129211133975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894750531723378688/FDJ-Ko4j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2714,
+          "following_count": 772,
+          "like_count": 46317,
+          "listed_count": 26,
+          "media_count": 1119,
+          "tweet_count": 15191
+        },
+        "url": "https://t.co/u5a2ZMl1yx",
+        "username": "echirru",
+        "verified": false
+      }
+    ]
+  }
+}

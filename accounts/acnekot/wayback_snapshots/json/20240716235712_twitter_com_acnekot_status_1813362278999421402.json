@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1813125164915122642",
+    "created_at": "2024-07-16T23:57:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-17T00:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813362278999421402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1613079089879076864",
+          "start": 0,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813362278999421402",
+    "in_reply_to_user_id": "1613079089879076864",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813125164915122642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cldeop No"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1813125164915122642",
+        "created_at": "2024-07-16T23:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T00:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813362278999421402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813362278999421402",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813125164915122642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop No"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1812385387823738880"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1813125164915122642",
+        "created_at": "2024-07-16T08:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T09:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813125164915122642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/p2RLKLZ3WN",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Cldeop/status/1813125164915122642/photo/1",
+              "media_key": "3_1812385387823738880",
+              "start": 16,
+              "url": "https://t.co/p2RLKLZ3WN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813125164915122642",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 75794,
+          "like_count": 1515,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "Accept Cookies? https://t.co/p2RLKLZ3WN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "A'CID",
+        "pinned_tweet_id": "1774830360578384099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 323,
+          "like_count": 34373,
+          "listed_count": 5,
+          "tweet_count": 7345
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "推特见证每一种生物\n生活号@ACldJP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "我不是BOT",
+        "name": "雲鳩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696802554318061568/M4Tec_5U_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28589,
+          "following_count": 435,
+          "like_count": 14903,
+          "listed_count": 108,
+          "tweet_count": 5869
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

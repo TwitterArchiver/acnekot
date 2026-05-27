@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2030989479457050763",
+    "created_at": "2026-03-09T12:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T13:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030989908035375358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1247544266626183168",
+          "start": 0,
+          "username": "Scott04410162"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030989908035375358",
+    "in_reply_to_user_id": "1247544266626183168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030989634151580054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Scott04410162 你操"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2030989479457050763",
+        "created_at": "2026-03-09T12:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T13:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030989908035375358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1247544266626183168",
+              "start": 0,
+              "username": "Scott04410162"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030989908035375358",
+        "in_reply_to_user_id": "1247544266626183168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030989634151580054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Scott04410162 你操"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247544266626183168",
+        "conversation_id": "2030989479457050763",
+        "created_at": "2026-03-09T12:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T13:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030989634151580054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030989634151580054",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030989479457050763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 我操"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度｜好丽友派:@wxb_NB\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好｜同类互关请私信）\n猫喜欢搬点梗图给大伙看看（炫耀\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "wxb_NB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "t.me/memenekos",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 791,
+          "like_count": 84522,
+          "listed_count": 7,
+          "media_count": 2987,
+          "tweet_count": 13780
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-07T15:18:35.000Z",
+        "description": "人有所操",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "scottshrimp.com",
+                "end": 23,
+                "expanded_url": "https://www.scottshrimp.com",
+                "start": 0,
+                "url": "https://t.co/qYurmMPtcV"
+              }
+            ]
+          }
+        },
+        "id": "1247544266626183168",
+        "location": "胳膊壮环形山",
+        "name": "CuSO4",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010285335088144384/gvDlkmzo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 1733,
+          "like_count": 80592,
+          "listed_count": 2,
+          "media_count": 1252,
+          "tweet_count": 14873
+        },
+        "url": "https://t.co/qYurmMPtcV",
+        "username": "Scott04410162",
+        "verified": false
+      }
+    ]
+  }
+}

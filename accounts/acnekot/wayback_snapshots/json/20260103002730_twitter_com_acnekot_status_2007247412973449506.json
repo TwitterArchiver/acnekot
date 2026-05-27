@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1492285276420333568",
+          "name": "3D modeling"
+        }
+      }
+    ],
+    "conversation_id": "2007247412973449506",
+    "created_at": "2026-01-03T00:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T01:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007247412973449506"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "こまどさん",
+          "probability": 0.4212,
+          "start": 37,
+          "type": "Person"
+        },
+        {
+          "end": 54,
+          "normalized_text": "プラムちゃん",
+          "probability": 0.4926,
+          "start": 49,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1624625023117049856",
+          "start": 3,
+          "username": "Momoca_VRC"
+        }
+      ],
+      "urls": [
+        {
+          "description": "オリジナル3Dモデル『プラム -Plum- 』 製作者：こまど / komado ………………………………………………………………………………………… 🐾試着用アバター　- Plum_sample - https://vrchat.com/home/avatar/avtr_834d81f2-9524-42c1-96da-316e40113c99 ………………………………………………………………………………………… 主にVRChatでの使用を想定したモデルです。 利用規約の範囲内でご利用いただけます。 SNSなどで投稿する際にはハッシュタグ #Plum3D　をぜひご活用ください🐾",
+          "display_url": "komado.booth.pm/items/7770415",
+          "end": 144,
+          "expanded_url": "https://komado.booth.pm/items/7770415",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2006708047666884610/UnpHIhW3?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2006708047666884610/UnpHIhW3?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 121,
+          "status": 200,
+          "title": "プラム -Plum-【オリジナル3Dモデル】 - あまとうさぎ - BOOTH",
+          "unwound_url": "https://komado.booth.pm/items/7770415",
+          "url": "https://t.co/0BuRG6xIUo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007247412973449506",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 235
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007199711779008638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Momoca_VRC: 🎁プレゼント企画🎁\n抽選で2名の方に、こまどさんの3Dモデル\nプラムちゃんをプレゼントします✨\n応募方法：わたしをフォロー&amp;いいね&amp;リポスト\n締切日時：本日20時頃まで\n応募お待ちしています✨\nhttps://t.co/0BuRG6xIUo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492285276420333568",
+              "name": "3D modeling"
+            }
+          }
+        ],
+        "conversation_id": "2007247412973449506",
+        "created_at": "2026-01-03T00:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T01:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007247412973449506"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "こまどさん",
+              "probability": 0.4212,
+              "start": 37,
+              "type": "Person"
+            },
+            {
+              "end": 54,
+              "normalized_text": "プラムちゃん",
+              "probability": 0.4926,
+              "start": 49,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1624625023117049856",
+              "start": 3,
+              "username": "Momoca_VRC"
+            }
+          ],
+          "urls": [
+            {
+              "description": "オリジナル3Dモデル『プラム -Plum- 』 製作者：こまど / komado ………………………………………………………………………………………… 🐾試着用アバター　- Plum_sample - https://vrchat.com/home/avatar/avtr_834d81f2-9524-42c1-96da-316e40113c99 ………………………………………………………………………………………… 主にVRChatでの使用を想定したモデルです。 利用規約の範囲内でご利用いただけます。 SNSなどで投稿する際にはハッシュタグ #Plum3D　をぜひご活用ください🐾",
+              "display_url": "komado.booth.pm/items/7770415",
+              "end": 144,
+              "expanded_url": "https://komado.booth.pm/items/7770415",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2006708047666884610/UnpHIhW3?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2006708047666884610/UnpHIhW3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 121,
+              "status": 200,
+              "title": "プラム -Plum-【オリジナル3Dモデル】 - あまとうさぎ - BOOTH",
+              "unwound_url": "https://komado.booth.pm/items/7770415",
+              "url": "https://t.co/0BuRG6xIUo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007247412973449506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 235
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007199711779008638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Momoca_VRC: 🎁プレゼント企画🎁\n抽選で2名の方に、こまどさんの3Dモデル\nプラムちゃんをプレゼントします✨\n応募方法：わたしをフォロー&amp;いいね&amp;リポスト\n締切日時：本日20時頃まで\n応募お待ちしています✨\nhttps://t.co/0BuRG6xIUo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624625023117049856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492285276420333568",
+              "name": "3D modeling"
+            }
+          }
+        ],
+        "conversation_id": "2007199711779008638",
+        "created_at": "2026-01-02T21:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T22:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007199711779008638"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "こまどさん",
+              "probability": 0.424,
+              "start": 21,
+              "type": "Person"
+            },
+            {
+              "end": 38,
+              "normalized_text": "プラムちゃん",
+              "probability": 0.452,
+              "start": 33,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "description": "オリジナル3Dモデル『プラム -Plum- 』 製作者：こまど / komado ………………………………………………………………………………………… 🐾試着用アバター　- Plum_sample - https://vrchat.com/home/avatar/avtr_834d81f2-9524-42c1-96da-316e40113c99 ………………………………………………………………………………………… 主にVRChatでの使用を想定したモデルです。 利用規約の範囲内でご利用いただけます。 SNSなどで投稿する際にはハッシュタグ #Plum3D　をぜひご活用ください🐾",
+              "display_url": "komado.booth.pm/items/7770415",
+              "end": 128,
+              "expanded_url": "https://komado.booth.pm/items/7770415",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2006708047666884610/UnpHIhW3?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2006708047666884610/UnpHIhW3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 105,
+              "status": 200,
+              "title": "プラム -Plum-【オリジナル3Dモデル】 - あまとうさぎ - BOOTH",
+              "unwound_url": "https://komado.booth.pm/items/7770415",
+              "url": "https://t.co/0BuRG6xIUo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007199711779008638",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 5056,
+          "like_count": 234,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 235
+        },
+        "reply_settings": "everyone",
+        "text": "🎁プレゼント企画🎁\n抽選で2名の方に、こまどさんの3Dモデル\nプラムちゃんをプレゼントします✨\n応募方法：わたしをフォロー&amp;いいね&amp;リポスト\n締切日時：本日20時頃まで\n応募お待ちしています✨\nhttps://t.co/0BuRG6xIUo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PkaB"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 557,
+          "like_count": 62085,
+          "listed_count": 5,
+          "media_count": 2086,
+          "tweet_count": 9665
+        },
+        "url": "https://t.co/raYZh1PkaB",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-12T04:22:54.000Z",
+        "description": "🐱🐾無言勢です\nVRChat 開始日 2023年 2月12日\nVRChat ID : Momoca_VRC\n年に数度、プレゼント企画しています🎁\nワールド巡りなどが好きです💕\nVR睡眠しています、宜しくお願いします✨",
+        "id": "1624625023117049856",
+        "name": "Momoca_VRC (ももか)",
+        "pinned_tweet_id": "2007199711779008638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929348235984031744/To0p1PXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9832,
+          "following_count": 5493,
+          "like_count": 251368,
+          "listed_count": 31,
+          "media_count": 1739,
+          "tweet_count": 138624
+        },
+        "username": "Momoca_VRC",
+        "verified": false
+      }
+    ]
+  }
+}

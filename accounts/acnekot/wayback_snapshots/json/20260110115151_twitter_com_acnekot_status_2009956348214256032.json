@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1326539256244838401",
+          "name": "Rabbits"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543325212319744",
+          "name": "Animals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1326539256244838401",
+          "name": "Rabbits"
+        }
+      }
+    ],
+    "conversation_id": "2009956348214256032",
+    "created_at": "2026-01-10T11:51:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T12:51:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009956348214256032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1906656875132993536",
+          "start": 3,
+          "username": "probinasvrc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/ko5",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/ko5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009956348214256032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 523
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009601954947940590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @probinasvrc: 軽量化プレハブ配布キャンペーン!\n応募方法はフォロー＆リポスト\n\nあまとうさぎアバター5名の\n軽量化プレハブ完成記念でプラムちゃんを\n抽選で1名にギフトします\n応募期限は1/12(月)22時まで\n\n詳細はリプへ https://t.co/ko5…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2009601074886508545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-OJh8DagAE5FkG.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2009601301357973504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-OJvHua0AAAgek.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1326539256244838401",
+              "name": "Rabbits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1326539256244838401",
+              "name": "Rabbits"
+            }
+          }
+        ],
+        "conversation_id": "2009956348214256032",
+        "created_at": "2026-01-10T11:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T12:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009956348214256032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1906656875132993536",
+              "start": 3,
+              "username": "probinasvrc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/ko5",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/ko5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009956348214256032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 523
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009601954947940590",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @probinasvrc: 軽量化プレハブ配布キャンペーン!\n応募方法はフォロー＆リポスト\n\nあまとうさぎアバター5名の\n軽量化プレハブ完成記念でプラムちゃんを\n抽選で1名にギフトします\n応募期限は1/12(月)22時まで\n\n詳細はリプへ https://t.co/ko5…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009601074886508545",
+            "3_2009601301357973504"
+          ]
+        },
+        "author_id": "1906656875132993536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1326539256244838401",
+              "name": "Rabbits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1326539256244838401",
+              "name": "Rabbits"
+            }
+          }
+        ],
+        "conversation_id": "2009601954947940590",
+        "created_at": "2026-01-09T12:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T13:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009601954947940590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ko51goTxMp",
+              "end": 129,
+              "expanded_url": "https://x.com/probinasvrc/status/2009601954947940590/photo/1",
+              "media_key": "3_2009601074886508545",
+              "start": 106,
+              "url": "https://t.co/ko51goTxMp"
+            },
+            {
+              "display_url": "pic.x.com/ko51goTxMp",
+              "end": 129,
+              "expanded_url": "https://x.com/probinasvrc/status/2009601954947940590/photo/1",
+              "media_key": "3_2009601301357973504",
+              "start": 106,
+              "url": "https://t.co/ko51goTxMp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009601954947940590",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 313,
+          "impression_count": 44630,
+          "like_count": 960,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 523
+        },
+        "reply_settings": "everyone",
+        "text": "軽量化プレハブ配布キャンペーン!\n応募方法はフォロー＆リポスト\n\nあまとうさぎアバター5名の\n軽量化プレハブ完成記念でプラムちゃんを\n抽選で1名にギフトします\n応募期限は1/12(月)22時まで\n\n詳細はリプへ https://t.co/ko51goTxMp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "到处闲逛ᗜ_ᗜ\n\nいつ終わるかな 意味もないのに",
+        "id": "1552213521253150720",
+        "location": "http://mocat.asia",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 578,
+          "like_count": 64768,
+          "listed_count": 5,
+          "media_count": 2162,
+          "tweet_count": 9895
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-31T10:38:05.000Z",
+        "description": "VRChat向けショップ(プロビナス)の公式アカウントです\nBoothでアバター軽量化プレハブ・キメラアバター作成本を出品\nショップオーナー @varu_vr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 71,
+                "username": "varu_vr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "probinas.booth.pm",
+                "end": 23,
+                "expanded_url": "https://probinas.booth.pm",
+                "start": 0,
+                "url": "https://t.co/41lmOcE3Zh"
+              }
+            ]
+          }
+        },
+        "id": "1906656875132993536",
+        "name": "Probinas",
+        "pinned_tweet_id": "2003227848409239864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907620059947872257/VS8iEGr8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 2,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 27
+        },
+        "url": "https://t.co/41lmOcE3Zh",
+        "username": "probinasvrc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1641907215316533248",
+          "name": "The Algorithm"
+        }
+      }
+    ],
+    "conversation_id": "2042959073889677465",
+    "created_at": "2026-04-11T13:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T14:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042959073889677465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1047370883512188928",
+          "start": 3,
+          "username": "16167sakana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042959073889677465",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1036
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042815740567548214",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @16167sakana: My art is good, the algorithm just ignores me \nMy art is good, the algorithm just ignores me \nMy art is good, the algorith…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1529,
+        "media_key": "3_2042815731436589056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmKFZ3bkAAHMGc.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042815731419799552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmKFZzbYAAJVIf.jpg",
+        "width": 1448
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042815731423940608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmKFZ0akAAYH9Y.jpg",
+        "width": 1448
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042815731423956992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmKFZ0a0AANeJT.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1641907215316533248",
+              "name": "The Algorithm"
+            }
+          }
+        ],
+        "conversation_id": "2042959073889677465",
+        "created_at": "2026-04-11T13:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T14:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042959073889677465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1047370883512188928",
+              "start": 3,
+              "username": "16167sakana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042959073889677465",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1036
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042815740567548214",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @16167sakana: My art is good, the algorithm just ignores me \nMy art is good, the algorithm just ignores me \nMy art is good, the algorith…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042815731436589056",
+            "3_2042815731419799552",
+            "3_2042815731423940608",
+            "3_2042815731423956992"
+          ]
+        },
+        "author_id": "1047370883512188928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1641907215316533248",
+              "name": "The Algorithm"
+            }
+          }
+        ],
+        "conversation_id": "2042815740567548214",
+        "created_at": "2026-04-11T04:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042815740567548214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9AQCWZiSMy",
+              "end": 210,
+              "expanded_url": "https://x.com/16167sakana/status/2042815740567548214/photo/1",
+              "media_key": "3_2042815731436589056",
+              "start": 187,
+              "url": "https://t.co/9AQCWZiSMy"
+            },
+            {
+              "display_url": "pic.x.com/9AQCWZiSMy",
+              "end": 210,
+              "expanded_url": "https://x.com/16167sakana/status/2042815740567548214/photo/1",
+              "media_key": "3_2042815731419799552",
+              "start": 187,
+              "url": "https://t.co/9AQCWZiSMy"
+            },
+            {
+              "display_url": "pic.x.com/9AQCWZiSMy",
+              "end": 210,
+              "expanded_url": "https://x.com/16167sakana/status/2042815740567548214/photo/1",
+              "media_key": "3_2042815731423940608",
+              "start": 187,
+              "url": "https://t.co/9AQCWZiSMy"
+            },
+            {
+              "display_url": "pic.x.com/9AQCWZiSMy",
+              "end": 210,
+              "expanded_url": "https://x.com/16167sakana/status/2042815740567548214/photo/1",
+              "media_key": "3_2042815731423956992",
+              "start": 187,
+              "url": "https://t.co/9AQCWZiSMy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042815740567548214",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1244,
+          "impression_count": 106477,
+          "like_count": 10133,
+          "quote_count": 29,
+          "reply_count": 133,
+          "retweet_count": 1036
+        },
+        "reply_settings": "everyone",
+        "text": "My art is good, the algorithm just ignores me \nMy art is good, the algorithm just ignores me \nMy art is good, the algorithm just ignores me \nMy art is good, the algorithm just ignores me https://t.co/9AQCWZiSMy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n回fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 793,
+          "like_count": 89911,
+          "listed_count": 6,
+          "media_count": 3508,
+          "tweet_count": 15398
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2018-10-03T06:20:52.000Z",
+        "description": "絵を描くよっ！映像も！わぁい/美術紫水企画運営@bijutsushisui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "bijutsushisui"
+              }
+            ]
+          }
+        },
+        "id": "1047370883512188928",
+        "location": "Tokyo, Japan 🇯🇵",
+        "name": "とーる",
+        "pinned_tweet_id": "1929002848718635329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865639912818806784/DGNSkQXy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9129,
+          "following_count": 360,
+          "like_count": 45963,
+          "listed_count": 53,
+          "media_count": 658,
+          "tweet_count": 8871
+        },
+        "username": "16167sakana",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1492285276420333568",
+          "name": "3D modeling"
+        }
+      }
+    ],
+    "conversation_id": "2003031943626248654",
+    "created_at": "2025-12-22T09:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T10:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003031943626248654"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "ラムネ",
+          "probability": 0.4982,
+          "start": 19,
+          "type": "Other"
+        },
+        {
+          "end": 67,
+          "normalized_text": "ラムネ",
+          "probability": 0.4767,
+          "start": 65,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1722961735706128384",
+          "start": 3,
+          "username": "emolab_"
+        },
+        {
+          "end": 124,
+          "id": "1722961735706128384",
+          "start": 116,
+          "username": "emolab_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003031943626248654",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12435
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998709277322817878",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @emolab_: /／\n📢『ラムネ』発売記念プレゼント企画！\n\\＼\n\n発売を記念し【3名様】に新作オリジナル3Dモデル『ラムネ』をプレゼント！🪼💜🌟\nBOOTHのスキ1000毎に【1名様】追加❤️ \n\n【応募方法】\n1️⃣ @emolab_ をフォロー✅\n2️⃣このポス…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1998690420298223616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7zGWQXaEAAN-aV.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492285276420333568",
+              "name": "3D modeling"
+            }
+          }
+        ],
+        "conversation_id": "2003031943626248654",
+        "created_at": "2025-12-22T09:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T10:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003031943626248654"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "ラムネ",
+              "probability": 0.4982,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 67,
+              "normalized_text": "ラムネ",
+              "probability": 0.4767,
+              "start": 65,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1722961735706128384",
+              "start": 3,
+              "username": "emolab_"
+            },
+            {
+              "end": 124,
+              "id": "1722961735706128384",
+              "start": 116,
+              "username": "emolab_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003031943626248654",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12435
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998709277322817878",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @emolab_: /／\n📢『ラムネ』発売記念プレゼント企画！\n\\＼\n\n発売を記念し【3名様】に新作オリジナル3Dモデル『ラムネ』をプレゼント！🪼💜🌟\nBOOTHのスキ1000毎に【1名様】追加❤️ \n\n【応募方法】\n1️⃣ @emolab_ をフォロー✅\n2️⃣このポス…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998690420298223616"
+          ]
+        },
+        "author_id": "1722961735706128384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492285276420333568",
+              "name": "3D modeling"
+            }
+          }
+        ],
+        "conversation_id": "1998709277322817878",
+        "created_at": "2025-12-10T11:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998709277322817878"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "ラムネ",
+              "probability": 0.6168,
+              "start": 6,
+              "type": "Other"
+            },
+            {
+              "end": 54,
+              "normalized_text": "ラムネ",
+              "probability": 0.4755,
+              "start": 52,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 186,
+              "start": 177,
+              "tag": "Ramune3D"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 111,
+              "id": "1722961735706128384",
+              "start": 103,
+              "username": "emolab_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "オリジナル3Dモデル『ラムネ』🪼💜🌟 クラゲのような透明感をまとった女の子です。こんぺいとうが好き。 12/24 (水) 18:00 発売予定！ リリースを記念して1/5（月）まで期間限定で1,000円OFFセールを開催します✨ 6,000円→5,000円⭕ 年末年始にお迎えご検討いただけると嬉しいです🪼",
+              "display_url": "emolab.booth.pm/items/7699667",
+              "end": 175,
+              "expanded_url": "https://emolab.booth.pm/items/7699667",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2002385735635382273/DCxG06Yi?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2002385735635382273/DCxG06Yi?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 152,
+              "status": 200,
+              "title": "オリジナル3Dモデル『ラムネ』 - Ramune - えも研 - BOOTH",
+              "unwound_url": "https://emolab.booth.pm/items/7699667",
+              "url": "https://t.co/MXzHD5GRUd"
+            },
+            {
+              "display_url": "pic.x.com/7bNWm6Pg6E",
+              "end": 210,
+              "expanded_url": "https://x.com/emolab_/status/1998709277322817878/photo/1",
+              "media_key": "3_1998690420298223616",
+              "start": 187,
+              "url": "https://t.co/7bNWm6Pg6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998709277322817878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 671,
+          "impression_count": 709916,
+          "like_count": 11797,
+          "quote_count": 103,
+          "reply_count": 19,
+          "retweet_count": 12435
+        },
+        "reply_settings": "everyone",
+        "text": "/／\n📢『ラムネ』発売記念プレゼント企画！\n\\＼\n\n発売を記念し【3名様】に新作オリジナル3Dモデル『ラムネ』をプレゼント！🪼💜🌟\nBOOTHのスキ1000毎に【1名様】追加❤️ \n\n【応募方法】\n1️⃣ @emolab_ をフォロー✅\n2️⃣このポストをRP🔁❤️\n📆〆切: 12/23 23:59\n\nhttps://t.co/MXzHD5GRUd\n\n#Ramune3D https://t.co/7bNWm6Pg6E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明\nSignal:nanno64",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PS09"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999088067693654016/sMoxaqQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 526,
+          "like_count": 58024,
+          "listed_count": 5,
+          "media_count": 2017,
+          "tweet_count": 9384
+        },
+        "url": "https://t.co/raYZh1PS09",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-10T12:58:11.000Z",
+        "description": "🥼バーチャル世界の創作チーム『えも研』です。可愛いVRC向けアバターをお届けします。\n新作『ラムネ』12/24発売！🪼💜🌟\nhttps://t.co/rLIbPLIcO5\n\n🏠BOOTH👉 https://t.co/mE6VZcMvRi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "emolab.booth.pm/items/7699667",
+                "end": 85,
+                "expanded_url": "https://emolab.booth.pm/items/7699667",
+                "start": 62,
+                "url": "https://t.co/rLIbPLIcO5"
+              },
+              {
+                "display_url": "emolab.booth.pm",
+                "end": 118,
+                "expanded_url": "https://emolab.booth.pm/",
+                "start": 95,
+                "url": "https://t.co/mE6VZcMvRi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/emolab",
+                "end": 23,
+                "expanded_url": "https://lit.link/emolab",
+                "start": 0,
+                "url": "https://t.co/EYyQ7FCWkg"
+              }
+            ]
+          }
+        },
+        "id": "1722961735706128384",
+        "location": "えも研について👉",
+        "name": "えも研@『ラムネ』12/24発売！🪼💜🌟",
+        "pinned_tweet_id": "1998709277322817878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775172933729800192/NDILBo2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21550,
+          "following_count": 1129,
+          "like_count": 15274,
+          "listed_count": 67,
+          "media_count": 549,
+          "tweet_count": 5765
+        },
+        "url": "https://t.co/EYyQ7FCWkg",
+        "username": "emolab_",
+        "verified": true
+      }
+    ]
+  }
+}

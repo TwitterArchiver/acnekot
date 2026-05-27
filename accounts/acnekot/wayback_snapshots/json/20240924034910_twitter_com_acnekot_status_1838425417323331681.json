@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1837885098412462572",
+    "created_at": "2024-09-24T03:49:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T04:49:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838425417323331681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1484582068663521281",
+          "start": 0,
+          "username": "data_syuxchu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838425417323331681",
+    "in_reply_to_user_id": "1484582068663521281",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837885098412462572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@data_syuxchu 你好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1837885098412462572",
+        "created_at": "2024-09-24T03:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T04:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838425417323331681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1484582068663521281",
+              "start": 0,
+              "username": "data_syuxchu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838425417323331681",
+        "in_reply_to_user_id": "1484582068663521281",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837885098412462572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@data_syuxchu 你好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484582068663521281",
+        "conversation_id": "1837885098412462572",
+        "created_at": "2024-09-22T16:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T17:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837885098412462572"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837885098412462572",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 20205,
+          "like_count": 202,
+          "quote_count": 1,
+          "reply_count": 97,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我是日本人。请教我中文🇨🇳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "awa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "177404.xyz",
+                "end": 23,
+                "expanded_url": "http://177404.xyz",
+                "start": 0,
+                "url": "https://t.co/Jk6nRkHp3d"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 337,
+          "like_count": 37484,
+          "listed_count": 5,
+          "tweet_count": 7741
+        },
+        "url": "https://t.co/Jk6nRkHp3d",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-21T17:42:21.000Z",
+        "description": "我是五百雀 舟々ᐢ..ᐢ￤在日6年目 sjk ￤jlptN1 hsk6￤请和我交朋友‼️ 内部构造@syuushuu_naizou ￤爹@anblk984イラスト･翻訳依頼はDMまで",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "syuushuu_naizou"
+              },
+              {
+                "end": 77,
+                "start": 68,
+                "username": "anblk984"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kkkbbbsss2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kkkbbbsss2",
+                "start": 0,
+                "url": "https://t.co/QfXQ3By1ax"
+              }
+            ]
+          }
+        },
+        "id": "1484582068663521281",
+        "location": "前世@caisemoguiyu",
+        "name": "莠ﾋ卆髮? 闊溯亜‼️",
+        "pinned_tweet_id": "1831689497488298166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828020072801325057/au5DkUFi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 190,
+          "like_count": 7688,
+          "listed_count": 3,
+          "tweet_count": 497
+        },
+        "url": "https://t.co/QfXQ3By1ax",
+        "username": "data_syuxchu",
+        "verified": false
+      }
+    ]
+  }
+}

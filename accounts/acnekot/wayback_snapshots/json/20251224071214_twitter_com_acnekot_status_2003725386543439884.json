@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003725377227882496"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple iPad",
+          "id": "972153731067273222",
+          "name": "Apple iPad"
+        }
+      }
+    ],
+    "conversation_id": "2003722546018136513",
+    "created_at": "2025-12-24T07:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T08:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003725386543439884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2001598933169315840",
+          "start": 0,
+          "username": "XldscX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RAgMD5GhGN",
+          "end": 43,
+          "expanded_url": "https://x.com/acnekot/status/2003725386543439884/photo/1",
+          "media_key": "3_2003725377227882496",
+          "start": 20,
+          "url": "https://t.co/RAgMD5GhGN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003725386543439884",
+    "in_reply_to_user_id": "2001598933169315840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003722546018136513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XldscX ipad怎么烧的基带啊 https://t.co/RAgMD5GhGN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 98,
+        "media_key": "3_2003725377227882496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G86pnUkagAAAhMK.png",
+        "width": 103
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003725377227882496"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2003722546018136513",
+        "created_at": "2025-12-24T07:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T08:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003725386543439884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2001598933169315840",
+              "start": 0,
+              "username": "XldscX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RAgMD5GhGN",
+              "end": 43,
+              "expanded_url": "https://x.com/acnekot/status/2003725386543439884/photo/1",
+              "media_key": "3_2003725377227882496",
+              "start": 20,
+              "url": "https://t.co/RAgMD5GhGN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003725386543439884",
+        "in_reply_to_user_id": "2001598933169315840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003722546018136513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XldscX ipad怎么烧的基带啊 https://t.co/RAgMD5GhGN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001598933169315840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2003722546018136513",
+        "created_at": "2025-12-24T07:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T08:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003722546018136513"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003722546018136513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我服了iPad 每日一炸，之前基带烧掉了过后又开始“需要更新已激活 iPad”，问题是没有基带就不让更新"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明\nSignal:nanno64\nMatrix:@acnekot:https://t.co/F1pslBOfS7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 56,
+                "username": "acnekot"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "matrix.org",
+                "end": 88,
+                "expanded_url": "http://matrix.org",
+                "start": 65,
+                "url": "https://t.co/F1pslBOfS7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PkaB"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999088067693654016/sMoxaqQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 547,
+          "like_count": 59722,
+          "listed_count": 5,
+          "media_count": 2046,
+          "tweet_count": 9497
+        },
+        "url": "https://t.co/raYZh1PkaB",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-18T10:23:02.000Z",
+        "description": "你的意思是，一个未成年跨性别为了装逼泄漏了全体舞萌玩家的数据库，违反刑法第285-2条，泄露过后被气急败坏的舞萌吃开盒后有又气急败坏提供了入侵舞萌的外挂软件，违反刑法285-3条，充当了全体舞萌玩家账号被攻击始作俑者。然后上网哭诉一下自己又被反跨人士攻击过后美美洗白了？一点罪过也没有，全都是舞萌吃咎由自取？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "music.apple.com/cn/album/deici…",
+                "end": 23,
+                "expanded_url": "https://music.apple.com/cn/album/deicide-feat-hazuki-koizumi/1776078589?i=1776078591",
+                "start": 0,
+                "url": "https://t.co/lBYUvU7OP6"
+              }
+            ]
+          }
+        },
+        "id": "2001598933169315840",
+        "location": "澳门 花地玛堂区",
+        "name": "翎かめりあ",
+        "pinned_tweet_id": "2002095581628674077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001599167043620865/6OmuRr-1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 106,
+          "like_count": 623,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 350
+        },
+        "url": "https://t.co/lBYUvU7OP6",
+        "username": "XldscX",
+        "verified": false
+      }
+    ]
+  }
+}

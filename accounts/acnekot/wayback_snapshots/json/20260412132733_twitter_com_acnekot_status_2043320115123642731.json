@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2043102030798163969"
+      ],
+      "media_source_tweet_id": [
+        "2043102109965652081"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2043320115123642731",
+    "created_at": "2026-04-12T13:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T14:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043320115123642731"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 49,
+          "tag": "超かぐや姫"
+        },
+        {
+          "end": 77,
+          "start": 56,
+          "tag": "CosmicPrincessKaguya"
+        },
+        {
+          "end": 82,
+          "start": 78,
+          "tag": "トレス"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1091940805206433792",
+          "start": 3,
+          "username": "Soy_Wasabii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RhVkpCHc6w",
+          "end": 106,
+          "expanded_url": "https://x.com/Soy_Wasabii/status/2043102109965652081/video/1",
+          "media_key": "13_2043102030798163969",
+          "start": 83,
+          "url": "https://t.co/RhVkpCHc6w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043320115123642731",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2963
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043102109965652081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Soy_Wasabii: 超かぐや姫！×心予報🍫\n→「超心予報！」(ネタ被りn番煎じ🙏)\n#超かぐや姫\n#CosmicPrincessKaguya\n#トレス https://t.co/RhVkpCHc6w"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14366,
+        "height": 1280,
+        "media_key": "13_2043102030798163969",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043102030798163969/img/NxDZzQ2WZt60CwOS.jpg",
+        "public_metrics": {
+          "view_count": 96829
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043102030798163969/vid/avc1/320x568/2vwEmB4_WSbP3t9D.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043102030798163969/vid/avc1/480x852/rvd0MsIHE3is33Ca.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043102030798163969/vid/avc1/720x1280/reFcexT8N635Doc4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043102030798163969/pl/aDogEsL5j1GYDYgk.m3u8?v=7c1"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043102030798163969"
+          ],
+          "media_source_tweet_id": [
+            "2043102109965652081"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043320115123642731",
+        "created_at": "2026-04-12T13:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043320115123642731"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 49,
+              "tag": "超かぐや姫"
+            },
+            {
+              "end": 77,
+              "start": 56,
+              "tag": "CosmicPrincessKaguya"
+            },
+            {
+              "end": 82,
+              "start": 78,
+              "tag": "トレス"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1091940805206433792",
+              "start": 3,
+              "username": "Soy_Wasabii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RhVkpCHc6w",
+              "end": 106,
+              "expanded_url": "https://x.com/Soy_Wasabii/status/2043102109965652081/video/1",
+              "media_key": "13_2043102030798163969",
+              "start": 83,
+              "url": "https://t.co/RhVkpCHc6w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043320115123642731",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2963
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043102109965652081",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Soy_Wasabii: 超かぐや姫！×心予報🍫\n→「超心予報！」(ネタ被りn番煎じ🙏)\n#超かぐや姫\n#CosmicPrincessKaguya\n#トレス https://t.co/RhVkpCHc6w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043102030798163969"
+          ]
+        },
+        "author_id": "1091940805206433792",
+        "conversation_id": "2043102109965652081",
+        "created_at": "2026-04-11T23:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T00:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043102109965652081"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 32,
+              "tag": "超かぐや姫"
+            },
+            {
+              "end": 60,
+              "start": 39,
+              "tag": "CosmicPrincessKaguya"
+            },
+            {
+              "end": 65,
+              "start": 61,
+              "tag": "トレス"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RhVkpCHc6w",
+              "end": 89,
+              "expanded_url": "https://x.com/Soy_Wasabii/status/2043102109965652081/video/1",
+              "media_key": "13_2043102030798163969",
+              "start": 66,
+              "url": "https://t.co/RhVkpCHc6w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043102109965652081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3551,
+          "impression_count": 264778,
+          "like_count": 19144,
+          "quote_count": 41,
+          "reply_count": 22,
+          "retweet_count": 2963
+        },
+        "reply_settings": "everyone",
+        "text": "超かぐや姫！×心予報🍫\n→「超心予報！」(ネタ被りn番煎じ🙏)\n#超かぐや姫\n#CosmicPrincessKaguya\n#トレス https://t.co/RhVkpCHc6w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n回fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029,
+          "following_count": 793,
+          "like_count": 90048,
+          "listed_count": 6,
+          "media_count": 3530,
+          "tweet_count": 15452
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2019-02-03T06:05:50.000Z",
+        "description": "☁️虚弱人間観察コーナー☁️#絵師殺しのアユスク☁️自炊☁️気が向いたら描く",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 14,
+                "tag": "絵師殺しのアユスク"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/wasabi_natsume…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/wasabi_natsume?igsh=MXQydjE4bTdtOTAzaQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/cGNbaZyMRn"
+              }
+            ]
+          }
+        },
+        "id": "1091940805206433792",
+        "name": "わさび",
+        "pinned_tweet_id": "2043102109965652081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898631569566552064/-LVxY_9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 1339,
+          "like_count": 120037,
+          "listed_count": 10,
+          "media_count": 2516,
+          "tweet_count": 26679
+        },
+        "url": "https://t.co/cGNbaZyMRn",
+        "username": "Soy_Wasabii",
+        "verified": false
+      }
+    ]
+  }
+}

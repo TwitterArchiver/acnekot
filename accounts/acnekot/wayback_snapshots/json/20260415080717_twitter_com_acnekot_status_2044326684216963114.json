@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041993186189701120"
+      ],
+      "media_source_tweet_id": [
+        "2041993191638065273"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2044326684216963114",
+    "created_at": "2026-04-15T08:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T09:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044326684216963114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1258032566801555458",
+          "start": 3,
+          "username": "minima_ai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OUsK7npGMk",
+          "end": 38,
+          "expanded_url": "https://x.com/minima_ai/status/2041993191638065273/photo/1",
+          "media_key": "3_2041993186189701120",
+          "start": 15,
+          "url": "https://t.co/OUsK7npGMk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044326684216963114",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 420
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041993191638065273",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minima_ai: https://t.co/OUsK7npGMk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1360,
+        "media_key": "3_2041993186189701120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFad--Ca8AADEBB.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041993186189701120"
+          ],
+          "media_source_tweet_id": [
+            "2041993191638065273"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2044326684216963114",
+        "created_at": "2026-04-15T08:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T09:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044326684216963114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1258032566801555458",
+              "start": 3,
+              "username": "minima_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OUsK7npGMk",
+              "end": 38,
+              "expanded_url": "https://x.com/minima_ai/status/2041993191638065273/photo/1",
+              "media_key": "3_2041993186189701120",
+              "start": 15,
+              "url": "https://t.co/OUsK7npGMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044326684216963114",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 420
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041993191638065273",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minima_ai: https://t.co/OUsK7npGMk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041993186189701120"
+          ]
+        },
+        "author_id": "1258032566801555458",
+        "conversation_id": "2041993191638065273",
+        "created_at": "2026-04-08T21:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T22:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041993191638065273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OUsK7npGMk",
+              "end": 23,
+              "expanded_url": "https://x.com/minima_ai/status/2041993191638065273/photo/1",
+              "media_key": "3_2041993186189701120",
+              "start": 0,
+              "url": "https://t.co/OUsK7npGMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041993191638065273",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 375,
+          "impression_count": 75971,
+          "like_count": 6005,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 420
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OUsK7npGMk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n回fo请私信\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 133,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 110,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2097,
+          "following_count": 795,
+          "like_count": 90232,
+          "listed_count": 6,
+          "media_count": 3582,
+          "tweet_count": 15584
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-06T13:55:20.000Z",
+        "description": "| 過去 | Experimental Composer (1i '11-'19) → https://t.co/RWjUhiGDhJ\n| 現在 | AIArt + Music + Video + AICording ↓",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "1imusic.bandcamp.com",
+                "end": 67,
+                "expanded_url": "https://1imusic.bandcamp.com/",
+                "start": 44,
+                "url": "https://t.co/RWjUhiGDhJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minimas.notion.site/MINIMA-Portfol…",
+                "end": 23,
+                "expanded_url": "https://minimas.notion.site/MINIMA-Portfolio-2a4a94aab829802997b5efc9eec83531",
+                "start": 0,
+                "url": "https://t.co/cyyvEQuIex"
+              }
+            ]
+          }
+        },
+        "id": "1258032566801555458",
+        "location": "高知県",
+        "name": "MINIMA",
+        "pinned_tweet_id": "1998670020323455059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963906184802693120/xqXllyV3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11482,
+          "following_count": 899,
+          "like_count": 28110,
+          "listed_count": 89,
+          "media_count": 3300,
+          "tweet_count": 5766
+        },
+        "url": "https://t.co/cyyvEQuIex",
+        "username": "minima_ai",
+        "verified": true
+      }
+    ]
+  }
+}

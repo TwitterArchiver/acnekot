@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2044657288934244805",
+    "created_at": "2026-04-16T08:41:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T09:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044697613363286236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1165517058907496448",
+          "start": 0,
+          "username": "_alfalfa_tell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044697613363286236",
+    "in_reply_to_user_id": "1165517058907496448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044697438532059202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_alfalfa_tell 那么好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2044657288934244805",
+        "created_at": "2026-04-16T08:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T09:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044697613363286236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1165517058907496448",
+              "start": 0,
+              "username": "_alfalfa_tell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044697613363286236",
+        "in_reply_to_user_id": "1165517058907496448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044697438532059202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_alfalfa_tell 那么好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165517058907496448",
+        "conversation_id": "2044657288934244805",
+        "created_at": "2026-04-16T08:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T09:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044697438532059202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044697438532059202",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044657288934244805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 蓝色洗衣，红色烘干（确信）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n回fo请私信\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 133,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 110,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2161,
+          "following_count": 795,
+          "like_count": 90298,
+          "listed_count": 6,
+          "media_count": 3590,
+          "tweet_count": 15619
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-25T06:51:42.000Z",
+        "description": "我是苜耳刻子，可以叫我苜/　\n苜耳刻子｜ムー/　\n最喜歡的樂隊是 ヨルシカ/　\nヨルシカがいちばん好き！/　\n化學結構超級穩定/　\n我的記性真的很差請諒解/　\n最喜歡的暄暄: @520Jxmm52547 /　\n思維碎片：@kzwhamu\n↓查看更多",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "520Jxmm52547"
+              },
+              {
+                "end": 118,
+                "start": 110,
+                "username": "kzwhamu"
+              }
+            ]
+          }
+        },
+        "id": "1165517058907496448",
+        "location": "Stockholm, Sweden",
+        "name": "◂Ⓘ▸苜耳刻子🔰ᗜˬᗜ",
+        "pinned_tweet_id": "2000447408321470711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043347565199192064/qsrNzl6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 215,
+          "like_count": 8532,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 1788
+        },
+        "username": "_alfalfa_tell",
+        "verified": false
+      }
+    ]
+  }
+}

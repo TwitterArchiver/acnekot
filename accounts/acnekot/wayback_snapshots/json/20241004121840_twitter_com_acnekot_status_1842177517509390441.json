@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1841868386369994893",
+    "created_at": "2024-10-04T12:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-04T13:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842177517509390441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1329449687062032385",
+          "start": 0,
+          "username": "Stv_Lynn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842177517509390441",
+    "in_reply_to_user_id": "1329449687062032385",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841868386369994893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stv_Lynn 11111"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1841868386369994893",
+        "created_at": "2024-10-04T12:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T13:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842177517509390441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1329449687062032385",
+              "start": 0,
+              "username": "Stv_Lynn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842177517509390441",
+        "in_reply_to_user_id": "1329449687062032385",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841868386369994893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stv_Lynn 11111"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1841865408716144645"
+          ]
+        },
+        "author_id": "1329449687062032385",
+        "conversation_id": "1841868386369994893",
+        "created_at": "2024-10-03T15:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T16:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841868386369994893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H3IZ78KxCp",
+              "end": 66,
+              "expanded_url": "https://x.com/Stv_Lynn/status/1841868386369994893/video/1",
+              "media_key": "7_1841865408716144645",
+              "start": 43,
+              "url": "https://t.co/H3IZ78KxCp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841868386369994893",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1441,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Pika 1.5\n\n效果相当好\n声音似乎是固定的而不是生成的\n\n评论区有没有想被捏的 https://t.co/H3IZ78KxCp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "Into Nothing.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/acnekot",
+                "end": 23,
+                "expanded_url": "https://bonjour.bio/acnekot",
+                "start": 0,
+                "url": "https://t.co/dihqxxtjTA"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 346,
+          "like_count": 38676,
+          "listed_count": 5,
+          "tweet_count": 7867
+        },
+        "url": "https://t.co/dihqxxtjTA",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-19T15:41:29.000Z",
+        "description": "Internship @dify_ai |「喂马、劈柴、周游世界」| AI dev | EN/CH/JP | 留学予備中 | ❤️@hatunagi_yuzuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "dify_ai"
+              },
+              {
+                "end": 81,
+                "start": 65,
+                "username": "hatunagi_yuzuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stv.lol",
+                "end": 23,
+                "expanded_url": "https://stv.lol",
+                "start": 0,
+                "url": "https://t.co/PMLgG4GHep"
+              }
+            ]
+          }
+        },
+        "id": "1329449687062032385",
+        "location": "Yuzuki's Heart ",
+        "name": "Steven Lynn",
+        "pinned_tweet_id": "1836346491373523378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663823879536787456/vVDRjDpF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3036,
+          "following_count": 681,
+          "like_count": 37237,
+          "listed_count": 21,
+          "tweet_count": 6695
+        },
+        "url": "https://t.co/PMLgG4GHep",
+        "username": "Stv_Lynn",
+        "verified": true
+      }
+    ]
+  }
+}

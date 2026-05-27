@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1985698319189090588",
+    "created_at": "2025-11-05T01:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T02:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985880177805836579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1559906722588000256",
+          "start": 0,
+          "username": "Project_Luo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985880177805836579",
+    "in_reply_to_user_id": "1559906722588000256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985698319189090588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Project_Luo 信我是秦始皇还是信这玩意是天玑9400🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985698304127295488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G46eFkCaYAADCsI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1985698304613892100",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G46eFl2bQAQFDn-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1985698319189090588",
+        "created_at": "2025-11-05T01:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T02:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985880177805836579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1559906722588000256",
+              "start": 0,
+              "username": "Project_Luo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985880177805836579",
+        "in_reply_to_user_id": "1559906722588000256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985698319189090588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Project_Luo 信我是秦始皇还是信这玩意是天玑9400🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985698304127295488",
+            "3_1985698304613892100"
+          ]
+        },
+        "author_id": "1559906722588000256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1985698319189090588",
+        "created_at": "2025-11-04T13:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T14:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985698319189090588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V6xy4EowHj",
+              "end": 49,
+              "expanded_url": "https://x.com/Project_Luo/status/1985698319189090588/photo/1",
+              "media_key": "3_1985698304127295488",
+              "start": 26,
+              "url": "https://t.co/V6xy4EowHj"
+            },
+            {
+              "display_url": "pic.x.com/V6xy4EowHj",
+              "end": 49,
+              "expanded_url": "https://x.com/Project_Luo/status/1985698319189090588/photo/1",
+              "media_key": "3_1985698304613892100",
+              "start": 26,
+              "url": "https://t.co/V6xy4EowHj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985698319189090588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2752,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "室友2k块钱买的山寨机……\n忍俊不禁\n已经喊退货了 https://t.co/V6xy4EowHj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明",
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984849769211314179/Mzcgzncy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 462,
+          "like_count": 45336,
+          "listed_count": 4,
+          "media_count": 1888,
+          "tweet_count": 8780
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T14:15:28.000Z",
+        "description": "果然还是喜欢被叫小洛呢w  找我面基会被uno牌打哭的😈 但是可以用抹茶点心拐我跑😺  反香菜联盟首席成员😾 里@Mitaner_hidden",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Mitaner_hidden"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yiurblog.top",
+                "end": 23,
+                "expanded_url": "http://www.yiurblog.top",
+                "start": 0,
+                "url": "https://t.co/A4NOlo75lV"
+              }
+            ]
+          }
+        },
+        "id": "1559906722588000256",
+        "name": "洛🐱的日常～碎碎念",
+        "pinned_tweet_id": "1947702904422600970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954610505039138816/kJvPf_cj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1857,
+          "following_count": 538,
+          "like_count": 6249,
+          "listed_count": 8,
+          "media_count": 773,
+          "tweet_count": 8686
+        },
+        "url": "https://t.co/A4NOlo75lV",
+        "username": "Project_Luo",
+        "verified": false
+      }
+    ]
+  }
+}

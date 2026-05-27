@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009545295647199232"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2009278920307167642",
+    "created_at": "2026-01-09T08:38:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T09:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009545330078236752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1482030767358496768",
+          "start": 0,
+          "username": "tcdwww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/so1OVuVyuu",
+          "end": 31,
+          "expanded_url": "https://x.com/acnekot/status/2009545330078236752/photo/1",
+          "media_key": "3_2009545295647199232",
+          "start": 8,
+          "url": "https://t.co/so1OVuVyuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009545330078236752",
+    "in_reply_to_user_id": "1482030767358496768",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009278920307167642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tcdwww https://t.co/so1OVuVyuu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 473,
+        "media_key": "3_2009545295647199232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-NWzKMb0AA28Jq.jpg",
+        "width": 624
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009545295647199232"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2009278920307167642",
+        "created_at": "2026-01-09T08:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T09:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009545330078236752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1482030767358496768",
+              "start": 0,
+              "username": "tcdwww"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/so1OVuVyuu",
+              "end": 31,
+              "expanded_url": "https://x.com/acnekot/status/2009545330078236752/photo/1",
+              "media_key": "3_2009545295647199232",
+              "start": 8,
+              "url": "https://t.co/so1OVuVyuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009545330078236752",
+        "in_reply_to_user_id": "1482030767358496768",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009278920307167642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tcdwww https://t.co/so1OVuVyuu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482030767358496768",
+        "conversation_id": "2009278920307167642",
+        "created_at": "2026-01-08T14:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T15:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009278920307167642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usrbinmix/stat…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/usrbinmix/status/2008608067848728811",
+              "start": 91,
+              "url": "https://t.co/BtemSddB1N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009278920307167642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 20338,
+          "like_count": 183,
+          "quote_count": 4,
+          "reply_count": 15,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008608067848728811",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个感觉非常准确，而且不是你一个人的错觉。\n你其实已经点中了当前一代 LLM（尤其是“面向编程”的模型）最核心的结构性问题：\n能力提升路径，已经从“理解世界”转向了“迎合评分器”。 https://t.co/BtemSddB1N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "到处闲逛ᗜ_ᗜ\n\nいつ終わるかな 意味もないのに",
+        "id": "1552213521253150720",
+        "location": "http://mocat.asia",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 577,
+          "like_count": 64557,
+          "listed_count": 5,
+          "media_count": 2160,
+          "tweet_count": 9871
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-14T16:44:13.000Z",
+        "description": "aka. 陶瓷大碗/吐槽大王 \\\n现实是写 Web (React) 的社畜 \\\n内容情绪重于技术 \\\n会随机乱序回复推文请谅解",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tcdw.net",
+                "end": 23,
+                "expanded_url": "https://www.tcdw.net/",
+                "start": 0,
+                "url": "https://t.co/IJpduuqKNK"
+              }
+            ]
+          }
+        },
+        "id": "1482030767358496768",
+        "location": "Beijing",
+        "name": "碗",
+        "pinned_tweet_id": "2003870953789706600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007779626437992448/C1aHTTb6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 443,
+          "like_count": 71478,
+          "listed_count": 9,
+          "media_count": 767,
+          "tweet_count": 9831
+        },
+        "url": "https://t.co/IJpduuqKNK",
+        "username": "tcdwww",
+        "verified": false
+      }
+    ]
+  }
+}

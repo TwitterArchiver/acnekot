@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1872607652502753280"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "1872607887606026274",
+    "created_at": "2024-12-27T11:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T12:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1872607887606026274"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4ljVjIk1cm",
+          "end": 31,
+          "expanded_url": "https://x.com/acnekot/status/1872607887606026274/video/1",
+          "media_key": "7_1872607652502753280",
+          "start": 8,
+          "url": "https://t.co/4ljVjIk1cm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872607887606026274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "买到正品了💀👍 https://t.co/4ljVjIk1cm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41566,
+        "height": 960,
+        "media_key": "7_1872607652502753280",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1872607652502753280/pu/img/p_5FoYOmlsKAaOxa.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1872607652502753280/pu/vid/avc1/320x564/cl_kCPSvFfchXEvw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1872607652502753280/pu/vid/avc1/480x846/CSMgHfFGWxsup4fN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1872607652502753280/pu/vid/avc1/544x960/J6Iaq_XbiesmOFYs.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1872607652502753280/pu/pl/dSvAZ8lcLMRNsuHb.m3u8?tag=12"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1872607652502753280"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "1872607887606026274",
+        "created_at": "2024-12-27T11:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T12:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872607887606026274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ljVjIk1cm",
+              "end": 31,
+              "expanded_url": "https://x.com/acnekot/status/1872607887606026274/video/1",
+              "media_key": "7_1872607652502753280",
+              "start": 8,
+              "url": "https://t.co/4ljVjIk1cm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872607887606026274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买到正品了💀👍 https://t.co/4ljVjIk1cm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "No Found.",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871051316312895489/MYVorhms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 372,
+          "like_count": 39873,
+          "listed_count": 3,
+          "media_count": 1738,
+          "tweet_count": 8084
+        },
+        "username": "acnekot",
+        "verified": false
+      }
+    ]
+  }
+}

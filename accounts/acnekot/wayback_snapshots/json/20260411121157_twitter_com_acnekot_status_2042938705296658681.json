@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042557026518339585",
+        "3_2042557026379902976"
+      ],
+      "media_source_tweet_id": [
+        "2042557028577804441",
+        "2042557028577804441"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2042938705296658681",
+    "created_at": "2026-04-11T12:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T13:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042938705296658681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2027172493337952256",
+          "start": 3,
+          "username": "tkg_168y"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o5cpIdGSzB",
+          "end": 54,
+          "expanded_url": "https://x.com/tkg_168y/status/2042557028577804441/photo/1",
+          "media_key": "3_2042557026518339585",
+          "start": 31,
+          "url": "https://t.co/o5cpIdGSzB"
+        },
+        {
+          "display_url": "pic.x.com/o5cpIdGSzB",
+          "end": 54,
+          "expanded_url": "https://x.com/tkg_168y/status/2042557028577804441/photo/1",
+          "media_key": "3_2042557026379902976",
+          "start": 31,
+          "url": "https://t.co/o5cpIdGSzB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042938705296658681",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 286
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042557028577804441",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tkg_168y: なんか既視感あるなと思ったらこれ https://t.co/o5cpIdGSzB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2042557026518339585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFieyy8akAEjwbm.jpg",
+        "width": 1080
+      },
+      {
+        "height": 650,
+        "media_key": "3_2042557026379902976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFieyybaMAAn6-B.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042557026518339585",
+            "3_2042557026379902976"
+          ],
+          "media_source_tweet_id": [
+            "2042557028577804441",
+            "2042557028577804441"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2042938705296658681",
+        "created_at": "2026-04-11T12:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042938705296658681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2027172493337952256",
+              "start": 3,
+              "username": "tkg_168y"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o5cpIdGSzB",
+              "end": 54,
+              "expanded_url": "https://x.com/tkg_168y/status/2042557028577804441/photo/1",
+              "media_key": "3_2042557026518339585",
+              "start": 31,
+              "url": "https://t.co/o5cpIdGSzB"
+            },
+            {
+              "display_url": "pic.x.com/o5cpIdGSzB",
+              "end": 54,
+              "expanded_url": "https://x.com/tkg_168y/status/2042557028577804441/photo/1",
+              "media_key": "3_2042557026379902976",
+              "start": 31,
+              "url": "https://t.co/o5cpIdGSzB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042938705296658681",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 286
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042557028577804441",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tkg_168y: なんか既視感あるなと思ったらこれ https://t.co/o5cpIdGSzB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042557026518339585",
+            "3_2042557026379902976"
+          ]
+        },
+        "author_id": "2027172493337952256",
+        "conversation_id": "2042557028577804441",
+        "created_at": "2026-04-10T10:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042557028577804441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o5cpIdGSzB",
+              "end": 40,
+              "expanded_url": "https://x.com/tkg_168y/status/2042557028577804441/photo/1",
+              "media_key": "3_2042557026518339585",
+              "start": 17,
+              "url": "https://t.co/o5cpIdGSzB"
+            },
+            {
+              "display_url": "pic.x.com/o5cpIdGSzB",
+              "end": 40,
+              "expanded_url": "https://x.com/tkg_168y/status/2042557028577804441/photo/1",
+              "media_key": "3_2042557026379902976",
+              "start": 17,
+              "url": "https://t.co/o5cpIdGSzB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042557028577804441",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 204,
+          "impression_count": 61280,
+          "like_count": 5569,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 286
+        },
+        "reply_settings": "everyone",
+        "text": "なんか既視感あるなと思ったらこれ https://t.co/o5cpIdGSzB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n回fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 793,
+          "like_count": 89894,
+          "listed_count": 6,
+          "media_count": 3508,
+          "tweet_count": 15393
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-27T00:03:01.000Z",
+        "description": "りぴぃだよ      \n超かぐや姫に狂わされてます \n不定期でリプに現れるかも \n無言フォロー失礼します。  \n気楽にフォローもしてね👍   タケノコ:@ummbrella_anime",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "ummbrella_anime"
+              }
+            ]
+          }
+        },
+        "id": "2027172493337952256",
+        "location": "168    598    874",
+        "name": "rpy✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035606127212482560/Rf4ik4gg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 552,
+          "like_count": 4517,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 2272
+        },
+        "username": "tkg_168y",
+        "verified": false
+      }
+    ]
+  }
+}

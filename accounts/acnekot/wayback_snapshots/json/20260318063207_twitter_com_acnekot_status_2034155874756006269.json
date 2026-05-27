@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2033692674264600989",
+    "created_at": "2026-03-18T06:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T07:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034155874756006269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1951570866581745664",
+          "start": 0,
+          "username": "Maimai_Offical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034155874756006269",
+    "in_reply_to_user_id": "1951570866581745664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034155749514088759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maimai_Offical 骇死我哩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2033692674264600989",
+        "created_at": "2026-03-18T06:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T07:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034155874756006269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1951570866581745664",
+              "start": 0,
+              "username": "Maimai_Offical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034155874756006269",
+        "in_reply_to_user_id": "1951570866581745664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034155749514088759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maimai_Offical 骇死我哩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951570866581745664",
+        "conversation_id": "2033692674264600989",
+        "created_at": "2026-03-18T06:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T07:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034155749514088759"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "joe",
+              "probability": 0.4509,
+              "start": 9,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034155749514088759",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033692674264600989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot joe fight。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动\n发言纯依靠我那微薄的知识 如有错意欢迎指正\nあなたと繋いだ それが浮遊感",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 786,
+          "like_count": 86028,
+          "listed_count": 6,
+          "media_count": 3110,
+          "tweet_count": 14210
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-02T09:09:01.000Z",
+        "description": "期望两岸友好，中日美关系正常\n适当见证，看见无脑黑和不顺眼的东西会骂       个人想说的: 音游 可尊重可支持LGBTQ等文化 无论是在见证区或是音游区看见我喜欢可以扩列\n拉黑我死全家😋不会主动b任何人 https://t.co/0BBORqNc0E",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@maimai_offica…",
+                "end": 127,
+                "expanded_url": "https://www.tiktok.com/@maimai_offical?_r=1&_t=ZS-94",
+                "start": 104,
+                "url": "https://t.co/0BBORqNc0E"
+              }
+            ]
+          }
+        },
+        "id": "1951570866581745664",
+        "location": "巴克什 绝密",
+        "name": "🍥乌鲁鲁酱ウルル🍥❤️🏳️‍⚧",
+        "pinned_tweet_id": "2019801317795832210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983360140406620160/elRy_3CA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 91,
+          "like_count": 1452,
+          "listed_count": 2,
+          "media_count": 715,
+          "tweet_count": 3600
+        },
+        "username": "Maimai_Offical",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1796603241545023794",
+    "created_at": "2024-06-01T09:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-01T10:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796841060427280604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1725336655069159425",
+          "start": 0,
+          "username": "_glaciel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796841060427280604",
+    "in_reply_to_user_id": "1725336655069159425",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796812154567598484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_glaciel 憋/"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1796603241545023794",
+        "created_at": "2024-06-01T09:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T10:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796841060427280604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1725336655069159425",
+              "start": 0,
+              "username": "_glaciel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796841060427280604",
+        "in_reply_to_user_id": "1725336655069159425",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796812154567598484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_glaciel 憋/"
+      },
+      {
+        "attachments": {},
+        "author_id": "1725336655069159425",
+        "conversation_id": "1796603241545023794",
+        "created_at": "2024-06-01T07:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T08:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796812154567598484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796812154567598484",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796603241545023794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 我要听~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "我已然丢失自我",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "A'CID",
+        "pinned_tweet_id": "1774830360578384099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 321,
+          "like_count": 34101,
+          "listed_count": 5,
+          "tweet_count": 7286
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T02:15:07.000Z",
+        "description": "Sink deep into the ice with me",
+        "id": "1725336655069159425",
+        "location": "he / him",
+        "name": "冰变奏",
+        "pinned_tweet_id": "1758594500191289627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749062333643829248/CZRpBzaF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 171,
+          "like_count": 2,
+          "listed_count": 1,
+          "tweet_count": 1467
+        },
+        "username": "_glaciel",
+        "verified": false
+      }
+    ]
+  }
+}

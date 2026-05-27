@@ -1,0 +1,235 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1806639559025062215",
+    "created_at": "2024-06-29T04:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-29T05:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806915432689144150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1449240700223205377",
+          "start": 0,
+          "username": "2233KCN"
+        },
+        {
+          "end": 24,
+          "id": "1680508885394927616",
+          "start": 9,
+          "username": "04177_realname"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806915432689144150",
+    "in_reply_to_user_id": "1449240700223205377",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806687117780934988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2233KCN @04177_realname 优质解答"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1806639559025062215",
+        "created_at": "2024-06-29T04:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T05:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806915432689144150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1449240700223205377",
+              "start": 0,
+              "username": "2233KCN"
+            },
+            {
+              "end": 24,
+              "id": "1680508885394927616",
+              "start": 9,
+              "username": "04177_realname"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806915432689144150",
+        "in_reply_to_user_id": "1449240700223205377",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806687117780934988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2233KCN @04177_realname 优质解答"
+      },
+      {
+        "attachments": {},
+        "author_id": "1449240700223205377",
+        "conversation_id": "1806639559025062215",
+        "created_at": "2024-06-28T13:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T14:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806687117780934988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680508885394927616",
+              "start": 0,
+              "username": "04177_realname"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806687117780934988",
+        "in_reply_to_user_id": "1680508885394927616",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2164,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806639559025062215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04177_realname 不会\n我是南通"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "我已然丢失自我",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "A'CID",
+        "pinned_tweet_id": "1774830360578384099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 321,
+          "like_count": 34150,
+          "listed_count": 5,
+          "tweet_count": 7329
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-16T05:08:13.000Z",
+        "description": "喵喵喵一一  | 🏳️‍🌈LGBT+ | 是furry | ショタ大好き | 化学&计算机&ACGN | 中文&日本語&English | ⚠NSFW可能 | INFP-A | 社恐，欢迎扩列 | 我家猫猫 @XiaoZhenSyoKou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 104,
+                "username": "XiaoZhenSyoKou"
+              }
+            ]
+          }
+        },
+        "id": "1449240700223205377",
+        "location": "Japan",
+        "name": "剧毒的KCN",
+        "pinned_tweet_id": "1693398786562023474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449241499493883914/dzmq9mV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4136,
+          "following_count": 1520,
+          "like_count": 188761,
+          "listed_count": 10,
+          "tweet_count": 13538
+        },
+        "username": "2233KCN",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "ftm/政治倾向不明/坚定的互fo主义者/我推の芙莉莲/收集人类碎片/提问箱：https://t.co/pe56J9RL4w",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/04177_realname",
+                "end": 62,
+                "expanded_url": "https://ngl.link/04177_realname",
+                "start": 39,
+                "url": "https://t.co/pe56J9RL4w"
+              }
+            ]
+          }
+        },
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1801305651844681741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759859055521374208/Id8-9o_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2713,
+          "following_count": 2319,
+          "like_count": 25394,
+          "listed_count": 5,
+          "tweet_count": 7810
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

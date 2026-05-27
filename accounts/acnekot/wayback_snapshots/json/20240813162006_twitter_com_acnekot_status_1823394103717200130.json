@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1823394103717200130",
+    "created_at": "2024-08-13T16:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-13T17:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1823394103717200130"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cldeop/status/…",
+          "end": 144,
+          "expanded_url": "https://twitter.com/cldeop/status/1822957200785969610",
+          "start": 121,
+          "url": "https://t.co/fab4GjCvHX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823394103717200130",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822957200785969610",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以前有个up叫亿之猫（当时喜欢看ut二创），索性取了一个好奇猫，a是防止重名，酸是以前用碳酸（H2CO3）作为名字，后面发现容易被认错，现在当前缀\nID的含义是：a curious neko t（acnekot）\n一只好奇的猫，t也是防重名 https://t.co/fab4GjCvHX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1823394103717200130",
+        "created_at": "2024-08-13T16:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T17:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823394103717200130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cldeop/status/…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/cldeop/status/1822957200785969610",
+              "start": 121,
+              "url": "https://t.co/fab4GjCvHX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823394103717200130",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822957200785969610",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以前有个up叫亿之猫（当时喜欢看ut二创），索性取了一个好奇猫，a是防止重名，酸是以前用碳酸（H2CO3）作为名字，后面发现容易被认错，现在当前缀\nID的含义是：a curious neko t（acnekot）\n一只好奇的猫，t也是防重名 https://t.co/fab4GjCvHX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821537850850197504"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1822957200785969610",
+        "created_at": "2024-08-12T11:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T12:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822957200785969610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g6f4jbi2ys",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Cldeop/status/1822957200785969610/photo/1",
+              "media_key": "3_1821537850850197504",
+              "start": 30,
+              "url": "https://t.co/g6f4jBi2yS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822957200785969610",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 154711,
+          "like_count": 1059,
+          "quote_count": 79,
+          "reply_count": 373,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "我原本的网名是云中君，用了很久了，直到某款游戏出了一个英雄 https://t.co/g6f4jBi2yS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "真理就是没真理",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "酸_好奇猫a",
+        "pinned_tweet_id": "1774830360578384099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 323,
+          "like_count": 35843,
+          "listed_count": 5,
+          "tweet_count": 7493
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "推特见证每一种生物\n生活号@ACldJP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696802554318061568/M4Tec_5U_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35377,
+          "following_count": 458,
+          "like_count": 16266,
+          "listed_count": 129,
+          "tweet_count": 6683
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

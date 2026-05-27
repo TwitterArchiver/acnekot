@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2002000874235678720"
+      ],
+      "media_source_tweet_id": [
+        "2002001217887834484"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2002227610169061431",
+    "created_at": "2025-12-20T04:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T05:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002227610169061431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1482356237115310084",
+          "start": 3,
+          "username": "LocalBateman"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OVwf3geYqA",
+          "end": 41,
+          "expanded_url": "https://x.com/LocalBateman/status/2002001217887834484/video/1",
+          "media_key": "13_2002000874235678720",
+          "start": 18,
+          "url": "https://t.co/OVwf3geYqA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002227610169061431",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1940
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002001217887834484",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LocalBateman: https://t.co/OVwf3geYqA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18800,
+        "height": 914,
+        "media_key": "13_2002000874235678720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002000874235678720/img/N6sqq5JYsRppxIbI.jpg",
+        "public_metrics": {
+          "view_count": 107906
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002000874235678720/vid/avc1/320x406/F1f531W5cdmLMK9A.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002000874235678720/vid/avc1/480x608/XIwxyZffeKZe-T6O.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002000874235678720/vid/avc1/720x914/qva6ZhGcjwg3H00O.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002000874235678720/pl/nYJDLc5hFTbN2kto.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002000874235678720"
+          ],
+          "media_source_tweet_id": [
+            "2002001217887834484"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2002227610169061431",
+        "created_at": "2025-12-20T04:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T05:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002227610169061431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1482356237115310084",
+              "start": 3,
+              "username": "LocalBateman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OVwf3geYqA",
+              "end": 41,
+              "expanded_url": "https://x.com/LocalBateman/status/2002001217887834484/video/1",
+              "media_key": "13_2002000874235678720",
+              "start": 18,
+              "url": "https://t.co/OVwf3geYqA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002227610169061431",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1940
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002001217887834484",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LocalBateman: https://t.co/OVwf3geYqA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002000874235678720"
+          ]
+        },
+        "author_id": "1482356237115310084",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2002001217887834484",
+        "created_at": "2025-12-19T13:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T14:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002001217887834484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OVwf3geYqA",
+              "end": 23,
+              "expanded_url": "https://x.com/LocalBateman/status/2002001217887834484/video/1",
+              "media_key": "13_2002000874235678720",
+              "start": 0,
+              "url": "https://t.co/OVwf3geYqA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002001217887834484",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2246,
+          "impression_count": 216547,
+          "like_count": 12116,
+          "quote_count": 185,
+          "reply_count": 88,
+          "retweet_count": 1940
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OVwf3geYqA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明\nSignal:nanno64",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PS09"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999088067693654016/sMoxaqQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 518,
+          "like_count": 57049,
+          "listed_count": 5,
+          "media_count": 2002,
+          "tweet_count": 9333
+        },
+        "url": "https://t.co/raYZh1PS09",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-15T14:18:01.000Z",
+        "description": "If you want to ignite the fire just ignite yourself. alt @LocalBateman_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "LocalBateman_"
+              }
+            ]
+          }
+        },
+        "id": "1482356237115310084",
+        "location": "Dm for credit or removal ",
+        "name": "Your Typical Local Man",
+        "pinned_tweet_id": "1535610044779315202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664391317688836097/UPd8ZDNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796117,
+          "following_count": 189,
+          "like_count": 83219,
+          "listed_count": 1462,
+          "media_count": 23318,
+          "tweet_count": 26804
+        },
+        "username": "LocalBateman",
+        "verified": true
+      }
+    ]
+  }
+}

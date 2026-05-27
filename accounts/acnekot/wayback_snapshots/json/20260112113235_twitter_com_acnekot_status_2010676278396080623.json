@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010676234179756032"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2010676278396080623",
+    "created_at": "2026-01-12T11:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T12:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010676278396080623"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OghU23YCmz",
+          "end": 32,
+          "expanded_url": "https://x.com/acnekot/status/2010676278396080623/photo/1",
+          "media_key": "3_2010676234179756032",
+          "start": 9,
+          "url": "https://t.co/OghU23YCmz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010676278396080623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "凎！忘记调流速了 https://t.co/OghU23YCmz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010676234179756032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-dbYciawAAw0Ez.jpg",
+        "width": 1405
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010676234179756032"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2010676278396080623",
+        "created_at": "2026-01-12T11:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T12:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010676278396080623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OghU23YCmz",
+              "end": 32,
+              "expanded_url": "https://x.com/acnekot/status/2010676278396080623/photo/1",
+              "media_key": "3_2010676234179756032",
+              "start": 9,
+              "url": "https://t.co/OghU23YCmz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010676278396080623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "凎！忘记调流速了 https://t.co/OghU23YCmz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "到处闲逛的猫ᗜ_ᗜ\n音游爱好者|不鉴证|欢迎和我互动|VRChat|非敌对友好\n非中文使用翻译器 如有错意欢迎指正\n回fo请私信或者留言 不然就是纯随机(笑\nいつ終わるかな 意味もないのに",
+        "id": "1552213521253150720",
+        "location": "http://mocat.asia",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 566,
+          "like_count": 65732,
+          "listed_count": 5,
+          "media_count": 2206,
+          "tweet_count": 10037
+        },
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

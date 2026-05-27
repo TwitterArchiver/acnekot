@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1877738407398699008"
+      ],
+      "media_source_tweet_id": [
+        "1877738420958863821"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "1878453334404907252",
+    "created_at": "2025-01-12T14:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T15:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878453334404907252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "26884499",
+          "start": 3,
+          "username": "suki_suke"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zDjvzGSUTj",
+          "end": 38,
+          "expanded_url": "https://x.com/suki_suke/status/1877738420958863821/photo/1",
+          "media_key": "3_1877738407398699008",
+          "start": 15,
+          "url": "https://t.co/zDjvzGSUTj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878453334404907252",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1909
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877738420958863821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suki_suke: https://t.co/zDjvzGSUTj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1342,
+        "media_key": "3_1877738407398699008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg8RIgIbcAAyQT9.jpg",
+        "width": 1222
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877738407398699008"
+          ],
+          "media_source_tweet_id": [
+            "1877738420958863821"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "1878453334404907252",
+        "created_at": "2025-01-12T14:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T15:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878453334404907252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "26884499",
+              "start": 3,
+              "username": "suki_suke"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zDjvzGSUTj",
+              "end": 38,
+              "expanded_url": "https://x.com/suki_suke/status/1877738420958863821/photo/1",
+              "media_key": "3_1877738407398699008",
+              "start": 15,
+              "url": "https://t.co/zDjvzGSUTj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878453334404907252",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1909
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877738420958863821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suki_suke: https://t.co/zDjvzGSUTj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877738407398699008"
+          ]
+        },
+        "author_id": "26884499",
+        "conversation_id": "1877738420958863821",
+        "created_at": "2025-01-10T15:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T16:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877738420958863821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zDjvzGSUTj",
+              "end": 23,
+              "expanded_url": "https://x.com/suki_suke/status/1877738420958863821/photo/1",
+              "media_key": "3_1877738407398699008",
+              "start": 0,
+              "url": "https://t.co/zDjvzGSUTj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877738420958863821",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 859,
+          "impression_count": 170661,
+          "like_count": 15421,
+          "quote_count": 9,
+          "reply_count": 25,
+          "retweet_count": 1909
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zDjvzGSUTj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "No Found.",
+        "id": "1552213521253150720",
+        "location": "THE UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871051316312895489/MYVorhms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 378,
+          "like_count": 40388,
+          "listed_count": 3,
+          "media_count": 1760,
+          "tweet_count": 8175
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-26T23:20:38.000Z",
+        "description": "「すきま」とも言います。漫画やイラストを描いています。 いつも応援ありがとうございます。mail：paniplus_sukima@hotmail.co.jp / fanbox：https://t.co/WoM8hgtVeI fantia：https://t.co/AmaUsOKGfy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sukima.fanbox.cc",
+                "end": 111,
+                "expanded_url": "https://sukima.fanbox.cc/",
+                "start": 88,
+                "url": "https://t.co/WoM8hgtVeI"
+              },
+              {
+                "display_url": "fantia.jp/fanclubs/518598",
+                "end": 142,
+                "expanded_url": "https://fantia.jp/fanclubs/518598",
+                "start": 119,
+                "url": "https://t.co/AmaUsOKGfy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manga.nicovideo.jp/comic/61921",
+                "end": 23,
+                "expanded_url": "https://manga.nicovideo.jp/comic/61921",
+                "start": 0,
+                "url": "https://t.co/U6GoLMxDxE"
+              }
+            ]
+          }
+        },
+        "id": "26884499",
+        "location": "乳幼児よりも賢くて強い。",
+        "name": "すき₍₍(ง˘ω˘)ว⁾⁾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877910489528979456/RvNCs0ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196086,
+          "following_count": 3770,
+          "like_count": 73070,
+          "listed_count": 1546,
+          "media_count": 6665,
+          "tweet_count": 30591
+        },
+        "url": "https://t.co/U6GoLMxDxE",
+        "username": "suki_suke",
+        "verified": true
+      }
+    ]
+  }
+}

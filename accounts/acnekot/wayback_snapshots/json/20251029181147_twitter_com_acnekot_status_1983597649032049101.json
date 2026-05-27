@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1983590606208385277",
+    "created_at": "2025-10-29T18:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T19:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983597649032049101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1424412027741605891",
+          "start": 0,
+          "username": "targgg_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983597649032049101",
+    "in_reply_to_user_id": "1424412027741605891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983590606208385277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@targgg_ 怎么了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1983590606208385277",
+        "created_at": "2025-10-29T18:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T19:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983597649032049101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1424412027741605891",
+              "start": 0,
+              "username": "targgg_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983597649032049101",
+        "in_reply_to_user_id": "1424412027741605891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983590606208385277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@targgg_ 怎么了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424412027741605891",
+        "conversation_id": "1983590606208385277",
+        "created_at": "2025-10-29T17:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T18:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983590606208385277"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983590606208385277",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "观察着…你和我\n阶段性活跃",
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974148680497442825/9HN3NUHo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 443,
+          "like_count": 43484,
+          "listed_count": 4,
+          "media_count": 1867,
+          "tweet_count": 8607
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-08T16:48:02.000Z",
+        "description": "この世で手を取って踊っていたい",
+        "id": "1424412027741605891",
+        "name": "鲑鱼茶泡饭",
+        "pinned_tweet_id": "1840577826183152092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970307036551499776/HkBtjZ_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1844,
+          "following_count": 2607,
+          "like_count": 25564,
+          "listed_count": 11,
+          "media_count": 562,
+          "tweet_count": 9556
+        },
+        "username": "targgg_",
+        "verified": false
+      }
+    ]
+  }
+}

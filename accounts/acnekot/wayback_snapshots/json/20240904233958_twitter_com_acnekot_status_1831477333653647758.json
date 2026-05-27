@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1831383540656959560",
+    "created_at": "2024-09-04T23:39:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-05T00:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831477333653647758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1737053348740603904",
+          "start": 0,
+          "username": "skeleton8964xjp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831477333653647758",
+    "in_reply_to_user_id": "1737053348740603904",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831383540656959560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skeleton8964xjp 😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1831383540656959560",
+        "created_at": "2024-09-04T23:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T00:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831477333653647758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1737053348740603904",
+              "start": 0,
+              "username": "skeleton8964xjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831477333653647758",
+        "in_reply_to_user_id": "1737053348740603904",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831383540656959560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skeleton8964xjp 😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831383538605944839"
+          ]
+        },
+        "author_id": "1737053348740603904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1831383540656959560",
+        "created_at": "2024-09-04T17:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T18:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831383540656959560"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Twitter",
+              "probability": 0.6053,
+              "start": 2,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 44,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=ja",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1828990310891790336/UgQgR2h7?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1828990310891790336/UgQgR2h7?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=ja",
+              "url": "https://t.co/wWvet94eOg"
+            },
+            {
+              "display_url": "pic.x.com/o697mgmaa0",
+              "end": 68,
+              "expanded_url": "https://twitter.com/skeleton8964xjp/status/1831383540656959560/photo/1",
+              "media_key": "3_1831383538605944839",
+              "start": 45,
+              "url": "https://t.co/o697mGMaA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831383540656959560",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 425,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私のTwitterやりとりークル\n\n➡️ https://t.co/wWvet94eOg https://t.co/o697mGMaA0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "只做自己开心的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "177404.xyz",
+                "end": 23,
+                "expanded_url": "http://177404.xyz",
+                "start": 0,
+                "url": "https://t.co/Jk6nRkHp3d"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 331,
+          "like_count": 36843,
+          "listed_count": 5,
+          "tweet_count": 7643
+        },
+        "url": "https://t.co/Jk6nRkHp3d",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T10:13:24.000Z",
+        "description": "白子单推人！！！\n极最可爱的EDU酱 @EDU1991US |端人士魔怔人和粉红退散|友跨LGBT的顺直|蒙古人，只要你不民族主义我就不图人|不经常主动互动|农专农批|正常账号会互fo|求求你了，加个Steam好友吧887633850|      亲友号不认识的别乱加 @shiroko2048",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "EDU1991US"
+              },
+              {
+                "end": 147,
+                "start": 135,
+                "username": "shiroko2048"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/profiles/76561…",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/profiles/76561198847899578/",
+                "start": 0,
+                "url": "https://t.co/gUfdZdijSV"
+              }
+            ]
+          }
+        },
+        "id": "1737053348740603904",
+        "location": "阿拜多斯职业高中",
+        "name": "shiroko",
+        "pinned_tweet_id": "1830676074650575063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830044505753731075/EaINGRYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 461,
+          "like_count": 34830,
+          "listed_count": 1,
+          "tweet_count": 1563
+        },
+        "url": "https://t.co/gUfdZdijSV",
+        "username": "skeleton8964xjp",
+        "verified": false
+      }
+    ]
+  }
+}

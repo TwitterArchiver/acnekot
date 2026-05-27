@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1997493578776580102",
+    "created_at": "2025-12-08T00:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T01:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997832675642781696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1876602655210127360",
+          "start": 0,
+          "username": "fuko173699"
+        },
+        {
+          "end": 21,
+          "id": "1811616942069022720",
+          "start": 12,
+          "username": "Im_CanDo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997832675642781696",
+    "in_reply_to_user_id": "1876602655210127360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997640591560024537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuko173699 @Im_CanDo 还有第二关）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1997493578776580102",
+        "created_at": "2025-12-08T00:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T01:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997832675642781696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1876602655210127360",
+              "start": 0,
+              "username": "fuko173699"
+            },
+            {
+              "end": 21,
+              "id": "1811616942069022720",
+              "start": 12,
+              "username": "Im_CanDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997832675642781696",
+        "in_reply_to_user_id": "1876602655210127360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997640591560024537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuko173699 @Im_CanDo 还有第二关）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876602655210127360",
+        "conversation_id": "1997493578776580102",
+        "created_at": "2025-12-07T12:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T13:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997640591560024537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811616942069022720",
+              "start": 0,
+              "username": "Im_CanDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997640591560024537",
+        "in_reply_to_user_id": "1811616942069022720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997493578776580102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Im_CanDo 原来是皮包啊 我还以为是皮包呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明\nSignal:nanno64",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PS09"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984849769211314179/Mzcgzncy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 486,
+          "like_count": 50703,
+          "listed_count": 4,
+          "media_count": 1928,
+          "tweet_count": 8987
+        },
+        "url": "https://t.co/raYZh1PS09",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T12:12:17.000Z",
+        "description": "我喜欢冲浪 不会转发NSFW的内容 请友好一点 对任何人都是\n      里推@Tsubato18114\n      偶尔发点吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "Tsubato18114"
+              }
+            ]
+          }
+        },
+        "id": "1876602655210127360",
+        "location": "ｸﾏﾓﾄ",
+        "name": "つばと",
+        "pinned_tweet_id": "1997310557725016110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997636755160231936/SIYEYiIa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 212,
+          "like_count": 1235,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 939
+        },
+        "username": "fuko173699",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T04:22:04.000Z",
+        "description": "艺术家 摄影师 社会研究者 抽象大师 币圈失败者。\nArtist,photographer,Sociological researchers.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/im_cando2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/im_cando2",
+                "start": 0,
+                "url": "https://t.co/97wAs4NVPe"
+              }
+            ]
+          }
+        },
+        "id": "1811616942069022720",
+        "location": "-4.2km",
+        "name": "Cando 残冬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927686835603476480/zaqoSpcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9325,
+          "following_count": 1480,
+          "like_count": 26264,
+          "listed_count": 15,
+          "media_count": 555,
+          "tweet_count": 9038
+        },
+        "url": "https://t.co/97wAs4NVPe",
+        "username": "Im_CanDo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2016520227480375679",
+    "created_at": "2026-01-29T05:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T06:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2010625193467867136",
+          "start": 0,
+          "username": "NingTeaqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016739817003028798",
+    "in_reply_to_user_id": "2010625193467867136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016520227480375679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NingTeaqwq 很润（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016520214368976896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wec3PbgAAUDHB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016520214368976896"
+          ]
+        },
+        "author_id": "2010625193467867136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016520227480375679",
+        "created_at": "2026-01-28T14:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T15:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7FIurUeX7Q",
+              "end": 41,
+              "expanded_url": "https://x.com/NingTeaqwq/status/2016520227480375679/photo/1",
+              "media_key": "3_2016520214368976896",
+              "start": 18,
+              "url": "https://t.co/7FIurUeX7Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016520227480375679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新机框也太爽了，外键软弹，内屏顺滑 https://t.co/7FIurUeX7Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者|不鉴证|欢迎和我互动|VRChat|无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語 以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\n\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "tg@nanno_64",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 726,
+          "like_count": 73592,
+          "listed_count": 6,
+          "media_count": 2445,
+          "tweet_count": 11178
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-12T08:09:55.000Z",
+        "description": "CN:夏安/阿夏/小夏\n在码头整点薯条！\n摄影 To 摄像 喜欢拍建筑\nmaimai 14,000 / 喜欢音乐、各种有创意的\n谢谢关注，都是我的好伙伴呀！",
+        "id": "2010625193467867136",
+        "location": "温州 浙江",
+        "name": "阿夏夏夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010626118920126464/Zf1AiJS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 30,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 76
+        },
+        "username": "NingTeaqwq",
+        "verified": true
+      }
+    ]
+  }
+}

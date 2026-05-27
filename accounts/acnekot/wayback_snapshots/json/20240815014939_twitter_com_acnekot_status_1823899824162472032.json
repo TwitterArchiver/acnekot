@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1823899824162472032",
+    "created_at": "2024-08-15T01:49:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T02:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823899824162472032"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 22,
+          "tag": "RTX4060"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1730424966297100288",
+          "start": 3,
+          "username": "ArenaBreakoutPC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823899824162472032",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1779
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823760661979254850",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ArenaBreakoutPC: 🚨#RTX4060 GIVEAWAY ALERT 🚨\nMilestone Unlocked: One Million Joined!\nThank you to the millions of players for your suppo…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1823899824162472032",
+        "created_at": "2024-08-15T01:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T02:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823899824162472032"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 22,
+              "tag": "RTX4060"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1730424966297100288",
+              "start": 3,
+              "username": "ArenaBreakoutPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823899824162472032",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1780
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823760661979254850",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ArenaBreakoutPC: 🚨#RTX4060 GIVEAWAY ALERT 🚨\nMilestone Unlocked: One Million Joined!\nThank you to the millions of players for your suppo…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823755638536912896"
+          ]
+        },
+        "author_id": "1730424966297100288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1823760661979254850",
+        "created_at": "2024-08-14T16:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T17:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823760661979254850"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 233,
+              "normalized_text": "ArenaBreakoutInfinite",
+              "probability": 0.4504,
+              "start": 213,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 1,
+              "tag": "RTX4060"
+            },
+            {
+              "end": 234,
+              "start": 212,
+              "tag": "ArenaBreakoutInfinite"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vew06dgngm",
+              "end": 301,
+              "expanded_url": "https://twitter.com/ArenaBreakoutPC/status/1823760661979254850/photo/1",
+              "media_key": "3_1823755638536912896",
+              "start": 278,
+              "url": "https://t.co/VeW06dGngm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823760661979254850",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 94967,
+          "like_count": 2362,
+          "quote_count": 60,
+          "reply_count": 1455,
+          "retweet_count": 1780
+        },
+        "reply_settings": "everyone",
+        "text": "🚨#RTX4060 GIVEAWAY ALERT 🚨\nMilestone Unlocked: One Million Joined!\nThank you to the millions of players for your support! We're committed to enhancing the bugs fixing, anti-cheat measures, and economic system in #ArenaBreakoutInfinite. Your voices matter.\n\nTo celebrate, we're… https://t.co/VeW06dGngm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "真理就是没真理",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "酸_好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 327,
+          "like_count": 35966,
+          "listed_count": 5,
+          "tweet_count": 7507
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T03:14:06.000Z",
+        "description": "Arena Breakout: Infinite is an immersive tactical extraction FPS. Join the fight to shoot and loot your path to fortune. \nEARLY ACCESS is available now.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "arenabreakoutinfinite.com",
+                "end": 23,
+                "expanded_url": "http://www.arenabreakoutinfinite.com",
+                "start": 0,
+                "url": "https://t.co/uk3oTaCxZH"
+              }
+            ]
+          }
+        },
+        "id": "1730424966297100288",
+        "location": "Kamona",
+        "name": "Arena Breakout Infinite",
+        "pinned_tweet_id": "1823760661979254850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783731370319306752/cEtqfHDt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162376,
+          "following_count": 13,
+          "like_count": 194,
+          "listed_count": 63,
+          "tweet_count": 769
+        },
+        "url": "https://t.co/uk3oTaCxZH",
+        "username": "ArenaBreakoutPC",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1898358519599907034",
+    "created_at": "2025-05-10T11:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-10T12:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921160762480820267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1194088024704868352",
+          "start": 0,
+          "username": "liubu6"
+        },
+        {
+          "end": 19,
+          "id": "1649810835571613698",
+          "start": 8,
+          "username": "RikoYakumo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921160762480820267",
+    "in_reply_to_user_id": "1194088024704868352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921008538752536695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liubu6 @RikoYakumo 一切正常"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1898358519599907034",
+        "created_at": "2025-05-10T11:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T12:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921160762480820267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1194088024704868352",
+              "start": 0,
+              "username": "liubu6"
+            },
+            {
+              "end": 19,
+              "id": "1649810835571613698",
+              "start": 8,
+              "username": "RikoYakumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921160762480820267",
+        "in_reply_to_user_id": "1194088024704868352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921008538752536695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liubu6 @RikoYakumo 一切正常"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1194088024704868352",
+        "conversation_id": "1898358519599907034",
+        "created_at": "2025-05-10T01:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-10T02:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921008538752536695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            },
+            {
+              "end": 20,
+              "id": "1649810835571613698",
+              "start": 9,
+              "username": "RikoYakumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921008538752536695",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898665532355993760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot @RikoYakumo 网站进不去了 你们可以进吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "观察着…你和我",
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871051316312895489/MYVorhms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 406,
+          "like_count": 42405,
+          "listed_count": 3,
+          "media_count": 1833,
+          "tweet_count": 8522
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-12T03:02:30.000Z",
+        "description": "",
+        "id": "1194088024704868352",
+        "name": "liubu",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "liubu6",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-22T16:22:17.000Z",
+        "description": "妈的和这个世界爆了❤",
+        "id": "1649810835571613698",
+        "location": "下北沢",
+        "name": "八雲藍藍路🦊",
+        "pinned_tweet_id": "1794757354019500510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869033715160268800/VOe6uh7a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 348,
+          "like_count": 4166,
+          "listed_count": 5,
+          "media_count": 92,
+          "tweet_count": 1366
+        },
+        "username": "RikoYakumo",
+        "verified": false
+      }
+    ]
+  }
+}

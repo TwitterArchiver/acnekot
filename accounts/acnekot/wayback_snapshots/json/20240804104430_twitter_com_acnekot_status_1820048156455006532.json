@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1819651081863155922",
+    "created_at": "2024-08-04T10:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-04T11:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820048156455006532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1783402265153568768",
+          "start": 0,
+          "username": "veslote"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820048156455006532",
+    "in_reply_to_user_id": "1783402265153568768",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819651081863155922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@veslote wow🤯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1819651081863155922",
+        "created_at": "2024-08-04T10:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T11:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820048156455006532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1783402265153568768",
+              "start": 0,
+              "username": "veslote"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820048156455006532",
+        "in_reply_to_user_id": "1783402265153568768",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819651081863155922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@veslote wow🤯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819651030902272000"
+          ]
+        },
+        "author_id": "1783402265153568768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1819651081863155922",
+        "created_at": "2024-08-03T08:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T09:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819651081863155922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Mq8TOnX4xl",
+              "end": 31,
+              "expanded_url": "https://twitter.com/veslote/status/1819651081863155922/photo/1",
+              "media_key": "3_1819651030902272000",
+              "start": 8,
+              "url": "https://t.co/Mq8TOnX4xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819651081863155922",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1238,
+          "impression_count": 1193767,
+          "like_count": 31815,
+          "quote_count": 142,
+          "reply_count": 176,
+          "retweet_count": 4138
+        },
+        "reply_settings": "everyone",
+        "text": "......？ https://t.co/Mq8TOnX4xl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "真理就是没真理",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "酸·好奇猫a",
+        "pinned_tweet_id": "1774830360578384099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 322,
+          "like_count": 35481,
+          "listed_count": 5,
+          "tweet_count": 7436
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-25T07:47:03.000Z",
+        "description": "ブルーアーカイブ",
+        "id": "1783402265153568768",
+        "name": "なにだ",
+        "pinned_tweet_id": "1819651081863155922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815399530592083968/L6_HQdbW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 747,
+          "like_count": 8957,
+          "listed_count": 9,
+          "tweet_count": 3935
+        },
+        "username": "veslote",
+        "verified": false
+      }
+    ]
+  }
+}

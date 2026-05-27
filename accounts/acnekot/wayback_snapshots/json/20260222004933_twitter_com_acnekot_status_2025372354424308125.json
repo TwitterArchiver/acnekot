@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2025372354424308125",
+    "created_at": "2026-02-22T00:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T01:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025372354424308125"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/foxiestfoxo/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/foxiestfoxo/status/2025052291737551144",
+          "start": 14,
+          "url": "https://t.co/rj8iRp8nc2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025372354424308125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025052291737551144",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还会自己想去玩吗hhhhh https://t.co/rj8iRp8nc2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10000,
+        "height": 854,
+        "media_key": "7_2025052260921909248",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2025052260921909248/pu/img/7GkPW5nrKNQCWA_2.jpg",
+        "public_metrics": {
+          "view_count": 6697
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025052260921909248/pu/vid/avc1/320x586/8-lYlHHaxoz9n_iN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025052260921909248/pu/vid/avc1/466x854/VIhIqLc2XoO0XvQg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2025052260921909248/pu/pl/9C5AlvqTamAXJkwm.m3u8"
+          }
+        ],
+        "width": 466
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2025372354424308125",
+        "created_at": "2026-02-22T00:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T01:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025372354424308125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/foxiestfoxo/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/foxiestfoxo/status/2025052291737551144",
+              "start": 14,
+              "url": "https://t.co/rj8iRp8nc2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025372354424308125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025052291737551144",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还会自己想去玩吗hhhhh https://t.co/rj8iRp8nc2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2025052260921909248"
+          ]
+        },
+        "author_id": "2699302994",
+        "conversation_id": "2025052291737551144",
+        "created_at": "2026-02-21T03:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T04:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025052291737551144"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 84,
+              "normalized_text": "FoxOfTheDay",
+              "probability": 0.6775,
+              "start": 74,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 73,
+              "tag": "FoxOfTheDay"
+            },
+            {
+              "end": 96,
+              "start": 86,
+              "tag": "animaltwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7haILhSrKU",
+              "end": 120,
+              "expanded_url": "https://x.com/FoxiestFoxo/status/2025052291737551144/video/1",
+              "media_key": "7_2025052260921909248",
+              "start": 97,
+              "url": "https://t.co/7haILhSrKU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025052291737551144",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 20812,
+          "like_count": 286,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "Human can't stand the cold. \nNow this playground is entirely mine now. \n\n#FoxOfTheDay #animaltwt https://t.co/7haILhSrKU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 778,
+          "like_count": 80660,
+          "listed_count": 6,
+          "media_count": 2720,
+          "tweet_count": 12632
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2014-08-01T22:48:19.000Z",
+        "description": "Fox is love. Fox is life.\n#fox #foxoftheday #animaltwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "fox"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "tag": "foxoftheday"
+              },
+              {
+                "end": 54,
+                "start": 44,
+                "tag": "animaltwt"
+              }
+            ]
+          }
+        },
+        "id": "2699302994",
+        "location": "The woods",
+        "name": "Fox",
+        "pinned_tweet_id": "2025074880593756188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004635070800535552/Wb9jlH3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3171,
+          "following_count": 1792,
+          "like_count": 973,
+          "listed_count": 3,
+          "media_count": 437,
+          "tweet_count": 2421
+        },
+        "username": "FoxiestFoxo",
+        "verified": true
+      }
+    ]
+  }
+}

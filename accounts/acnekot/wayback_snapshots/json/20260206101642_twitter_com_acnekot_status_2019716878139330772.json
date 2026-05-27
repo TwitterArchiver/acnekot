@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2019716430066036853",
+    "created_at": "2026-02-06T10:16:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T11:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019716878139330772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "349054800",
+          "start": 0,
+          "username": "nyalra"
+        },
+        {
+          "end": 18,
+          "id": "2017946332036775936",
+          "start": 8,
+          "username": "hazedenki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019716878139330772",
+    "in_reply_to_user_id": "349054800",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019716430066036853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyalra @hazedenki cool"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2019716430066036853",
+        "created_at": "2026-02-06T10:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T11:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019716878139330772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "349054800",
+              "start": 0,
+              "username": "nyalra"
+            },
+            {
+              "end": 18,
+              "id": "2017946332036775936",
+              "start": 8,
+              "username": "hazedenki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019716878139330772",
+        "in_reply_to_user_id": "349054800",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019716430066036853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyalra @hazedenki cool"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "349054800",
+        "conversation_id": "2019716430066036853",
+        "created_at": "2026-02-06T10:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T11:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019716430066036853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 157,
+              "id": "2017946332036775936",
+              "start": 147,
+              "username": "hazedenki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019716430066036853",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 216,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I made an official account where we’ll be sharing updates quietly, little by little. Please follow if you’d like.\nThe icon is pretty good, right?\n⇨@hazedenki"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語 以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 736,
+          "like_count": 75831,
+          "listed_count": 6,
+          "media_count": 2541,
+          "tweet_count": 11699
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2011-08-05T13:27:45.000Z",
+        "description": "・English Discord: https://t.co/fJc4u1ozhY ・JP Discord: https://t.co/NcOBRGMgpH ・English blog: https://t.co/gjbksg56Kf ・Game: https://t.co/X1H8te4zM9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/3NtruU94pt",
+                "end": 41,
+                "expanded_url": "http://discord.gg/3NtruU94pt",
+                "start": 18,
+                "url": "https://t.co/fJc4u1ozhY"
+              },
+              {
+                "display_url": "discord.gg/gqtE3qT2N5",
+                "end": 78,
+                "expanded_url": "http://discord.gg/gqtE3qT2N5",
+                "start": 55,
+                "url": "https://t.co/NcOBRGMgpH"
+              },
+              {
+                "display_url": "hazedenki.net",
+                "end": 117,
+                "expanded_url": "http://hazedenki.net",
+                "start": 94,
+                "url": "https://t.co/gjbksg56Kf"
+              },
+              {
+                "display_url": "store.steampowered.com/app/4240150/_/",
+                "end": 148,
+                "expanded_url": "http://store.steampowered.com/app/4240150/_/",
+                "start": 125,
+                "url": "https://t.co/X1H8te4zM9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyalra.net",
+                "end": 23,
+                "expanded_url": "https://nyalra.net",
+                "start": 0,
+                "url": "https://t.co/2RlDkCVQ1o"
+              }
+            ]
+          }
+        },
+        "id": "349054800",
+        "name": "nyalra",
+        "pinned_tweet_id": "2005988774371864634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806370210762657792/GjnpN4qn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156875,
+          "following_count": 666,
+          "like_count": 383868,
+          "listed_count": 1109,
+          "media_count": 4087,
+          "tweet_count": 42499
+        },
+        "url": "https://t.co/2RlDkCVQ1o",
+        "username": "nyalra",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-01T13:01:34.000Z",
+        "description": "We’re HazeDenki, an indie game circle centered around nyalra. check our blog!! → https://t.co/a3O1d2QDrF Admin: @hayao_tanaka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 112,
+                "username": "hayao_tanaka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hazedenki.net",
+                "end": 104,
+                "expanded_url": "https://hazedenki.net",
+                "start": 81,
+                "url": "https://t.co/a3O1d2QDrF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "store.steampowered.com/developer/Haze…",
+                "end": 23,
+                "expanded_url": "https://store.steampowered.com/developer/HazeDenki",
+                "start": 0,
+                "url": "https://t.co/sunO27y7X3"
+              }
+            ]
+          }
+        },
+        "id": "2017946332036775936",
+        "name": "HazeDenki",
+        "pinned_tweet_id": "2018013941390311515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017967027525484545/Uzo9YHaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "url": "https://t.co/sunO27y7X3",
+        "username": "hazedenki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2016921484942258176"
+      ],
+      "media_source_tweet_id": [
+        "2016921650105602292"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2017042237394473235",
+    "created_at": "2026-01-30T01:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T02:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017042237394473235"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "Apple",
+          "probability": 0.3154,
+          "start": 23,
+          "type": "Organization"
+        },
+        {
+          "end": 59,
+          "normalized_text": "ArknightsEndfield",
+          "probability": 0.9009,
+          "start": 43,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 42,
+          "tag": "ArknightsEndfield"
+        },
+        {
+          "end": 70,
+          "start": 61,
+          "tag": "エンドフィールド"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1953602589544919042",
+          "start": 3,
+          "username": "EndfieldWorld"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lA7MrciXsk",
+          "end": 94,
+          "expanded_url": "https://x.com/EndfieldWorld/status/2016921650105602292/video/1",
+          "media_key": "7_2016921484942258176",
+          "start": 71,
+          "url": "https://t.co/lA7MrciXsk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017042237394473235",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1318
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016921650105602292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EndfieldWorld: Bad Apple in endfield\n\n#ArknightsEndfield #エンドフィールド https://t.co/lA7MrciXsk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 137230,
+        "height": 720,
+        "media_key": "7_2016921484942258176",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2016921484942258176/pu/img/bN5DcJj3qupjSPcj.jpg",
+        "public_metrics": {
+          "view_count": 149570
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016921484942258176/pu/vid/avc1/480x270/EwF3KQifJhhK7fVu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016921484942258176/pu/vid/avc1/640x360/iSzggBi7d-g1C-aV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2016921484942258176/pu/vid/avc1/1280x720/kp5PQqMDwQqIaphL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2016921484942258176/pu/pl/UbQZKabLMciL7PKT.m3u8?tag=12&v=2b4"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2016921484942258176"
+          ],
+          "media_source_tweet_id": [
+            "2016921650105602292"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017042237394473235",
+        "created_at": "2026-01-30T01:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T02:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017042237394473235"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "Apple",
+              "probability": 0.3154,
+              "start": 23,
+              "type": "Organization"
+            },
+            {
+              "end": 59,
+              "normalized_text": "ArknightsEndfield",
+              "probability": 0.9009,
+              "start": 43,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 42,
+              "tag": "ArknightsEndfield"
+            },
+            {
+              "end": 70,
+              "start": 61,
+              "tag": "エンドフィールド"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1953602589544919042",
+              "start": 3,
+              "username": "EndfieldWorld"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lA7MrciXsk",
+              "end": 94,
+              "expanded_url": "https://x.com/EndfieldWorld/status/2016921650105602292/video/1",
+              "media_key": "7_2016921484942258176",
+              "start": 71,
+              "url": "https://t.co/lA7MrciXsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017042237394473235",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1318
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016921650105602292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EndfieldWorld: Bad Apple in endfield\n\n#ArknightsEndfield #エンドフィールド https://t.co/lA7MrciXsk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2016921484942258176"
+          ]
+        },
+        "author_id": "1953602589544919042",
+        "conversation_id": "2016921650105602292",
+        "created_at": "2026-01-29T17:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T18:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016921650105602292"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Apple",
+              "probability": 0.5197,
+              "start": 4,
+              "type": "Organization"
+            },
+            {
+              "end": 40,
+              "normalized_text": "ArknightsEndfield",
+              "probability": 0.9164,
+              "start": 24,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 23,
+              "tag": "ArknightsEndfield"
+            },
+            {
+              "end": 51,
+              "start": 42,
+              "tag": "エンドフィールド"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lA7MrciXsk",
+              "end": 75,
+              "expanded_url": "https://x.com/EndfieldWorld/status/2016921650105602292/video/1",
+              "media_key": "7_2016921484942258176",
+              "start": 52,
+              "url": "https://t.co/lA7MrciXsk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016921650105602292",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1047,
+          "impression_count": 306082,
+          "like_count": 8426,
+          "quote_count": 71,
+          "reply_count": 15,
+          "retweet_count": 1318
+        },
+        "reply_settings": "everyone",
+        "text": "Bad Apple in endfield\n\n#ArknightsEndfield #エンドフィールド https://t.co/lA7MrciXsk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者|不鉴证|欢迎和我互动|VRChat|无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語 以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\n\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "tg@nanno_64",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 726,
+          "like_count": 73824,
+          "listed_count": 6,
+          "media_count": 2460,
+          "tweet_count": 11227
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-07T23:42:21.000Z",
+        "description": "Welcome everyone 🌘✨ Here you'll find everything about the game: news, memes, guides, updates, and more",
+        "id": "1953602589544919042",
+        "name": "Endfield World",
+        "pinned_tweet_id": "2014003009554878940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013998702038282240/hhw4313e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6584,
+          "following_count": 4,
+          "like_count": 215,
+          "listed_count": 19,
+          "media_count": 88,
+          "tweet_count": 113
+        },
+        "username": "EndfieldWorld",
+        "verified": false
+      }
+    ]
+  }
+}

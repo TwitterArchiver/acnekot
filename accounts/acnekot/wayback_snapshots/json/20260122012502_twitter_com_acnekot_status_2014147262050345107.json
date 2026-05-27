@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2014058935834308616",
+    "created_at": "2026-01-22T01:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T02:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014147262050345107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1529525092442865664",
+          "start": 0,
+          "username": "Hydrogen0E7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014147262050345107",
+    "in_reply_to_user_id": "1529525092442865664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014058935834308616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hydrogen0E7 没有声音...?"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2014058927382732803",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Nf7GtaIAMEjdK.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2014058935834308616",
+        "created_at": "2026-01-22T01:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T02:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014147262050345107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1529525092442865664",
+              "start": 0,
+              "username": "Hydrogen0E7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014147262050345107",
+        "in_reply_to_user_id": "1529525092442865664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014058935834308616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hydrogen0E7 没有声音...?"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014058927382732803"
+          ]
+        },
+        "author_id": "1529525092442865664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014058935834308616",
+        "created_at": "2026-01-21T19:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T20:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014058935834308616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MM8claXVKe",
+              "end": 182,
+              "expanded_url": "https://x.com/Hydrogen0E7/status/2014058935834308616/photo/1",
+              "media_key": "3_2014058927382732803",
+              "start": 159,
+              "url": "https://t.co/MM8claXVKe"
+            },
+            {
+              "display_url": "x.com/hydrogen0e7/st…",
+              "end": 206,
+              "expanded_url": "https://twitter.com/hydrogen0e7/status/2013468050394357791",
+              "start": 183,
+              "url": "https://t.co/HAjx3uNYaO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014058935834308616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 311,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013468050394357791",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我完全修好了！页面是我X个人主页上！\n最重要的是画质选项上了！终于不用被迫弱网看我推的4K60流了\n还修复了很多bug，优化了直播延迟，支持上了HLS和WebRTC over TCP（国内UDP QOS还是好严重）\n推流会持续一天，这次是珂朵莉全集，请珍惜现在还是蓝毛的珂\n如果有小伙伴看到了最新的视频可以截图评论奥 https://t.co/MM8claXVKe https://t.co/HAjx3uNYaO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ 音游爱好者|不鉴证|欢迎和我互动|VRChat|无敌对友好 发言纯依靠我那微薄的知识 看到有错误请帮我指正 非中文使用翻译器 如有错意欢迎指正 中国語以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。 いつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94kyF"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "tg@nanno_64",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 705,
+          "like_count": 70565,
+          "listed_count": 5,
+          "media_count": 2366,
+          "tweet_count": 10703
+        },
+        "url": "https://t.co/HEkBb94kyF",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-25T18:09:54.000Z",
+        "description": "Developer in @BytedanceTalk/@cyclens_tech | CTFer in @r3kapig | ACMer | Shotacon | Avatar from @iamuu_n | Enchanting dream, frozen time, unrealized potential.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "BytedanceTalk"
+              },
+              {
+                "end": 41,
+                "start": 28,
+                "username": "cyclens_tech"
+              },
+              {
+                "end": 61,
+                "start": 53,
+                "username": "r3kapig"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "username": "iamuu_n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "0e7.cn",
+                "end": 23,
+                "expanded_url": "https://0e7.cn",
+                "start": 0,
+                "url": "https://t.co/e4iGNtYvNY"
+              }
+            ]
+          }
+        },
+        "id": "1529525092442865664",
+        "location": "ShangHai",
+        "name": "HydrogenE7",
+        "pinned_tweet_id": "1829368175236133268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006503584154910720/X_JNpuoV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3263,
+          "following_count": 874,
+          "like_count": 7514,
+          "listed_count": 23,
+          "media_count": 609,
+          "tweet_count": 3047
+        },
+        "url": "https://t.co/e4iGNtYvNY",
+        "username": "Hydrogen0E7",
+        "verified": true
+      }
+    ]
+  }
+}

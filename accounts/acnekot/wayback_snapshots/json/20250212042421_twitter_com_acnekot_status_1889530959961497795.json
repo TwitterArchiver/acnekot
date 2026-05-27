@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1888980801221795895",
+    "created_at": "2025-02-12T04:24:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T05:24:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889530959961497795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1649810835571613698",
+          "start": 0,
+          "username": "RikoYakumo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889530959961497795",
+    "in_reply_to_user_id": "1649810835571613698",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889530811227185312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RikoYakumo 我都变成废铁了qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1888980801221795895",
+        "created_at": "2025-02-12T04:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T05:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889530959961497795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1649810835571613698",
+              "start": 0,
+              "username": "RikoYakumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889530959961497795",
+        "in_reply_to_user_id": "1649810835571613698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889530811227185312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RikoYakumo 我都变成废铁了qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649810835571613698",
+        "conversation_id": "1888980801221795895",
+        "created_at": "2025-02-12T04:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T05:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889530811227185312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889530811227185312",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888985693567005076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot wwww这个赛季依旧是青铜哈（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "生活就像海洋，只有意志坚强的人才能到达彼岸\n人生は海のようなものだ。意志の強い人間のみが対岸にたどり着ける\nThis is an apple, i like apples,apples are good for our health.",
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871051316312895489/MYVorhms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 391,
+          "like_count": 41399,
+          "listed_count": 3,
+          "media_count": 1796,
+          "tweet_count": 8378
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-22T16:22:17.000Z",
+        "description": "妈的和这个世界爆了❤",
+        "id": "1649810835571613698",
+        "location": "下北沢",
+        "name": "八雲藍藍路🦊",
+        "pinned_tweet_id": "1794757354019500510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869033715160268800/VOe6uh7a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 347,
+          "like_count": 4374,
+          "listed_count": 6,
+          "media_count": 82,
+          "tweet_count": 1358
+        },
+        "username": "RikoYakumo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2012924605921378319",
+    "created_at": "2026-01-19T00:08:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T01:08:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013040886188298695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3184828508",
+          "start": 0,
+          "username": "astraorsa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013040886188298695",
+    "in_reply_to_user_id": "3184828508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012924605921378319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@astraorsa 原来真是LLM生成的啊我去，我说怎么感觉全是人机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2012924605921378319",
+        "created_at": "2026-01-19T00:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T01:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013040886188298695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3184828508",
+              "start": 0,
+              "username": "astraorsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013040886188298695",
+        "in_reply_to_user_id": "3184828508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012924605921378319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@astraorsa 原来真是LLM生成的啊我去，我说怎么感觉全是人机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3184828508",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2012924605921378319",
+        "created_at": "2026-01-18T16:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T17:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012924605921378319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012924605921378319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 12557,
+          "like_count": 214,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "Twitter 现在的推荐算法完全是绕着 Premium 会员转的，于是一些人开始用 LLM 生成一堆毫无营养的文字，再配合长文功能和蓝勾算法优先推荐，赚取大量流量后周而复始\n现在我的 TL 全是这种垃圾内容，都快变成赛博废土了，所以我现在见到蓝勾用户，尤其那些一眼 LLM 生成的，都先扣点印象分再说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "到处闲逛的猫ᗜ_ᗜ\n游荡在时间线\n音游爱好者|不鉴证|欢迎和我互动|VRChat|无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PkaB"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "tg@nanno_64",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 597,
+          "like_count": 68825,
+          "listed_count": 5,
+          "media_count": 2325,
+          "tweet_count": 10431
+        },
+        "url": "https://t.co/raYZh1PkaB",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2015-05-04T05:39:44.000Z",
+        "description": "矮纸斜行闲作草，晴窗细乳戏分茶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cynosura.one",
+                "end": 23,
+                "expanded_url": "https://cynosura.one",
+                "start": 0,
+                "url": "https://t.co/REjBdAN66j"
+              }
+            ]
+          }
+        },
+        "id": "3184828508",
+        "location": "TON 618",
+        "name": "千草茶",
+        "pinned_tweet_id": "1956732287548342520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012585523383009280/NU2wB57N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9227,
+          "following_count": 1234,
+          "like_count": 55710,
+          "listed_count": 49,
+          "media_count": 8525,
+          "tweet_count": 50417
+        },
+        "url": "https://t.co/REjBdAN66j",
+        "username": "astraorsa",
+        "verified": false
+      }
+    ]
+  }
+}

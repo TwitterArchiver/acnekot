@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1827867046081945679",
+    "created_at": "2024-08-27T02:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T03:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828261763193938169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3019926270",
+          "start": 0,
+          "username": "ywwuyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828261763193938169",
+    "in_reply_to_user_id": "3019926270",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827867046081945679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ywwuyi 别……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1827867046081945679",
+        "created_at": "2024-08-27T02:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T03:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828261763193938169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3019926270",
+              "start": 0,
+              "username": "ywwuyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828261763193938169",
+        "in_reply_to_user_id": "3019926270",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827867046081945679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ywwuyi 别……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3019926270",
+        "conversation_id": "1827867046081945679",
+        "created_at": "2024-08-26T00:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T01:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827867046081945679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1827867046081945679",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 233115,
+          "like_count": 821,
+          "quote_count": 10,
+          "reply_count": 203,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得娘化二郎神把头上第三只眼画成批一定很有意思。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "真理就是没真理",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 329,
+          "like_count": 36527,
+          "listed_count": 5,
+          "tweet_count": 7593
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-14T17:01:05.000Z",
+        "description": "中華艦これ提督，RTA勢，揭示板“艦娘國際”管理人，追尋鋼之魂與黃金意志的男人。\nB站https://t.co/9YSUfBAYFs\n图奇https://t.co/gSS34LtVSl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "live.bilibili.com/6655",
+                "end": 66,
+                "expanded_url": "http://live.bilibili.com/6655",
+                "start": 43,
+                "url": "https://t.co/9YSUfBAYFs"
+              },
+              {
+                "display_url": "twitch.tv/wuyikoei",
+                "end": 92,
+                "expanded_url": "http://twitch.tv/wuyikoei",
+                "start": 69,
+                "url": "https://t.co/gSS34LtVSl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbs.nga.cn/poi",
+                "end": 23,
+                "expanded_url": "http://bbs.nga.cn/poi",
+                "start": 0,
+                "url": "https://t.co/N6H8fxoToO"
+              }
+            ]
+          }
+        },
+        "id": "3019926270",
+        "location": "义乌",
+        "name": "ywwuyi",
+        "pinned_tweet_id": "1117710263933784064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/966969696137363463/Odri67RK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84108,
+          "following_count": 54,
+          "like_count": 129,
+          "listed_count": 242,
+          "tweet_count": 2066
+        },
+        "url": "https://t.co/N6H8fxoToO",
+        "username": "ywwuyi",
+        "verified": false
+      }
+    ]
+  }
+}

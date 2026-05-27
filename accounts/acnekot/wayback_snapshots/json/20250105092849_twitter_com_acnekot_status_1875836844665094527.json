@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1875591978366464023",
+    "created_at": "2025-01-05T09:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T10:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875836844665094527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1329449687062032385",
+          "start": 0,
+          "username": "Stv_Lynn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875836844665094527",
+    "in_reply_to_user_id": "1329449687062032385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875591978366464023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stv_Lynn 豪玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1875591978366464023",
+        "created_at": "2025-01-05T09:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T10:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875836844665094527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1329449687062032385",
+              "start": 0,
+              "username": "Stv_Lynn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875836844665094527",
+        "in_reply_to_user_id": "1329449687062032385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875591978366464023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stv_Lynn 豪玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875591832467636224"
+          ]
+        },
+        "author_id": "1329449687062032385",
+        "conversation_id": "1875591978366464023",
+        "created_at": "2025-01-04T17:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T18:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875591978366464023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uwzhMxyIh2",
+              "end": 40,
+              "expanded_url": "https://x.com/Stv_Lynn/status/1875591978366464023/photo/1",
+              "media_key": "3_1875591832467636224",
+              "start": 17,
+              "url": "https://t.co/uwzhMxyIh2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875591978366464023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 779,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听说是最近很火的恋爱游戏（确信） https://t.co/uwzhMxyIh2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "No Found.",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871051316312895489/MYVorhms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 377,
+          "like_count": 40169,
+          "listed_count": 3,
+          "media_count": 1750,
+          "tweet_count": 8125
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-19T15:41:29.000Z",
+        "description": "Internship @dify_ai |「喂马、劈柴、周游世界」| AI dev | EN/CH/JP | INTJ verified by @twiam_ai | ❤️@hatunagi_yuzuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "dify_ai"
+              },
+              {
+                "end": 81,
+                "start": 72,
+                "username": "twiam_ai"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "hatunagi_yuzuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stv.pm",
+                "end": 23,
+                "expanded_url": "https://stv.pm",
+                "start": 0,
+                "url": "https://t.co/KLEMmPFvOf"
+              }
+            ]
+          }
+        },
+        "id": "1329449687062032385",
+        "location": "Yuzuki's Heart ",
+        "name": "Steven Lynn",
+        "pinned_tweet_id": "1874118463138234516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871577612302364672/bh-5SRE3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4123,
+          "following_count": 807,
+          "like_count": 39322,
+          "listed_count": 29,
+          "media_count": 888,
+          "tweet_count": 7077
+        },
+        "url": "https://t.co/KLEMmPFvOf",
+        "username": "Stv_Lynn",
+        "verified": true
+      }
+    ]
+  }
+}

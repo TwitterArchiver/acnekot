@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016799269328662528"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2016798100816613749",
+    "created_at": "2026-01-29T09:03:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T10:03:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016799271325225267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1842504398850928640",
+          "start": 0,
+          "username": "hsn8086k"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9f3rBZWUuh",
+          "end": 37,
+          "expanded_url": "https://x.com/acnekot/status/2016799271325225267/photo/1",
+          "media_key": "3_2016799269328662528",
+          "start": 14,
+          "url": "https://t.co/9f3rBZWUuh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016799271325225267",
+    "in_reply_to_user_id": "1842504398850928640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016798100816613749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086k 猫娘吗 https://t.co/9f3rBZWUuh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 796,
+        "media_key": "3_2016799269328662528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_0cP_-aMAA-w4D.jpg",
+        "width": 796
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016799269328662528"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2016798100816613749",
+        "created_at": "2026-01-29T09:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T10:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016799271325225267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9f3rBZWUuh",
+              "end": 37,
+              "expanded_url": "https://x.com/acnekot/status/2016799271325225267/photo/1",
+              "media_key": "3_2016799269328662528",
+              "start": 14,
+              "url": "https://t.co/9f3rBZWUuh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016799271325225267",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016798100816613749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 猫娘吗 https://t.co/9f3rBZWUuh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2016798100816613749",
+        "created_at": "2026-01-29T08:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T09:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016798100816613749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2016422394886607177",
+              "start": 32,
+              "url": "https://t.co/12fvGxXxXU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016798100816613749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016422394886607177",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "解: 因为 hsn 喜欢发猫猫, 所以 hsn 是猫娘, 得证 https://t.co/12fvGxXxXU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者|不鉴证|欢迎和我互动|VRChat|无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語 以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\n\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "tg@nanno_64",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 725,
+          "like_count": 73712,
+          "listed_count": 6,
+          "media_count": 2452,
+          "tweet_count": 11203
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 111,
+          "like_count": 1600,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 558
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

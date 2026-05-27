@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019484528029626369"
+      ],
+      "media_source_tweet_id": [
+        "2019484531175334367"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2019756033988501915",
+    "created_at": "2026-02-06T12:52:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T13:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019756033988501915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1246474809413783553",
+          "start": 3,
+          "username": "magallan8492"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AaO4UDl7Tx",
+          "end": 59,
+          "expanded_url": "https://x.com/magallan8492/status/2019484531175334367/photo/1",
+          "media_key": "3_2019484528029626369",
+          "start": 36,
+          "url": "https://t.co/AaO4UDl7Tx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019756033988501915",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019484531175334367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @magallan8492: 寒冷パーティ使えイラストだなこれは https://t.co/AaO4UDl7Tx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2019484528029626369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAameoKacAEgjf-.jpg",
+        "width": 1927
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019484528029626369"
+          ],
+          "media_source_tweet_id": [
+            "2019484531175334367"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2019756033988501915",
+        "created_at": "2026-02-06T12:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T13:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019756033988501915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1246474809413783553",
+              "start": 3,
+              "username": "magallan8492"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AaO4UDl7Tx",
+              "end": 59,
+              "expanded_url": "https://x.com/magallan8492/status/2019484531175334367/photo/1",
+              "media_key": "3_2019484528029626369",
+              "start": 36,
+              "url": "https://t.co/AaO4UDl7Tx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019756033988501915",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019484531175334367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @magallan8492: 寒冷パーティ使えイラストだなこれは https://t.co/AaO4UDl7Tx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019484528029626369"
+          ]
+        },
+        "author_id": "1246474809413783553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          }
+        ],
+        "conversation_id": "2019484531175334367",
+        "created_at": "2026-02-05T18:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T19:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019484531175334367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AaO4UDl7Tx",
+              "end": 41,
+              "expanded_url": "https://x.com/magallan8492/status/2019484531175334367/photo/1",
+              "media_key": "3_2019484528029626369",
+              "start": 18,
+              "url": "https://t.co/AaO4UDl7Tx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019484531175334367",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 6743,
+          "like_count": 637,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "寒冷パーティ使えイラストだなこれは https://t.co/AaO4UDl7Tx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語 以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 736,
+          "like_count": 76015,
+          "listed_count": 6,
+          "media_count": 2541,
+          "tweet_count": 11723
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-04T16:28:53.000Z",
+        "description": "アークナイツのある日常\n一般ドクターです。マゼラン⛸️🐧推し\n\nアークナイツメインの日常アカウントになります\nたまにアークナイツ以外も呟いたりする気ままに遊んでいるだけのアカウントになります\nアイコンはヘカトンさん（@hekaton6960）より\n🐧⛸️\n＼まぜっ／\nねこすい民もやっております\n#猫咲あんじ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 154,
+                "start": 148,
+                "tag": "猫咲あんじ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 120,
+                "start": 108,
+                "username": "hekaton6960"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Nekosaki_Anji",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Nekosaki_Anji",
+                "start": 0,
+                "url": "https://t.co/icXM5bcJkZ"
+              }
+            ]
+          }
+        },
+        "id": "1246474809413783553",
+        "location": "ねこすい王国",
+        "name": "サイファー♜⃤ねこすい民🐱💜",
+        "pinned_tweet_id": "2015067038163865646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877380380745199616/ci15a7HR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3408,
+          "following_count": 2539,
+          "like_count": 119917,
+          "listed_count": 42,
+          "media_count": 14536,
+          "tweet_count": 88172
+        },
+        "url": "https://t.co/icXM5bcJkZ",
+        "username": "magallan8492",
+        "verified": true
+      }
+    ]
+  }
+}

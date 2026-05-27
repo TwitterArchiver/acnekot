@@ -1,0 +1,612 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010495850871746560",
+        "3_2010495865153269760",
+        "3_2010495888180006913",
+        "3_2010495911076716544"
+      ],
+      "media_source_tweet_id": [
+        "2010496110192947595",
+        "2010496110192947595",
+        "2010496110192947595",
+        "2010496110192947595"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899469046054924",
+          "name": "Virtual reality games"
+        }
+      }
+    ],
+    "conversation_id": "2010544530722804183",
+    "created_at": "2026-01-12T02:49:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T03:49:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010544530722804183"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 31,
+          "tag": "VRChat"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1991912862378549248",
+          "start": 3,
+          "username": "32nnyuusankin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MRW6lpvSSH",
+          "end": 62,
+          "expanded_url": "https://x.com/32nnyuusankin/status/2010496110192947595/photo/1",
+          "media_key": "3_2010495850871746560",
+          "start": 39,
+          "url": "https://t.co/MRW6lpvSSH"
+        },
+        {
+          "display_url": "pic.x.com/MRW6lpvSSH",
+          "end": 62,
+          "expanded_url": "https://x.com/32nnyuusankin/status/2010496110192947595/photo/1",
+          "media_key": "3_2010495865153269760",
+          "start": 39,
+          "url": "https://t.co/MRW6lpvSSH"
+        },
+        {
+          "display_url": "pic.x.com/MRW6lpvSSH",
+          "end": 62,
+          "expanded_url": "https://x.com/32nnyuusankin/status/2010496110192947595/photo/1",
+          "media_key": "3_2010495888180006913",
+          "start": 39,
+          "url": "https://t.co/MRW6lpvSSH"
+        },
+        {
+          "display_url": "pic.x.com/MRW6lpvSSH",
+          "end": 62,
+          "expanded_url": "https://x.com/32nnyuusankin/status/2010496110192947595/photo/1",
+          "media_key": "3_2010495911076716544",
+          "start": 39,
+          "url": "https://t.co/MRW6lpvSSH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010544530722804183",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 182
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010496110192947595",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @32nnyuusankin: 「本命」\n※タッチ推奨\n#VRChat https://t.co/MRW6lpvSSH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2600,
+        "media_key": "3_2010495850871746560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-a3UwWbcAAnGf1.png",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2010495865153269760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-a3VljaMAAe2Ny.png",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2010495888180006913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-a3W7VaUAEVGac.jpg",
+        "width": 1920
+      },
+      {
+        "height": 3400,
+        "media_key": "3_2010495911076716544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-a3YQoaYAAMWLE.png",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010495850871746560",
+            "3_2010495865153269760",
+            "3_2010495888180006913",
+            "3_2010495911076716544"
+          ],
+          "media_source_tweet_id": [
+            "2010496110192947595",
+            "2010496110192947595",
+            "2010496110192947595",
+            "2010496110192947595"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2010544530722804183",
+        "created_at": "2026-01-12T02:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T03:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010544530722804183"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 31,
+              "tag": "VRChat"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1991912862378549248",
+              "start": 3,
+              "username": "32nnyuusankin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MRW6lpvSSH",
+              "end": 62,
+              "expanded_url": "https://x.com/32nnyuusankin/status/2010496110192947595/photo/1",
+              "media_key": "3_2010495850871746560",
+              "start": 39,
+              "url": "https://t.co/MRW6lpvSSH"
+            },
+            {
+              "display_url": "pic.x.com/MRW6lpvSSH",
+              "end": 62,
+              "expanded_url": "https://x.com/32nnyuusankin/status/2010496110192947595/photo/1",
+              "media_key": "3_2010495865153269760",
+              "start": 39,
+              "url": "https://t.co/MRW6lpvSSH"
+            },
+            {
+              "display_url": "pic.x.com/MRW6lpvSSH",
+              "end": 62,
+              "expanded_url": "https://x.com/32nnyuusankin/status/2010496110192947595/photo/1",
+              "media_key": "3_2010495888180006913",
+              "start": 39,
+              "url": "https://t.co/MRW6lpvSSH"
+            },
+            {
+              "display_url": "pic.x.com/MRW6lpvSSH",
+              "end": 62,
+              "expanded_url": "https://x.com/32nnyuusankin/status/2010496110192947595/photo/1",
+              "media_key": "3_2010495911076716544",
+              "start": 39,
+              "url": "https://t.co/MRW6lpvSSH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010544530722804183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 182
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010496110192947595",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @32nnyuusankin: 「本命」\n※タッチ推奨\n#VRChat https://t.co/MRW6lpvSSH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010495850871746560",
+            "3_2010495865153269760",
+            "3_2010495888180006913",
+            "3_2010495911076716544"
+          ]
+        },
+        "author_id": "1991912862378549248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2010496110192947595",
+        "created_at": "2026-01-11T23:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T00:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010496110192947595"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 12,
+              "tag": "VRChat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MRW6lpvSSH",
+              "end": 43,
+              "expanded_url": "https://x.com/32nnyuusankin/status/2010496110192947595/photo/1",
+              "media_key": "3_2010495850871746560",
+              "start": 20,
+              "url": "https://t.co/MRW6lpvSSH"
+            },
+            {
+              "display_url": "pic.x.com/MRW6lpvSSH",
+              "end": 43,
+              "expanded_url": "https://x.com/32nnyuusankin/status/2010496110192947595/photo/1",
+              "media_key": "3_2010495865153269760",
+              "start": 20,
+              "url": "https://t.co/MRW6lpvSSH"
+            },
+            {
+              "display_url": "pic.x.com/MRW6lpvSSH",
+              "end": 43,
+              "expanded_url": "https://x.com/32nnyuusankin/status/2010496110192947595/photo/1",
+              "media_key": "3_2010495888180006913",
+              "start": 20,
+              "url": "https://t.co/MRW6lpvSSH"
+            },
+            {
+              "display_url": "pic.x.com/MRW6lpvSSH",
+              "end": 43,
+              "expanded_url": "https://x.com/32nnyuusankin/status/2010496110192947595/photo/1",
+              "media_key": "3_2010495911076716544",
+              "start": 20,
+              "url": "https://t.co/MRW6lpvSSH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010496110192947595",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 19,
+                "start": 12,
+                "tag": "VRChat"
+              }
+            ]
+          },
+          "text": "「本命」\n※タッチ推奨\n#VRChat"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 558,
+          "impression_count": 219995,
+          "like_count": 3031,
+          "quote_count": 8,
+          "reply_count": 2,
+          "retweet_count": 182
+        },
+        "reply_settings": "everyone",
+        "text": "「本命」\n※タッチ推奨\n#VRChat https://t.co/MRW6lpvSSH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "到处闲逛的猫ᗜ_ᗜ\n音游爱好者|不鉴证|欢迎和我互动|VRChat\n非中文使用翻译器 如有错意欢迎指正\n回fo请私信或者留言 不然就是纯随机(笑\nいつ終わるかな 意味もないのに",
+        "id": "1552213521253150720",
+        "location": "http://mocat.asia",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 575,
+          "like_count": 65595,
+          "listed_count": 5,
+          "media_count": 2200,
+          "tweet_count": 10013
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-21T16:53:50.000Z",
+        "description": "※AI学習禁止\n「みつ」です。アイコン@Arara_P_Land\nBooth https://t.co/gpFCenqPU4\nyoutube https://t.co/JJFS3urkDd\nソフィナが好きすぎて使えない…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "Arara_P_Land"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mitunzyou.booth.pm",
+                "end": 62,
+                "expanded_url": "https://mitunzyou.booth.pm/",
+                "start": 39,
+                "url": "https://t.co/gpFCenqPU4"
+              },
+              {
+                "display_url": "youtube.com/@32n%E4%B9%97%…",
+                "end": 94,
+                "expanded_url": "https://www.youtube.com/@32n%E4%B9%97%E4%B9%B3%E9%85%B8%E8%8F%8C",
+                "start": 71,
+                "url": "https://t.co/JJFS3urkDd"
+              }
+            ]
+          }
+        },
+        "id": "1991912862378549248",
+        "name": "32^n乳酸菌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008950506203525120/k8QG7dmf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 33,
+          "like_count": 525,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 191
+        },
+        "username": "32nnyuusankin",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1861078698818171368",
+    "created_at": "2024-11-26T04:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T05:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861272827984519651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1095379108798771201",
+          "start": 0,
+          "username": "NyanSheeptsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861272827984519651",
+    "in_reply_to_user_id": "1095379108798771201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861078698818171368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NyanSheeptsuki 生日快乐"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1861078698818171368].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1861078698818171368",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1861078698818171368"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1861078698818171368",
+        "created_at": "2024-11-26T04:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T05:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861272827984519651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1095379108798771201",
+              "start": 0,
+              "username": "NyanSheeptsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861272827984519651",
+        "in_reply_to_user_id": "1095379108798771201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861078698818171368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyanSheeptsuki 生日快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "awo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/acnekot",
+                "end": 23,
+                "expanded_url": "https://bonjour.bio/acnekot",
+                "start": 0,
+                "url": "https://t.co/dihqxxtjTA"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 372,
+          "like_count": 39829,
+          "listed_count": 3,
+          "tweet_count": 8065
+        },
+        "url": "https://t.co/dihqxxtjTA",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-12T17:48:25.000Z",
+        "description": "cs/210岁/废物/缺爱/下水道的臭老鼠/INFJ-T/从某处偷偷注视着你/恋爱脑！?！?！/入坑很浅/无立场/点赞bot/互fo/笨比/不键政/希望得到大家的纠正/谦/混乱/记得传递幸福/疯批✨✨      \n神经病罢了----\n/*锁推是为了审查有没有奇怪的关注*/\n/*喂，你怎么写这么多，根本没人看好吗*/",
+        "id": "1095379108798771201",
+        "location": "Tokyo-to, Japan",
+        "name": "汐沫💫（淡推版）",
+        "pinned_tweet_id": "1525770700933693440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613343922113359873/37KWPLgM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 1415,
+          "like_count": 74415,
+          "listed_count": 6,
+          "tweet_count": 3101
+        },
+        "username": "NyanSheeptsuki",
+        "verified": false
+      }
+    ]
+  }
+}

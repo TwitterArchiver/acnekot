@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1841413195120165084",
+    "created_at": "2024-10-04T01:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-04T02:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842013904559579280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1497868189400809472",
+          "start": 0,
+          "username": "koulislee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842013904559579280",
+    "in_reply_to_user_id": "1497868189400809472",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841413195120165084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koulislee 😡🤬🤬🤬🤬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1841413195120165084",
+        "created_at": "2024-10-04T01:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T02:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842013904559579280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1497868189400809472",
+              "start": 0,
+              "username": "koulislee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842013904559579280",
+        "in_reply_to_user_id": "1497868189400809472",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841413195120165084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koulislee 😡🤬🤬🤬🤬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841413190326136832"
+          ]
+        },
+        "author_id": "1497868189400809472",
+        "conversation_id": "1841413195120165084",
+        "created_at": "2024-10-02T09:41:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T10:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841413195120165084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qBRi0zgVnU",
+              "end": 26,
+              "expanded_url": "https://x.com/koulislee/status/1841413195120165084/photo/1",
+              "media_key": "3_1841413190326136832",
+              "start": 3,
+              "url": "https://t.co/qBRi0zgVnU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841413195120165084",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2022,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "别点 https://t.co/qBRi0zgVnU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "Into Nothing.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/acnekot",
+                "end": 23,
+                "expanded_url": "https://bonjour.bio/acnekot",
+                "start": 0,
+                "url": "https://t.co/dihqxxtjTA"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 346,
+          "like_count": 38559,
+          "listed_count": 5,
+          "tweet_count": 7859
+        },
+        "url": "https://t.co/dihqxxtjTA",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-27T09:36:44.000Z",
+        "description": "Out of space.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=100052575725909&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/zDczREhZr2"
+              }
+            ]
+          }
+        },
+        "id": "1497868189400809472",
+        "location": "Nowhere.",
+        "name": "Riisk",
+        "pinned_tweet_id": "1841827358124474377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827371984386453508/uZH0fWIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 373,
+          "like_count": 17585,
+          "listed_count": 0,
+          "tweet_count": 7531
+        },
+        "url": "https://t.co/zDczREhZr2",
+        "username": "koulislee",
+        "verified": false
+      }
+    ]
+  }
+}

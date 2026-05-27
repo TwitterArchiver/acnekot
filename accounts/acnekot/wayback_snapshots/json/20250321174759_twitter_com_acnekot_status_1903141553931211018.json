@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1902916927779115313",
+    "created_at": "2025-03-21T17:47:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T18:47:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903141553931211018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1649270356102840320",
+          "start": 0,
+          "username": "jiupeijiupei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903141553931211018",
+    "in_reply_to_user_id": "1649270356102840320",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902916927779115313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiupeijiupei awa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1902916927779115313",
+        "created_at": "2025-03-21T17:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T18:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903141553931211018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1649270356102840320",
+              "start": 0,
+              "username": "jiupeijiupei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903141553931211018",
+        "in_reply_to_user_id": "1649270356102840320",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902916927779115313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiupeijiupei awa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649270356102840320",
+        "conversation_id": "1902916927779115313",
+        "created_at": "2025-03-21T02:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T03:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902916927779115313"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902916927779115313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 66634,
+          "like_count": 794,
+          "quote_count": 3,
+          "reply_count": 677,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我希望看到这条推文的人都能给我一个回复\n随便回什么都行\n我怀疑根本没有人会刷到我的推\n也没人会对我敢兴趣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "观察着…你和我",
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871051316312895489/MYVorhms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 408,
+          "like_count": 42410,
+          "listed_count": 3,
+          "media_count": 1824,
+          "tweet_count": 8486
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-21T04:34:37.000Z",
+        "description": "以名为伤痛之方，治名为呼吸之病",
+        "id": "1649270356102840320",
+        "name": "どく药师丸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744596940262649856/WNfW4Ik7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 449,
+          "like_count": 405,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 1322
+        },
+        "username": "jiupeijiupei",
+        "verified": false
+      }
+    ]
+  }
+}

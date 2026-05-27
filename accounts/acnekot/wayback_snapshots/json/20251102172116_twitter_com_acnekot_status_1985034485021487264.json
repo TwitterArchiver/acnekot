@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1985034381451517952"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "1985034485021487264",
+    "created_at": "2025-11-02T17:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T18:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985034485021487264"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6flRtqepze",
+          "end": 33,
+          "expanded_url": "https://x.com/acnekot/status/1985034485021487264/video/1",
+          "media_key": "13_1985034381451517952",
+          "start": 10,
+          "url": "https://t.co/6flRtqepze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985034485021487264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我们需要更多的钢管 https://t.co/6flRtqepze"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8103,
+        "height": 720,
+        "media_key": "13_1985034381451517952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1985034381451517952/img/wvESyajxjB45u6PF.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985034381451517952/vid/avc1/480x270/ypQjvhqNf-MqIdQ5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985034381451517952/vid/avc1/640x360/1hcH_FDtBaZUQ_WG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985034381451517952/vid/avc1/1280x720/GRkZU5DqGfePi5aF.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1985034381451517952/pl/VrYxPTKhYd1RtImb.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985034381451517952"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "1985034485021487264",
+        "created_at": "2025-11-02T17:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T18:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985034485021487264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6flRtqepze",
+              "end": 33,
+              "expanded_url": "https://x.com/acnekot/status/1985034485021487264/video/1",
+              "media_key": "13_1985034381451517952",
+              "start": 10,
+              "url": "https://t.co/6flRtqepze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985034485021487264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们需要更多的钢管 https://t.co/6flRtqepze"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "观察着…你和我\n阶段性活跃",
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984849769211314179/Mzcgzncy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 456,
+          "like_count": 44419,
+          "listed_count": 4,
+          "media_count": 1877,
+          "tweet_count": 8673
+        },
+        "username": "acnekot",
+        "verified": false
+      }
+    ]
+  }
+}

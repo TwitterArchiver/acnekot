@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2002382799329005568"
+      ],
+      "media_source_tweet_id": [
+        "2002384761323728965"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2002694715922424276",
+    "created_at": "2025-12-21T10:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T11:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002694715922424276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1076418654353281026",
+          "start": 3,
+          "username": "souworks4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fofJO9knYM",
+          "end": 78,
+          "expanded_url": "https://x.com/souworks4/status/2002384761323728965/video/1",
+          "media_key": "13_2002382799329005568",
+          "start": 55,
+          "url": "https://t.co/fofJO9knYM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002694715922424276",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 251
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002384761323728965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @souworks4: 進捗\n画像の保存、シェア機能を作りました。アンテナを引っ張ると有効になります。 https://t.co/fofJO9knYM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18000,
+        "height": 720,
+        "media_key": "13_2002382799329005568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002382799329005568/img/4aBaMvJDVRZDdpIm.jpg",
+        "public_metrics": {
+          "view_count": 33256
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002382799329005568/vid/avc1/480x270/sI3ATwkzP_G-fcPq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002382799329005568/vid/avc1/640x360/GkPjCg9lKqHc2C3X.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002382799329005568/vid/avc1/1280x720/l3OXFHcTZ51Wihir.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002382799329005568/pl/FwIj4P_tiaMlLeUy.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002382799329005568"
+          ],
+          "media_source_tweet_id": [
+            "2002384761323728965"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2002694715922424276",
+        "created_at": "2025-12-21T10:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T11:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002694715922424276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1076418654353281026",
+              "start": 3,
+              "username": "souworks4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fofJO9knYM",
+              "end": 78,
+              "expanded_url": "https://x.com/souworks4/status/2002384761323728965/video/1",
+              "media_key": "13_2002382799329005568",
+              "start": 55,
+              "url": "https://t.co/fofJO9knYM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002694715922424276",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 251
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002384761323728965",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @souworks4: 進捗\n画像の保存、シェア機能を作りました。アンテナを引っ張ると有効になります。 https://t.co/fofJO9knYM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002382799329005568"
+          ]
+        },
+        "author_id": "1076418654353281026",
+        "conversation_id": "2002384761323728965",
+        "created_at": "2025-12-20T14:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T15:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002384761323728965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fofJO9knYM",
+              "end": 63,
+              "expanded_url": "https://x.com/souworks4/status/2002384761323728965/video/1",
+              "media_key": "13_2002382799329005568",
+              "start": 40,
+              "url": "https://t.co/fofJO9knYM"
+            },
+            {
+              "display_url": "x.com/souworks4/stat…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/souworks4/status/2001992706869043203",
+              "start": 64,
+              "url": "https://t.co/GiASWrolLm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002384761323728965",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 441,
+          "impression_count": 112438,
+          "like_count": 1875,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 251
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001992706869043203",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "進捗\n画像の保存、シェア機能を作りました。アンテナを引っ張ると有効になります。 https://t.co/fofJO9knYM https://t.co/GiASWrolLm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明\nSignal:nanno64",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PS09"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999088067693654016/sMoxaqQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 523,
+          "like_count": 57679,
+          "listed_count": 5,
+          "media_count": 2014,
+          "tweet_count": 9373
+        },
+        "url": "https://t.co/raYZh1PS09",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-22T10:06:20.000Z",
+        "description": "3Dモデルを作っています。VRと音楽が好きです。  @seikatu お店 : https://t.co/C7q04Pe8Ly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "seikatu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sou-works.booth.pm",
+                "end": 63,
+                "expanded_url": "http://sou-works.booth.pm",
+                "start": 40,
+                "url": "https://t.co/C7q04Pe8Ly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/souworks",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/souworks",
+                "start": 0,
+                "url": "https://t.co/JZ3YjjD5Ki"
+              }
+            ]
+          }
+        },
+        "id": "1076418654353281026",
+        "name": "sou",
+        "pinned_tweet_id": "1898710107401166954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1537334478800302080/m_D8HZl3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4990,
+          "following_count": 891,
+          "like_count": 13176,
+          "listed_count": 67,
+          "media_count": 240,
+          "tweet_count": 519
+        },
+        "url": "https://t.co/JZ3YjjD5Ki",
+        "username": "souworks4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2026014966357065728"
+      ],
+      "media_source_tweet_id": [
+        "2026014985852215726"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2026220803650736210",
+    "created_at": "2026-02-24T09:00:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T10:00:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026220803650736210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1161380924229115907",
+          "start": 3,
+          "username": "DqKeita"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NlPj5wiAEw",
+          "end": 36,
+          "expanded_url": "https://x.com/DqKeita/status/2026014985852215726/video/1",
+          "media_key": "7_2026014966357065728",
+          "start": 13,
+          "url": "https://t.co/NlPj5wiAEw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026220803650736210",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1617
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026014985852215726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DqKeita: https://t.co/NlPj5wiAEw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13096,
+        "height": 836,
+        "media_key": "7_2026014966357065728",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2026014966357065728/pu/img/2ngn1Yky1opCtVRk.jpg",
+        "public_metrics": {
+          "view_count": 257480
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026014966357065728/pu/vid/avc1/320x556/jzQL2NyWd_FhKXyh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026014966357065728/pu/vid/avc1/480x836/n9o53q1-lCzgauS2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2026014966357065728/pu/pl/L0q2EMJ4Wz8D20N1.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2026014966357065728"
+          ],
+          "media_source_tweet_id": [
+            "2026014985852215726"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026220803650736210",
+        "created_at": "2026-02-24T09:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T10:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026220803650736210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1161380924229115907",
+              "start": 3,
+              "username": "DqKeita"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NlPj5wiAEw",
+              "end": 36,
+              "expanded_url": "https://x.com/DqKeita/status/2026014985852215726/video/1",
+              "media_key": "7_2026014966357065728",
+              "start": 13,
+              "url": "https://t.co/NlPj5wiAEw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026220803650736210",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1617
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026014985852215726",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DqKeita: https://t.co/NlPj5wiAEw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2026014966357065728"
+          ]
+        },
+        "author_id": "1161380924229115907",
+        "conversation_id": "2026014985852215726",
+        "created_at": "2026-02-23T19:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T20:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026014985852215726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NlPj5wiAEw",
+              "end": 23,
+              "expanded_url": "https://x.com/DqKeita/status/2026014985852215726/video/1",
+              "media_key": "7_2026014966357065728",
+              "start": 0,
+              "url": "https://t.co/NlPj5wiAEw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026014985852215726",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4031,
+          "impression_count": 449620,
+          "like_count": 18933,
+          "quote_count": 23,
+          "reply_count": 26,
+          "retweet_count": 1617
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NlPj5wiAEw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度｜好丽友派:@wxb_NB\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好｜同类互关请私信）\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "wxb_NB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 767,
+          "like_count": 81505,
+          "listed_count": 6,
+          "media_count": 2777,
+          "tweet_count": 12903
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-13T20:56:04.000Z",
+        "description": "ฅ(• ɪ •)HoyoCC Official✦\n🔴https://t.co/P7WTpRLTbU |\n🟣https://t.co/7VpRaPi6Fc |\n\n✉️Keitaro@amg.gg\n\n Enlace de descuento▶️https://t.co/zKrZk1Mnrd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KeitaroTR",
+                "end": 49,
+                "expanded_url": "http://youtube.com/@KeitaroTR",
+                "start": 26,
+                "url": "https://t.co/P7WTpRLTbU"
+              },
+              {
+                "display_url": "twitch.tv/keitarotr",
+                "end": 76,
+                "expanded_url": "http://twitch.tv/keitarotr",
+                "start": 53,
+                "url": "https://t.co/7VpRaPi6Fc"
+              },
+              {
+                "display_url": "ene.ba/Keitaro",
+                "end": 143,
+                "expanded_url": "https://ene.ba/Keitaro",
+                "start": 120,
+                "url": "https://t.co/zKrZk1Mnrd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/KeitaroTR",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/KeitaroTR",
+                "start": 0,
+                "url": "https://t.co/DMU2wxMt2e"
+              }
+            ]
+          }
+        },
+        "id": "1161380924229115907",
+        "location": "Comunidad Valenciana, España",
+        "name": "Keitaro",
+        "pinned_tweet_id": "2024173196375625936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975233561494986753/2jbdzKAM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68203,
+          "following_count": 2411,
+          "like_count": 196397,
+          "listed_count": 94,
+          "media_count": 16903,
+          "tweet_count": 50801
+        },
+        "url": "https://t.co/DMU2wxMt2e",
+        "username": "DqKeita",
+        "verified": true
+      }
+    ]
+  }
+}

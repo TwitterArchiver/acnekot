@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022031586238308352",
+        "3_2022031609458012160"
+      ],
+      "media_source_tweet_id": [
+        "2022031684699582671",
+        "2022031684699582671"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2022196135356756028",
+    "created_at": "2026-02-13T06:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T07:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022196135356756028"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "Smol",
+          "probability": 0.7531,
+          "start": 14,
+          "type": "Other"
+        },
+        {
+          "end": 36,
+          "normalized_text": "Wide Lightning",
+          "probability": 0.7818,
+          "start": 23,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1407716647213830145",
+          "start": 3,
+          "username": "frokfrdk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5oRpkH7paU",
+          "end": 102,
+          "expanded_url": "https://x.com/frokfrdk/status/2022031684699582671/photo/1",
+          "media_key": "3_2022031586238308352",
+          "start": 79,
+          "url": "https://t.co/5oRpkH7paU"
+        },
+        {
+          "display_url": "pic.x.com/5oRpkH7paU",
+          "end": 102,
+          "expanded_url": "https://x.com/frokfrdk/status/2022031684699582671/photo/1",
+          "media_key": "3_2022031609458012160",
+          "start": 79,
+          "url": "https://t.co/5oRpkH7paU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022196135356756028",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022031684699582671",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @frokfrdk: Smol and Wide Lightning connectors exist and they WILL hurt you. https://t.co/5oRpkH7paU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2022031586238308352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA-zA7ZaoAA_suI.png",
+        "width": 750
+      },
+      {
+        "height": 1125,
+        "media_key": "3_2022031609458012160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA-zCR5bMAAUBDe.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022031586238308352",
+            "3_2022031609458012160"
+          ],
+          "media_source_tweet_id": [
+            "2022031684699582671",
+            "2022031684699582671"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2022196135356756028",
+        "created_at": "2026-02-13T06:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T07:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022196135356756028"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "Smol",
+              "probability": 0.7531,
+              "start": 14,
+              "type": "Other"
+            },
+            {
+              "end": 36,
+              "normalized_text": "Wide Lightning",
+              "probability": 0.7818,
+              "start": 23,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1407716647213830145",
+              "start": 3,
+              "username": "frokfrdk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5oRpkH7paU",
+              "end": 102,
+              "expanded_url": "https://x.com/frokfrdk/status/2022031684699582671/photo/1",
+              "media_key": "3_2022031586238308352",
+              "start": 79,
+              "url": "https://t.co/5oRpkH7paU"
+            },
+            {
+              "display_url": "pic.x.com/5oRpkH7paU",
+              "end": 102,
+              "expanded_url": "https://x.com/frokfrdk/status/2022031684699582671/photo/1",
+              "media_key": "3_2022031609458012160",
+              "start": 79,
+              "url": "https://t.co/5oRpkH7paU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022196135356756028",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022031684699582671",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @frokfrdk: Smol and Wide Lightning connectors exist and they WILL hurt you. https://t.co/5oRpkH7paU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022031586238308352",
+            "3_2022031609458012160"
+          ]
+        },
+        "author_id": "1407716647213830145",
+        "conversation_id": "2022031684699582671",
+        "created_at": "2026-02-12T19:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T20:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022031684699582671"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "Smol",
+              "probability": 0.7463,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 22,
+              "normalized_text": "Wide Lightning",
+              "probability": 0.8287,
+              "start": 9,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5oRpkH7paU",
+              "end": 88,
+              "expanded_url": "https://x.com/frokfrdk/status/2022031684699582671/photo/1",
+              "media_key": "3_2022031586238308352",
+              "start": 65,
+              "url": "https://t.co/5oRpkH7paU"
+            },
+            {
+              "display_url": "pic.x.com/5oRpkH7paU",
+              "end": 88,
+              "expanded_url": "https://x.com/frokfrdk/status/2022031684699582671/photo/1",
+              "media_key": "3_2022031609458012160",
+              "start": 65,
+              "url": "https://t.co/5oRpkH7paU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022031684699582671",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 817,
+          "impression_count": 461159,
+          "like_count": 9414,
+          "quote_count": 10,
+          "reply_count": 33,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "Smol and Wide Lightning connectors exist and they WILL hurt you. https://t.co/5oRpkH7paU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語 以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 757,
+          "like_count": 77849,
+          "listed_count": 6,
+          "media_count": 2596,
+          "tweet_count": 12030
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-23T15:06:24.000Z",
+        "description": "Yapping about tech on YouTube",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/frokfrdk",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/frokfrdk",
+                "start": 0,
+                "url": "https://t.co/YgyYZNCIzE"
+              }
+            ]
+          }
+        },
+        "id": "1407716647213830145",
+        "location": "Adelaide, South Australia",
+        "name": "frokfrdk",
+        "pinned_tweet_id": "2018828222822334596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789304454686412800/fqi8K9HR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1410,
+          "following_count": 620,
+          "like_count": 8032,
+          "listed_count": 1,
+          "media_count": 453,
+          "tweet_count": 1143
+        },
+        "url": "https://t.co/YgyYZNCIzE",
+        "username": "frokfrdk",
+        "verified": false
+      }
+    ]
+  }
+}

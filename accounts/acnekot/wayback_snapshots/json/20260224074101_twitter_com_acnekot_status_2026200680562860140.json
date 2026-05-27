@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2025824013113856001"
+      ],
+      "media_source_tweet_id": [
+        "2025824070764511662"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2026200680562860140",
+    "created_at": "2026-02-24T07:41:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T08:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026200680562860140"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 39,
+          "normalized_text": "ArknightsEndfield",
+          "probability": 0.9321,
+          "start": 23,
+          "type": "Other"
+        },
+        {
+          "end": 49,
+          "normalized_text": "エンドフィールド",
+          "probability": 0.5412,
+          "start": 42,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 22,
+          "tag": "ArknightsEndfield"
+        },
+        {
+          "end": 50,
+          "start": 41,
+          "tag": "エンドフィールド"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3045059735",
+          "start": 3,
+          "username": "aaak_Ellie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0efvmZXeyZ",
+          "end": 74,
+          "expanded_url": "https://x.com/aaak_Ellie/status/2025824070764511662/video/1",
+          "media_key": "13_2025824013113856001",
+          "start": 51,
+          "url": "https://t.co/0efvmZXeyZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026200680562860140",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2290
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025824070764511662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aaak_Ellie: NEED\n\n#ArknightsEndfield #エンドフィールド https://t.co/0efvmZXeyZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10066,
+        "height": 1280,
+        "media_key": "13_2025824013113856001",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2025824013113856001/img/RYkfDF-fmkD6aq44.jpg",
+        "public_metrics": {
+          "view_count": 218246
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025824013113856001/vid/avc1/320x568/7ovgfrC0aSkEDLo5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025824013113856001/vid/avc1/480x852/wfn-L1Lyn_4f_muD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025824013113856001/vid/avc1/720x1280/rl-nfrOB6acEv0zR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025824013113856001/pl/IZ8SUV197juJXxkT.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025824013113856001"
+          ],
+          "media_source_tweet_id": [
+            "2025824070764511662"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026200680562860140",
+        "created_at": "2026-02-24T07:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T08:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026200680562860140"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "ArknightsEndfield",
+              "probability": 0.9321,
+              "start": 23,
+              "type": "Other"
+            },
+            {
+              "end": 49,
+              "normalized_text": "エンドフィールド",
+              "probability": 0.5412,
+              "start": 42,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 22,
+              "tag": "ArknightsEndfield"
+            },
+            {
+              "end": 50,
+              "start": 41,
+              "tag": "エンドフィールド"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3045059735",
+              "start": 3,
+              "username": "aaak_Ellie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0efvmZXeyZ",
+              "end": 74,
+              "expanded_url": "https://x.com/aaak_Ellie/status/2025824070764511662/video/1",
+              "media_key": "13_2025824013113856001",
+              "start": 51,
+              "url": "https://t.co/0efvmZXeyZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026200680562860140",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2290
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025824070764511662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aaak_Ellie: NEED\n\n#ArknightsEndfield #エンドフィールド https://t.co/0efvmZXeyZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025824013113856001"
+          ]
+        },
+        "author_id": "3045059735",
+        "conversation_id": "2025824070764511662",
+        "created_at": "2026-02-23T06:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T07:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025824070764511662"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "ArknightsEndfield",
+              "probability": 0.9417,
+              "start": 7,
+              "type": "Other"
+            },
+            {
+              "end": 33,
+              "normalized_text": "エンドフィールド",
+              "probability": 0.4889,
+              "start": 26,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 6,
+              "tag": "ArknightsEndfield"
+            },
+            {
+              "end": 34,
+              "start": 25,
+              "tag": "エンドフィールド"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0efvmZXeyZ",
+              "end": 58,
+              "expanded_url": "https://x.com/aaak_Ellie/status/2025824070764511662/video/1",
+              "media_key": "13_2025824013113856001",
+              "start": 35,
+              "url": "https://t.co/0efvmZXeyZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025824070764511662",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2004,
+          "impression_count": 416025,
+          "like_count": 17623,
+          "quote_count": 119,
+          "reply_count": 45,
+          "retweet_count": 2290
+        },
+        "reply_settings": "everyone",
+        "text": "NEED\n\n#ArknightsEndfield #エンドフィールド https://t.co/0efvmZXeyZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度｜好丽友派:@wxb_NB\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好｜同类互关请私信）\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "wxb_NB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 767,
+          "like_count": 81409,
+          "listed_count": 6,
+          "media_count": 2773,
+          "tweet_count": 12885
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-19T21:07:18.000Z",
+        "description": "Any news today? @AKEndfield     \n\nFull-time Doctor in Rhodes Island 🏥 | Part-time dreamer for Endfield 🌌 | RNG is my worst enemy\n\n#Endfield #Arknights",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 139,
+                "start": 130,
+                "tag": "Endfield"
+              },
+              {
+                "end": 150,
+                "start": 140,
+                "tag": "Arknights"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "AKEndfield"
+              }
+            ]
+          }
+        },
+        "id": "3045059735",
+        "name": "Endnimistrator2026",
+        "pinned_tweet_id": "2014162309921513775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942837008247971850/80cu_Iwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 46,
+          "like_count": 897,
+          "listed_count": 6,
+          "media_count": 692,
+          "tweet_count": 1247
+        },
+        "username": "aaak_Ellie",
+        "verified": false
+      }
+    ]
+  }
+}

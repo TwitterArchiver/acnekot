@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2026603236837540215",
+    "created_at": "2026-02-25T10:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T11:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026603236837540215"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aaak_ellie/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/aaak_ellie/status/2026565691718177016",
+          "start": 12,
+          "url": "https://t.co/LNgUwZOY3U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026603236837540215",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026565691718177016",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Ouch.that 😢 https://t.co/LNgUwZOY3U"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14751,
+        "height": 1380,
+        "media_key": "13_2026565221876416512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026565221876416512/img/CZffEsMgRUxb6OSj.jpg",
+        "public_metrics": {
+          "view_count": 10275
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026565221876416512/vid/avc1/320x396/23jT0-vrkvtubyv5.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026565221876416512/vid/avc1/480x596/vVRDsn_xZvN-6gmS.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026565221876416512/vid/avc1/720x894/qYlWyJbn-aCurS6o.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026565221876416512/pl/VjgScyIChHb5UqUu.m3u8?tag=14"
+          }
+        ],
+        "width": 1110
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2026603236837540215",
+        "created_at": "2026-02-25T10:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T11:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026603236837540215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aaak_ellie/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/aaak_ellie/status/2026565691718177016",
+              "start": 12,
+              "url": "https://t.co/LNgUwZOY3U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026603236837540215",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026565691718177016",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Ouch.that 😢 https://t.co/LNgUwZOY3U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026565221876416512"
+          ]
+        },
+        "author_id": "3045059735",
+        "conversation_id": "2026565691718177016",
+        "created_at": "2026-02-25T07:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T08:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026565691718177016"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "ArknightsEndfield",
+              "probability": 0.9382,
+              "start": 11,
+              "type": "Other"
+            },
+            {
+              "end": 37,
+              "normalized_text": "エンドフィールド",
+              "probability": 0.4687,
+              "start": 30,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 10,
+              "tag": "ArknightsEndfield"
+            },
+            {
+              "end": 38,
+              "start": 29,
+              "tag": "エンドフィールド"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vlOxmUmiJT",
+              "end": 62,
+              "expanded_url": "https://x.com/aaak_Ellie/status/2026565691718177016/video/1",
+              "media_key": "13_2026565221876416512",
+              "start": 39,
+              "url": "https://t.co/vlOxmUmiJT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026565691718177016",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 18713,
+          "like_count": 479,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "it hurts\n\n#ArknightsEndfield #エンドフィールド https://t.co/vlOxmUmiJT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度｜好丽友派:@wxb_NB\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好｜同类互关请私信）\n猫喜欢搬点梗图给大伙看看（炫耀\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "wxb_NB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 768,
+          "like_count": 81696,
+          "listed_count": 7,
+          "media_count": 2791,
+          "tweet_count": 12960
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-19T21:07:18.000Z",
+        "description": "Any news today? @AKEndfield     \n\nFull-time Doctor in Rhodes Island 🏥 | Part-time dreamer for Endfield 🌌 | RNG is my worst enemy\n\n#Endfield #Arknights",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 139,
+                "start": 130,
+                "tag": "Endfield"
+              },
+              {
+                "end": 150,
+                "start": 140,
+                "tag": "Arknights"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "AKEndfield"
+              }
+            ]
+          }
+        },
+        "id": "3045059735",
+        "name": "Endnimistrator2026",
+        "pinned_tweet_id": "2014162309921513775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942837008247971850/80cu_Iwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1492,
+          "following_count": 46,
+          "like_count": 902,
+          "listed_count": 6,
+          "media_count": 699,
+          "tweet_count": 1255
+        },
+        "username": "aaak_Ellie",
+        "verified": false
+      }
+    ]
+  }
+}

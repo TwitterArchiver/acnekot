@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2000460868316975104"
+      ],
+      "media_source_tweet_id": [
+        "2000460889045246424"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2000750160171905400",
+    "created_at": "2025-12-16T02:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T03:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000750160171905400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1806719351510446080",
+          "start": 3,
+          "username": "0xNotsu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2A57k08MQr",
+          "end": 36,
+          "expanded_url": "https://x.com/0xNotsu/status/2000460889045246424/video/1",
+          "media_key": "7_2000460868316975104",
+          "start": 13,
+          "url": "https://t.co/2A57k08MQr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000750160171905400",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 347
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000460889045246424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0xNotsu: https://t.co/2A57k08MQr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13583,
+        "height": 482,
+        "media_key": "7_2000460868316975104",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2000460868316975104/pu/img/srnSEBUJ5q65bE5C.jpg",
+        "public_metrics": {
+          "view_count": 7367
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000460868316975104/pu/vid/avc1/276x270/d4-BlXXNiFszFJml.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000460868316975104/pu/vid/avc1/370x360/6Dmf4vKTSuDpC73g.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000460868316975104/pu/vid/avc1/496x482/7zkadbEv9qSvEgKn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2000460868316975104/pu/pl/Bjv1te6CZ9NHCVSz.m3u8?v=cfc"
+          }
+        ],
+        "width": 496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2000460868316975104"
+          ],
+          "media_source_tweet_id": [
+            "2000460889045246424"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000750160171905400",
+        "created_at": "2025-12-16T02:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T03:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000750160171905400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1806719351510446080",
+              "start": 3,
+              "username": "0xNotsu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2A57k08MQr",
+              "end": 36,
+              "expanded_url": "https://x.com/0xNotsu/status/2000460889045246424/video/1",
+              "media_key": "7_2000460868316975104",
+              "start": 13,
+              "url": "https://t.co/2A57k08MQr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000750160171905400",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 347
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000460889045246424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0xNotsu: https://t.co/2A57k08MQr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2000460868316975104"
+          ]
+        },
+        "author_id": "1806719351510446080",
+        "conversation_id": "2000460889045246424",
+        "created_at": "2025-12-15T07:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T08:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000460889045246424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2A57k08MQr",
+              "end": 23,
+              "expanded_url": "https://x.com/0xNotsu/status/2000460889045246424/video/1",
+              "media_key": "7_2000460868316975104",
+              "start": 0,
+              "url": "https://t.co/2A57k08MQr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000460889045246424",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 444,
+          "impression_count": 16317,
+          "like_count": 2156,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 347
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2A57k08MQr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明\nSignal:nanno64",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PS09"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999088067693654016/sMoxaqQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 506,
+          "like_count": 54606,
+          "listed_count": 5,
+          "media_count": 1967,
+          "tweet_count": 9173
+        },
+        "url": "https://t.co/raYZh1PS09",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-28T16:00:44.000Z",
+        "description": "",
+        "id": "1806719351510446080",
+        "name": "Notsu",
+        "pinned_tweet_id": "1999502436143366286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961476561934372864/_kGK9KBM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5923,
+          "following_count": 2093,
+          "like_count": 85846,
+          "listed_count": 31,
+          "media_count": 16419,
+          "tweet_count": 36869
+        },
+        "username": "0xNotsu",
+        "verified": true
+      }
+    ]
+  }
+}

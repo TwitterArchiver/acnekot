@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2016023639813218304"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2016020427009884488",
+    "created_at": "2026-01-27T05:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T06:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016023658578477216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1632336255823519744",
+          "start": 0,
+          "username": "y2Kstar___"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K1RDVvqEEW",
+          "end": 39,
+          "expanded_url": "https://x.com/acnekot/status/2016023658578477216/photo/1",
+          "media_key": "16_2016023639813218304",
+          "start": 16,
+          "url": "https://t.co/K1RDVvqEEW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016023658578477216",
+    "in_reply_to_user_id": "1632336255823519744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016020427009884488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y2Kstar___ 何意味 https://t.co/K1RDVvqEEW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 220,
+        "media_key": "16_2016023639813218304",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G_pa0a3bYAA1_KD.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G_pa0a3bYAA1_KD.mp4"
+          }
+        ],
+        "width": 220
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2016020416301826049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_pX4yWbAAEjgdl.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2016023639813218304"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2016020427009884488",
+        "created_at": "2026-01-27T05:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T06:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016023658578477216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1632336255823519744",
+              "start": 0,
+              "username": "y2Kstar___"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K1RDVvqEEW",
+              "end": 39,
+              "expanded_url": "https://x.com/acnekot/status/2016023658578477216/photo/1",
+              "media_key": "16_2016023639813218304",
+              "start": 16,
+              "url": "https://t.co/K1RDVvqEEW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016023658578477216",
+        "in_reply_to_user_id": "1632336255823519744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016020427009884488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y2Kstar___ 何意味 https://t.co/K1RDVvqEEW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016020416301826049"
+          ]
+        },
+        "author_id": "1632336255823519744",
+        "conversation_id": "2016020427009884488",
+        "created_at": "2026-01-27T05:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T06:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016020427009884488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2lYEa9J36g",
+              "end": 31,
+              "expanded_url": "https://x.com/y2Kstar___/status/2016020427009884488/photo/1",
+              "media_key": "3_2016020416301826049",
+              "start": 8,
+              "url": "https://t.co/2lYEa9J36g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016020427009884488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "芙主席万岁🥳🥳 https://t.co/2lYEa9J36g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者|不鉴证|欢迎和我互动|VRChat|无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語 以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\n\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "tg@nanno_64",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 719,
+          "like_count": 72597,
+          "listed_count": 5,
+          "media_count": 2420,
+          "tweet_count": 11018
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-05T11:04:36.000Z",
+        "description": "",
+        "id": "1632336255823519744",
+        "name": "y2Kstar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014682593703428099/1Un_6WQR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 429,
+          "like_count": 1555,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 1105
+        },
+        "username": "y2Kstar___",
+        "verified": true
+      }
+    ]
+  }
+}

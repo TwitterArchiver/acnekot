@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2003298106868437503",
+    "created_at": "2025-12-23T09:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T10:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003397468172829068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1605144091129696256",
+          "start": 0,
+          "username": "10714MEEB7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003397468172829068",
+    "in_reply_to_user_id": "1605144091129696256",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003298106868437503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10714MEEB7 same"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 830,
+        "media_key": "3_2003298102481158147",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G80lAqGagAMb71v.jpg",
+        "width": 443
+      },
+      {
+        "height": 733,
+        "media_key": "3_2003298104876113920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G80lAzBaoAAhEgt.jpg",
+        "width": 382
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2003298106868437503",
+        "created_at": "2025-12-23T09:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T10:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003397468172829068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1605144091129696256",
+              "start": 0,
+              "username": "10714MEEB7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003397468172829068",
+        "in_reply_to_user_id": "1605144091129696256",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003298106868437503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10714MEEB7 same"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003298102481158147",
+            "3_2003298104876113920"
+          ]
+        },
+        "author_id": "1605144091129696256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1334114759952584705",
+              "name": "Quiz games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1282742272291794944",
+              "name": "Pub games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334114759952584705",
+              "name": "Quiz games"
+            }
+          }
+        ],
+        "conversation_id": "2003298106868437503",
+        "created_at": "2025-12-23T02:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T03:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003298106868437503"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "Xiaomi 17 Ultra",
+              "probability": 0.658,
+              "start": 0,
+              "type": "Product"
+            },
+            {
+              "end": 22,
+              "normalized_text": "iPhone5",
+              "probability": 0.5866,
+              "start": 16,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JwIWGXZsHb",
+              "end": 51,
+              "expanded_url": "https://x.com/10714MEEB7/status/2003298106868437503/photo/1",
+              "media_key": "3_2003298102481158147",
+              "start": 28,
+              "url": "https://t.co/JwIWGXZsHb"
+            },
+            {
+              "display_url": "pic.x.com/JwIWGXZsHb",
+              "end": 51,
+              "expanded_url": "https://x.com/10714MEEB7/status/2003298106868437503/photo/1",
+              "media_key": "3_2003298104876113920",
+              "start": 28,
+              "url": "https://t.co/JwIWGXZsHb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003298106868437503",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4535,
+          "like_count": 60,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Xiaomi 17 UltraかiPhone5かクイズ https://t.co/JwIWGXZsHb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明\nSignal:nanno64\nMatrix:@acnekot:https://t.co/F1pslBOfS7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 56,
+                "username": "acnekot"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "matrix.org",
+                "end": 88,
+                "expanded_url": "http://matrix.org",
+                "start": 65,
+                "url": "https://t.co/F1pslBOfS7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PkaB"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999088067693654016/sMoxaqQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 542,
+          "like_count": 59159,
+          "listed_count": 5,
+          "media_count": 2027,
+          "tweet_count": 9436
+        },
+        "url": "https://t.co/raYZh1PkaB",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-20T10:12:45.000Z",
+        "description": "スマホとミラノ風ドリアが好き",
+        "id": "1605144091129696256",
+        "location": "千葉県市川市八幡２丁目６−５",
+        "name": "ミラノ風ミトコンドリア（273円+税）",
+        "pinned_tweet_id": "1800164905880056143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865358998540853248/gtVt8zCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1977,
+          "following_count": 1109,
+          "like_count": 185352,
+          "listed_count": 3,
+          "media_count": 3103,
+          "tweet_count": 10056
+        },
+        "username": "10714MEEB7",
+        "verified": true
+      }
+    ]
+  }
+}

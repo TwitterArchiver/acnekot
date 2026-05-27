@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050539899502424065"
+      ],
+      "media_source_tweet_id": [
+        "2050539954644885774"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058028156523802752",
+    "created_at": "2026-05-23T03:32:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T04:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058028156523802752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1708882585231966208",
+          "start": 3,
+          "username": "mini_vrc_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5eTdvAwxRZ",
+          "end": 38,
+          "expanded_url": "https://x.com/mini_vrc_/status/2050539954644885774/video/1",
+          "media_key": "13_2050539899502424065",
+          "start": 15,
+          "url": "https://t.co/5eTdvAwxRZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058028156523802752",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 412
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057884828612382855",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mini_vrc_: https://t.co/5eTdvAwxRZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12138,
+        "height": 1080,
+        "media_key": "13_2050539899502424065",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050539899502424065/img/WDkqB20z7U3iL_y5.jpg",
+        "public_metrics": {
+          "view_count": 34401
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050539899502424065/vid/avc1/480x270/4TYNJlP9XWKEtuKn.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050539899502424065/vid/avc1/640x360/z-3XHjFnccybyOaz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050539899502424065/vid/avc1/1280x720/oW-rPfySNfwRbtuh.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050539899502424065/pl/4wv6LLOW73RfSbco.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050539899502424065"
+          ],
+          "media_source_tweet_id": [
+            "2050539954644885774"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058028156523802752",
+        "created_at": "2026-05-23T03:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T04:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058028156523802752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1708882585231966208",
+              "start": 3,
+              "username": "mini_vrc_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5eTdvAwxRZ",
+              "end": 38,
+              "expanded_url": "https://x.com/mini_vrc_/status/2050539954644885774/video/1",
+              "media_key": "13_2050539899502424065",
+              "start": 15,
+              "url": "https://t.co/5eTdvAwxRZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058028156523802752",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 412
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057884828612382855",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mini_vrc_: https://t.co/5eTdvAwxRZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050539899502424065"
+          ],
+          "media_source_tweet_id": [
+            "2050539954644885774"
+          ]
+        },
+        "author_id": "1708882585231966208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057884828612382855",
+        "created_at": "2026-05-22T18:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T19:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057884828612382855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5eTdvAwxRZ",
+              "end": 23,
+              "expanded_url": "https://x.com/mini_vrc_/status/2050539954644885774/video/1",
+              "media_key": "13_2050539899502424065",
+              "start": 0,
+              "url": "https://t.co/5eTdvAwxRZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057884828612382855",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 266,
+          "impression_count": 70832,
+          "like_count": 1973,
+          "quote_count": 8,
+          "reply_count": 4,
+          "retweet_count": 412
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5eTdvAwxRZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 126,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 103,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2421,
+          "following_count": 795,
+          "like_count": 92630,
+          "listed_count": 7,
+          "media_count": 3887,
+          "tweet_count": 16487
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-02T16:32:20.000Z",
+        "description": "自分の好きなものだけを作ります。超ボケたがりです。 #りみにーメモ ✨️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 26,
+                "tag": "りみにーメモ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "riminie996.booth.pm",
+                "end": 23,
+                "expanded_url": "https://riminie996.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/sizT3iHs7r"
+              }
+            ]
+          }
+        },
+        "id": "1708882585231966208",
+        "name": "りみに〜@VRC",
+        "pinned_tweet_id": "1894410449841795524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016451851202564097/clid9NgW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 125,
+          "like_count": 5106,
+          "listed_count": 3,
+          "media_count": 780,
+          "tweet_count": 6838
+        },
+        "url": "https://t.co/sizT3iHs7r",
+        "username": "mini_vrc_",
+        "verified": false
+      }
+    ]
+  }
+}

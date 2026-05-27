@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058748972513275904"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2058595766378361313",
+    "created_at": "2026-05-25T03:17:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T04:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058749361514025308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1666241687365259264",
+          "start": 0,
+          "username": "babatuoxin63172"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S3HMN5bKIV",
+          "end": 94,
+          "expanded_url": "https://x.com/acnekot/status/2058749361514025308/photo/1",
+          "media_key": "3_2058748972513275904",
+          "start": 71,
+          "url": "https://t.co/S3HMN5bKIV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058749361514025308",
+    "in_reply_to_user_id": "1666241687365259264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058595766378361313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@babatuoxin63172 其实可以做到的吧，我这个还只是非常轻度的使用，如果一次开3-4个然后全部跑大项目加上工作一样的时间确实可以 https://t.co/S3HMN5bKIV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 387,
+        "media_key": "3_2058748972513275904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIlSGRasAAtf7N.png",
+        "width": 552
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058595762041483264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGZ8EybcAARXXu.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058595762054008832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGZ8E1akAAib5C.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058748972513275904"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2058595766378361313",
+        "created_at": "2026-05-25T03:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058749361514025308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1666241687365259264",
+              "start": 0,
+              "username": "babatuoxin63172"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S3HMN5bKIV",
+              "end": 94,
+              "expanded_url": "https://x.com/acnekot/status/2058749361514025308/photo/1",
+              "media_key": "3_2058748972513275904",
+              "start": 71,
+              "url": "https://t.co/S3HMN5bKIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058749361514025308",
+        "in_reply_to_user_id": "1666241687365259264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058595766378361313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babatuoxin63172 其实可以做到的吧，我这个还只是非常轻度的使用，如果一次开3-4个然后全部跑大项目加上工作一样的时间确实可以 https://t.co/S3HMN5bKIV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058595762041483264",
+            "3_2058595762054008832"
+          ]
+        },
+        "author_id": "1666241687365259264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058595766378361313",
+        "created_at": "2026-05-24T17:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058595766378361313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zjqyoSzXlm",
+              "end": 100,
+              "expanded_url": "https://x.com/babatuoxin63172/status/2058595766378361313/photo/1",
+              "media_key": "3_2058595762041483264",
+              "start": 77,
+              "url": "https://t.co/zjqyoSzXlm"
+            },
+            {
+              "display_url": "pic.x.com/zjqyoSzXlm",
+              "end": 100,
+              "expanded_url": "https://x.com/babatuoxin63172/status/2058595766378361313/photo/1",
+              "media_key": "3_2058595762054008832",
+              "start": 77,
+              "url": "https://t.co/zjqyoSzXlm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058595766378361313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 655,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚看到有个人在主页说自己日消耗5-20亿token用于vibe coding\n感觉数字不太对劲然后取了个10亿的值问了一下ds和gpt\n😗我就不评价了 https://t.co/zjqyoSzXlm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 126,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 103,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2420,
+          "following_count": 797,
+          "like_count": 92802,
+          "listed_count": 8,
+          "media_count": 3902,
+          "tweet_count": 16539
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-07T00:32:39.000Z",
+        "description": "日本留学中｜术力口/二偶企划爱好者｜纯血烤批｜鉴证不要🙅｜高达爱好者｜在玩铁和绝｜吃谷爱好者｜时不时会出现肥猪健身照｜记性不好｜人际关系苦手｜有想进聊天群的私信｜DM歓迎｜关注者/被关注者立场不代表本人立场",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/barbatostar",
+                "end": 23,
+                "expanded_url": "https://ngl.link/barbatostar",
+                "start": 0,
+                "url": "https://t.co/FVNwULBAeE"
+              }
+            ]
+          }
+        },
+        "id": "1666241687365259264",
+        "location": "Tokyo-to, Japan",
+        "name": "バルバトスタ",
+        "pinned_tweet_id": "1999088314134253870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023317670649847809/9HQDQC14_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3392,
+          "following_count": 1540,
+          "like_count": 14825,
+          "listed_count": 6,
+          "media_count": 1062,
+          "tweet_count": 6752
+        },
+        "url": "https://t.co/FVNwULBAeE",
+        "username": "babatuoxin63172",
+        "verified": false
+      }
+    ]
+  }
+}

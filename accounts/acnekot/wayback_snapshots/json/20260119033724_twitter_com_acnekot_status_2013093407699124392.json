@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2013093407699124392",
+    "created_at": "2026-01-19T03:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T04:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013093407699124392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1640312069948932096",
+          "start": 3,
+          "username": "waveking1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013093407699124392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012485004094308862",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @waveking1314: 你可以每天获得 500 个粉丝。如果你想获得粉丝，评论区丢下\"Hi\"，转发并点赞这个推文\n\n我会为我的活跃粉丝进行宣传。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2013093407699124392",
+        "created_at": "2026-01-19T03:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T04:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013093407699124392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1640312069948932096",
+              "start": 3,
+              "username": "waveking1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013093407699124392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012485004094308862",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @waveking1314: 你可以每天获得 500 个粉丝。如果你想获得粉丝，评论区丢下\"Hi\"，转发并点赞这个推文\n\n我会为我的活跃粉丝进行宣传。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640312069948932096",
+        "conversation_id": "2012485004094308862",
+        "created_at": "2026-01-17T11:19:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T12:19:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012485004094308862"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012485004094308862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 32949,
+          "like_count": 219,
+          "quote_count": 4,
+          "reply_count": 388,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "你可以每天获得 500 个粉丝。如果你想获得粉丝，评论区丢下\"Hi\"，转发并点赞这个推文\n\n我会为我的活跃粉丝进行宣传。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者|不鉴证|欢迎和我互动|VRChat|无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PkaB"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "tg@nanno_64",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 649,
+          "like_count": 69318,
+          "listed_count": 5,
+          "media_count": 2334,
+          "tweet_count": 10522
+        },
+        "url": "https://t.co/raYZh1PkaB",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-27T11:17:38.000Z",
+        "description": "Meme币A9玩家 ｜@UniteFNF member\n自研首个由AI集成的meme币金狗信号 @Golddogcall\n\nSol 信号群:  https://t.co/DjxjXNydRX\nBsc信号群:  https://t.co/kt5Hj0R1dF\n我会让你买在车头之前 提供Sol内部扫链策略",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "UniteFNF"
+              },
+              {
+                "end": 60,
+                "start": 48,
+                "username": "Golddogcall"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/duanlang1000x",
+                "end": 95,
+                "expanded_url": "https://t.me/duanlang1000x",
+                "start": 72,
+                "url": "https://t.co/DjxjXNydRX"
+              },
+              {
+                "display_url": "t.me/duanlang2000",
+                "end": 128,
+                "expanded_url": "https://t.me/duanlang2000",
+                "start": 105,
+                "url": "https://t.co/kt5Hj0R1dF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/waveking1314",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/waveking1314",
+                "start": 0,
+                "url": "https://t.co/JhpiU1K6Dn"
+              }
+            ]
+          }
+        },
+        "id": "1640312069948932096",
+        "location": "联系我👉🏻",
+        "name": "断浪",
+        "pinned_tweet_id": "1996873964292018205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993879414208385024/3zH9Dcvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36126,
+          "following_count": 1048,
+          "like_count": 1040,
+          "listed_count": 67,
+          "media_count": 347,
+          "tweet_count": 2032
+        },
+        "url": "https://t.co/JhpiU1K6Dn",
+        "username": "waveking1314",
+        "verified": true
+      }
+    ]
+  }
+}

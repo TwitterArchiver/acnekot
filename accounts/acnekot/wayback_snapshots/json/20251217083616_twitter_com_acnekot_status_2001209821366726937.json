@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001209810176610304"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2000891704237543496",
+    "created_at": "2025-12-17T08:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T09:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001209821366726937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1058514448334282752",
+          "start": 0,
+          "username": "hamhsui"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OsPYa2Kvrz",
+          "end": 32,
+          "expanded_url": "https://x.com/acnekot/status/2001209821366726937/photo/1",
+          "media_key": "3_2001209810176610304",
+          "start": 9,
+          "url": "https://t.co/OsPYa2Kvrz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001209821366726937",
+    "in_reply_to_user_id": "1058514448334282752",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000891704237543496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hamhsui https://t.co/OsPYa2Kvrz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 103,
+        "media_key": "3_2001209810176610304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8W5uDCakAAZfkx.png",
+        "width": 107
+      },
+      {
+        "duration_ms": 7200,
+        "height": 1080,
+        "media_key": "13_2000891538487013376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000891538487013376/img/xKHGcSy6iadHKiiW.jpg",
+        "public_metrics": {
+          "view_count": 66384
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000891538487013376/vid/avc1/630x270/x-3wyHBUifSGdgIs.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000891538487013376/vid/avc1/840x360/ZkVeRPbABUW3-zko.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000891538487013376/vid/avc1/1680x720/pZnP6nmbsN2Wa7iA.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000891538487013376/pl/LGeeNyOlu_N2xsPC.m3u8?tag=14"
+          }
+        ],
+        "width": 2520
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001209810176610304"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000891704237543496",
+        "created_at": "2025-12-17T08:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T09:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001209821366726937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1058514448334282752",
+              "start": 0,
+              "username": "hamhsui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OsPYa2Kvrz",
+              "end": 32,
+              "expanded_url": "https://x.com/acnekot/status/2001209821366726937/photo/1",
+              "media_key": "3_2001209810176610304",
+              "start": 9,
+              "url": "https://t.co/OsPYa2Kvrz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001209821366726937",
+        "in_reply_to_user_id": "1058514448334282752",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000891704237543496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hamhsui https://t.co/OsPYa2Kvrz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000891538487013376"
+          ]
+        },
+        "author_id": "1058514448334282752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2000891704237543496",
+        "created_at": "2025-12-16T11:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T12:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000891704237543496"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Google",
+              "probability": 0.5185,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wJuiMECU7E",
+              "end": 42,
+              "expanded_url": "https://x.com/hamhsui/status/2000891704237543496/video/1",
+              "media_key": "13_2000891538487013376",
+              "start": 19,
+              "url": "https://t.co/wJuiMECU7E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000891704237543496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 843,
+          "impression_count": 210452,
+          "like_count": 4764,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "Googleの背景変えるやつたのしい https://t.co/wJuiMECU7E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明\nSignal:nanno64",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PS09"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999088067693654016/sMoxaqQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 514,
+          "like_count": 56045,
+          "listed_count": 5,
+          "media_count": 1995,
+          "tweet_count": 9271
+        },
+        "url": "https://t.co/raYZh1PS09",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-03T00:21:25.000Z",
+        "description": "Illustrator\nUSAGI production所属\n\n翔泳社様『ILLUSTRATION2024』KADOKAWA様『VISIONS2024』\n『毒かわいいわたしたち』掲載\n\n『かるびまりーざ』『ぱらすと！Signite MV』等\n\nご依頼はメールかDMにて\n\n✉️momaemakku@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Hamhsui",
+                "end": 23,
+                "expanded_url": "https://lit.link/Hamhsui",
+                "start": 0,
+                "url": "https://t.co/lr62hnXP1g"
+              }
+            ]
+          }
+        },
+        "id": "1058514448334282752",
+        "location": "ラフォーレ原宿5Fにてグッズ販売中",
+        "name": "藻前まっく@1/17~22ブロマンシス展",
+        "pinned_tweet_id": "1974801618291097881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353324493779820545/1yvexq8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94867,
+          "following_count": 1072,
+          "like_count": 118247,
+          "listed_count": 843,
+          "media_count": 2047,
+          "tweet_count": 8436
+        },
+        "url": "https://t.co/lr62hnXP1g",
+        "username": "hamhsui",
+        "verified": false
+      }
+    ]
+  }
+}

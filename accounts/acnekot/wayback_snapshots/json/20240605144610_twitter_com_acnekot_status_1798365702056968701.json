@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1797935475157807233",
+    "created_at": "2024-06-05T14:46:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-05T15:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798365702056968701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1699109794471362560",
+          "start": 0,
+          "username": "Monikami_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798365702056968701",
+    "in_reply_to_user_id": "1699109794471362560",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797935475157807233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Monikami_ 沟槽的公式"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1797935475157807233",
+        "created_at": "2024-06-05T14:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T15:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798365702056968701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1699109794471362560",
+              "start": 0,
+              "username": "Monikami_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798365702056968701",
+        "in_reply_to_user_id": "1699109794471362560",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797935475157807233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Monikami_ 沟槽的公式"
+      },
+      {
+        "attachments": {},
+        "author_id": "1699109794471362560",
+        "conversation_id": "1797935475157807233",
+        "created_at": "2024-06-04T10:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-04T11:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797935475157807233"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1797935475157807233",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7367,
+          "like_count": 242,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "64是这样的。学生只需要喊喊口号，躺着被碾就好了，可是坦克上的军人们要考虑的就多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "我已然丢失自我",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "A'CID",
+        "pinned_tweet_id": "1774830360578384099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 320,
+          "like_count": 34084,
+          "listed_count": 5,
+          "tweet_count": 7289
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-05T17:18:54.000Z",
+        "description": "丨揽责声明：点赞转推不是随手习惯，全都代表本人立场丨@hwlzpmeplzee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "hwlzpmeplzee"
+              }
+            ]
+          }
+        },
+        "id": "1699109794471362560",
+        "location": "👁️〰️👁️",
+        "name": "Moniko👻",
+        "pinned_tweet_id": "1792054834436411433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784277526841643008/p_Hof2pj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 127,
+          "like_count": 40220,
+          "listed_count": 4,
+          "tweet_count": 7726
+        },
+        "username": "Monikami_",
+        "verified": false
+      }
+    ]
+  }
+}

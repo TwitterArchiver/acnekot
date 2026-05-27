@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1840767117114720634",
+    "created_at": "2024-10-01T15:56:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T16:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841145243133231179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1643517192955207680",
+          "start": 0,
+          "username": "GlassFoxowo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841145243133231179",
+    "in_reply_to_user_id": "1643517192955207680",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840767117114720634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GlassFoxowo 这是中文吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1840767117114720634",
+        "created_at": "2024-10-01T15:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T16:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841145243133231179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1643517192955207680",
+              "start": 0,
+              "username": "GlassFoxowo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841145243133231179",
+        "in_reply_to_user_id": "1643517192955207680",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840767117114720634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GlassFoxowo 这是中文吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840767106951815168"
+          ]
+        },
+        "author_id": "1643517192955207680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1840767117114720634",
+        "created_at": "2024-09-30T14:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T15:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840767117114720634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TJ4iiWEULg",
+              "end": 40,
+              "expanded_url": "https://x.com/GlassFoxowo/status/1840767117114720634/photo/1",
+              "media_key": "3_1840767106951815168",
+              "start": 17,
+              "url": "https://t.co/TJ4iiWEULg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840767117114720634",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 14784,
+          "like_count": 158,
+          "quote_count": 2,
+          "reply_count": 32,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚突发奇想用龟头录了个指纹解锁 https://t.co/TJ4iiWEULg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "Into Nothing.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/acnekot",
+                "end": 23,
+                "expanded_url": "https://bonjour.bio/acnekot",
+                "start": 0,
+                "url": "https://t.co/dihqxxtjTA"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 345,
+          "like_count": 38372,
+          "listed_count": 5,
+          "tweet_count": 7837
+        },
+        "url": "https://t.co/dihqxxtjTA",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T07:33:48.000Z",
+        "description": "妄想成为小动物的人类边角料/ 男，gay子🏳️‍🌈／色批／English OK／精神状态不是很稳定，42号混凝土激推／非常讨厌政治话题／喜欢毛茸茸和胶兽／没有梦想的fw／如果发现我突然变得文绉绉的，请过来抽醒我／表推无NSFW内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.glassfoxowo.com",
+                "end": 23,
+                "expanded_url": "http://note.glassfoxowo.com",
+                "start": 0,
+                "url": "https://t.co/27oOQOLZV5"
+              }
+            ]
+          }
+        },
+        "id": "1643517192955207680",
+        "location": "南通福瑞有限公司",
+        "name": "玻狸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723760164258385921/XvL1oibV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 377,
+          "like_count": 690,
+          "listed_count": 0,
+          "tweet_count": 1167
+        },
+        "url": "https://t.co/27oOQOLZV5",
+        "username": "GlassFoxowo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2036131818228031737",
+    "created_at": "2026-03-24T03:56:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T04:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036290997446123535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971833233253060610",
+          "start": 0,
+          "username": "dgawa_2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036290997446123535",
+    "in_reply_to_user_id": "1971833233253060610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036290619543572832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dgawa_2006 没办法，现在的api只能抓回复和转推，我最近被大规模的bot回复，没招了，只能后续再调权重了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2036131818228031737",
+        "created_at": "2026-03-24T03:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T04:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036290997446123535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971833233253060610",
+              "start": 0,
+              "username": "dgawa_2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036290997446123535",
+        "in_reply_to_user_id": "1971833233253060610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036290619543572832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dgawa_2006 没办法，现在的api只能抓回复和转推，我最近被大规模的bot回复，没招了，只能后续再调权重了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971833233253060610",
+        "conversation_id": "2036131818228031737",
+        "created_at": "2026-03-24T03:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T04:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036290619543572832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036290619543572832",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036131818228031737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 哇还有万达广场"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动\n发言纯依靠我那微薄的知识 如有错意欢迎指正\nあなたと繋いだ それが浮遊感",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 789,
+          "like_count": 87178,
+          "listed_count": 6,
+          "media_count": 3224,
+          "tweet_count": 14522
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-27T07:04:21.000Z",
+        "description": "你好，这里是格林！汉语/English 请叫我格林/Green/小绿 互fo/上推频率：最少每周一次 杂食动物，喜欢音游/ボカロ/生活分享",
+        "id": "1971833233253060610",
+        "name": "DGawa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971835900272558080/4ygDwYmv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 319,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 78
+        },
+        "username": "dgawa_2006",
+        "verified": false
+      }
+    ]
+  }
+}

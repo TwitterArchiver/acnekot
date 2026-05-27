@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2040250528496787654",
+    "created_at": "2026-04-04T02:10:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T03:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040250528496787654"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/usj_MC/status/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/usj_MC/status/2039948815386697949",
+          "start": 10,
+          "url": "https://t.co/JZqJSjtbMQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040250528496787654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039948815386697949",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我到底在看什么东西 https://t.co/JZqJSjtbMQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34500,
+        "height": 2160,
+        "media_key": "13_2039948459839770624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039948459839770624/img/ffE9MwQUQTaR0RTb.jpg",
+        "public_metrics": {
+          "view_count": 275376
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039948459839770624/vid/avc1/410x270/hwtueLNo2cLIgDH5.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039948459839770624/vid/avc1/1640x1080/8sSIRp6CvneySJr1.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039948459839770624/vid/avc1/3280x2160/o4s3UdZ5BCLExdV-.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039948459839770624/vid/avc1/546x360/id3cIhDWu6ut7q6y.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039948459839770624/pl/oSVdMYd2EQfC6hP2.m3u8?v=b2e"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039948459839770624/vid/avc1/1092x720/y3q6WHVRjYENZoHy.mp4"
+          }
+        ],
+        "width": 3280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2040250528496787654",
+        "created_at": "2026-04-04T02:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T03:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040250528496787654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usj_MC/status/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/usj_MC/status/2039948815386697949",
+              "start": 10,
+              "url": "https://t.co/JZqJSjtbMQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040250528496787654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039948815386697949",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我到底在看什么东西 https://t.co/JZqJSjtbMQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039948459839770624"
+          ]
+        },
+        "author_id": "2991943065",
+        "conversation_id": "2039948815386697949",
+        "created_at": "2026-04-03T06:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T07:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039948815386697949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ar9zHi5keH",
+              "end": 41,
+              "expanded_url": "https://x.com/usj_MC/status/2039948815386697949/video/1",
+              "media_key": "13_2039948459839770624",
+              "start": 18,
+              "url": "https://t.co/ar9zHi5keH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039948815386697949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4269,
+          "impression_count": 725915,
+          "like_count": 25357,
+          "quote_count": 232,
+          "reply_count": 67,
+          "retweet_count": 3891
+        },
+        "reply_settings": "everyone",
+        "text": "この一瞬を最高のパーティーにしよう https://t.co/ar9zHi5keH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n小窝只过熟人和互关\n回fo只回面熟\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 103,
+                "username": "nanno_64"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "距离你1.5KM",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1981,
+          "following_count": 788,
+          "like_count": 88718,
+          "listed_count": 6,
+          "media_count": 3346,
+          "tweet_count": 14979
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2015-01-22T13:04:24.000Z",
+        "description": "一応ゲーム用のアカウントですが実質何でも垢です🙏 🎮Splatoon2~3🦑/ VRChat Since2020🥽/ その他色々!!!　乞食リスト→https://t.co/OxCnRB1GWW 🌎#USJファン🌎 💍→@USJ_Official",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 99,
+                "tag": "USJファン"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 123,
+                "start": 110,
+                "username": "USJ_Official"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/zT3OH",
+                "end": 97,
+                "expanded_url": "https://x.gd/zT3OH",
+                "start": 74,
+                "url": "https://t.co/OxCnRB1GWW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCysgT…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCysgTjkBjC56PmT8k7jtZ0Q?app=desktop&persist_app=1",
+                "start": 0,
+                "url": "https://t.co/O5R8QqOoPu"
+              }
+            ]
+          }
+        },
+        "id": "2991943065",
+        "location": "大阪府大阪市此花区桜島２丁目１−３３",
+        "name": "ʚCocoaɞ",
+        "pinned_tweet_id": "1405792706803101700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737312839310942208/b8DNjmNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4345,
+          "following_count": 2097,
+          "like_count": 29545,
+          "listed_count": 44,
+          "media_count": 5451,
+          "tweet_count": 25696
+        },
+        "url": "https://t.co/O5R8QqOoPu",
+        "username": "usj_MC",
+        "verified": true
+      }
+    ]
+  }
+}

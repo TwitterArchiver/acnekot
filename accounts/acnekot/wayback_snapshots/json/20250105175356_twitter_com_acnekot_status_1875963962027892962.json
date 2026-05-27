@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1875897783179485608",
+    "created_at": "2025-01-05T17:53:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-05T18:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875963962027892962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "943439286287851520",
+          "start": 0,
+          "username": "KagurazakaSenba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875963962027892962",
+    "in_reply_to_user_id": "943439286287851520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875897783179485608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaSenba 这个是什么啊🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1875897783179485608",
+        "created_at": "2025-01-05T17:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T18:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875963962027892962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "943439286287851520",
+              "start": 0,
+              "username": "KagurazakaSenba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875963962027892962",
+        "in_reply_to_user_id": "943439286287851520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875897783179485608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaSenba 这个是什么啊🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875897729278472192",
+            "3_1875897755903942656",
+            "3_1875897769648631808",
+            "3_1875897780864221184"
+          ]
+        },
+        "author_id": "943439286287851520",
+        "conversation_id": "1875897783179485608",
+        "created_at": "2025-01-05T13:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-05T14:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875897783179485608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EgdE4nbAvt",
+              "end": 33,
+              "expanded_url": "https://x.com/KagurazakaSenba/status/1875897783179485608/photo/1",
+              "media_key": "3_1875897729278472192",
+              "start": 10,
+              "url": "https://t.co/EgdE4nbAvt"
+            },
+            {
+              "display_url": "pic.x.com/EgdE4nbAvt",
+              "end": 33,
+              "expanded_url": "https://x.com/KagurazakaSenba/status/1875897783179485608/photo/1",
+              "media_key": "3_1875897755903942656",
+              "start": 10,
+              "url": "https://t.co/EgdE4nbAvt"
+            },
+            {
+              "display_url": "pic.x.com/EgdE4nbAvt",
+              "end": 33,
+              "expanded_url": "https://x.com/KagurazakaSenba/status/1875897783179485608/photo/1",
+              "media_key": "3_1875897769648631808",
+              "start": 10,
+              "url": "https://t.co/EgdE4nbAvt"
+            },
+            {
+              "display_url": "pic.x.com/EgdE4nbAvt",
+              "end": 33,
+              "expanded_url": "https://x.com/KagurazakaSenba/status/1875897783179485608/photo/1",
+              "media_key": "3_1875897780864221184",
+              "start": 10,
+              "url": "https://t.co/EgdE4nbAvt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875897783179485608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你终于回来了😭😭😭 https://t.co/EgdE4nbAvt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "No Found.",
+        "id": "1552213521253150720",
+        "location": "THE UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871051316312895489/MYVorhms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 376,
+          "like_count": 40202,
+          "listed_count": 3,
+          "media_count": 1752,
+          "tweet_count": 8140
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-20T11:13:48.000Z",
+        "description": "盼来盼去盼不尽天涯何处是归处",
+        "id": "943439286287851520",
+        "location": "距离你 19.84 km",
+        "name": "💮浅源花羽🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864885438613458948/CrYxyfg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2678,
+          "following_count": 4702,
+          "like_count": 83439,
+          "listed_count": 9,
+          "media_count": 1815,
+          "tweet_count": 22397
+        },
+        "username": "KagurazakaSenba",
+        "verified": false
+      }
+    ]
+  }
+}

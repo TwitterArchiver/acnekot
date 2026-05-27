@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1888525132899254490",
+    "created_at": "2025-02-10T17:24:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T18:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889002412356280473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2377313886",
+          "start": 0,
+          "username": "Shiofeifei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889002412356280473",
+    "in_reply_to_user_id": "2377313886",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888525132899254490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shiofeifei kawaii"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1888525132899254490",
+        "created_at": "2025-02-10T17:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T18:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889002412356280473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2377313886",
+              "start": 0,
+              "username": "Shiofeifei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889002412356280473",
+        "in_reply_to_user_id": "2377313886",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888525132899254490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shiofeifei kawaii"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888525066071425024",
+            "3_1888525066062999552",
+            "3_1888525066071388160"
+          ]
+        },
+        "author_id": "2377313886",
+        "conversation_id": "1888525132899254490",
+        "created_at": "2025-02-09T09:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T10:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888525132899254490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LXHHZ1VtrK",
+              "end": 27,
+              "expanded_url": "https://x.com/Shiofeifei/status/1888525132899254490/photo/1",
+              "media_key": "3_1888525066071425024",
+              "start": 4,
+              "url": "https://t.co/LXHHZ1VtrK"
+            },
+            {
+              "display_url": "pic.x.com/LXHHZ1VtrK",
+              "end": 27,
+              "expanded_url": "https://x.com/Shiofeifei/status/1888525132899254490/photo/1",
+              "media_key": "3_1888525066062999552",
+              "start": 4,
+              "url": "https://t.co/LXHHZ1VtrK"
+            },
+            {
+              "display_url": "pic.x.com/LXHHZ1VtrK",
+              "end": 27,
+              "expanded_url": "https://x.com/Shiofeifei/status/1888525132899254490/photo/1",
+              "media_key": "3_1888525066071388160",
+              "start": 4,
+              "url": "https://t.co/LXHHZ1VtrK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888525132899254490",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 368,
+          "impression_count": 90967,
+          "like_count": 5466,
+          "quote_count": 7,
+          "reply_count": 13,
+          "retweet_count": 612
+        },
+        "reply_settings": "everyone",
+        "text": "OwO https://t.co/LXHHZ1VtrK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "生活就像海洋，只有意志坚强的人才能到达彼岸\n人生は海のようなものだ。意志の強い人間のみが対岸にたどり着ける\nThis is an apple, i like apples,apples are good for our health.",
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871051316312895489/MYVorhms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 389,
+          "like_count": 41234,
+          "listed_count": 3,
+          "media_count": 1796,
+          "tweet_count": 8358
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-07T16:01:54.000Z",
+        "description": "希望能自由的画画",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/7203802",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/7203802",
+                "start": 0,
+                "url": "https://t.co/Gvewjp7NlA"
+              }
+            ]
+          }
+        },
+        "id": "2377313886",
+        "name": "Shio",
+        "pinned_tweet_id": "1846909653906870487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780588883778146305/E2nNgV3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56436,
+          "following_count": 1330,
+          "like_count": 4960,
+          "listed_count": 324,
+          "media_count": 163,
+          "tweet_count": 4898
+        },
+        "url": "https://t.co/Gvewjp7NlA",
+        "username": "Shiofeifei",
+        "verified": false
+      }
+    ]
+  }
+}

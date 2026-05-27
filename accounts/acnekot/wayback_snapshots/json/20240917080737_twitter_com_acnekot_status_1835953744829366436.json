@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1835953731483086848"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1835953744829366436",
+    "created_at": "2024-09-17T08:07:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-17T09:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1835953744829366436"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2qnneaph4n",
+          "end": 36,
+          "expanded_url": "https://twitter.com/acnekot/status/1835953744829366436/photo/1",
+          "media_key": "3_1835953731483086848",
+          "start": 13,
+          "url": "https://t.co/2qNNeAPh4N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835953744829366436",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对当代互联网一些人的看法 https://t.co/2qNNeAPh4N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1835953731483086848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXqeMQUaMAANfH-.jpg",
+        "width": 1707
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835953731483086848"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1835953744829366436",
+        "created_at": "2024-09-17T08:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-17T09:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835953744829366436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2qnneaph4n",
+              "end": 36,
+              "expanded_url": "https://twitter.com/acnekot/status/1835953744829366436/photo/1",
+              "media_key": "3_1835953731483086848",
+              "start": 13,
+              "url": "https://t.co/2qNNeAPh4N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835953744829366436",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对当代互联网一些人的看法 https://t.co/2qNNeAPh4N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "Twitter Break.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "177404.xyz",
+                "end": 23,
+                "expanded_url": "http://177404.xyz",
+                "start": 0,
+                "url": "https://t.co/Jk6nRkHp3d"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 331,
+          "like_count": 37030,
+          "listed_count": 5,
+          "tweet_count": 7667
+        },
+        "url": "https://t.co/Jk6nRkHp3d",
+        "username": "acnekot",
+        "verified": false
+      }
+    ]
+  }
+}

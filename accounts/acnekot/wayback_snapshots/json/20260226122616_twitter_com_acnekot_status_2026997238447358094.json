@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026975144967892993"
+      ],
+      "media_source_tweet_id": [
+        "2026977921785798882"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2026997238447358094",
+    "created_at": "2026-02-26T12:26:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T13:26:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026997238447358094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1718745049213849600",
+          "start": 3,
+          "username": "7eaFwi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dhzuR4KddP",
+          "end": 39,
+          "expanded_url": "https://x.com/7eaFwi/status/2026977921785798882/photo/1",
+          "media_key": "3_2026975144967892993",
+          "start": 16,
+          "url": "https://t.co/dhzuR4KddP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026997238447358094",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026977921785798882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7eaFwi: どう？ https://t.co/dhzuR4KddP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2342,
+        "media_key": "3_2026975144967892993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFDJ6xbcAEySbt.jpg",
+        "width": 1644
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026975144967892993"
+          ],
+          "media_source_tweet_id": [
+            "2026977921785798882"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2026997238447358094",
+        "created_at": "2026-02-26T12:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T13:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026997238447358094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1718745049213849600",
+              "start": 3,
+              "username": "7eaFwi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dhzuR4KddP",
+              "end": 39,
+              "expanded_url": "https://x.com/7eaFwi/status/2026977921785798882/photo/1",
+              "media_key": "3_2026975144967892993",
+              "start": 16,
+              "url": "https://t.co/dhzuR4KddP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026997238447358094",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026977921785798882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7eaFwi: どう？ https://t.co/dhzuR4KddP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026975144967892993"
+          ]
+        },
+        "author_id": "1718745049213849600",
+        "conversation_id": "2026977921785798882",
+        "created_at": "2026-02-26T11:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026977921785798882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dhzuR4KddP",
+              "end": 27,
+              "expanded_url": "https://x.com/7eaFwi/status/2026977921785798882/photo/1",
+              "media_key": "3_2026975144967892993",
+              "start": 4,
+              "url": "https://t.co/dhzuR4KddP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026977921785798882",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 6318,
+          "like_count": 666,
+          "quote_count": 5,
+          "reply_count": 39,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "どう？ https://t.co/dhzuR4KddP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度｜好丽友派:@wxb_NB\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好｜同类互关请私信）\n猫喜欢搬点梗图给大伙看看（炫耀\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "wxb_NB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1261,
+          "following_count": 769,
+          "like_count": 81769,
+          "listed_count": 7,
+          "media_count": 2802,
+          "tweet_count": 12982
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-29T21:42:12.000Z",
+        "description": "魔女🥀🪉, 3D写真  (NOT V/TUBER, NOT V/RChat), 雑多やBMSなど, 音楽の話題NG⚠️\nメインアカウント：@7eaF\nファン用タグ：#leafbms\n自撮り用： #leafbga & ハイライトタブ\nモデル：@Sourxuan939\nデザイン：@toconiwa1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 82,
+                "tag": "leafbms"
+              },
+              {
+                "end": 105,
+                "start": 97,
+                "tag": "leafbga"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 74,
+                "start": 69,
+                "username": "7eaF"
+              },
+              {
+                "end": 132,
+                "start": 120,
+                "username": "Sourxuan939"
+              },
+              {
+                "end": 148,
+                "start": 138,
+                "username": "toconiwa1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCq57M…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCq57Mh587hgFDXaxDjTP6Cw",
+                "start": 0,
+                "url": "https://t.co/i9FB9AuoJ4"
+              }
+            ]
+          }
+        },
+        "id": "1718745049213849600",
+        "name": "LeaF2",
+        "pinned_tweet_id": "2026977921785798882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719313620063109120/PtWqGh_J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28634,
+          "following_count": 554,
+          "like_count": 27320,
+          "listed_count": 33,
+          "media_count": 1286,
+          "tweet_count": 26064
+        },
+        "url": "https://t.co/i9FB9AuoJ4",
+        "username": "7eaFwi",
+        "verified": true
+      }
+    ]
+  }
+}

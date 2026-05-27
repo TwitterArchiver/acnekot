@@ -1,0 +1,194 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1791828747127325183",
+    "created_at": "2024-05-19T09:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T10:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792118103385813325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1587260925039771648",
+          "start": 0,
+          "username": "Chloelikemaimai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792118103385813325",
+    "in_reply_to_user_id": "1587260925039771648",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791828747127325183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloelikemaimai 哎，乌蒙吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1791828747127325183",
+        "created_at": "2024-05-19T09:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T10:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792118103385813325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1587260925039771648",
+              "start": 0,
+              "username": "Chloelikemaimai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792118103385813325",
+        "in_reply_to_user_id": "1587260925039771648",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791828747127325183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloelikemaimai 哎，乌蒙吃"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1791828742140289024"
+          ]
+        },
+        "author_id": "1587260925039771648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1791828747127325183",
+        "created_at": "2024-05-18T13:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T14:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791828747127325183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/edfDNFSJhB",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Chloelikemaimai/status/1791828747127325183/photo/1",
+              "media_key": "3_1791828742140289024",
+              "start": 5,
+              "url": "https://t.co/edfDNFSJhB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791828747127325183",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难绷相册 https://t.co/edfDNFSJhB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "我已然丢失自我",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "A'CID",
+        "pinned_tweet_id": "1774830360578384099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 317,
+          "like_count": 33985,
+          "listed_count": 5,
+          "tweet_count": 7263
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-01T01:51:18.000Z",
+        "description": "你好，再见。",
+        "id": "1587260925039771648",
+        "location": "Paradise",
+        "name": "Chloe",
+        "pinned_tweet_id": "1775361129482784847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775093868171780096/oA319UFI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 256,
+          "like_count": 9237,
+          "listed_count": 0,
+          "tweet_count": 2369
+        },
+        "username": "Chloelikemaimai",
+        "verified": false
+      }
+    ]
+  }
+}

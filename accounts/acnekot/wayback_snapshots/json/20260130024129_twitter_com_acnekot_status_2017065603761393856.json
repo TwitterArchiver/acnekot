@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2016742579677909314",
+    "created_at": "2026-01-30T02:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T03:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017065603761393856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "33466711",
+          "start": 0,
+          "username": "gongminmin"
+        },
+        {
+          "end": 24,
+          "id": "2786701",
+          "start": 12,
+          "username": "williamlong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017065603761393856",
+    "in_reply_to_user_id": "33466711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016760266579726526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gongminmin @williamlong 这是什么鬼hhhhhhhhhhhh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 199,
+        "media_key": "3_2016760246925217797",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_z4wmMbUAUBpR0.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2016742579677909314",
+        "created_at": "2026-01-30T02:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T03:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017065603761393856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "33466711",
+              "start": 0,
+              "username": "gongminmin"
+            },
+            {
+              "end": 24,
+              "id": "2786701",
+              "start": 12,
+              "username": "williamlong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017065603761393856",
+        "in_reply_to_user_id": "33466711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016760266579726526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gongminmin @williamlong 这是什么鬼hhhhhhhhhhhh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016760246925217797"
+          ]
+        },
+        "author_id": "33466711",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2016742579677909314",
+        "created_at": "2026-01-29T06:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T07:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016760266579726526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2786701",
+              "start": 0,
+              "username": "williamlong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aYzJXb3Yds",
+              "end": 42,
+              "expanded_url": "https://x.com/gongminmin/status/2016760266579726526/photo/1",
+              "media_key": "3_2016760246925217797",
+              "start": 19,
+              "url": "https://t.co/aYzJXb3Yds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016760266579726526",
+        "in_reply_to_user_id": "2786701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3032,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016742579677909314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@williamlong 那你看百度 https://t.co/aYzJXb3Yds"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者|不鉴证|欢迎和我互动|VRChat|无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語 以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\n\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "tg@nanno_64",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 726,
+          "like_count": 73922,
+          "listed_count": 6,
+          "media_count": 2460,
+          "tweet_count": 11239
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-20T09:10:52.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "klayge.org",
+                "end": 23,
+                "expanded_url": "http://www.klayge.org",
+                "start": 0,
+                "url": "https://t.co/NhVWlx0BID"
+              }
+            ]
+          }
+        },
+        "id": "33466711",
+        "location": "Redmond, WA",
+        "name": "Minmin Gong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1107021399/41464_100001469863441_6805_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 84,
+          "like_count": 205,
+          "listed_count": 4,
+          "media_count": 134,
+          "tweet_count": 1732
+        },
+        "url": "https://t.co/NhVWlx0BID",
+        "username": "gongminmin",
+        "verified": false
+      },
+      {
+        "created_at": "2007-03-29T04:16:23.000Z",
+        "description": "以科学理解世界，以哲学理解生活；在探索真知与智慧的路上，自我改善，自我实现。",
+        "id": "2786701",
+        "name": "William Long",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892484039917129730/qRBtG7Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366311,
+          "following_count": 373,
+          "like_count": 0,
+          "listed_count": 2740,
+          "media_count": 3598,
+          "tweet_count": 31123
+        },
+        "username": "williamlong",
+        "verified": true
+      }
+    ]
+  }
+}

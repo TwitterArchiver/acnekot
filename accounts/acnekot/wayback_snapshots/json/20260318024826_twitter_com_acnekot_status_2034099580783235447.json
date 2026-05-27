@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2034009959080276217",
+    "created_at": "2026-03-18T02:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T03:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034099580783235447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1187856405673455616",
+          "start": 0,
+          "username": "tetenc555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034099580783235447",
+    "in_reply_to_user_id": "1187856405673455616",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034009959080276217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tetenc555 back to 2014"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034009945893371904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDpBROaWAAAFPfv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2034009945792811008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDpBROCXkAAiqAz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2034009959080276217",
+        "created_at": "2026-03-18T02:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T03:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034099580783235447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1187856405673455616",
+              "start": 0,
+              "username": "tetenc555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034099580783235447",
+        "in_reply_to_user_id": "1187856405673455616",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034009959080276217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tetenc555 back to 2014"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034009945893371904",
+            "3_2034009945792811008"
+          ]
+        },
+        "author_id": "1187856405673455616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2034009959080276217",
+        "created_at": "2026-03-17T20:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T21:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034009959080276217"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "iPhone 6 Plus",
+              "probability": 0.5631,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 19,
+              "normalized_text": "Gold",
+              "probability": 0.4394,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 30,
+              "normalized_text": "iPhone Air",
+              "probability": 0.5066,
+              "start": 21,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ksl8DbmsPp",
+              "end": 61,
+              "expanded_url": "https://x.com/tetenc555/status/2034009959080276217/photo/1",
+              "media_key": "3_2034009945893371904",
+              "start": 38,
+              "url": "https://t.co/ksl8DbmsPp"
+            },
+            {
+              "display_url": "pic.x.com/ksl8DbmsPp",
+              "end": 61,
+              "expanded_url": "https://x.com/tetenc555/status/2034009959080276217/photo/1",
+              "media_key": "3_2034009945792811008",
+              "start": 38,
+              "url": "https://t.co/ksl8DbmsPp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034009959080276217",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 308,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "iPhone 6 Plus x Gold iPhone Air omggg https://t.co/ksl8DbmsPp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动\n发言纯依靠我那微薄的知识 如有错意欢迎指正\nあなたと繋いだ それが浮遊感",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1709,
+          "following_count": 785,
+          "like_count": 85822,
+          "listed_count": 6,
+          "media_count": 3101,
+          "tweet_count": 14154
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-25T22:20:29.000Z",
+        "description": "propietaria do iPhone 8 safico - she/them🏳️‍⚧️ - minha bobinha 💕🐾 @admirablw 💍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "admirablw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tetenc555.carrd.co",
+                "end": 23,
+                "expanded_url": "http://tetenc555.carrd.co",
+                "start": 0,
+                "url": "https://t.co/WEgKD0TpgT"
+              }
+            ]
+          }
+        },
+        "id": "1187856405673455616",
+        "location": "oh! so sorgy !",
+        "name": "Becca!! ⋆ 🩷🐶",
+        "pinned_tweet_id": "1953899480077443332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962713680295997440/YR8wqsOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 939,
+          "like_count": 244934,
+          "listed_count": 31,
+          "media_count": 14928,
+          "tweet_count": 178010
+        },
+        "url": "https://t.co/WEgKD0TpgT",
+        "username": "tetenc555",
+        "verified": false
+      }
+    ]
+  }
+}

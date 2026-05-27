@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1148689566112477184",
+          "name": "Wi-Fi"
+        }
+      }
+    ],
+    "conversation_id": "2022154658354249738",
+    "created_at": "2026-02-13T03:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T04:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022154658354249738"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Jackywine/stat…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/Jackywine/status/2021487070615867872",
+          "start": 72,
+          "url": "https://t.co/27tOOXewA6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022154658354249738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021487070615867872",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "草，我还真就这样过来的，当时是笔记本，我研究了重装系统、换硬盘、内存条、还有外接显示器什么的，全部都自己研究，当时还是蹭别人的wifi上网查） https://t.co/27tOOXewA6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1462,
+        "media_key": "3_2021486763735416832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3DgFaagAA9qFZ.jpg",
+        "width": 1112
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2022154658354249738",
+        "created_at": "2026-02-13T03:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022154658354249738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jackywine/stat…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/Jackywine/status/2021487070615867872",
+              "start": 72,
+              "url": "https://t.co/27tOOXewA6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022154658354249738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021487070615867872",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草，我还真就这样过来的，当时是笔记本，我研究了重装系统、换硬盘、内存条、还有外接显示器什么的，全部都自己研究，当时还是蹭别人的wifi上网查） https://t.co/27tOOXewA6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021486763735416832"
+          ]
+        },
+        "author_id": "1404738934043602947",
+        "conversation_id": "2021487070615867872",
+        "created_at": "2026-02-11T07:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T08:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021487070615867872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ZzuzwBZc1",
+              "end": 45,
+              "expanded_url": "https://x.com/Jackywine/status/2021487070615867872/photo/1",
+              "media_key": "3_2021486763735416832",
+              "start": 22,
+              "url": "https://t.co/4ZzuzwBZc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021487070615867872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1119,
+          "impression_count": 369241,
+          "like_count": 3321,
+          "quote_count": 48,
+          "reply_count": 183,
+          "retweet_count": 305
+        },
+        "reply_settings": "everyone",
+        "text": "今天用知乎测网速，看到了一篇牛而逼之的回答 https://t.co/4ZzuzwBZc1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語 以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 757,
+          "like_count": 77808,
+          "listed_count": 6,
+          "media_count": 2595,
+          "tweet_count": 12016
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-15T09:54:01.000Z",
+        "description": "现苹果、xAI、谷歌、字节跳动用户，清华大学游客\n不过是工作之余分享一些 AI、品牌、UIUX、产品、一人公司、AI创业、梗图、好车的普通网友罢了\n✈️Telegram channel：https://t.co/HRpOru3LUj\n公众号：jackywine\n2026零基础自学 AI 就来我知识库👇🏻",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jackywineEarth",
+                "end": 116,
+                "expanded_url": "http://t.me/jackywineEarth",
+                "start": 93,
+                "url": "https://t.co/HRpOru3LUj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "my.feishu.cn/wiki/BX54wYGhJ…",
+                "end": 23,
+                "expanded_url": "https://my.feishu.cn/wiki/BX54wYGhJizwzhkKLbFcqaSKnPb",
+                "start": 0,
+                "url": "https://t.co/SIc6iP3BDY"
+              }
+            ]
+          }
+        },
+        "id": "1404738934043602947",
+        "name": "Jackywine",
+        "pinned_tweet_id": "2019419775634665761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805875520430915586/x3t_sQdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33640,
+          "following_count": 3103,
+          "like_count": 85633,
+          "listed_count": 313,
+          "media_count": 4244,
+          "tweet_count": 27896
+        },
+        "url": "https://t.co/SIc6iP3BDY",
+        "username": "Jackywine",
+        "verified": true
+      }
+    ]
+  }
+}

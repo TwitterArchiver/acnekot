@@ -1,0 +1,205 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1797159716050862391",
+    "created_at": "2024-06-05T15:06:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-05T16:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798370730192892189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1229354839081046016",
+          "start": 0,
+          "username": "niceoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798370730192892189",
+    "in_reply_to_user_id": "1229354839081046016",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797159716050862391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niceoe b站现在高精视频都能过了，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1797159716050862391",
+        "created_at": "2024-06-05T15:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T16:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798370730192892189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1229354839081046016",
+              "start": 0,
+              "username": "niceoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798370730192892189",
+        "in_reply_to_user_id": "1229354839081046016",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797159716050862391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niceoe b站现在高精视频都能过了，，"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1797159709570654208"
+          ]
+        },
+        "author_id": "1229354839081046016",
+        "conversation_id": "1797159716050862391",
+        "created_at": "2024-06-02T06:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T07:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797159716050862391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/z7W2455y9k",
+              "end": 44,
+              "expanded_url": "https://twitter.com/niceoe/status/1797159716050862391/photo/1",
+              "media_key": "3_1797159709570654208",
+              "start": 21,
+              "url": "https://t.co/z7W2455y9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797159716050862391",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 170,
+          "impression_count": 371545,
+          "like_count": 1876,
+          "quote_count": 14,
+          "reply_count": 205,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "最近B站又开始文艺复兴了，全是盗版资源… https://t.co/z7W2455y9k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "我已然丢失自我",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "A'CID",
+        "pinned_tweet_id": "1774830360578384099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 320,
+          "like_count": 34110,
+          "listed_count": 5,
+          "tweet_count": 7291
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-17T10:40:19.000Z",
+        "description": "that ship has sailed\n\nhttps://t.co/jEiXfLjtaB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bento.me/j178",
+                "end": 45,
+                "expanded_url": "https://bento.me/j178",
+                "start": 22,
+                "url": "https://t.co/jEiXfLjtaB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/j178",
+                "end": 23,
+                "expanded_url": "https://github.com/j178",
+                "start": 0,
+                "url": "https://t.co/rfPtTN7c4e"
+              }
+            ]
+          }
+        },
+        "id": "1229354839081046016",
+        "location": "Limbo",
+        "name": "Josh",
+        "pinned_tweet_id": "1702239417489141985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1374917595283947522/at4qJyGM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3476,
+          "following_count": 314,
+          "like_count": 3020,
+          "listed_count": 34,
+          "tweet_count": 2399
+        },
+        "url": "https://t.co/rfPtTN7c4e",
+        "username": "niceoe",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2049303215401996593",
+    "created_at": "2026-04-29T01:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T02:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049303215401996593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1831363594556211200",
+          "start": 3,
+          "username": "JyushitiYizuka"
+        }
+      ],
+      "urls": [
+        {
+          "description": "基于 mihomo 内核的开源 Android 客户端",
+          "display_url": "yumebox.oom-wg.dev",
+          "end": 71,
+          "expanded_url": "https://yumebox.oom-wg.dev/",
+          "start": 48,
+          "status": 200,
+          "title": "YumeBox - An open-source Android client based on the mihomo kernel",
+          "unwound_url": "https://yumebox.oom-wg.dev/",
+          "url": "https://t.co/qAamrqw1c4"
+        },
+        {
+          "display_url": "t.co/rEXdKRTB",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/rEXdKRTB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049303215401996593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048946385995854068",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JyushitiYizuka: 通宵成果\n对开源仓库YumeBox(安卓代理客户端,官网https://t.co/qAamrqw1c4)\n进行了Material You改写\n目前应该是可用的状态\n如果觉得还行就给个star吧🥺\nhttps://t.co/rEXdKRTB…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048946376697135104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG9R37LbQAAbYNN.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2049303215401996593",
+        "created_at": "2026-04-29T01:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T02:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049303215401996593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1831363594556211200",
+              "start": 3,
+              "username": "JyushitiYizuka"
+            }
+          ],
+          "urls": [
+            {
+              "description": "基于 mihomo 内核的开源 Android 客户端",
+              "display_url": "yumebox.oom-wg.dev",
+              "end": 71,
+              "expanded_url": "https://yumebox.oom-wg.dev/",
+              "start": 48,
+              "status": 200,
+              "title": "YumeBox - An open-source Android client based on the mihomo kernel",
+              "unwound_url": "https://yumebox.oom-wg.dev/",
+              "url": "https://t.co/qAamrqw1c4"
+            },
+            {
+              "display_url": "t.co/rEXdKRTB",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/rEXdKRTB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049303215401996593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048946385995854068",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JyushitiYizuka: 通宵成果\n对开源仓库YumeBox(安卓代理客户端,官网https://t.co/qAamrqw1c4)\n进行了Material You改写\n目前应该是可用的状态\n如果觉得还行就给个star吧🥺\nhttps://t.co/rEXdKRTB…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048946376697135104"
+          ]
+        },
+        "author_id": "1831363594556211200",
+        "conversation_id": "2048946385995854068",
+        "created_at": "2026-04-28T02:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T03:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048946385995854068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "基于 mihomo 内核的开源 Android 客户端",
+              "display_url": "yumebox.oom-wg.dev",
+              "end": 51,
+              "expanded_url": "https://yumebox.oom-wg.dev/",
+              "start": 28,
+              "status": 200,
+              "title": "YumeBox - An open-source Android client based on the mihomo kernel",
+              "unwound_url": "https://yumebox.oom-wg.dev/",
+              "url": "https://t.co/qAamrqw1c4"
+            },
+            {
+              "description": "A Material Design fork of YumeBox, an open-source Android client based on Mihomo. - Yizuka17/YumeBox-MaterialDesign",
+              "display_url": "github.com/Yizuka17/YumeB…",
+              "end": 121,
+              "expanded_url": "https://github.com/Yizuka17/YumeBox-MaterialDesign",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2048946392257941504/Zu59Ja90?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2048946392257941504/Zu59Ja90?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 98,
+              "status": 200,
+              "title": "GitHub - Yizuka17/YumeBox-MaterialDesign: A Material Design fork of YumeBox, an open-source Android client based on Mihomo.",
+              "unwound_url": "https://github.com/Yizuka17/YumeBox-MaterialDesign",
+              "url": "https://t.co/rEXdKRTBl7"
+            },
+            {
+              "display_url": "pic.x.com/v9ENmFQl8C",
+              "end": 145,
+              "expanded_url": "https://x.com/JyushitiYizuka/status/2048946385995854068/photo/1",
+              "media_key": "3_2048946376697135104",
+              "start": 122,
+              "url": "https://t.co/v9ENmFQl8C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048946385995854068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 270,
+          "impression_count": 37982,
+          "like_count": 478,
+          "quote_count": 5,
+          "reply_count": 53,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "通宵成果\n对开源仓库YumeBox(安卓代理客户端,官网https://t.co/qAamrqw1c4)\n进行了Material You改写\n目前应该是可用的状态\n如果觉得还行就给个star吧🥺\nhttps://t.co/rEXdKRTBl7 https://t.co/v9ENmFQl8C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n回fo请私信\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 133,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 110,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2284,
+          "following_count": 794,
+          "like_count": 91120,
+          "listed_count": 6,
+          "media_count": 3723,
+          "tweet_count": 15955
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-04T16:08:23.000Z",
+        "description": "是花狮在读本科哒! | et omnia vanitas | アズサ推し！| 中文/English/日本語(下手)  |「止まない雨はなく、明けない夜はない。」 | 小猫🐱@ThirteenYizuka | 逃生舱@NineteenYizuka",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 86,
+                "username": "ThirteenYizuka"
+              },
+              {
+                "end": 122,
+                "start": 107,
+                "username": "NineteenYizuka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jyushitiyizuka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jyushitiyizuka",
+                "start": 0,
+                "url": "https://t.co/cXoz3DkEul"
+              }
+            ]
+          }
+        },
+        "id": "1831363594556211200",
+        "location": "記錄の地平線",
+        "name": "JYUSHITI拾柒",
+        "pinned_tweet_id": "2046414126881366369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028649306773950464/sRMm3DwZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2420,
+          "following_count": 1326,
+          "like_count": 42403,
+          "listed_count": 8,
+          "media_count": 1644,
+          "tweet_count": 26163
+        },
+        "url": "https://t.co/cXoz3DkEul",
+        "username": "JyushitiYizuka",
+        "verified": false
+      }
+    ]
+  }
+}

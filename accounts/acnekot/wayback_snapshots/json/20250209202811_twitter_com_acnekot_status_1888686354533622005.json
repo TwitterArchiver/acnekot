@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1888149374154534976",
+    "created_at": "2025-02-09T20:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T21:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888686354533622005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1243945571796295681",
+          "start": 0,
+          "username": "59ryq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888686354533622005",
+    "in_reply_to_user_id": "1243945571796295681",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888149374154534976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@59ryq 🤯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1888149374154534976",
+        "created_at": "2025-02-09T20:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T21:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888686354533622005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1243945571796295681",
+              "start": 0,
+              "username": "59ryq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888686354533622005",
+        "in_reply_to_user_id": "1243945571796295681",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888149374154534976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@59ryq 🤯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888149365472337920"
+          ]
+        },
+        "author_id": "1243945571796295681",
+        "conversation_id": "1888149374154534976",
+        "created_at": "2025-02-08T08:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T09:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888149374154534976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AORSjnZ5B6",
+              "end": 32,
+              "expanded_url": "https://x.com/59ryq/status/1888149374154534976/photo/1",
+              "media_key": "3_1888149365472337920",
+              "start": 9,
+              "url": "https://t.co/AORSjnZ5B6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888149374154534976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3903,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你好 发工资了（ https://t.co/AORSjnZ5B6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在这里",
+        "id": "1552213521253150720",
+        "location": "THE UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871051316312895489/MYVorhms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 386,
+          "like_count": 40961,
+          "listed_count": 3,
+          "media_count": 1784,
+          "tweet_count": 8300
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T16:58:37.000Z",
+        "description": "「故事要从这里开始讲起」｜Make It Real｜PUBGM Player｜Esports Analys｜Language:CN/EN/JP｜Sister & lover: @xlj070423 @xlioilxlloiilv @yizhikapaiqaq @iranon_lcf ｜莱铭：@revive_meink",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "xlj070423"
+              },
+              {
+                "end": 114,
+                "start": 99,
+                "username": "xlioilxlloiilv"
+              },
+              {
+                "end": 129,
+                "start": 115,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "iranon_lcf"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "revive_meink"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/6W3mmCUM0f"
+              }
+            ]
+          }
+        },
+        "id": "1243945571796295681",
+        "location": "JDEsport",
+        "name": "你是想气死铨酱么🏳️‍⚧️",
+        "pinned_tweet_id": "1863553708816261124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811063132472889345/EAJ4Qnlm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16649,
+          "following_count": 4435,
+          "like_count": 170134,
+          "listed_count": 68,
+          "media_count": 4562,
+          "tweet_count": 21163
+        },
+        "url": "https://t.co/6W3mmCUM0f",
+        "username": "59ryq",
+        "verified": true
+      }
+    ]
+  }
+}

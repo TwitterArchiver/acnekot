@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1873369533161091264",
+    "created_at": "2024-12-29T14:04:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T15:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873369533161091264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1742381695045939200",
+          "start": 3,
+          "username": "mo6ji4"
+        },
+        {
+          "end": 20,
+          "id": "1384487248184320002",
+          "start": 12,
+          "username": "chsx_15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873369533161091264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873327476639944908",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mo6ji4: @chsx_15 有人在打飞机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1873369533161091264",
+        "created_at": "2024-12-29T14:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T15:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873369533161091264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1742381695045939200",
+              "start": 3,
+              "username": "mo6ji4"
+            },
+            {
+              "end": 20,
+              "id": "1384487248184320002",
+              "start": 12,
+              "username": "chsx_15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873369533161091264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873327476639944908",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mo6ji4: @chsx_15 有人在打飞机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742381695045939200",
+        "conversation_id": "1873286806046949380",
+        "created_at": "2024-12-29T11:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T12:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873327476639944908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1384487248184320002",
+              "start": 0,
+              "username": "chsx_15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873327476639944908",
+        "in_reply_to_user_id": "1384487248184320002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 778,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873286806046949380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chsx_15 有人在打飞机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "No Found.",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871051316312895489/MYVorhms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 372,
+          "like_count": 39875,
+          "listed_count": 3,
+          "media_count": 1738,
+          "tweet_count": 8088
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T03:06:37.000Z",
+        "description": "头像源：《blacksouls》贞德相爱CG\n防失联小号@m8o9j6i4 亲爱的@miku_suki393939 @35zf_out @Fiammetta1453  @zhao_remake @azusaROCtw  @mingnaisama\n玻璃心自卑仇富（我是顺男）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "m8o9j6i4"
+              },
+              {
+                "end": 57,
+                "start": 41,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "35zf_out"
+              },
+              {
+                "end": 82,
+                "start": 68,
+                "username": "Fiammetta1453"
+              },
+              {
+                "end": 96,
+                "start": 84,
+                "username": "zhao_remake"
+              },
+              {
+                "end": 108,
+                "start": 97,
+                "username": "azusaROCtw"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "mingnaisama"
+              }
+            ]
+          }
+        },
+        "id": "1742381695045939200",
+        "location": "阿拉斯加美军要塞",
+        "name": "圣骑士贞德（误ban抱歉）（情绪垃圾桶）（推文不完全代表本人立场）",
+        "pinned_tweet_id": "1854920212254187693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821365773853675521/fOq21twb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2492,
+          "following_count": 936,
+          "like_count": 102235,
+          "listed_count": 10,
+          "media_count": 1786,
+          "tweet_count": 21987
+        },
+        "username": "mo6ji4",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-20T12:41:03.000Z",
+        "description": "Нехай ця подорож приведе нас до зірок! | Третьокурсник з Китаю 🇨🇳 | Кокосова вода ❤️🥥 | Антишлюбні | Основний @chsx_14 | Q&A https://t.co/mF5DuUXP5o",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 110,
+                "username": "chsx_14"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/chsx_15",
+                "end": 148,
+                "expanded_url": "https://ngl.link/chsx_15",
+                "start": 125,
+                "url": "https://t.co/mF5DuUXP5o"
+              }
+            ]
+          }
+        },
+        "id": "1384487248184320002",
+        "location": "Җиҗён Політех Коледж",
+        "name": "Херба Люміноза✨🍀🆟🆨",
+        "pinned_tweet_id": "1845415587851260328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841149919081742339/CkC5aKEi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14972,
+          "following_count": 1094,
+          "like_count": 10829,
+          "listed_count": 30,
+          "media_count": 2825,
+          "tweet_count": 30994
+        },
+        "username": "chsx_15",
+        "verified": false
+      }
+    ]
+  }
+}

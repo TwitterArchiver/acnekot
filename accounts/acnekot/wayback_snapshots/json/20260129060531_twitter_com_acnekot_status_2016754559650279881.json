@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2016732053447069940",
+    "created_at": "2026-01-29T06:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T07:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016754559650279881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1534066119106912256",
+          "start": 0,
+          "username": "Oo_Motoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016754559650279881",
+    "in_reply_to_user_id": "1534066119106912256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016732053447069940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oo_Motoko 有这执行力再怎么说还是愿意去指导两下的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2016732038011965440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zfGnzaUAAeFwR.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2016732038012030976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zfGnzbUAA8Vev.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2016732053447069940",
+        "created_at": "2026-01-29T06:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T07:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016754559650279881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1534066119106912256",
+              "start": 0,
+              "username": "Oo_Motoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016754559650279881",
+        "in_reply_to_user_id": "1534066119106912256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016732053447069940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oo_Motoko 有这执行力再怎么说还是愿意去指导两下的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016732038011965440",
+            "3_2016732038012030976"
+          ]
+        },
+        "author_id": "1534066119106912256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2016732053447069940",
+        "created_at": "2026-01-29T04:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T05:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016732053447069940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gHSXcHvXCv",
+              "end": 86,
+              "expanded_url": "https://x.com/Oo_Motoko/status/2016732053447069940/photo/1",
+              "media_key": "3_2016732038011965440",
+              "start": 63,
+              "url": "https://t.co/gHSXcHvXCv"
+            },
+            {
+              "display_url": "pic.x.com/gHSXcHvXCv",
+              "end": 86,
+              "expanded_url": "https://x.com/Oo_Motoko/status/2016732053447069940/photo/1",
+              "media_key": "3_2016732038012030976",
+              "start": 63,
+              "url": "https://t.co/gHSXcHvXCv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016732053447069940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10699,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "身边同事都是执行力拉满并且听劝的，帮同事设置电脑和手机翻墙，遇到华为手机懒得折腾就劝买个二手苹果，立马转转下单了一台👍🏽👍🏽 https://t.co/gHSXcHvXCv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者|不鉴证|欢迎和我互动|VRChat|无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語 以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\n\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "tg@nanno_64",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 726,
+          "like_count": 73682,
+          "listed_count": 6,
+          "media_count": 2448,
+          "tweet_count": 11191
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-07T06:54:07.000Z",
+        "description": "💼经济舱牛马|🥦职场菜鸟成长日记|🚫对立极端评论",
+        "id": "1534066119106912256",
+        "location": "随机刷新",
+        "name": "猿子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409213297131520/nbrC5AQM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18573,
+          "following_count": 1040,
+          "like_count": 16912,
+          "listed_count": 57,
+          "media_count": 2871,
+          "tweet_count": 17081
+        },
+        "username": "Oo_Motoko",
+        "verified": false
+      }
+    ]
+  }
+}

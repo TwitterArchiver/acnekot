@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2010549884966047987",
+    "created_at": "2026-01-12T03:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T04:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010551354780246341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1251721968958582784",
+          "start": 0,
+          "username": "MacchiatoFika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010551354780246341",
+    "in_reply_to_user_id": "1251721968958582784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 13,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010549884966047987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MacchiatoFika 这个是模型就是这样还是bug"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38522,
+        "height": 720,
+        "media_key": "7_2010549845652869120",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2010549845652869120/pu/img/nMt8aRbEDY2_iW4U.jpg",
+        "public_metrics": {
+          "view_count": 29
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010549845652869120/pu/vid/avc1/480x270/K2yWA7S6VYA_V1Y3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010549845652869120/pu/vid/avc1/640x360/1tTKODva5KP6SaqR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010549845652869120/pu/vid/avc1/1280x720/9qHIL3CG9dKspz0v.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2010549845652869120/pu/pl/HPy4JQso2qFuZ9fu.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2010549884966047987",
+        "created_at": "2026-01-12T03:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T04:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010551354780246341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1251721968958582784",
+              "start": 0,
+              "username": "MacchiatoFika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010551354780246341",
+        "in_reply_to_user_id": "1251721968958582784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010549884966047987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MacchiatoFika 这个是模型就是这样还是bug"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2010549845652869120"
+          ]
+        },
+        "author_id": "1251721968958582784",
+        "conversation_id": "2010549884966047987",
+        "created_at": "2026-01-12T03:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T04:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010549884966047987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y7llW0YIev",
+              "end": 30,
+              "expanded_url": "https://x.com/MacchiatoFika/status/2010549884966047987/video/1",
+              "media_key": "7_2010549845652869120",
+              "start": 7,
+              "url": "https://t.co/y7llW0YIev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010549884966047987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "耳朵飞升之术 https://t.co/y7llW0YIev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "到处闲逛的猫ᗜ_ᗜ\n音游爱好者|不鉴证|欢迎和我互动|VRChat\n非中文使用翻译器 如有错意欢迎指正\n回fo请私信或者留言 不然就是纯随机(笑\nいつ終わるかな 意味もないのに",
+        "id": "1552213521253150720",
+        "location": "http://mocat.asia",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 575,
+          "like_count": 65595,
+          "listed_count": 5,
+          "media_count": 2200,
+          "tweet_count": 10013
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-19T03:59:27.000Z",
+        "description": "Fragmented.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MacchiatoFika",
+                "end": 23,
+                "expanded_url": "https://t.me/MacchiatoFika",
+                "start": 0,
+                "url": "https://t.co/DvR9acHRuQ"
+              }
+            ]
+          }
+        },
+        "id": "1251721968958582784",
+        "location": "N/A",
+        "name": "Fika✨",
+        "pinned_tweet_id": "1881674970847424596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980170177934155776/5md61nKV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7328,
+          "following_count": 782,
+          "like_count": 39894,
+          "listed_count": 30,
+          "media_count": 1996,
+          "tweet_count": 8398
+        },
+        "url": "https://t.co/DvR9acHRuQ",
+        "username": "MacchiatoFika",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,659 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025224850663768074",
+        "3_2025225001981673472"
+      ],
+      "media_source_tweet_id": [
+        "2025225189009883349",
+        "2025225189009883349"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2025556942920495564",
+    "created_at": "2026-02-22T13:03:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T14:03:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025556942920495564"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "大地を巡る旅",
+          "probability": 0.6736,
+          "start": 28,
+          "type": "Other"
+        },
+        {
+          "end": 43,
+          "normalized_text": "ペリカちゃん",
+          "probability": 0.5178,
+          "start": 38,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1202931032351072256",
+          "start": 3,
+          "username": "lilas2432"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bMdag7TLz4",
+          "end": 68,
+          "expanded_url": "https://x.com/lilas2432/status/2025225189009883349/photo/1",
+          "media_key": "3_2025224850663768074",
+          "start": 45,
+          "url": "https://t.co/bMdag7TLz4"
+        },
+        {
+          "display_url": "pic.x.com/bMdag7TLz4",
+          "end": 68,
+          "expanded_url": "https://x.com/lilas2432/status/2025225189009883349/photo/1",
+          "media_key": "3_2025225001981673472",
+          "start": 45,
+          "url": "https://t.co/bMdag7TLz4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025556942920495564",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 190
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025225189009883349",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lilas2432: アークナイツ世界観設定集「大地を巡る旅」を読むペリカちゃん https://t.co/bMdag7TLz4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 116,
+        "media_key": "3_2025224850663768074",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsLRYYbgAo_C86.png",
+        "width": 116
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2025225001981673472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsLaMFbgAAzamS.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025224850663768074",
+            "3_2025225001981673472"
+          ],
+          "media_source_tweet_id": [
+            "2025225189009883349",
+            "2025225189009883349"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2025556942920495564",
+        "created_at": "2026-02-22T13:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T14:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025556942920495564"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "大地を巡る旅",
+              "probability": 0.6736,
+              "start": 28,
+              "type": "Other"
+            },
+            {
+              "end": 43,
+              "normalized_text": "ペリカちゃん",
+              "probability": 0.5178,
+              "start": 38,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1202931032351072256",
+              "start": 3,
+              "username": "lilas2432"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bMdag7TLz4",
+              "end": 68,
+              "expanded_url": "https://x.com/lilas2432/status/2025225189009883349/photo/1",
+              "media_key": "3_2025224850663768074",
+              "start": 45,
+              "url": "https://t.co/bMdag7TLz4"
+            },
+            {
+              "display_url": "pic.x.com/bMdag7TLz4",
+              "end": 68,
+              "expanded_url": "https://x.com/lilas2432/status/2025225189009883349/photo/1",
+              "media_key": "3_2025225001981673472",
+              "start": 45,
+              "url": "https://t.co/bMdag7TLz4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025556942920495564",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 190
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025225189009883349",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lilas2432: アークナイツ世界観設定集「大地を巡る旅」を読むペリカちゃん https://t.co/bMdag7TLz4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025224850663768074",
+            "3_2025225001981673472"
+          ]
+        },
+        "author_id": "1202931032351072256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2025225189009883349",
+        "created_at": "2026-02-21T15:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T16:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025225189009883349"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "大地を巡る旅",
+              "probability": 0.7464,
+              "start": 13,
+              "type": "Other"
+            },
+            {
+              "end": 28,
+              "normalized_text": "ペリカちゃん",
+              "probability": 0.532,
+              "start": 23,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bMdag7TLz4",
+              "end": 53,
+              "expanded_url": "https://x.com/lilas2432/status/2025225189009883349/photo/1",
+              "media_key": "3_2025224850663768074",
+              "start": 30,
+              "url": "https://t.co/bMdag7TLz4"
+            },
+            {
+              "display_url": "pic.x.com/bMdag7TLz4",
+              "end": 53,
+              "expanded_url": "https://x.com/lilas2432/status/2025225189009883349/photo/1",
+              "media_key": "3_2025225001981673472",
+              "start": 30,
+              "url": "https://t.co/bMdag7TLz4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025225189009883349",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 55375,
+          "like_count": 2479,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 190
+        },
+        "reply_settings": "everyone",
+        "text": "アークナイツ世界観設定集「大地を巡る旅」を読むペリカちゃん https://t.co/bMdag7TLz4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度｜好丽友派:@wxb_NB\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好｜互关请私信\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "wxb_NB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 779,
+          "like_count": 80830,
+          "listed_count": 6,
+          "media_count": 2732,
+          "tweet_count": 12688
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2019-12-06T12:42:19.000Z",
+        "description": "アークナイツをもっと好きになるサービス作ってます。\nコーデ専門サイト「ロドス・スタイル」https://t.co/GRqTqaFRNh　\nシナリオ進捗管理サービス「テラログ」https://t.co/HCfB6EtiMV\n火山イベ風ロビーサイト https://t.co/zZfouXGmNK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rhodes-style.com",
+                "end": 67,
+                "expanded_url": "https://rhodes-style.com",
+                "start": 44,
+                "url": "https://t.co/GRqTqaFRNh"
+              },
+              {
+                "display_url": "terra-log.org",
+                "end": 110,
+                "expanded_url": "https://terra-log.org/",
+                "start": 87,
+                "url": "https://t.co/HCfB6EtiMV"
+              },
+              {
+                "display_url": "arknights-lobby.pages.dev",
+                "end": 146,
+                "expanded_url": "https://arknights-lobby.pages.dev/",
+                "start": 123,
+                "url": "https://t.co/zZfouXGmNK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lilas-profile.pages.dev",
+                "end": 23,
+                "expanded_url": "https://lilas-profile.pages.dev/",
+                "start": 0,
+                "url": "https://t.co/mtWqddw1rw"
+              }
+            ]
+          }
+        },
+        "id": "1202931032351072256",
+        "location": "プロフィール",
+        "name": "リラ",
+        "pinned_tweet_id": "1941483548223144174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871180889008537600/3WrowFAd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1845,
+          "following_count": 381,
+          "like_count": 14245,
+          "listed_count": 8,
+          "media_count": 994,
+          "tweet_count": 2902
+        },
+        "url": "https://t.co/mtWqddw1rw",
+        "username": "lilas2432",
+        "verified": true
+      }
+    ]
+  }
+}

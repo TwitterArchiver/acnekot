@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985513006122614786"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "1984755530292932648",
+    "created_at": "2025-11-04T01:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T02:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985513017988292913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1837014520692461568",
+          "start": 0,
+          "username": "KalTsit51699"
+        },
+        {
+          "end": 30,
+          "id": "1341386588664676352",
+          "start": 14,
+          "username": "9bi6ix44XjEO57d"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/scEVkuH4uL",
+          "end": 54,
+          "expanded_url": "https://x.com/acnekot/status/1985513017988292913/photo/1",
+          "media_key": "3_1985513006122614786",
+          "start": 31,
+          "url": "https://t.co/scEVkuH4uL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985513017988292913",
+    "in_reply_to_user_id": "1837014520692461568",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985002104583270568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KalTsit51699 @9bi6ix44XjEO57d https://t.co/scEVkuH4uL"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1985002104583270568].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1985002104583270568",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1985002104583270568"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 282,
+        "media_key": "3_1985513006122614786",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G431jzLbQAIJF5O.png",
+        "width": 325
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985513006122614786"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "1984755530292932648",
+        "created_at": "2025-11-04T01:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T02:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985513017988292913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1837014520692461568",
+              "start": 0,
+              "username": "KalTsit51699"
+            },
+            {
+              "end": 30,
+              "id": "1341386588664676352",
+              "start": 14,
+              "username": "9bi6ix44XjEO57d"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/scEVkuH4uL",
+              "end": 54,
+              "expanded_url": "https://x.com/acnekot/status/1985513017988292913/photo/1",
+              "media_key": "3_1985513006122614786",
+              "start": 31,
+              "url": "https://t.co/scEVkuH4uL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985513017988292913",
+        "in_reply_to_user_id": "1837014520692461568",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985002104583270568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KalTsit51699 @9bi6ix44XjEO57d https://t.co/scEVkuH4uL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远",
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984849769211314179/Mzcgzncy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 459,
+          "like_count": 44748,
+          "listed_count": 4,
+          "media_count": 1880,
+          "tweet_count": 8710
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T06:23:00.000Z",
+        "description": "你的好友猪咪已下线",
+        "id": "1837014520692461568",
+        "location": "港区-皇家宿舍，柴郡喵的猫窝内",
+        "name": "邪恶柴郡占领地球",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911775296686112769/s60_hv5t_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 1064,
+          "like_count": 58170,
+          "listed_count": 4,
+          "media_count": 2200,
+          "tweet_count": 13036
+        },
+        "username": "KalTsit51699",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-22T14:14:29.000Z",
+        "description": "赤贫的资本主义反革命战士、小死兆星、大龄处男、资深轻生专家、多语言文盲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/communities/…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/communities/1723286568683913463",
+                "start": 0,
+                "url": "https://t.co/vUauL618rk"
+              }
+            ]
+          }
+        },
+        "id": "1341386588664676352",
+        "location": "doro",
+        "name": "嗨der哥儿",
+        "pinned_tweet_id": "1369952543401373696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984210103747371008/NA5meWGO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951,
+          "following_count": 1514,
+          "like_count": 144504,
+          "listed_count": 11,
+          "media_count": 16750,
+          "tweet_count": 33586
+        },
+        "url": "https://t.co/vUauL618rk",
+        "username": "9bi6ix44XjEO57d",
+        "verified": false
+      }
+    ]
+  }
+}

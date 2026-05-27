@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1840742256573387081",
+    "created_at": "2024-10-02T00:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T01:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841275441694523841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841275441694523841",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840742256573387081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 我勒个赛博包浆啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1840742256573387081",
+        "created_at": "2024-10-02T00:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T01:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841275441694523841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841275441694523841",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840742256573387081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 我勒个赛博包浆啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840742254467801088"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1840742256573387081",
+        "created_at": "2024-09-30T13:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T14:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840742256573387081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wyc77upTgA",
+              "end": 29,
+              "expanded_url": "https://x.com/hsn8086/status/1840742256573387081/photo/1",
+              "media_key": "3_1840742254467801088",
+              "start": 6,
+              "url": "https://t.co/wyc77upTgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840742256573387081",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 82498,
+          "like_count": 922,
+          "quote_count": 11,
+          "reply_count": 64,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "突然想起( https://t.co/wyc77upTgA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "Into Nothing.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/acnekot",
+                "end": 23,
+                "expanded_url": "https://bonjour.bio/acnekot",
+                "start": 0,
+                "url": "https://t.co/dihqxxtjTA"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 345,
+          "like_count": 38404,
+          "listed_count": 5,
+          "tweet_count": 7841
+        },
+        "url": "https://t.co/dihqxxtjTA",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn!",
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1766387926320214177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707161507161944064/DD0pRpE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3558,
+          "following_count": 867,
+          "like_count": 35568,
+          "listed_count": 10,
+          "tweet_count": 5554
+        },
+        "username": "hsn8086",
+        "verified": false
+      }
+    ]
+  }
+}

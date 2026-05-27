@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1842512984935170102",
+    "created_at": "2024-10-07T01:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-07T02:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843101240257036460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1596509000438161408",
+          "start": 0,
+          "username": "LancerKoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843101240257036460",
+    "in_reply_to_user_id": "1596509000438161408",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842512984935170102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LancerKoi 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1842512984935170102",
+        "created_at": "2024-10-07T01:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T02:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843101240257036460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1596509000438161408",
+              "start": 0,
+              "username": "LancerKoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843101240257036460",
+        "in_reply_to_user_id": "1596509000438161408",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842512984935170102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LancerKoi 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1842512891435757568"
+          ]
+        },
+        "author_id": "1596509000438161408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "1842512984935170102",
+        "created_at": "2024-10-05T10:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T11:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842512984935170102"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "Windows11"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SVp04MdObS",
+              "end": 38,
+              "expanded_url": "https://x.com/LancerKoi/status/1842512984935170102/photo/1",
+              "media_key": "3_1842512891435757568",
+              "start": 15,
+              "url": "https://t.co/SVp04MdObS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842512984935170102",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 208,
+          "impression_count": 25597,
+          "like_count": 1607,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 234
+        },
+        "reply_settings": "everyone",
+        "text": "#Windows11-tan https://t.co/SVp04MdObS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "Into Nothing.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/acnekot",
+                "end": 23,
+                "expanded_url": "https://bonjour.bio/acnekot",
+                "start": 0,
+                "url": "https://t.co/dihqxxtjTA"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 347,
+          "like_count": 38749,
+          "listed_count": 5,
+          "tweet_count": 7886
+        },
+        "url": "https://t.co/dihqxxtjTA",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T14:20:00.000Z",
+        "description": "♠Youtube：https://t.co/unmrR4c3Un\n♥Commission：https://t.co/QN4kayuNUz\n♣Discord：https://t.co/X7CuXL0qz1\n♦禁止转载到中国的任何平台\n🇺🇦🏳️‍🌈🏳️‍⚧️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@LancerKoi",
+                "end": 32,
+                "expanded_url": "https://www.youtube.com/@LancerKoi",
+                "start": 9,
+                "url": "https://t.co/unmrR4c3Un"
+              },
+              {
+                "display_url": "ko-fi.com/lancerkoi",
+                "end": 68,
+                "expanded_url": "http://ko-fi.com/lancerkoi",
+                "start": 45,
+                "url": "https://t.co/QN4kayuNUz"
+              },
+              {
+                "display_url": "discord.com/invite/QN4MSty…",
+                "end": 101,
+                "expanded_url": "http://discord.com/invite/QN4MStyW6k",
+                "start": 78,
+                "url": "https://t.co/X7CuXL0qz1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/LancerKoi",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/LancerKoi",
+                "start": 0,
+                "url": "https://t.co/8h2RXyfnYG"
+              }
+            ]
+          }
+        },
+        "id": "1596509000438161408",
+        "location": "Rivendell",
+        "name": "LancerKoi🍀",
+        "pinned_tweet_id": "1842512984935170102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794073273350885376/6RmRr-rT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11335,
+          "following_count": 333,
+          "like_count": 12816,
+          "listed_count": 37,
+          "tweet_count": 5453
+        },
+        "url": "https://t.co/8h2RXyfnYG",
+        "username": "LancerKoi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2040400440941228487",
+    "created_at": "2026-04-05T07:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T08:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040686100549865742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1778850117933838337",
+          "start": 0,
+          "username": "TBduyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040686100549865742",
+    "in_reply_to_user_id": "1778850117933838337",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040400440941228487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TBduyu 难绷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 660,
+        "media_key": "3_2040400437782974464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFD1Yz2bEAA5Uda.jpg",
+        "width": 1055
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2040400438475083776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFD1Y2bb0AAOuXd.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2040400440941228487",
+        "created_at": "2026-04-05T07:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T08:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040686100549865742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1778850117933838337",
+              "start": 0,
+              "username": "TBduyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040686100549865742",
+        "in_reply_to_user_id": "1778850117933838337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040400440941228487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TBduyu 难绷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040400437782974464",
+            "3_2040400438475083776"
+          ]
+        },
+        "author_id": "1778850117933838337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040400440941228487",
+        "created_at": "2026-04-04T12:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T13:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040400440941228487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dbcq1uyYDB",
+              "end": 23,
+              "expanded_url": "https://x.com/TBduyu/status/2040400440941228487/photo/1",
+              "media_key": "3_2040400437782974464",
+              "start": 0,
+              "url": "https://t.co/dbcq1uyYDB"
+            },
+            {
+              "display_url": "pic.x.com/dbcq1uyYDB",
+              "end": 23,
+              "expanded_url": "https://x.com/TBduyu/status/2040400440941228487/photo/1",
+              "media_key": "3_2040400438475083776",
+              "start": 0,
+              "url": "https://t.co/dbcq1uyYDB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040400440941228487",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 26373,
+          "like_count": 1171,
+          "quote_count": 7,
+          "reply_count": 6,
+          "retweet_count": 203
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dbcq1uyYDB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n小窝只过熟人和互关\n回fo只回面熟\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 103,
+                "username": "nanno_64"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "距离你1.5KM",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1977,
+          "following_count": 789,
+          "like_count": 89042,
+          "listed_count": 6,
+          "media_count": 3368,
+          "tweet_count": 15040
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-12T18:19:16.000Z",
+        "description": "高一小孩，苦逼文科生。喜欢kobaryo、かめりあ、USAO等TANO*C曲师\nArcaea ptt 12.61//maimai 13.5k//音游淡坑中，总有一天会回来的\n  目前：在学英语，在学画画（画毛茸茸\n           良师益友@aoim33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 122,
+                "username": "aoim33"
+              }
+            ]
+          }
+        },
+        "id": "1778850117933838337",
+        "name": "tabiame",
+        "pinned_tweet_id": "2037948007283646915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012595656427507712/hYb59Egh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 1691,
+          "like_count": 11401,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 980
+        },
+        "username": "TBduyu",
+        "verified": false
+      }
+    ]
+  }
+}

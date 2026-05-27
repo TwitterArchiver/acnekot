@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055972187740528640"
+      ],
+      "media_source_tweet_id": [
+        "2055986439477952942"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056342154256277698",
+    "created_at": "2026-05-18T11:52:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T12:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056342154256277698"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 35,
+          "tag": "BloomPhone3"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1076418654353281026",
+          "start": 3,
+          "username": "souworks4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CXfK7HmrNe",
+          "end": 71,
+          "expanded_url": "https://x.com/souworks4/status/2055986439477952942/video/1",
+          "media_key": "13_2055972187740528640",
+          "start": 48,
+          "url": "https://t.co/CXfK7HmrNe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056342154256277698",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 371
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055986439477952942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @souworks4: 掴んで着脱できるストラップを作りました\n#BloomPhone3 https://t.co/CXfK7HmrNe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34833,
+        "height": 1080,
+        "media_key": "13_2055972187740528640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055972187740528640/img/6VmhyIgnRIDKCIjm.jpg",
+        "public_metrics": {
+          "view_count": 37356
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055972187740528640/vid/avc1/720x720/g9HWXwdsmIge0e53.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055972187740528640/pl/EfESmNp8tDwn-Z6o.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055972187740528640/vid/avc1/320x320/RvHlz80VbQeTjtpy.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055972187740528640/vid/avc1/1080x1080/vLCzyYhvh3QQNDYG.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055972187740528640/vid/avc1/540x540/Cuzpey5jUyb6raAs.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055972187740528640"
+          ],
+          "media_source_tweet_id": [
+            "2055986439477952942"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056342154256277698",
+        "created_at": "2026-05-18T11:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056342154256277698"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 35,
+              "tag": "BloomPhone3"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1076418654353281026",
+              "start": 3,
+              "username": "souworks4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CXfK7HmrNe",
+              "end": 71,
+              "expanded_url": "https://x.com/souworks4/status/2055986439477952942/video/1",
+              "media_key": "13_2055972187740528640",
+              "start": 48,
+              "url": "https://t.co/CXfK7HmrNe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056342154256277698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 371
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055986439477952942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @souworks4: 掴んで着脱できるストラップを作りました\n#BloomPhone3 https://t.co/CXfK7HmrNe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055972187740528640"
+          ]
+        },
+        "author_id": "1076418654353281026",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055986439477952942",
+        "created_at": "2026-05-17T12:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055986439477952942"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 20,
+              "tag": "BloomPhone3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CXfK7HmrNe",
+              "end": 56,
+              "expanded_url": "https://x.com/souworks4/status/2055986439477952942/video/1",
+              "media_key": "13_2055972187740528640",
+              "start": 33,
+              "url": "https://t.co/CXfK7HmrNe"
+            },
+            {
+              "display_url": "x.com/souworks4/stat…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/souworks4/status/2035697340183629928",
+              "start": 57,
+              "url": "https://t.co/1X1xOT4MqH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055986439477952942",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 857,
+          "impression_count": 152565,
+          "like_count": 2579,
+          "quote_count": 19,
+          "reply_count": 0,
+          "retweet_count": 371
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035697340183629928",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "掴んで着脱できるストラップを作りました\n#BloomPhone3 https://t.co/CXfK7HmrNe https://t.co/1X1xOT4MqH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 126,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 103,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2401,
+          "following_count": 795,
+          "like_count": 92281,
+          "listed_count": 7,
+          "media_count": 3861,
+          "tweet_count": 16378
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-22T10:06:20.000Z",
+        "description": "3Dモデラー / VRと音楽が好きです。\nBOOTH : https://t.co/iDo7SC1g7c #SouWorks\n生活 : @seikatu",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 62,
+                "start": 53,
+                "tag": "SouWorks"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 68,
+                "username": "seikatu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sou-works.booth.pm",
+                "end": 52,
+                "expanded_url": "https://sou-works.booth.pm/",
+                "start": 29,
+                "url": "https://t.co/iDo7SC1g7c"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/souworks",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/souworks",
+                "start": 0,
+                "url": "https://t.co/JZ3YjjDDzQ"
+              }
+            ]
+          }
+        },
+        "id": "1076418654353281026",
+        "name": "sou",
+        "pinned_tweet_id": "1898710107401166954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1537334478800302080/m_D8HZl3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5244,
+          "following_count": 898,
+          "like_count": 13798,
+          "listed_count": 65,
+          "media_count": 256,
+          "tweet_count": 560
+        },
+        "url": "https://t.co/JZ3YjjDDzQ",
+        "username": "souworks4",
+        "verified": true
+      }
+    ]
+  }
+}

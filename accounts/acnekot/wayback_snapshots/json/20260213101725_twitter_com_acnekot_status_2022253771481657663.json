@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022196318786252801",
+        "3_2022196318782074883"
+      ],
+      "media_source_tweet_id": [
+        "2022196329796280403",
+        "2022196329796280403"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2022253771481657663",
+    "created_at": "2026-02-13T10:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T11:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022253771481657663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1426015810472972298",
+          "start": 3,
+          "username": "414E4E4F"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0fMI3raSCs",
+          "end": 46,
+          "expanded_url": "https://x.com/414E4E4F/status/2022196329796280403/photo/1",
+          "media_key": "3_2022196318786252801",
+          "start": 23,
+          "url": "https://t.co/0fMI3raSCs"
+        },
+        {
+          "display_url": "pic.x.com/0fMI3raSCs",
+          "end": 46,
+          "expanded_url": "https://x.com/414E4E4F/status/2022196329796280403/photo/1",
+          "media_key": "3_2022196318782074883",
+          "start": 23,
+          "url": "https://t.co/0fMI3raSCs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022253771481657663",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022196329796280403",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @414E4E4F: 不抽byt了…… https://t.co/0fMI3raSCs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022196318786252801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBBI1n9bcAEPj2k.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022196318782074883",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBBI1n8bsAMmLe2.jpg",
+        "width": 2047
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022196318786252801",
+            "3_2022196318782074883"
+          ],
+          "media_source_tweet_id": [
+            "2022196329796280403",
+            "2022196329796280403"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2022253771481657663",
+        "created_at": "2026-02-13T10:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T11:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022253771481657663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1426015810472972298",
+              "start": 3,
+              "username": "414E4E4F"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0fMI3raSCs",
+              "end": 46,
+              "expanded_url": "https://x.com/414E4E4F/status/2022196329796280403/photo/1",
+              "media_key": "3_2022196318786252801",
+              "start": 23,
+              "url": "https://t.co/0fMI3raSCs"
+            },
+            {
+              "display_url": "pic.x.com/0fMI3raSCs",
+              "end": 46,
+              "expanded_url": "https://x.com/414E4E4F/status/2022196329796280403/photo/1",
+              "media_key": "3_2022196318782074883",
+              "start": 23,
+              "url": "https://t.co/0fMI3raSCs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022253771481657663",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022196329796280403",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @414E4E4F: 不抽byt了…… https://t.co/0fMI3raSCs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022196318786252801",
+            "3_2022196318782074883"
+          ]
+        },
+        "author_id": "1426015810472972298",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2022196329796280403",
+        "created_at": "2026-02-13T06:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T07:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022196329796280403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0fMI3raSCs",
+              "end": 32,
+              "expanded_url": "https://x.com/414E4E4F/status/2022196329796280403/photo/1",
+              "media_key": "3_2022196318786252801",
+              "start": 9,
+              "url": "https://t.co/0fMI3raSCs"
+            },
+            {
+              "display_url": "pic.x.com/0fMI3raSCs",
+              "end": 32,
+              "expanded_url": "https://x.com/414E4E4F/status/2022196329796280403/photo/1",
+              "media_key": "3_2022196318782074883",
+              "start": 9,
+              "url": "https://t.co/0fMI3raSCs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022196329796280403",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不抽byt了…… https://t.co/0fMI3raSCs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語 以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 757,
+          "like_count": 77993,
+          "listed_count": 6,
+          "media_count": 2602,
+          "tweet_count": 12058
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "雑多 | 撮影 | ﾅﾁｮ､fbk推し | ガジェット | アークナイツ(大陸情報あり)/音ゲー/チュウマイ | AI返信、政治内容 NG",
+        "id": "1426015810472972298",
+        "name": "アノ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018905216373149696/jrDIg_H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1764,
+          "following_count": 886,
+          "like_count": 173568,
+          "listed_count": 4,
+          "media_count": 4466,
+          "tweet_count": 18836
+        },
+        "username": "414E4E4F",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2000033547642675514",
+    "created_at": "2025-12-15T00:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T01:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000366917354504650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "4110021",
+          "start": 0,
+          "username": "xinzhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000366917354504650",
+    "in_reply_to_user_id": "4110021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000033547642675514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinzhi 真的不会全部翻出来吗，如果是奶茶之类的饮品"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15466,
+        "height": 1152,
+        "media_key": "13_1999738754991628288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1999738754991628288/img/MGXB6SaRM_-Y54ol.jpg",
+        "public_metrics": {
+          "view_count": 186932
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999738754991628288/vid/avc1/320x512/wPYjKx_sLnNx7O4N.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999738754991628288/vid/avc1/480x768/aXqhJxH0X-F6pJeo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999738754991628288/vid/avc1/720x1152/JXpK6h98m4BMymdf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1999738754991628288/pl/-3Pm89dprmSgfst5.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2000033547642675514",
+        "created_at": "2025-12-15T00:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T01:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000366917354504650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4110021",
+              "start": 0,
+              "username": "xinzhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000366917354504650",
+        "in_reply_to_user_id": "4110021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000033547642675514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinzhi 真的不会全部翻出来吗，如果是奶茶之类的饮品"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1999738754991628288"
+          ],
+          "media_source_tweet_id": [
+            "1999738820640817655"
+          ]
+        },
+        "author_id": "4110021",
+        "conversation_id": "2000033547642675514",
+        "created_at": "2025-12-14T02:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T03:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000033547642675514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rm0bybxuFx",
+              "end": 92,
+              "expanded_url": "https://x.com/zhongwen2005/status/1999738820640817655/video/1",
+              "media_key": "13_1999738754991628288",
+              "start": 69,
+              "url": "https://t.co/Rm0bybxuFx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000033547642675514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 293012,
+          "like_count": 330,
+          "quote_count": 1,
+          "reply_count": 61,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "嘿兄弟，咱先不说你这身行头送多少单回本，你这是送 1 单，至少赔 3 单的节奏啊，什么包装能经得起这样上下摇晃三千次，只能送点糖炒栗子。 https://t.co/Rm0bybxuFx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明\nSignal:nanno64",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PS09"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999088067693654016/sMoxaqQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 500,
+          "like_count": 53564,
+          "listed_count": 5,
+          "media_count": 1947,
+          "tweet_count": 9098
+        },
+        "url": "https://t.co/raYZh1PS09",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2007-04-11T02:24:57.000Z",
+        "description": "#vibecoding w/ https://t.co/QWYRvPOcLl\n\nPeep my vibe-coded projects:\nhttps://t.co/fqrNvOTIUM",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 0,
+                "tag": "vibecoding"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "chatbene.com",
+                "end": 38,
+                "expanded_url": "https://chatbene.com",
+                "start": 15,
+                "url": "https://t.co/QWYRvPOcLl"
+              },
+              {
+                "display_url": "x.com/xinzhi/bio",
+                "end": 92,
+                "expanded_url": "https://x.com/xinzhi/bio",
+                "start": 69,
+                "url": "https://t.co/fqrNvOTIUM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@xinzhiX",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@xinzhiX",
+                "start": 0,
+                "url": "https://t.co/6OH9uZjpyR"
+              }
+            ]
+          }
+        },
+        "id": "4110021",
+        "location": "xxz.cc",
+        "name": "xinzhi",
+        "pinned_tweet_id": "1996082637266714943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912876745574981632/FxXLZaBi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8518,
+          "following_count": 209,
+          "like_count": 11990,
+          "listed_count": 111,
+          "media_count": 2570,
+          "tweet_count": 11294
+        },
+        "url": "https://t.co/6OH9uZjpyR",
+        "username": "xinzhi",
+        "verified": false
+      }
+    ]
+  }
+}

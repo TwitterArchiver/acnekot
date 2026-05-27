@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2023205784545562625"
+      ],
+      "media_source_tweet_id": [
+        "2023205804413739499"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2023250026085089592",
+    "created_at": "2026-02-16T04:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T05:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023250026085089592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1161380924229115907",
+          "start": 3,
+          "username": "DqKeita"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PxZlHbrjWj",
+          "end": 36,
+          "expanded_url": "https://x.com/DqKeita/status/2023205804413739499/video/1",
+          "media_key": "7_2023205784545562625",
+          "start": 13,
+          "url": "https://t.co/PxZlHbrjWj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023250026085089592",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023205804413739499",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DqKeita: https://t.co/PxZlHbrjWj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15743,
+        "height": 1024,
+        "media_key": "7_2023205784545562625",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2023205784545562625/pu/img/apF3QpquhcihJdGo.jpg",
+        "public_metrics": {
+          "view_count": 4598
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023205784545562625/pu/vid/avc1/320x568/oDglmj3QIHim6WTb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023205784545562625/pu/vid/avc1/480x852/ZCv8NPUOrRtGpZnJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023205784545562625/pu/vid/avc1/576x1024/4NfgPZhIRWGhRN_0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2023205784545562625/pu/pl/z-9BZXE7So4hU742.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2023205784545562625"
+          ],
+          "media_source_tweet_id": [
+            "2023205804413739499"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2023250026085089592",
+        "created_at": "2026-02-16T04:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T05:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023250026085089592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1161380924229115907",
+              "start": 3,
+              "username": "DqKeita"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PxZlHbrjWj",
+              "end": 36,
+              "expanded_url": "https://x.com/DqKeita/status/2023205804413739499/video/1",
+              "media_key": "7_2023205784545562625",
+              "start": 13,
+              "url": "https://t.co/PxZlHbrjWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023250026085089592",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023205804413739499",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DqKeita: https://t.co/PxZlHbrjWj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2023205784545562625"
+          ]
+        },
+        "author_id": "1161380924229115907",
+        "conversation_id": "2023205804413739499",
+        "created_at": "2026-02-16T01:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T02:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023205804413739499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PxZlHbrjWj",
+              "end": 23,
+              "expanded_url": "https://x.com/DqKeita/status/2023205804413739499/video/1",
+              "media_key": "7_2023205784545562625",
+              "start": 0,
+              "url": "https://t.co/PxZlHbrjWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023205804413739499",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 12380,
+          "like_count": 658,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PxZlHbrjWj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語 以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 765,
+          "like_count": 78786,
+          "listed_count": 6,
+          "media_count": 2640,
+          "tweet_count": 12207
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-13T20:56:04.000Z",
+        "description": "ฅ(• ɪ •)HoyoCC Official✦\n🔴https://t.co/P7WTpRLTbU |\n🟣https://t.co/7VpRaPi6Fc |\n\n✉️Keitaro@amg.gg\n\n Enlace de descuento▶️https://t.co/zKrZk1Mnrd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KeitaroTR",
+                "end": 49,
+                "expanded_url": "http://youtube.com/@KeitaroTR",
+                "start": 26,
+                "url": "https://t.co/P7WTpRLTbU"
+              },
+              {
+                "display_url": "twitch.tv/keitarotr",
+                "end": 76,
+                "expanded_url": "http://twitch.tv/keitarotr",
+                "start": 53,
+                "url": "https://t.co/7VpRaPi6Fc"
+              },
+              {
+                "display_url": "ene.ba/Keitaro",
+                "end": 143,
+                "expanded_url": "https://ene.ba/Keitaro",
+                "start": 120,
+                "url": "https://t.co/zKrZk1Mnrd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/KeitaroTR",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/KeitaroTR",
+                "start": 0,
+                "url": "https://t.co/DMU2wxMt2e"
+              }
+            ]
+          }
+        },
+        "id": "1161380924229115907",
+        "location": "Comunidad Valenciana, España",
+        "name": "Keitaro",
+        "pinned_tweet_id": "2018402494221537629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975233561494986753/2jbdzKAM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64692,
+          "following_count": 2623,
+          "like_count": 194313,
+          "listed_count": 86,
+          "media_count": 16608,
+          "tweet_count": 50356
+        },
+        "url": "https://t.co/DMU2wxMt2e",
+        "username": "DqKeita",
+        "verified": true
+      }
+    ]
+  }
+}

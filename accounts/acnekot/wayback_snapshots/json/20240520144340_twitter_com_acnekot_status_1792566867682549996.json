@@ -1,0 +1,197 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1792309432971591968",
+    "created_at": "2024-05-20T14:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-20T15:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792566867682549996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1718745049213849600",
+          "start": 0,
+          "username": "7eaFwi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792566867682549996",
+    "in_reply_to_user_id": "1718745049213849600",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792309432971591968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7eaFwi 可爱w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1792309432971591968",
+        "created_at": "2024-05-20T14:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T15:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792566867682549996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1718745049213849600",
+              "start": 0,
+              "username": "7eaFwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792566867682549996",
+        "in_reply_to_user_id": "1718745049213849600",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792309432971591968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7eaFwi 可爱w"
+      },
+      {
+        "attachments": {},
+        "author_id": "1718745049213849600",
+        "conversation_id": "1792309432971591968",
+        "created_at": "2024-05-19T21:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T22:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792309432971591968"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1792309432971591968",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 11036,
+          "like_count": 256,
+          "quote_count": 1,
+          "reply_count": 48,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "今天也魔女大人很可爱的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "我已然丢失自我",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "A'CID",
+        "pinned_tweet_id": "1774830360578384099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 319,
+          "like_count": 34040,
+          "listed_count": 5,
+          "tweet_count": 7268
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-29T21:42:12.000Z",
+        "description": "魔女🥀, 3D写真  (NOT V/TUBER, NOT V/RChat), 音楽NG⚠, その他雑多やBMSプレイ記録など,\nメインアカウント：@7eaF\n一般用タグ：#leafbms\n自撮り用： #leafbga\nモデル：@Sourxuan939\nデザイン：@toconiwa1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 93,
+                "start": 85,
+                "tag": "leafbms"
+              },
+              {
+                "end": 108,
+                "start": 100,
+                "tag": "leafbga"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 78,
+                "start": 73,
+                "username": "7eaF"
+              },
+              {
+                "end": 125,
+                "start": 113,
+                "username": "Sourxuan939"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "toconiwa1"
+              }
+            ]
+          }
+        },
+        "id": "1718745049213849600",
+        "name": "LeaF2",
+        "pinned_tweet_id": "1792330905786437714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719313620063109120/PtWqGh_J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15031,
+          "following_count": 422,
+          "like_count": 8712,
+          "listed_count": 13,
+          "tweet_count": 10788
+        },
+        "username": "7eaFwi",
+        "verified": false
+      }
+    ]
+  }
+}

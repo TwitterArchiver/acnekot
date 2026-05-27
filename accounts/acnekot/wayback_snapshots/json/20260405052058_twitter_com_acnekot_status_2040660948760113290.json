@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2040660948760113290",
+    "created_at": "2026-04-05T05:20:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T06:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040660948760113290"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 126,
+          "start": 120,
+          "tag": "超かぐや姫"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1975006867245207553",
+          "start": 3,
+          "username": "Cho_KaguyaHime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040660948760113290",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6200
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040353682928312364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cho_KaguyaHime: .˚⊹／\n みんなで繋げてハッピーエンド！\n 繋がる「Reply」動画公開📱\n.˚⊹＼\n\n縦型MV3種を公式SNSで公開中！\n\nスマホ3台で同時に再生して\n「Reply」MVを再現してみてね📱📱📱\n\n#超かぐや姫 #CosmicPrinc…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23552,
+        "height": 1080,
+        "media_key": "13_2040345595962081281",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040345595962081281/img/trnw0MX4uKbbBTpE.jpg",
+        "public_metrics": {
+          "view_count": 316810
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040345595962081281/vid/avc1/640x360/fgLPnu94K2hgGhsp.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040345595962081281/vid/avc1/1920x1080/l3dxk456_3vHcbms.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040345595962081281/pl/kU-zUOXxQ2-9kB0r.m3u8?v=6c5"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040345595962081281/vid/avc1/480x270/5LOcKDgUHpeSLNfl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040345595962081281/vid/avc1/1280x720/11PAWPC7BhUp5OCj.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2040660948760113290",
+        "created_at": "2026-04-05T05:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T06:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040660948760113290"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 126,
+              "start": 120,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1975006867245207553",
+              "start": 3,
+              "username": "Cho_KaguyaHime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040660948760113290",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6200
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040353682928312364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cho_KaguyaHime: .˚⊹／\n みんなで繋げてハッピーエンド！\n 繋がる「Reply」動画公開📱\n.˚⊹＼\n\n縦型MV3種を公式SNSで公開中！\n\nスマホ3台で同時に再生して\n「Reply」MVを再現してみてね📱📱📱\n\n#超かぐや姫 #CosmicPrinc…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040345595962081281"
+          ]
+        },
+        "author_id": "1975006867245207553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2040353682928312364",
+        "created_at": "2026-04-04T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040353682928312364"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 100,
+              "tag": "超かぐや姫"
+            },
+            {
+              "end": 128,
+              "start": 107,
+              "tag": "CosmicPrincessKaguya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kLuvS6bh5L",
+              "end": 152,
+              "expanded_url": "https://x.com/Cho_KaguyaHime/status/2040353682928312364/video/1",
+              "media_key": "13_2040345595962081281",
+              "start": 129,
+              "url": "https://t.co/kLuvS6bh5L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040353682928312364",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3074,
+          "impression_count": 1050093,
+          "like_count": 33354,
+          "quote_count": 450,
+          "reply_count": 138,
+          "retweet_count": 6200
+        },
+        "reply_settings": "everyone",
+        "text": ".˚⊹／\n みんなで繋げてハッピーエンド！\n 繋がる「Reply」動画公開📱\n.˚⊹＼\n\n縦型MV3種を公式SNSで公開中！\n\nスマホ3台で同時に再生して\n「Reply」MVを再現してみてね📱📱📱\n\n#超かぐや姫 #CosmicPrincessKaguya https://t.co/kLuvS6bh5L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n小窝只过熟人和互关\n回fo只回面熟\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 103,
+                "username": "nanno_64"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "距离你1.5KM",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1977,
+          "following_count": 789,
+          "like_count": 88995,
+          "listed_count": 6,
+          "media_count": 3364,
+          "tweet_count": 15030
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-06T01:15:46.000Z",
+        "description": "アニメ映画『超かぐや姫！』公式／大ヒット上映中🐰／Netflixにて世界独占配信中🌕／監督：山下清悟 × 楽曲提供：豪華ボカロP陣／新時代の音楽アニメーションプロジェクト、開幕！／©コロリド・ツインエンジンパートナーズ／ #超かぐや姫 #CosmicPrincessKaguya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 111,
+                "tag": "超かぐや姫"
+              },
+              {
+                "end": 139,
+                "start": 118,
+                "tag": "CosmicPrincessKaguya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cho-kaguyahime.com",
+                "end": 23,
+                "expanded_url": "https://www.cho-kaguyahime.com/",
+                "start": 0,
+                "url": "https://t.co/ODAIRUfpA3"
+              }
+            ]
+          }
+        },
+        "id": "1975006867245207553",
+        "location": "仮想空間＜ツクヨミ＞",
+        "name": "『超かぐや姫！』公式",
+        "pinned_tweet_id": "2037137499173380211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986041262919860224/4yjhTSK__normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390905,
+          "following_count": 27,
+          "like_count": 469,
+          "listed_count": 479,
+          "media_count": 490,
+          "tweet_count": 1368
+        },
+        "url": "https://t.co/ODAIRUfpA3",
+        "username": "Cho_KaguyaHime",
+        "verified": true
+      }
+    ]
+  }
+}

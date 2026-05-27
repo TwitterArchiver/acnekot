@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1892421223042150676",
+    "created_at": "2025-02-20T04:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T05:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892436727697899745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1507065882211610625",
+          "start": 0,
+          "username": "neko_murasame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892436727697899745",
+    "in_reply_to_user_id": "1507065882211610625",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892421223042150676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neko_murasame ayzc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1892421223042150676",
+        "created_at": "2025-02-20T04:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T05:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892436727697899745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1507065882211610625",
+              "start": 0,
+              "username": "neko_murasame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892436727697899745",
+        "in_reply_to_user_id": "1507065882211610625",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892421223042150676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko_murasame ayzc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507065882211610625",
+        "conversation_id": "1892421223042150676",
+        "created_at": "2025-02-20T03:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T04:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892421223042150676"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892421223042150676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我平常发帖和回复都没什么人理，一旦发表了柚子厨言论就有一堆人来骂柚子厨蒸鹅心\n懂了你们都是傲娇😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "生活就像海洋，只有意志坚强的人才能到达彼岸\n人生は海のようなものだ。意志の強い人間のみが対岸にたどり着ける\nThis is an apple, i like apples,apples are good for our health.",
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871051316312895489/MYVorhms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 395,
+          "like_count": 41809,
+          "listed_count": 3,
+          "media_count": 1813,
+          "tweet_count": 8432
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-24T18:44:51.000Z",
+        "description": "一般路过丛雨厨\nCiallo～(∠・ω小于号 )⌒☆",
+        "id": "1507065882211610625",
+        "location": "穂織",
+        "name": "ムラサメ",
+        "pinned_tweet_id": "1655992742366035969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1507066156435210242/sYRVckL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 385,
+          "like_count": 5157,
+          "listed_count": 2,
+          "media_count": 354,
+          "tweet_count": 3723
+        },
+        "username": "neko_murasame",
+        "verified": false
+      }
+    ]
+  }
+}

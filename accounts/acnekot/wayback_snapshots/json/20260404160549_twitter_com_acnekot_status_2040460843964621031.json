@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2040446687630750092",
+    "created_at": "2026-04-04T16:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T17:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040460843964621031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "827530328017297413",
+          "start": 0,
+          "username": "ArKiro_Sakuma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040460843964621031",
+    "in_reply_to_user_id": "827530328017297413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040446687630750092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArKiro_Sakuma 上传没那么快"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2040446687630750092",
+        "created_at": "2026-04-04T16:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T17:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040460843964621031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "827530328017297413",
+              "start": 0,
+              "username": "ArKiro_Sakuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040460843964621031",
+        "in_reply_to_user_id": "827530328017297413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040446687630750092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArKiro_Sakuma 上传没那么快"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "827530328017297413",
+        "conversation_id": "2040446687630750092",
+        "created_at": "2026-04-04T15:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T16:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040446687630750092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/acnekot/status…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/acnekot/status/2040279025705464153",
+              "start": 21,
+              "url": "https://t.co/sQWI915Y8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040446687630750092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040279025705464153",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "改模10分钟，上传20分钟，上线10秒钟 https://t.co/sQWI915Y8Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n小窝只过熟人和互关\n回fo只回面熟\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 103,
+                "username": "nanno_64"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "距离你1.5KM",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1980,
+          "following_count": 789,
+          "like_count": 88915,
+          "listed_count": 6,
+          "media_count": 3354,
+          "tweet_count": 15010
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-03T14:52:59.000Z",
+        "description": "【NSFW/SFW/🔞/🇨🇳/CN:100％,EN:90％,JP:20％】VRCHAT/Precure/idolmaster/rockman(megaman)/Mecha anime/",
+        "id": "827530328017297413",
+        "location": "广东, 中华人民共和国",
+        "name": "S△KuM△_△rkir0@VRC隠居中🎀👼🏻💙🔞",
+        "pinned_tweet_id": "2008522538192957590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000075031414816768/BuAVJ_On_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 2478,
+          "like_count": 175585,
+          "listed_count": 17,
+          "media_count": 5490,
+          "tweet_count": 141195
+        },
+        "username": "ArKiro_Sakuma",
+        "verified": false
+      }
+    ]
+  }
+}

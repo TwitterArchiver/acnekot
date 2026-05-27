@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2033599565706993935",
+    "created_at": "2026-03-17T01:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T02:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033711076429467930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1489034449199190017",
+          "start": 0,
+          "username": "Pigeon_Luo"
+        },
+        {
+          "end": 21,
+          "id": "1683218035602255872",
+          "start": 12,
+          "username": "jlxc2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033711076429467930",
+    "in_reply_to_user_id": "1489034449199190017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033599565706993935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pigeon_Luo @jlxc2001 好奇问一下你们公司还有人类吗（害怕"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10942,
+        "height": 720,
+        "media_key": "7_2033599509780172802",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2033599509780172802/pu/img/ZF6PlmP2Doegpfk2.jpg",
+        "public_metrics": {
+          "view_count": 69
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2033599509780172802/pu/vid/avc1/480x270/vuy0VqyjKQVvW3S0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2033599509780172802/pu/vid/avc1/640x360/ajIsrnC8Ee5Q3JHZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2033599509780172802/pu/vid/avc1/1280x720/HPu6Oisu2Nsg9toC.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2033599509780172802/pu/pl/64zAAwqhNfPwtKGv.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "alt_text": "一堆绳子",
+        "height": 1440,
+        "media_key": "3_2033599511147470848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDjL-x1aYAA9WXO.jpg",
+        "width": 1080
+      },
+      {
+        "alt_text": "哈基米音乐",
+        "height": 1538,
+        "media_key": "3_2033599512883957761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDjL-4TbEAE6GaB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2033599565706993935",
+        "created_at": "2026-03-17T01:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T02:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033711076429467930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1489034449199190017",
+              "start": 0,
+              "username": "Pigeon_Luo"
+            },
+            {
+              "end": 21,
+              "id": "1683218035602255872",
+              "start": 12,
+              "username": "jlxc2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033711076429467930",
+        "in_reply_to_user_id": "1489034449199190017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033599565706993935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pigeon_Luo @jlxc2001 好奇问一下你们公司还有人类吗（害怕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2033599509780172802",
+            "3_2033599511147470848",
+            "3_2033599512883957761"
+          ]
+        },
+        "author_id": "1489034449199190017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033599565706993935",
+        "created_at": "2026-03-16T17:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T18:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033599565706993935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1683218035602255872",
+              "start": 2,
+              "username": "jlxc2001"
+            },
+            {
+              "end": 45,
+              "id": "1683218035602255872",
+              "start": 36,
+              "username": "jlxc2001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SHEgolDYKg",
+              "end": 107,
+              "expanded_url": "https://x.com/Pigeon_Luo/status/2033599565706993935/video/1",
+              "media_key": "7_2033599509780172802",
+              "start": 84,
+              "url": "https://t.co/SHEgolDYKg"
+            },
+            {
+              "display_url": "pic.x.com/SHEgolDYKg",
+              "end": 107,
+              "expanded_url": "https://x.com/Pigeon_Luo/status/2033599565706993935/video/1",
+              "media_key": "3_2033599511147470848",
+              "start": 84,
+              "url": "https://t.co/SHEgolDYKg"
+            },
+            {
+              "display_url": "pic.x.com/SHEgolDYKg",
+              "end": 107,
+              "expanded_url": "https://x.com/Pigeon_Luo/status/2033599565706993935/video/1",
+              "media_key": "3_2033599512883957761",
+              "start": 84,
+              "url": "https://t.co/SHEgolDYKg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033599565706993935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老板@jlxc2001说要搞个公司文化展示墙\n我的评价是展示什么\n是展示@jlxc2001的神人哈基米音乐\n还是展示你助理的绳子技术\n公司内外充满了快活的笑声.JPG https://t.co/SHEgolDYKg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度｜好丽友派:@wxb_NB\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好｜同类互关请私信）\n猫喜欢搬点梗图给大伙看看（炫耀\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\nあなたと繋いだ　それが浮遊感",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "wxb_NB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "t.me/memenekos",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1695,
+          "following_count": 782,
+          "like_count": 85446,
+          "listed_count": 6,
+          "media_count": 3076,
+          "tweet_count": 14057
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-03T00:34:26.000Z",
+        "description": "摄影/紧缚/HAM/数码P\n\n成分复杂人\n\n暂时（？）是@jlxc2001的助理（目移）\n\n电台：BD4WSR，算是有很多奇奇怪怪的兴趣，现居南京/深圳\n\n墙内QQ：2557191749\n\nEN/CN：OK\n日本语学习中（）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "jlxc2001"
+              }
+            ]
+          }
+        },
+        "id": "1489034449199190017",
+        "location": "深圳/上海/南京/香港/你心里",
+        "name": "青空",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624302496905830400/dSYbbHpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 254,
+          "like_count": 4031,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 859
+        },
+        "username": "Pigeon_Luo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n工作室在深圳喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7wSN1"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12707,
+          "following_count": 151,
+          "like_count": 387,
+          "listed_count": 28,
+          "media_count": 697,
+          "tweet_count": 1744
+        },
+        "url": "https://t.co/pIA1Q7wSN1",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1825830503771156513",
+    "created_at": "2024-08-20T09:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-20T10:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825830503771156513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1725336655069159425",
+          "start": 3,
+          "username": "_glaciel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825830503771156513",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825781067774841250",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_glaciel: 求救\n\nRuby正在一个完全陌生的环境里……外界联系很快就要切断了，现在需要临时的安全去处……\n求求大家了，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1825830503771156513",
+        "created_at": "2024-08-20T09:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T10:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825830503771156513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1725336655069159425",
+              "start": 3,
+              "username": "_glaciel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825830503771156513",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825781067774841250",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_glaciel: 求救\n\nRuby正在一个完全陌生的环境里……外界联系很快就要切断了，现在需要临时的安全去处……\n求求大家了，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725336655069159425",
+        "conversation_id": "1825781067774841250",
+        "created_at": "2024-08-20T06:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T07:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825781067774841250"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1825781067774841250",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求救\n\nRuby正在一个完全陌生的环境里……外界联系很快就要切断了，现在需要临时的安全去处……\n求求大家了，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "真理就是没真理",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 329,
+          "like_count": 36357,
+          "listed_count": 5,
+          "tweet_count": 7566
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T02:15:07.000Z",
+        "description": "又是被揥的一天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "uhio.uk",
+                "end": 23,
+                "expanded_url": "http://uhio.uk",
+                "start": 0,
+                "url": "https://t.co/Dq7QiXo4C9"
+              }
+            ]
+          }
+        },
+        "id": "1725336655069159425",
+        "location": "喜欢任何人（是的，你）",
+        "name": "蚆蛒",
+        "pinned_tweet_id": "1758594500191289627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809447265045737472/MqGWAPB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 177,
+          "like_count": 62,
+          "listed_count": 1,
+          "tweet_count": 2093
+        },
+        "url": "https://t.co/Dq7QiXo4C9",
+        "username": "_glaciel",
+        "verified": false
+      }
+    ]
+  }
+}

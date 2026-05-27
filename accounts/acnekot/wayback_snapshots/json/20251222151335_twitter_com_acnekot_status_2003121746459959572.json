@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2003067433268240649",
+    "created_at": "2025-12-22T15:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T16:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003121746459959572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1076436831200206848",
+          "start": 0,
+          "username": "annaxtime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003121746459959572",
+    "in_reply_to_user_id": "1076436831200206848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003067433268240649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@annaxtime 好酷"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32599,
+        "height": 1920,
+        "media_key": "13_2003067330658746369",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2003067330658746369/img/mKxIrpJQBVaBVAQg.jpg",
+        "public_metrics": {
+          "view_count": 481
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003067330658746369/vid/avc1/320x568/DgDwSor1k5zWF7kc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003067330658746369/vid/avc1/720x1280/5YErdukctb5UC56x.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003067330658746369/vid/avc1/480x852/mWzjeQJZnUSloBV2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2003067330658746369/pl/ifwkOFDIItX5B1c8.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003067330658746369/vid/avc1/1080x1920/4JjQfEFpWUZb_xZq.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2003067433268240649",
+        "created_at": "2025-12-22T15:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T16:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003121746459959572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1076436831200206848",
+              "start": 0,
+              "username": "annaxtime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003121746459959572",
+        "in_reply_to_user_id": "1076436831200206848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003067433268240649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@annaxtime 好酷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2003067330658746369"
+          ]
+        },
+        "author_id": "1076436831200206848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "2003067433268240649",
+        "created_at": "2025-12-22T11:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T12:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003067433268240649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LPRTzED2MX",
+              "end": 110,
+              "expanded_url": "https://x.com/annaxtime/status/2003067433268240649/video/1",
+              "media_key": "13_2003067330658746369",
+              "start": 87,
+              "url": "https://t.co/LPRTzED2MX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003067433268240649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1056,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现这台安卓手机最 PC 的场景竟然是玩 Java 版本的 Minecraft：装个 Zalith 启动器，支持微软账户登录、mod 、服务器联机。全键盘触摸板相性意外地好 https://t.co/LPRTzED2MX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明\nSignal:nanno64",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PS09"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999088067693654016/sMoxaqQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 528,
+          "like_count": 58545,
+          "listed_count": 5,
+          "media_count": 2019,
+          "tweet_count": 9395
+        },
+        "url": "https://t.co/raYZh1PS09",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-22T11:18:34.000Z",
+        "description": "the fool with @_galaxyxxxxx | \n一帆风顺是我们乐观的希望与祝福。 事与愿违是我们默默接受的常态。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "_galaxyxxxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tonoko.moe",
+                "end": 23,
+                "expanded_url": "http://tonoko.moe",
+                "start": 0,
+                "url": "https://t.co/5khWWOWZrL"
+              }
+            ]
+          }
+        },
+        "id": "1076436831200206848",
+        "location": "哪里逃",
+        "name": "春",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583794226256498688/pZTFiylI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2268,
+          "following_count": 1120,
+          "like_count": 149098,
+          "listed_count": 15,
+          "media_count": 2621,
+          "tweet_count": 12064
+        },
+        "url": "https://t.co/5khWWOWZrL",
+        "username": "annaxtime",
+        "verified": false
+      }
+    ]
+  }
+}

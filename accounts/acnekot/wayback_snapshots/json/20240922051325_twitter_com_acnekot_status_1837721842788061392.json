@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1837405156780208279",
+    "created_at": "2024-09-22T05:13:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T06:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837721842788061392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1661440582051577858",
+          "start": 0,
+          "username": "Subanxia960Hu"
+        },
+        {
+          "end": 27,
+          "id": "1675529366334480386",
+          "start": 15,
+          "username": "hu_fufu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837721842788061392",
+    "in_reply_to_user_id": "1661440582051577858",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837405156780208279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Subanxia960Hu @hu_fufu8964 👀"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1837405156780208279].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1837405156780208279",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1837405156780208279"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1837405156780208279",
+        "created_at": "2024-09-22T05:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T06:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837721842788061392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1661440582051577858",
+              "start": 0,
+              "username": "Subanxia960Hu"
+            },
+            {
+              "end": 27,
+              "id": "1675529366334480386",
+              "start": 15,
+              "username": "hu_fufu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837721842788061392",
+        "in_reply_to_user_id": "1661440582051577858",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837405156780208279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Subanxia960Hu @hu_fufu8964 👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "Break.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "177404.xyz",
+                "end": 23,
+                "expanded_url": "http://177404.xyz",
+                "start": 0,
+                "url": "https://t.co/Jk6nRkHp3d"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 333,
+          "like_count": 37392,
+          "listed_count": 5,
+          "tweet_count": 7724
+        },
+        "url": "https://t.co/Jk6nRkHp3d",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T18:34:52.000Z",
+        "description": "友跨/在留头发/姐姐@aotfa_atme",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "aotfa_atme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Google.com",
+                "end": 23,
+                "expanded_url": "http://Google.com",
+                "start": 0,
+                "url": "https://t.co/VAF315runo"
+              }
+            ]
+          }
+        },
+        "id": "1661440582051577858",
+        "location": "你的怀里^v^",
+        "name": "fufu hu",
+        "pinned_tweet_id": "1748970990120603763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758514028798959616/elrUQ7VK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 816,
+          "like_count": 83611,
+          "listed_count": 5,
+          "tweet_count": 10722
+        },
+        "url": "https://t.co/VAF315runo",
+        "username": "Subanxia960Hu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-02T15:38:39.000Z",
+        "description": "全推最笨的fufuhu堂堂归来！\n姐姐@aotfa_atme",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "aotfa_atme"
+              }
+            ]
+          }
+        },
+        "id": "1675529366334480386",
+        "name": "fufuhu",
+        "pinned_tweet_id": "1738075943724601540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722996114973233152/Q9PR-gp2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 573,
+          "like_count": 25369,
+          "listed_count": 3,
+          "tweet_count": 3641
+        },
+        "username": "hu_fufu8964",
+        "verified": false
+      }
+    ]
+  }
+}

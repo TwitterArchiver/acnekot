@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1837449179804942666",
+    "created_at": "2024-09-21T19:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T20:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837569151847801074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1413448007362650115",
+          "start": 0,
+          "username": "Yayoi_no_yume"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837569151847801074",
+    "in_reply_to_user_id": "1413448007362650115",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837449179804942666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yayoi_no_yume 底线过于高了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1837449179804942666",
+        "created_at": "2024-09-21T19:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T20:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837569151847801074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1413448007362650115",
+              "start": 0,
+              "username": "Yayoi_no_yume"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837569151847801074",
+        "in_reply_to_user_id": "1413448007362650115",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837449179804942666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yayoi_no_yume 底线过于高了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837449176952852486"
+          ]
+        },
+        "author_id": "1413448007362650115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1837449179804942666",
+        "created_at": "2024-09-21T11:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T12:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837449179804942666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mnvd7mccgf",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Yayoi_no_yume/status/1837449179804942666/photo/1",
+              "media_key": "3_1837449176952852486",
+              "start": 13,
+              "url": "https://t.co/mNvd7mCCGF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837449179804942666",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2187,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "找不到财富的原因是什么？ https://t.co/mNvd7mCCGF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "Break.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "177404.xyz",
+                "end": 23,
+                "expanded_url": "http://177404.xyz",
+                "start": 0,
+                "url": "https://t.co/Jk6nRkHp3d"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 332,
+          "like_count": 37387,
+          "listed_count": 5,
+          "tweet_count": 7721
+        },
+        "url": "https://t.co/Jk6nRkHp3d",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-09T10:40:52.000Z",
+        "description": "KISARAGIノ桜🌸/普通人/写真家📸/◂Ⓘ▸电吉他手🎸/🖌️绘画/文字📖/🥇Learn in public/LLM应用🔍/和开发者做朋友☀️/“🤖e/acc🚀”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yayoi.ongridea.com",
+                "end": 23,
+                "expanded_url": "http://yayoi.ongridea.com",
+                "start": 0,
+                "url": "https://t.co/lHGm1cMNpc"
+              }
+            ]
+          }
+        },
+        "id": "1413448007362650115",
+        "location": "朝焼の涙、青空の色、夕日の風、夜の月と星",
+        "name": "◂Ⓘ▸YAYOI の 夢",
+        "pinned_tweet_id": "1831715765239886211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809385908367683586/s9EPXXml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3061,
+          "following_count": 2767,
+          "like_count": 10492,
+          "listed_count": 21,
+          "tweet_count": 18537
+        },
+        "url": "https://t.co/lHGm1cMNpc",
+        "username": "Yayoi_no_yume",
+        "verified": false
+      }
+    ]
+  }
+}

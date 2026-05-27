@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2021797088305328174",
+    "created_at": "2026-02-12T04:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T05:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021798318075269494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "943439286287851520",
+          "start": 0,
+          "username": "KaguraSakuraba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021798318075269494",
+    "in_reply_to_user_id": "943439286287851520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021797088305328174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaguraSakuraba 其实感觉这两个NFC支付区别最大的是无感，这个还真就是和二维码差不多，传统的好像都是类似于模拟卡片"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021797085130240001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA7dvKsbsAE-WVZ.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021797085323079680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA7dvLaaMAA1I5u.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021797085432229889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA7dvL0bsAEY5bF.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2021797088305328174",
+        "created_at": "2026-02-12T04:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T05:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021798318075269494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "943439286287851520",
+              "start": 0,
+              "username": "KaguraSakuraba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021798318075269494",
+        "in_reply_to_user_id": "943439286287851520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021797088305328174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaguraSakuraba 其实感觉这两个NFC支付区别最大的是无感，这个还真就是和二维码差不多，传统的好像都是类似于模拟卡片"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021797085130240001",
+            "3_2021797085323079680",
+            "3_2021797085432229889"
+          ]
+        },
+        "author_id": "943439286287851520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1631721404969230349",
+              "name": "GooglePay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2021797088305328174",
+        "created_at": "2026-02-12T04:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T05:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021797088305328174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MygQfFzpSs",
+              "end": 176,
+              "expanded_url": "https://x.com/KaguraSakuraba/status/2021797088305328174/photo/1",
+              "media_key": "3_2021797085130240001",
+              "start": 153,
+              "url": "https://t.co/MygQfFzpSs"
+            },
+            {
+              "display_url": "pic.x.com/MygQfFzpSs",
+              "end": 176,
+              "expanded_url": "https://x.com/KaguraSakuraba/status/2021797088305328174/photo/1",
+              "media_key": "3_2021797085323079680",
+              "start": 153,
+              "url": "https://t.co/MygQfFzpSs"
+            },
+            {
+              "display_url": "pic.x.com/MygQfFzpSs",
+              "end": 176,
+              "expanded_url": "https://x.com/KaguraSakuraba/status/2021797088305328174/photo/1",
+              "media_key": "3_2021797085432229889",
+              "start": 153,
+              "url": "https://t.co/MygQfFzpSs"
+            },
+            {
+              "display_url": "x.com/HXD3D_8028/sta…",
+              "end": 200,
+              "expanded_url": "https://twitter.com/HXD3D_8028/status/2021771253573701995",
+              "start": 177,
+              "url": "https://t.co/8E8aFnLzFa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021797088305328174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021771253573701995",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你这种话术就是典型的吴京战狼\n什么叫外国人搞NFC就是好中国人搞就是不好 我是说支付宝NFC技术上和扫码没区别 你就非说我崇洋媚外\n那你意思和所谓外国技术一样的各地NFC交通卡 银行卡也是崇洋媚外？\n一看就是真典型的没用过Apple Pay Google Pay还有国内厂商的各家Pay才能说出这样子的话 https://t.co/MygQfFzpSs https://t.co/8E8aFnLzFa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語 以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 755,
+          "like_count": 77381,
+          "listed_count": 6,
+          "media_count": 2583,
+          "tweet_count": 11948
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-20T11:13:48.000Z",
+        "description": "最爱的天气是雨天 最喜欢的人是你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kagurazakasenba.com",
+                "end": 23,
+                "expanded_url": "https://www.kagurazakasenba.com",
+                "start": 0,
+                "url": "https://t.co/fpPhelVgHW"
+              }
+            ]
+          }
+        },
+        "id": "943439286287851520",
+        "location": "Hong Kong SAR",
+        "name": "💮神楽坂　桜葉🌸🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2021654722722308439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864885438613458948/CrYxyfg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3144,
+          "following_count": 5609,
+          "like_count": 105370,
+          "listed_count": 8,
+          "media_count": 2253,
+          "tweet_count": 31027
+        },
+        "url": "https://t.co/fpPhelVgHW",
+        "username": "KaguraSakuraba",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,501 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021964423523639297"
+      ],
+      "media_source_tweet_id": [
+        "2021964438442766664"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      }
+    ],
+    "conversation_id": "2022209649567830318",
+    "created_at": "2026-02-13T07:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T08:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022209649567830318"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "Mac",
+          "probability": 0.3886,
+          "start": 26,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1313922359028518913",
+          "start": 3,
+          "username": "dev_maims"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sSvCCEcXQn",
+          "end": 74,
+          "expanded_url": "https://x.com/dev_maims/status/2021964438442766664/photo/1",
+          "media_key": "3_2021964423523639297",
+          "start": 51,
+          "url": "https://t.co/sSvCCEcXQn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022209649567830318",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2812
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021964438442766664",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dev_maims: Good news! Mac now supports windows https://t.co/sSvCCEcXQn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 516,
+        "media_key": "3_2021964423523639297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA917iyaoAEvx0p.jpg",
+        "width": 668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021964423523639297"
+          ],
+          "media_source_tweet_id": [
+            "2021964438442766664"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2022209649567830318",
+        "created_at": "2026-02-13T07:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T08:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022209649567830318"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "Mac",
+              "probability": 0.3886,
+              "start": 26,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1313922359028518913",
+              "start": 3,
+              "username": "dev_maims"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sSvCCEcXQn",
+              "end": 74,
+              "expanded_url": "https://x.com/dev_maims/status/2021964438442766664/photo/1",
+              "media_key": "3_2021964423523639297",
+              "start": 51,
+              "url": "https://t.co/sSvCCEcXQn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022209649567830318",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2812
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021964438442766664",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dev_maims: Good news! Mac now supports windows https://t.co/sSvCCEcXQn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021964423523639297"
+          ]
+        },
+        "author_id": "1313922359028518913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2021964438442766664",
+        "created_at": "2026-02-12T15:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T16:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021964438442766664"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "Mac",
+              "probability": 0.4698,
+              "start": 11,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sSvCCEcXQn",
+              "end": 59,
+              "expanded_url": "https://x.com/dev_maims/status/2021964438442766664/photo/1",
+              "media_key": "3_2021964423523639297",
+              "start": 36,
+              "url": "https://t.co/sSvCCEcXQn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021964438442766664",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 627,
+          "impression_count": 309589,
+          "like_count": 15924,
+          "quote_count": 120,
+          "reply_count": 192,
+          "retweet_count": 2812
+        },
+        "reply_settings": "everyone",
+        "text": "Good news! Mac now supports windows https://t.co/sSvCCEcXQn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語 以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 757,
+          "like_count": 77865,
+          "listed_count": 6,
+          "media_count": 2599,
+          "tweet_count": 12037
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-07T19:21:43.000Z",
+        "description": "From code 💻 to creativity 🎨\njust a girl named maimoon, designing her dreams ❤️.\n\nui/ux || web developer || cozy aesthetics",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/maimoon_isah?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/maimoon_isah?igsh=MXVqOTVsYmJnNzY3aw==",
+                "start": 0,
+                "url": "https://t.co/li9wwPEc3u"
+              }
+            ]
+          }
+        },
+        "id": "1313922359028518913",
+        "location": "Lost in my world",
+        "name": "Coder girl 👩‍💻",
+        "pinned_tweet_id": "1997279851712270623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715692540421120000/dimtn-uT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49352,
+          "following_count": 308,
+          "like_count": 42883,
+          "listed_count": 89,
+          "media_count": 619,
+          "tweet_count": 12523
+        },
+        "url": "https://t.co/li9wwPEc3u",
+        "username": "dev_maims",
+        "verified": true
+      }
+    ]
+  }
+}

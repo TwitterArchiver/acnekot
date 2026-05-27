@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2001150780146098176"
+      ],
+      "media_source_tweet_id": [
+        "2001152166208397525"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2001153642083299458",
+    "created_at": "2025-12-17T04:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T05:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001153642083299458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "713405573706829825",
+          "start": 3,
+          "username": "daily197"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p4yLvaG80U",
+          "end": 48,
+          "expanded_url": "https://x.com/daily197/status/2001152166208397525/video/1",
+          "media_key": "13_2001150780146098176",
+          "start": 25,
+          "url": "https://t.co/p4yLvaG80U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001153642083299458",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001152166208397525",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @daily197: 寂寞的人唱着伤心的歌 https://t.co/p4yLvaG80U"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21698,
+        "height": 2160,
+        "media_key": "13_2001150780146098176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2001150780146098176/img/pmyN6iTodmD-bHeq.jpg",
+        "public_metrics": {
+          "view_count": 7
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001150780146098176/vid/avc1/480x270/QEdxZC6b2xcBPHVU.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001150780146098176/vid/avc1/640x360/7gCqBINWLbU8-AmZ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2001150780146098176/vid/avc1/1280x720/zQHAqFdxMqTXd6j2.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2001150780146098176/pl/0AQCPgnSwAZhV4Nw.m3u8?tag=14"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001150780146098176"
+          ],
+          "media_source_tweet_id": [
+            "2001152166208397525"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2001153642083299458",
+        "created_at": "2025-12-17T04:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T05:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001153642083299458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "713405573706829825",
+              "start": 3,
+              "username": "daily197"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p4yLvaG80U",
+              "end": 48,
+              "expanded_url": "https://x.com/daily197/status/2001152166208397525/video/1",
+              "media_key": "13_2001150780146098176",
+              "start": 25,
+              "url": "https://t.co/p4yLvaG80U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001153642083299458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001152166208397525",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @daily197: 寂寞的人唱着伤心的歌 https://t.co/p4yLvaG80U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2001150780146098176"
+          ]
+        },
+        "author_id": "713405573706829825",
+        "conversation_id": "2001152166208397525",
+        "created_at": "2025-12-17T04:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T05:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001152166208397525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p4yLvaG80U",
+              "end": 34,
+              "expanded_url": "https://x.com/daily197/status/2001152166208397525/video/1",
+              "media_key": "13_2001150780146098176",
+              "start": 11,
+              "url": "https://t.co/p4yLvaG80U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001152166208397525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "寂寞的人唱着伤心的歌 https://t.co/p4yLvaG80U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明\nSignal:nanno64",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PS09"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999088067693654016/sMoxaqQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 510,
+          "like_count": 55763,
+          "listed_count": 5,
+          "media_count": 1990,
+          "tweet_count": 9253
+        },
+        "url": "https://t.co/raYZh1PS09",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-25T16:41:58.000Z",
+        "description": "DTM | DJ | Furry \nContact:DM / julaoguai@foxmail.com 1Hz Music Official website:https://t.co/pzmgZ0cYD2 \n祝謹守的那些許美好一切如常，願所有不忍與不堪有天止於無常。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "1hz-music.fun",
+                "end": 103,
+                "expanded_url": "http://1hz-music.fun",
+                "start": 80,
+                "url": "https://t.co/pzmgZ0cYD2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "soundcloud.com/ovjffjrm6bqb",
+                "end": 23,
+                "expanded_url": "https://soundcloud.com/ovjffjrm6bqb",
+                "start": 0,
+                "url": "https://t.co/dTOUQSleg1"
+              }
+            ]
+          }
+        },
+        "id": "713405573706829825",
+        "location": "Meltyland",
+        "name": "Daily天利 / DJ夜鹭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907106187608543232/d-t36yoO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20577,
+          "following_count": 939,
+          "like_count": 31215,
+          "listed_count": 46,
+          "media_count": 1444,
+          "tweet_count": 9632
+        },
+        "url": "https://t.co/dTOUQSleg1",
+        "username": "daily197",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1955553329653993795",
+    "created_at": "2025-08-13T09:04:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T10:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955556116206907806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1820902594396774400",
+          "start": 0,
+          "username": "ziyaoawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955556116206907806",
+    "in_reply_to_user_id": "1820902594396774400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955553329653993795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ziyaoawa 这是大力出奇迹了？？？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1955553329653993795].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1955553329653993795",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1955553329653993795"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1955553329653993795",
+        "created_at": "2025-08-13T09:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T10:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955556116206907806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1820902594396774400",
+              "start": 0,
+              "username": "ziyaoawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955556116206907806",
+        "in_reply_to_user_id": "1820902594396774400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955553329653993795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ziyaoawa 这是大力出奇迹了？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "观察着…你和我\n阶段性活跃",
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951630874212216832/FPXU5pLq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 432,
+          "like_count": 42849,
+          "listed_count": 3,
+          "media_count": 1847,
+          "tweet_count": 8564
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T19:20:15.000Z",
+        "description": "永远的小杂鱼@Alxiaz_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "Alxiaz_"
+              }
+            ]
+          }
+        },
+        "id": "1820902594396774400",
+        "name": "285288233uffjkoufdssssddd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884130766118084613/injKbUqZ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 286,
+          "like_count": 5297,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 2920
+        },
+        "username": "ziyaoawa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1813469434474066003",
+    "created_at": "2024-07-18T05:30:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-18T06:30:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813808663527895551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "777873380703817728",
+          "start": 0,
+          "username": "ahang997"
+        },
+        {
+          "end": 18,
+          "id": "741127492614950913",
+          "start": 10,
+          "username": "Lakr233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813808663527895551",
+    "in_reply_to_user_id": "777873380703817728",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813488948808937634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ahang997 @Lakr233 录音应该是巨魔录音机，就这个作者的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1813469434474066003",
+        "created_at": "2024-07-18T05:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T06:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813808663527895551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "777873380703817728",
+              "start": 0,
+              "username": "ahang997"
+            },
+            {
+              "end": 18,
+              "id": "741127492614950913",
+              "start": 10,
+              "username": "Lakr233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813808663527895551",
+        "in_reply_to_user_id": "777873380703817728",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813488948808937634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ahang997 @Lakr233 录音应该是巨魔录音机，就这个作者的"
+      },
+      {
+        "attachments": {},
+        "author_id": "777873380703817728",
+        "conversation_id": "1813469434474066003",
+        "created_at": "2024-07-17T08:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T09:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813488948808937634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "741127492614950913",
+              "start": 0,
+              "username": "Lakr233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813488948808937634",
+        "in_reply_to_user_id": "741127492614950913",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 480,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813469434474066003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lakr233 怎么录音/转录的啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "真理就是没真理",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "酸·好奇猫a",
+        "pinned_tweet_id": "1774830360578384099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 323,
+          "like_count": 34437,
+          "listed_count": 5,
+          "tweet_count": 7354
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-19T14:14:00.000Z",
+        "description": "",
+        "id": "777873380703817728",
+        "name": "yuhn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761922585473019904/RQ-YJz3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 104,
+          "like_count": 3793,
+          "listed_count": 0,
+          "tweet_count": 355
+        },
+        "username": "ahang997",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-10T04:38:58.000Z",
+        "description": "一路上的曲折，翻页也忘了。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qaq.wiki",
+                "end": 23,
+                "expanded_url": "https://qaq.wiki",
+                "start": 0,
+                "url": "https://t.co/FIGSbdf6qu"
+              }
+            ]
+          }
+        },
+        "id": "741127492614950913",
+        "location": "!?(･_･;? 天方夜谭.spaceCraft",
+        "name": "ᏞᎪᏦᏒ.标准件厂长",
+        "pinned_tweet_id": "1772126321440674274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732413897356013568/oIH9M2M8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22969,
+          "following_count": 288,
+          "like_count": 41454,
+          "listed_count": 143,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/FIGSbdf6qu",
+        "username": "Lakr233",
+        "verified": false
+      }
+    ]
+  }
+}

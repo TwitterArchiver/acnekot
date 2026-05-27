@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1288826829634035714",
+          "name": "Backstage"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1288826829634035714",
+          "name": "Backstage"
+        }
+      }
+    ],
+    "conversation_id": "2019701679030170035",
+    "created_at": "2026-02-06T09:16:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T10:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019701679030170035"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "the EmpErroR",
+          "probability": 0.7578,
+          "start": 19,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "84625899",
+          "start": 3,
+          "username": "sasakure__UK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019701679030170035",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5880
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019018239809028431",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sasakure__UK: 『the EmpErroR』―1000万再生到達。\n本当に、有り難う御座います。\n\nインストゥルメンタルという\n言葉を持たない音楽が、\nこんなにも多くの者の耳に届き、\n幾千の指先で奏でられ、\n幾万の心に刻まれたこと。\n作曲家として、これ以上の…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2019017406753222656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAT9olzbMAAE0MN.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          }
+        ],
+        "conversation_id": "2019701679030170035",
+        "created_at": "2026-02-06T09:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T10:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019701679030170035"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "the EmpErroR",
+              "probability": 0.7578,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "84625899",
+              "start": 3,
+              "username": "sasakure__UK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019701679030170035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5880
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019018239809028431",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sasakure__UK: 『the EmpErroR』―1000万再生到達。\n本当に、有り難う御座います。\n\nインストゥルメンタルという\n言葉を持たない音楽が、\nこんなにも多くの者の耳に届き、\n幾千の指先で奏でられ、\n幾万の心に刻まれたこと。\n作曲家として、これ以上の…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019017406753222656"
+          ]
+        },
+        "author_id": "84625899",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          }
+        ],
+        "conversation_id": "2019018239809028431",
+        "created_at": "2026-02-04T12:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T13:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019018239809028431"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "the EmpErroR",
+              "probability": 0.7931,
+              "start": 1,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/scDJZ1j1bo",
+              "end": 160,
+              "expanded_url": "https://x.com/sasakure__UK/status/2019018239809028431/photo/1",
+              "media_key": "3_2019017406753222656",
+              "start": 137,
+              "url": "https://t.co/scDJZ1j1bo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019018239809028431",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "『the EmpErroR』―1000万再生到達。\n本当に、有り難う御座います。\n\nインストゥルメンタルという\n言葉を持たない音楽が、\nこんなにも多くの者の耳に届き、\n幾千の指先で奏でられ、\n幾万の心に刻まれたこと。\n作曲家として、これ以上の歓喜はありません。\n\n―全ては\nmaimaiから始まったパンドラの電子鼓動が、\nゲキ！チュウマイの共鳴を経て、\nセカイの赫々たる光に照らされ、\nフルバージョンで完全体と為り、\nそして…今なお脈打っている。\n\nこの曲が、\nこのthe EmpErroRが、\n貴方たちと共にあるから…\n\n僕は……！\n\n僕は……！！\n\nt h e  E m p E r r o R 歌 い ま す \n\nｼﾞｭﾋﾟｰｷｭﾙｭﾃﾞｭｰｰ\nｴｯ↑ｴｯ↑ｴｯ↑ｴｯ↑ｴｯ↑ｴｯ↑ｴｯ↑ｴｯ↑wwww\nﾏｲ醤油PayPay二元論\nﾏｲDefense ｽｳｨﾝｽｳｨﾝ グッバイｾｯww\nI 世間 天然 二元論 ｾﾝｷｭｰ Let be 二元論\nﾏｲ時間みんな臭いよww\nI 世間 天然s ﾊﾟｲｾﾝ\nｹﾞｪｪｪｪｪｪ↑↑↑www\nアッアッアッアッ ﾚｲｯw\nアッアッアッアッ ﾚｲｯw\nアッアッアッアッ ﾚｲｯw\nアッアッアアアアアアアアwww\n\n尊尊尊尊ｫｯ↑ｵ⤵︎ｵ⤵︎ ︎wwwww\n尊尊尊尊 ﾄﾄﾄﾄwwwww\n尊尊尊尊ｫｯ↑ｵ⤵︎ ︎ｵ⤵︎ ︎wwwww\n尊尊尊尊 ﾄﾄﾄﾄwwwww\n尊尊尊尊ｫｯ↑ｵ⤵︎ ︎ｵ⤵︎ ︎wwwww\n尊尊尊尊 ﾄﾄﾄﾄwwwww"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3168,
+          "impression_count": 954555,
+          "like_count": 35170,
+          "quote_count": 540,
+          "reply_count": 103,
+          "retweet_count": 5880
+        },
+        "reply_settings": "everyone",
+        "text": "『the EmpErroR』―1000万再生到達。\n本当に、有り難う御座います。\n\nインストゥルメンタルという\n言葉を持たない音楽が、\nこんなにも多くの者の耳に届き、\n幾千の指先で奏でられ、\n幾万の心に刻まれたこと。\n作曲家として、これ以上の歓喜はありません。\n\n―全ては https://t.co/scDJZ1j1bo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語 以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 734,
+          "like_count": 75874,
+          "listed_count": 6,
+          "media_count": 2541,
+          "tweet_count": 11678
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2009-10-23T16:06:14.000Z",
+        "description": "Music Composer／有形ランペイジ\n@UKRampage_info\n▼Youtube https://t.co/qanjCAcQQF\n▼niconico https://t.co/iiVSZJaMoI \n◆contact https://t.co/KYtx88ht9v",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "UKRampage_info"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/c/sasakureUK02…",
+                "end": 71,
+                "expanded_url": "http://youtube.com/c/sasakureUK0211",
+                "start": 48,
+                "url": "https://t.co/qanjCAcQQF"
+              },
+              {
+                "display_url": "nicovideo.jp/mylist/6280579",
+                "end": 105,
+                "expanded_url": "http://nicovideo.jp/mylist/6280579",
+                "start": 82,
+                "url": "https://t.co/iiVSZJaMoI"
+              },
+              {
+                "display_url": "x.gd/hcZzV",
+                "end": 139,
+                "expanded_url": "https://x.gd/hcZzV",
+                "start": 116,
+                "url": "https://t.co/KYtx88ht9v"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sasakuration.com",
+                "end": 23,
+                "expanded_url": "https://www.sasakuration.com/",
+                "start": 0,
+                "url": "https://t.co/sG4aEuLqzF"
+              }
+            ]
+          }
+        },
+        "id": "84625899",
+        "location": "???",
+        "name": "sasakure.UK",
+        "pinned_tweet_id": "2002660530193117280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907670150192766976/-aCTpAtl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290278,
+          "following_count": 1125,
+          "like_count": 8521,
+          "listed_count": 2706,
+          "media_count": 4518,
+          "tweet_count": 30883
+        },
+        "url": "https://t.co/sG4aEuLqzF",
+        "username": "sasakure__UK",
+        "verified": true
+      }
+    ]
+  }
+}

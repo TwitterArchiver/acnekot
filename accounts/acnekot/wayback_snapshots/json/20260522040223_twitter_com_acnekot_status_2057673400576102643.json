@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057673328241082368"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2057414001764737474",
+    "created_at": "2026-05-22T04:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T05:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057673400576102643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1319578357395156993",
+          "start": 0,
+          "username": "yoshino_2333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5k1LvUmKte",
+          "end": 62,
+          "expanded_url": "https://x.com/acnekot/status/2057673400576102643/photo/1",
+          "media_key": "3_2057673328241082368",
+          "start": 39,
+          "url": "https://t.co/5k1LvUmKte"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057673400576102643",
+    "in_reply_to_user_id": "1319578357395156993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057414001764737474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoshino_2333 当时的生图纯抽卡，生成几十张可能才有一张勉强能看 https://t.co/5k1LvUmKte"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 564,
+        "media_key": "3_2057673328241082368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5S_XGbAAARA1_.png",
+        "width": 357
+      },
+      {
+        "height": 768,
+        "media_key": "3_2057413799112736768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1m8xwaAAAI6qn.png",
+        "width": 512
+      },
+      {
+        "height": 768,
+        "media_key": "3_2057413837822017536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1m_B9awAA_V14.png",
+        "width": 512
+      },
+      {
+        "height": 768,
+        "media_key": "3_2057413900220645376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1nCqaaQAAv-Ro.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057673328241082368"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057414001764737474",
+        "created_at": "2026-05-22T04:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T05:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057673400576102643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1319578357395156993",
+              "start": 0,
+              "username": "yoshino_2333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5k1LvUmKte",
+              "end": 62,
+              "expanded_url": "https://x.com/acnekot/status/2057673400576102643/photo/1",
+              "media_key": "3_2057673328241082368",
+              "start": 39,
+              "url": "https://t.co/5k1LvUmKte"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057673400576102643",
+        "in_reply_to_user_id": "1319578357395156993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057414001764737474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoshino_2333 当时的生图纯抽卡，生成几十张可能才有一张勉强能看 https://t.co/5k1LvUmKte"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057413799112736768",
+            "3_2057413837822017536",
+            "3_2057413900220645376"
+          ]
+        },
+        "author_id": "1319578357395156993",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "2057414001764737474",
+        "created_at": "2026-05-21T10:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:51:15.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057413910966472953",
+          "2057414001764737474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TbMW6GVKs4",
+              "end": 80,
+              "expanded_url": "https://x.com/yoshino_2333/status/2057414001764737474/photo/1",
+              "media_key": "3_2057413799112736768",
+              "start": 57,
+              "url": "https://t.co/TbMW6GVKs4"
+            },
+            {
+              "display_url": "pic.x.com/TbMW6GVKs4",
+              "end": 80,
+              "expanded_url": "https://x.com/yoshino_2333/status/2057414001764737474/photo/1",
+              "media_key": "3_2057413837822017536",
+              "start": 57,
+              "url": "https://t.co/TbMW6GVKs4"
+            },
+            {
+              "display_url": "pic.x.com/TbMW6GVKs4",
+              "end": 80,
+              "expanded_url": "https://x.com/yoshino_2333/status/2057414001764737474/photo/1",
+              "media_key": "3_2057413900220645376",
+              "start": 57,
+              "url": "https://t.co/TbMW6GVKs4"
+            },
+            {
+              "display_url": "x.com/FascinatingAno…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/FascinatingAnon/status/2057410189041775020",
+              "start": 81,
+              "url": "https://t.co/HAc3SsR61z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057414001764737474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 8732,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057410189041775020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想起来 2022.10，NovelAI 模型泄露，全网都在玩的那段时间（）\n\n跟现在的比确实差到不知道 哪里去了 https://t.co/TbMW6GVKs4 https://t.co/HAc3SsR61z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 126,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 103,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2421,
+          "following_count": 795,
+          "like_count": 92537,
+          "listed_count": 7,
+          "media_count": 3883,
+          "tweet_count": 16468
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "希望成为一个有趣、独特的人 | Frontend/ReactNative Developer | AI 拉屎督察官 | Tweets in EN/CN | 逃生舱 @roitium\n\n「I love the world and everything in it.」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "roitium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98SA9U"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "location": "你的电脑",
+        "name": "Yoshino233",
+        "pinned_tweet_id": "2030998636159730141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054927495800242176/hHfS_LO-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1784,
+          "following_count": 665,
+          "like_count": 16299,
+          "listed_count": 5,
+          "media_count": 591,
+          "tweet_count": 11640
+        },
+        "url": "https://t.co/z8BZ98SA9U",
+        "username": "yoshino_2333",
+        "verified": true
+      }
+    ]
+  }
+}

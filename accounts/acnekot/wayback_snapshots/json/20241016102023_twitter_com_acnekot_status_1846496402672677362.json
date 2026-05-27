@@ -1,0 +1,134 @@
+{
+  "data": {
+    "author_id": "1552213521253150720",
+    "conversation_id": "1823402557588607124",
+    "created_at": "2024-10-16T10:20:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-16T11:20:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1846496402672677362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1645395488982839296",
+          "start": 0,
+          "username": "Lemmon_OuO"
+        }
+      ]
+    },
+    "id": "1846496402672677362",
+    "in_reply_to_user_id": "1645395488982839296",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 14,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1846496171747139858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lemmon_OuO 在学的就是C语言）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1552213521253150720",
+        "conversation_id": "1823402557588607124",
+        "created_at": "2024-10-16T10:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-16T11:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1846496402672677362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1645395488982839296",
+              "start": 0,
+              "username": "Lemmon_OuO"
+            }
+          ]
+        },
+        "id": "1846496402672677362",
+        "in_reply_to_user_id": "1645395488982839296",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846496171747139858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lemmon_OuO 在学的就是C语言）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "No Found.",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1862093014916829610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862099364564619264/OdsT12zw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 368,
+          "like_count": 39891,
+          "listed_count": 3,
+          "media_count": 1731,
+          "tweet_count": 8072
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-10T11:57:20.000Z",
+        "description": "🇫🇮🇮🇸🇸🇪🇳🇴🇩🇰丨✝｜爱要无假，恶要厌恶丨社民丨ENFJ丨INFP专家丨顺直丨天文&数理爱好者丨治愈向文案写作丨欢迎光临｜如果某句话能让你开心就关注一下吧！决不让followers失望",
+        "id": "1645395488982839296",
+        "location": "相思路",
+        "name": "天国的柠檬🍋",
+        "pinned_tweet_id": "1864343081925136862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762005155564990464/w4gUxV82_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 408,
+          "like_count": 5623,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1803
+        },
+        "username": "Lemmon_OuO",
+        "verified": false
+      }
+    ]
+  }
+}

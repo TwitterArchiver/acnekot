@@ -1,0 +1,452 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2013390475273662485",
+    "created_at": "2026-01-20T06:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T07:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013501656126890312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1632336255823519744",
+          "start": 0,
+          "username": "y2Kstar___"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/acnekot/status…",
+          "end": 42,
+          "expanded_url": "https://x.com/acnekot/status/2002681541202530713?s=20",
+          "start": 19,
+          "url": "https://t.co/PgH7VjVfhe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013501656126890312",
+    "in_reply_to_user_id": "1632336255823519744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002681541202530713",
+        "type": "quoted"
+      },
+      {
+        "id": "2013390475273662485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y2Kstar___ 我这有视频教程https://t.co/PgH7VjVfhe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 52223,
+        "height": 1342,
+        "media_key": "13_2002681055648894976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2002681055648894976/img/93DBg05vhaFBQ3b6.jpg",
+        "public_metrics": {
+          "view_count": 42
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002681055648894976/pl/UsXAHjO-MAZdY7eP.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002681055648894976/vid/avc1/386x270/4YVoUd9sJs9NPrdr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002681055648894976/vid/avc1/1030x720/-xsGqmE1JqTpumi7.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002681055648894976/vid/avc1/1920x1342/w9IkA2u8aPU4T5LG.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002681055648894976/vid/avc1/514x360/1cWVA0ItiGNR8Bk5.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2013390475273662485",
+        "created_at": "2026-01-20T06:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T07:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013501656126890312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1632336255823519744",
+              "start": 0,
+              "username": "y2Kstar___"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/acnekot/status…",
+              "end": 42,
+              "expanded_url": "https://x.com/acnekot/status/2002681541202530713?s=20",
+              "start": 19,
+              "url": "https://t.co/PgH7VjVfhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013501656126890312",
+        "in_reply_to_user_id": "1632336255823519744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002681541202530713",
+            "type": "quoted"
+          },
+          {
+            "id": "2013390475273662485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y2Kstar___ 我这有视频教程https://t.co/PgH7VjVfhe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002681055648894976"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2002633966021685343",
+        "created_at": "2025-12-21T10:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T11:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002681541202530713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1732724006787420160",
+              "start": 0,
+              "username": "Venti718"
+            },
+            {
+              "end": 21,
+              "id": "1945070018905145344",
+              "start": 10,
+              "username": "DianaAnya0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgTLgUnWd0",
+              "end": 50,
+              "expanded_url": "https://x.com/acnekot/status/2002681541202530713/video/1",
+              "media_key": "13_2002681055648894976",
+              "start": 27,
+              "url": "https://t.co/fgTLgUnWd0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002681541202530713",
+        "in_reply_to_user_id": "1732724006787420160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 83,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002679492712796445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Venti718 @DianaAnya0 就像这样 https://t.co/fgTLgUnWd0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632336255823519744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2013390475273662485",
+        "created_at": "2026-01-19T23:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T00:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013390475273662485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013390475273662485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 68,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "x premium 人民币支付方式\n\n准备ios美区账号和大陆账户……\n大陆账户绑定好大陆的支付卡或者微信/支付宝……\n\n操作：\n1、在app store登录美区账号，然后回到x软件里打开premium 的付费窗口，不要点击付费。\n2、回到app store立刻登录到ios大陆账号。\n3、回到x软件点击付费，接下来会自动出现付费界面。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者|不鉴证|欢迎和我互动|VRChat|无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PkaB"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "tg@nanno_64",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 695,
+          "like_count": 69906,
+          "listed_count": 5,
+          "media_count": 2345,
+          "tweet_count": 10598
+        },
+        "url": "https://t.co/raYZh1PkaB",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-05T11:04:36.000Z",
+        "description": "非暴力可沟通……🐡🐡",
+        "id": "1632336255823519744",
+        "name": "y2Kstar",
+        "pinned_tweet_id": "1996949426909466717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010597339124334592/XfGC_UqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 397,
+          "like_count": 702,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 767
+        },
+        "username": "y2Kstar___",
+        "verified": true
+      }
+    ]
+  }
+}

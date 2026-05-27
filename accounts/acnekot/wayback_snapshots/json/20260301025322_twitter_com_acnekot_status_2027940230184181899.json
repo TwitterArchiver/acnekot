@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027940190761979906"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2027579356282057193",
+    "created_at": "2026-03-01T02:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T03:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027940230184181899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1765401569544253440",
+          "start": 0,
+          "username": "746841763Xiect"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aT6wBlgZkL",
+          "end": 82,
+          "expanded_url": "https://x.com/acnekot/status/2027940230184181899/photo/1",
+          "media_key": "3_2027940190761979906",
+          "start": 59,
+          "url": "https://t.co/aT6wBlgZkL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027940230184181899",
+    "in_reply_to_user_id": "1765401569544253440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027939938118078515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@746841763Xiect 我也，给一个人推个游戏本，然后他跟我说它妈给它买了不知名轻薄本，核显还有我没听过的u https://t.co/aT6wBlgZkL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1148,
+        "media_key": "3_2027940190761979906",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCSw2-gbEAI0gGa.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027940190761979906"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2027579356282057193",
+        "created_at": "2026-03-01T02:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T03:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027940230184181899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1765401569544253440",
+              "start": 0,
+              "username": "746841763Xiect"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aT6wBlgZkL",
+              "end": 82,
+              "expanded_url": "https://x.com/acnekot/status/2027940230184181899/photo/1",
+              "media_key": "3_2027940190761979906",
+              "start": 59,
+              "url": "https://t.co/aT6wBlgZkL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027940230184181899",
+        "in_reply_to_user_id": "1765401569544253440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027939938118078515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@746841763Xiect 我也，给一个人推个游戏本，然后他跟我说它妈给它买了不知名轻薄本，核显还有我没听过的u https://t.co/aT6wBlgZkL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765401569544253440",
+        "conversation_id": "2027579356282057193",
+        "created_at": "2026-03-01T02:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T03:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027939938118078515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027939938118078515",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027579356282057193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 谈之前确定预算、购买意向，之前给别人讨论配置讨论了2天，查了一堆资料，装机装备和小配件都准备好了结果告诉我他人去买笔记本去了，白忙活两天(╥ω╥`)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度｜好丽友派:@wxb_NB\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好｜同类互关请私信）\n猫喜欢搬点梗图给大伙看看（炫耀\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "wxb_NB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 774,
+          "like_count": 82275,
+          "listed_count": 7,
+          "media_count": 2840,
+          "tweet_count": 13149
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-06T15:38:36.000Z",
+        "description": "端游台式27寸2K动态视力拉满玩家，俄罗斯原神受害者，塔科夫白边百时萌新，丝瓜ICO机制受害者",
+        "id": "1765401569544253440",
+        "name": "屑CT的说捏(^ω^)",
+        "pinned_tweet_id": "1875578794624663657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972677035043782656/g6xvl8by_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 1028,
+          "like_count": 18390,
+          "listed_count": 1,
+          "media_count": 387,
+          "tweet_count": 911
+        },
+        "username": "746841763Xiect",
+        "verified": false
+      }
+    ]
+  }
+}

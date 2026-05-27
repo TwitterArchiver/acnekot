@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1823394103717200130",
+    "created_at": "2024-08-13T16:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-13T17:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823402513372225671"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1823402513372225671",
+    "in_reply_to_user_id": "1552213521253150720",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823394103717200130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "修正：好奇猫a的a貌似还有一个原因是当时玩复读鸭a的游戏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1823394103717200130",
+        "created_at": "2024-08-13T16:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T17:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823402513372225671"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1823402513372225671",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823394103717200130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "修正：好奇猫a的a貌似还有一个原因是当时玩复读鸭a的游戏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1823394103717200130",
+        "created_at": "2024-08-13T16:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T17:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823394103717200130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cldeop/status/…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/cldeop/status/1822957200785969610",
+              "start": 121,
+              "url": "https://t.co/fab4GjCvHX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823394103717200130",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822957200785969610",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以前有个up叫亿之猫（当时喜欢看ut二创），索性取了一个好奇猫，a是防止重名，酸是以前用碳酸（H2CO3）作为名字，后面发现容易被认错，现在当前缀\nID的含义是：a curious neko t（acnekot）\n一只好奇的猫，t也是防重名 https://t.co/fab4GjCvHX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "真理就是没真理",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "酸_好奇猫a",
+        "pinned_tweet_id": "1774830360578384099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 323,
+          "like_count": 35843,
+          "listed_count": 5,
+          "tweet_count": 7495
+        },
+        "username": "acnekot",
+        "verified": false
+      }
+    ]
+  }
+}

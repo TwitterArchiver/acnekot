@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2037222467375423489"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2037222468373668119",
+    "created_at": "2026-03-26T17:37:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T18:37:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037222468373668119"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037222468373668119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在想接下来我这个账号要怎么做"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-03-27T17:37:40.000Z",
+        "id": "2037222467375423489",
+        "options": [
+          {
+            "label": "继续发梗图",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "回归日常互动号",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "发梗图和互动都要",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "随心而动",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2037222467375423489"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2037222468373668119",
+        "created_at": "2026-03-26T17:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T18:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037222468373668119"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037222468373668119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在想接下来我这个账号要怎么做"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动\n发言纯依靠我那微薄的知识 如有错意欢迎指正\nあなたと繋いだ それが浮遊感",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 790,
+          "like_count": 87416,
+          "listed_count": 6,
+          "media_count": 3258,
+          "tweet_count": 14620
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

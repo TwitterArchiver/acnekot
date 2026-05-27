@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2044226535335571964",
+    "created_at": "2026-04-15T08:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T09:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044339622197809406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1601783985918464000",
+          "start": 0,
+          "username": "Neko_Kuyo"
+        },
+        {
+          "end": 25,
+          "id": "1999034817514807296",
+          "start": 11,
+          "username": "Kirara_Kazari"
+        },
+        {
+          "end": 38,
+          "id": "1644567522031853570",
+          "start": 26,
+          "username": "Kirara_Miku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044339622197809406",
+    "in_reply_to_user_id": "1601783985918464000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044339265543483606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neko_Kuyo @Kirara_Kazari @Kirara_Miku 说是被矩阵号爆破了ip"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Kirara_Kazari].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Kirara_Kazari",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Kirara_Kazari"
+    },
+    {
+      "detail": "User has been suspended: [Kirara_Miku].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Kirara_Miku",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Kirara_Miku"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2044226535335571964",
+        "created_at": "2026-04-15T08:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T09:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044339622197809406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1601783985918464000",
+              "start": 0,
+              "username": "Neko_Kuyo"
+            },
+            {
+              "end": 25,
+              "id": "1999034817514807296",
+              "start": 11,
+              "username": "Kirara_Kazari"
+            },
+            {
+              "end": 38,
+              "id": "1644567522031853570",
+              "start": 26,
+              "username": "Kirara_Miku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044339622197809406",
+        "in_reply_to_user_id": "1601783985918464000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044339265543483606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neko_Kuyo @Kirara_Kazari @Kirara_Miku 说是被矩阵号爆破了ip"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601783985918464000",
+        "conversation_id": "2044226535335571964",
+        "created_at": "2026-04-15T08:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T09:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044339265543483606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            },
+            {
+              "end": 23,
+              "id": "1999034817514807296",
+              "start": 9,
+              "username": "Kirara_Kazari"
+            },
+            {
+              "end": 36,
+              "id": "1644567522031853570",
+              "start": 24,
+              "username": "Kirara_Miku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044339265543483606",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044226535335571964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot @Kirara_Kazari @Kirara_Miku 会不会是节点不干净……😥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n回fo请私信\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 133,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 110,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2101,
+          "following_count": 795,
+          "like_count": 90237,
+          "listed_count": 6,
+          "media_count": 3582,
+          "tweet_count": 15587
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-11T03:40:50.000Z",
+        "description": "今日、もっといいことがおこるかな?🔮\n——————\n\n中文｜English｜日本語｜5Dofトラッカー｜VRChat｜可愛いもの好き｜NodeJSとPython開発｜UnityとBlender｜電子音楽好き｜Kawaii Pop好き｜中村さんそ｜Yunomi&nicamoq ｜中国の伝統文化",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vrchat.com/home/user/usr_…",
+                "end": 23,
+                "expanded_url": "https://vrchat.com/home/user/usr_0bb6bf82-454d-424c-84c0-bdecb253ae41",
+                "start": 0,
+                "url": "https://t.co/2AIAxFPFQz"
+              }
+            ]
+          }
+        },
+        "id": "1601783985918464000",
+        "location": "幻想郷",
+        "name": "ねこ九葉VRC",
+        "pinned_tweet_id": "1995734377163104393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014644581623857153/GL9FHSJk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 126,
+          "like_count": 506,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 752
+        },
+        "url": "https://t.co/2AIAxFPFQz",
+        "username": "Neko_Kuyo",
+        "verified": true
+      }
+    ]
+  }
+}

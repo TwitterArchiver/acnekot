@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2048617177323106482",
+    "created_at": "2026-04-29T02:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T03:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049309327220191469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1572990598617116672",
+          "start": 0,
+          "username": "blackym25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049309327220191469",
+    "in_reply_to_user_id": "1572990598617116672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048617177323106482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blackym25 这个应该是自制谱，不过phigros的特色就是动轨玩法，也有类似于还原其他音游玩法的谱面"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32466,
+        "height": 1080,
+        "media_key": "13_2048617009513164800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048617009513164800/img/60z3zdWRNwOGHQYv.jpg",
+        "public_metrics": {
+          "view_count": 536054
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048617009513164800/vid/avc1/780x720/f4qfg4n7x3rD314E.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048617009513164800/vid/avc1/390x360/r5pklO_4AuwQUfGz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048617009513164800/pl/7-EjEAi4vLMY75P6.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048617009513164800/vid/avc1/292x270/ZBMmMV3LfwC2Ca0f.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048617009513164800/vid/avc1/1172x1080/YbnQvw4eqLNBKTfD.mp4"
+          }
+        ],
+        "width": 1172
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2048617177323106482",
+        "created_at": "2026-04-29T02:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049309327220191469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1572990598617116672",
+              "start": 0,
+              "username": "blackym25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049309327220191469",
+        "in_reply_to_user_id": "1572990598617116672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048617177323106482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackym25 这个应该是自制谱，不过phigros的特色就是动轨玩法，也有类似于还原其他音游玩法的谱面"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048617009513164800"
+          ]
+        },
+        "author_id": "1572990598617116672",
+        "conversation_id": "2048617177323106482",
+        "created_at": "2026-04-27T04:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048617177323106482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yWFym1Ycq7",
+              "end": 72,
+              "expanded_url": "https://x.com/blackym25/status/2048617177323106482/video/1",
+              "media_key": "13_2048617009513164800",
+              "start": 49,
+              "url": "https://t.co/yWFym1Ycq7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048617177323106482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1158,
+          "impression_count": 1720822,
+          "like_count": 3971,
+          "quote_count": 198,
+          "reply_count": 40,
+          "retweet_count": 918
+        },
+        "reply_settings": "everyone",
+        "text": "我对音乐游戏的印象一直停留在节奏大师，没想到phigros设计那么惊艳吗，抱着平板就跟真乐器一样 https://t.co/yWFym1Ycq7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n回fo请私信\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 133,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 110,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2284,
+          "following_count": 795,
+          "like_count": 91141,
+          "listed_count": 6,
+          "media_count": 3726,
+          "tweet_count": 15964
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-22T16:45:59.000Z",
+        "description": "阅读｜民俗文化｜旅游｜语言学习｜分子人类学",
+        "id": "1572990598617116672",
+        "location": "中南海",
+        "name": "blackhumor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850053631661441025/orWV3F2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10059,
+          "following_count": 5181,
+          "like_count": 73134,
+          "listed_count": 60,
+          "media_count": 7908,
+          "tweet_count": 30280
+        },
+        "username": "blackym25",
+        "verified": true
+      }
+    ]
+  }
+}

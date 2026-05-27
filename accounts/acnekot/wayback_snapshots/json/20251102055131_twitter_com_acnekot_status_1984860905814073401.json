@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1984759183636643976",
+    "created_at": "2025-11-02T05:51:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T06:51:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984860905814073401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1862098999727046656",
+          "start": 0,
+          "username": "SorcererTrading"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984860905814073401",
+    "in_reply_to_user_id": "1862098999727046656",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984759183636643976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SorcererTrading Hello？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1984759183636643976",
+        "created_at": "2025-11-02T05:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T06:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984860905814073401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1862098999727046656",
+              "start": 0,
+              "username": "SorcererTrading"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984860905814073401",
+        "in_reply_to_user_id": "1862098999727046656",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984759183636643976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SorcererTrading Hello？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862098999727046656",
+        "conversation_id": "1984759183636643976",
+        "created_at": "2025-11-01T23:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T00:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984759183636643976"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "Iikes",
+              "probability": 0.6033,
+              "start": 28,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984759183636643976",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 279,
+          "impression_count": 428197,
+          "like_count": 7139,
+          "quote_count": 9,
+          "reply_count": 4868,
+          "retweet_count": 170
+        },
+        "reply_settings": "everyone",
+        "text": "Deleting in 24 hrs, whoever Iikes and says “hi”, we’ll send you a surprise dm! 🧙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "观察着…你和我\n阶段性活跃",
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984849769211314179/Mzcgzncy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 455,
+          "like_count": 44143,
+          "listed_count": 4,
+          "media_count": 1874,
+          "tweet_count": 8656
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-28T11:40:03.000Z",
+        "description": "Magic powers to never miss a pump again.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sorcerer.trading",
+                "end": 23,
+                "expanded_url": "https://www.sorcerer.trading/",
+                "start": 0,
+                "url": "https://t.co/cLC7ErXJFO"
+              }
+            ]
+          }
+        },
+        "id": "1862098999727046656",
+        "location": "Trenches",
+        "name": "Sorcerer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981841512729079808/wNLcqHjy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4109,
+          "following_count": 7,
+          "like_count": 2654,
+          "listed_count": 10,
+          "media_count": 360,
+          "tweet_count": 2621
+        },
+        "url": "https://t.co/cLC7ErXJFO",
+        "username": "SorcererTrading",
+        "verified": true
+      }
+    ]
+  }
+}

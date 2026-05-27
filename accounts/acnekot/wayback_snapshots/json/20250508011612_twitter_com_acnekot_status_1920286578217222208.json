@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1919768866953298244",
+    "created_at": "2025-05-08T01:16:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T02:16:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920286578217222208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1255674175802404864",
+          "start": 0,
+          "username": "gcyyn_wh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920286578217222208",
+    "in_reply_to_user_id": "1255674175802404864",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920139339645976681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gcyyn_wh 👀"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1920139339645976681].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1920139339645976681",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1920139339645976681"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1919768866953298244",
+        "created_at": "2025-05-08T01:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T02:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920286578217222208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1255674175802404864",
+              "start": 0,
+              "username": "gcyyn_wh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920286578217222208",
+        "in_reply_to_user_id": "1255674175802404864",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920139339645976681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gcyyn_wh 👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "观察着…你和我",
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871051316312895489/MYVorhms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 406,
+          "like_count": 42423,
+          "listed_count": 3,
+          "media_count": 1833,
+          "tweet_count": 8521
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-30T01:43:57.000Z",
+        "description": "",
+        "id": "1255674175802404864",
+        "location": "深圳",
+        "name": "月月鸟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870760958316122112/gYR3cWvS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 461,
+          "like_count": 169199,
+          "listed_count": 3,
+          "media_count": 89,
+          "tweet_count": 560
+        },
+        "username": "gcyyn_wh",
+        "verified": false
+      }
+    ]
+  }
+}

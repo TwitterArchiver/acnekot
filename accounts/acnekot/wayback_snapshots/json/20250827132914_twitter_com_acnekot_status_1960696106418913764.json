@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1960543709847515356",
+    "created_at": "2025-08-27T13:29:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T14:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960696106418913764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1298928410358505473",
+          "start": 0,
+          "username": "echirru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960696106418913764",
+    "in_reply_to_user_id": "1298928410358505473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960543709847515356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@echirru 时间过得好快"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1960543701547278339",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzVAG_Fa4AMNN6h.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1960543709847515356",
+        "created_at": "2025-08-27T13:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T14:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960696106418913764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1298928410358505473",
+              "start": 0,
+              "username": "echirru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960696106418913764",
+        "in_reply_to_user_id": "1298928410358505473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960543709847515356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@echirru 时间过得好快"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960543701547278339"
+          ]
+        },
+        "author_id": "1298928410358505473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1960543709847515356",
+        "created_at": "2025-08-27T03:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T04:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960543709847515356"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 21,
+              "tag": "我的Twitter周年纪念日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Et3CfigOW8",
+              "end": 83,
+              "expanded_url": "https://x.com/echirru/status/1960543709847515356/photo/1",
+              "media_key": "3_1960543701547278339",
+              "start": 60,
+              "url": "https://t.co/Et3CfigOW8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960543709847515356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 314,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还记得你何时加入Twitter吗？我知道！#我的Twitter周年纪念日\n\n一晃就是五年。变了太多了，我也是，大家也是 https://t.co/Et3CfigOW8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "观察着…你和我\n阶段性活跃",
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959146572509585410/oQKcE1aJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 438,
+          "like_count": 42930,
+          "listed_count": 3,
+          "media_count": 1855,
+          "tweet_count": 8580
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-27T10:21:13.000Z",
+        "description": "破碎记忆/痛苦与成熟在知晓世界真相后/是过于普通啥都不会的废柴的乙乙/也可以叫我“孤久为安”or\"Ann\"(安)/ LGBTQ+ friendly /国际主义 Internationalist /中文-English-日本語/碎碎念/如想入tg频道请私信/头像及横幅来自@mari_kosaji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 135,
+                "username": "mari_kosaji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "echiru.top",
+                "end": 23,
+                "expanded_url": "https://echiru.top",
+                "start": 0,
+                "url": "https://t.co/u5a2ZMl1yx"
+              }
+            ]
+          }
+        },
+        "id": "1298928410358505473",
+        "location": "Universe",
+        "name": "CH₃COOC₂H₅",
+        "pinned_tweet_id": "1440319129211133975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936114467642998784/DUgDno4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2683,
+          "following_count": 782,
+          "like_count": 46102,
+          "listed_count": 25,
+          "media_count": 1118,
+          "tweet_count": 15305
+        },
+        "url": "https://t.co/u5a2ZMl1yx",
+        "username": "echirru",
+        "verified": false
+      }
+    ]
+  }
+}

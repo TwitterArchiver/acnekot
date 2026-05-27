@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2036717475002478640",
+    "created_at": "2026-03-25T08:11:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T09:11:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036717596767359454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1446068140287332354",
+          "start": 0,
+          "username": "chaoyun12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036717596767359454",
+    "in_reply_to_user_id": "1446068140287332354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036717475002478640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chaoyun12 你先给我，然后我还给你（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2036717475002478640",
+        "created_at": "2026-03-25T08:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T09:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036717596767359454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1446068140287332354",
+              "start": 0,
+              "username": "chaoyun12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036717596767359454",
+        "in_reply_to_user_id": "1446068140287332354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036717475002478640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chaoyun12 你先给我，然后我还给你（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446068140287332354",
+        "conversation_id": "2036717475002478640",
+        "created_at": "2026-03-25T08:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T09:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036717475002478640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/acnekot/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/acnekot/status/2036620831166718002",
+              "start": 6,
+              "url": "https://t.co/1mk0GaF1gu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036717475002478640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036620831166718002",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还给我！！ https://t.co/1mk0GaF1gu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动\n发言纯依靠我那微薄的知识 如有错意欢迎指正\nあなたと繋いだ それが浮遊感",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1870,
+          "following_count": 789,
+          "like_count": 87302,
+          "listed_count": 6,
+          "media_count": 3238,
+          "tweet_count": 14564
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-07T11:01:41.000Z",
+        "description": "水中月，镜中花，逆旅惊鸿客",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chaoyun.bsky.social",
+                "end": 23,
+                "expanded_url": "http://chaoyun.bsky.social",
+                "start": 0,
+                "url": "https://t.co/p80F0PY73U"
+              }
+            ]
+          }
+        },
+        "id": "1446068140287332354",
+        "name": "朝云",
+        "pinned_tweet_id": "1871903249940599027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991508958276964352/LMTDaWqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4250,
+          "following_count": 224,
+          "like_count": 91641,
+          "listed_count": 11,
+          "media_count": 2310,
+          "tweet_count": 45286
+        },
+        "url": "https://t.co/p80F0PY73U",
+        "username": "chaoyun12",
+        "verified": false
+      }
+    ]
+  }
+}

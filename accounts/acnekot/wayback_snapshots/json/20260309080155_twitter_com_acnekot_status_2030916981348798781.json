@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030916967587266560"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2030697438726771014",
+    "created_at": "2026-03-09T08:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T09:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030916981348798781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1453225475468320776",
+          "start": 0,
+          "username": "BG6HNY_BH6BEZ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CMcRVHLoMz",
+          "end": 38,
+          "expanded_url": "https://x.com/acnekot/status/2030916981348798781/photo/1",
+          "media_key": "3_2030916967587266560",
+          "start": 15,
+          "url": "https://t.co/CMcRVHLoMz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030916981348798781",
+    "in_reply_to_user_id": "1453225475468320776",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030916086724747296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BG6HNY_BH6BEZ https://t.co/CMcRVHLoMz"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2030916086724747296].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2030916086724747296",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2030916086724747296"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1258,
+        "media_key": "3_2030916967587266560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC9EOMVaQAA01SZ.jpg",
+        "width": 1258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030916967587266560"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2030697438726771014",
+        "created_at": "2026-03-09T08:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T09:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030916981348798781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1453225475468320776",
+              "start": 0,
+              "username": "BG6HNY_BH6BEZ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CMcRVHLoMz",
+              "end": 38,
+              "expanded_url": "https://x.com/acnekot/status/2030916981348798781/photo/1",
+              "media_key": "3_2030916967587266560",
+              "start": 15,
+              "url": "https://t.co/CMcRVHLoMz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030916981348798781",
+        "in_reply_to_user_id": "1453225475468320776",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030916086724747296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BG6HNY_BH6BEZ https://t.co/CMcRVHLoMz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度｜好丽友派:@wxb_NB\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好｜同类互关请私信）\n猫喜欢搬点梗图给大伙看看（炫耀\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "wxb_NB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "t.me/memenekos",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 791,
+          "like_count": 84479,
+          "listed_count": 7,
+          "media_count": 2979,
+          "tweet_count": 13759
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-27T05:02:23.000Z",
+        "description": "这里是Izumi Chino | DXer&DXpeditor | 是个妹控，骨科玩家 | BH6BEZ/BG6HNY | アマチュア無線局ＢＨ６ＢＥＺ／ＢＧ６ＨＮＹ / ＢＩ６ＤＸ | C / C++ | 业余CTFer",
+        "id": "1453225475468320776",
+        "location": "Ogasawara-mura, Tokyo",
+        "name": "Izumi Chino@What's the next stop?",
+        "pinned_tweet_id": "1744452658289918356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658397707927711745/rUeH4Rcl_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 378,
+          "like_count": 6027,
+          "listed_count": 2,
+          "media_count": 259,
+          "tweet_count": 1388
+        },
+        "username": "BG6HNY_BH6BEZ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1874656015838523893",
+    "created_at": "2025-01-02T03:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-02T04:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874664840775831926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1520765575407972353",
+          "start": 0,
+          "username": "xdzz0906"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874664840775831926",
+    "in_reply_to_user_id": "1520765575407972353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874664554397126856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xdzz0906 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1874656015838523893",
+        "created_at": "2025-01-02T03:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T04:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874664840775831926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1520765575407972353",
+              "start": 0,
+              "username": "xdzz0906"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874664840775831926",
+        "in_reply_to_user_id": "1520765575407972353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874664554397126856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xdzz0906 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520765575407972353",
+        "conversation_id": "1874656015838523893",
+        "created_at": "2025-01-02T03:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T04:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874664554397126856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874664554397126856",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874656015838523893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 生日快乐！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "No Found.",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871051316312895489/MYVorhms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 377,
+          "like_count": 40110,
+          "listed_count": 3,
+          "media_count": 1748,
+          "tweet_count": 8118
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-01T14:02:39.000Z",
+        "description": "Linux YES！| UT | MC | TF | 18岁，是学生 | 愿接受大部分立场",
+        "id": "1520765575407972353",
+        "location": "Iacon, Cybertron",
+        "name": "xdzz0906🐧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668652125440602115/RdozIJqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 248,
+          "like_count": 5229,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 242
+        },
+        "username": "xdzz0906",
+        "verified": false
+      }
+    ]
+  }
+}

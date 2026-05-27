@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1840741743404142724",
+    "created_at": "2024-10-01T06:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T07:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841000261638373515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1778656100621152256",
+          "start": 0,
+          "username": "KagurazakaSusie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841000261638373515",
+    "in_reply_to_user_id": "1778656100621152256",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840741743404142724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaSusie 😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1840741743404142724].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1840741743404142724",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1840741743404142724"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1840741743404142724",
+        "created_at": "2024-10-01T06:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T07:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841000261638373515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1778656100621152256",
+              "start": 0,
+              "username": "KagurazakaSusie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841000261638373515",
+        "in_reply_to_user_id": "1778656100621152256",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840741743404142724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaSusie 😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "Into Nothing.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/acnekot",
+                "end": 23,
+                "expanded_url": "https://bonjour.bio/acnekot",
+                "start": 0,
+                "url": "https://t.co/dihqxxtjTA"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 345,
+          "like_count": 38302,
+          "listed_count": 5,
+          "tweet_count": 7824
+        },
+        "url": "https://t.co/dihqxxtjTA",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T05:27:23.000Z",
+        "description": "@Susiethegamer的赛博骨灰盒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "Susiethegamer"
+              }
+            ]
+          }
+        },
+        "id": "1778656100621152256",
+        "location": "Shinagawa-ku, Tokyo",
+        "name": "神楽坂 蘇西🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1838416439231021197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837807280605233152/8kyTT6Xq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 174,
+          "like_count": 1518,
+          "listed_count": 0,
+          "tweet_count": 268
+        },
+        "username": "KagurazakaSusie",
+        "verified": false
+      }
+    ]
+  }
+}

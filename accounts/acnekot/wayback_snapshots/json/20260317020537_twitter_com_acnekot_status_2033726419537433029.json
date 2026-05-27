@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2033720861900083560",
+    "created_at": "2026-03-17T02:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T03:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033726419537433029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "943439286287851520",
+          "start": 0,
+          "username": "SakurabaSenhane"
+        },
+        {
+          "end": 27,
+          "id": "1187856405673455616",
+          "start": 17,
+          "username": "tetenc555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033726419537433029",
+    "in_reply_to_user_id": "943439286287851520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033720861900083560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakurabaSenhane @tetenc555 英伟达好像还是不能驱动起来的（悲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033720859345752067",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDk6WLGbEAMwGp3.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2033720861900083560",
+        "created_at": "2026-03-17T02:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T03:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033726419537433029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "943439286287851520",
+              "start": 0,
+              "username": "SakurabaSenhane"
+            },
+            {
+              "end": 27,
+              "id": "1187856405673455616",
+              "start": 17,
+              "username": "tetenc555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033726419537433029",
+        "in_reply_to_user_id": "943439286287851520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033720861900083560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakurabaSenhane @tetenc555 英伟达好像还是不能驱动起来的（悲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033720859345752067"
+          ]
+        },
+        "author_id": "943439286287851520",
+        "conversation_id": "2033720861900083560",
+        "created_at": "2026-03-17T01:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T02:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033720861900083560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 159,
+              "id": "1187856405673455616",
+              "start": 149,
+              "username": "tetenc555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CkxYmj6MGc",
+              "end": 183,
+              "expanded_url": "https://x.com/SakurabaSenhane/status/2033720861900083560/photo/1",
+              "media_key": "3_2033720859345752067",
+              "start": 160,
+              "url": "https://t.co/CkxYmj6MGc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033720861900083560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 50,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很久没接触黑苹果了，我记得我最开始接触黑苹果的时候还是High Sierra刚发布的时候。也只用过10.12/.13，.14也只解除了beta版本。\n现在AMD核显都可以驱动了，实在是令人感慨，自己已经落后于时代了。另外这怎么做到的？我有个6800H+3070Ti的笔记本，不知道能不能跑，，，\n@tetenc555 https://t.co/CkxYmj6MGc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度｜好丽友派:@wxb_NB\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好｜同类互关请私信）\n猫喜欢搬点梗图给大伙看看（炫耀\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\nあなたと繋いだ　それが浮遊感",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "wxb_NB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "t.me/memenekos",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 781,
+          "like_count": 85498,
+          "listed_count": 6,
+          "media_count": 3079,
+          "tweet_count": 14067
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-20T11:13:48.000Z",
+        "description": "面对愚昧•神明也无可奈何·baka·@hoshi_Asuka0089",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "hoshi_Asuka0089"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apple.com/my",
+                "end": 23,
+                "expanded_url": "https://www.apple.com/my",
+                "start": 0,
+                "url": "https://t.co/iDBvaNiZyT"
+              }
+            ]
+          }
+        },
+        "id": "943439286287851520",
+        "location": "S.C.H.A.L.E",
+        "name": "💮西行寺　千羽🌸",
+        "pinned_tweet_id": "2033590726920225202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864885438613458948/CrYxyfg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3340,
+          "following_count": 6048,
+          "like_count": 112044,
+          "listed_count": 8,
+          "media_count": 2375,
+          "tweet_count": 33820
+        },
+        "url": "https://t.co/iDBvaNiZyT",
+        "username": "SakurabaSenhane",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-25T22:20:29.000Z",
+        "description": "propietaria do iPhone 8 safico - she/them🏳️‍⚧️ - minha bobinha 💕🐾 @admirablw 💍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 66,
+                "username": "admirablw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tetenc555.carrd.co",
+                "end": 23,
+                "expanded_url": "http://tetenc555.carrd.co",
+                "start": 0,
+                "url": "https://t.co/WEgKD0TpgT"
+              }
+            ]
+          }
+        },
+        "id": "1187856405673455616",
+        "location": "oh! so sorgy !",
+        "name": "Becca!! ⋆ 🩷🐶",
+        "pinned_tweet_id": "1953899480077443332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962713680295997440/YR8wqsOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 939,
+          "like_count": 244841,
+          "listed_count": 31,
+          "media_count": 14926,
+          "tweet_count": 178006
+        },
+        "url": "https://t.co/WEgKD0TpgT",
+        "username": "tetenc555",
+        "verified": false
+      }
+    ]
+  }
+}

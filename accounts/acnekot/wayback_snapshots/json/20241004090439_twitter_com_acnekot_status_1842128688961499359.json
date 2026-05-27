@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1842038488004493351",
+    "created_at": "2024-10-04T09:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-04T10:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842128688961499359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1688233455363219456",
+          "start": 0,
+          "username": "Susiethegamer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842128688961499359",
+    "in_reply_to_user_id": "1688233455363219456",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842038488004493351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Susiethegamer 5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1842038488004493351",
+        "created_at": "2024-10-04T09:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T10:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842128688961499359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1688233455363219456",
+              "start": 0,
+              "username": "Susiethegamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842128688961499359",
+        "in_reply_to_user_id": "1688233455363219456",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842038488004493351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Susiethegamer 5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1842038479959818240"
+          ]
+        },
+        "author_id": "1688233455363219456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1842038488004493351",
+        "created_at": "2024-10-04T03:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T04:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842038488004493351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fsdX9Ls64A",
+              "end": 40,
+              "expanded_url": "https://x.com/Susiethegamer/status/1842038488004493351/photo/1",
+              "media_key": "3_1842038479959818240",
+              "start": 17,
+              "url": "https://t.co/fsdX9Ls64A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842038488004493351",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 605,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是玩这个吧\n我删了没意义的问题 https://t.co/fsdX9Ls64A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "Into Nothing.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/acnekot",
+                "end": 23,
+                "expanded_url": "https://bonjour.bio/acnekot",
+                "start": 0,
+                "url": "https://t.co/dihqxxtjTA"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 346,
+          "like_count": 38642,
+          "listed_count": 5,
+          "tweet_count": 7863
+        },
+        "url": "https://t.co/dihqxxtjTA",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T17:00:07.000Z",
+        "description": "ヨルシカ◂Ⓘ▸/ゲーム🎮/カルピス🥛/ユニクロ👒/小孩@acenanami/可爱姐姐@lum1neko/🏳️‍⚧️🍥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "acenanami"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "lum1neko"
+              }
+            ]
+          }
+        },
+        "id": "1688233455363219456",
+        "name": "東京メトロ　丸ノ内線",
+        "pinned_tweet_id": "1837849254397977009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842037717628223488/lkcC0tkg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 874,
+          "like_count": 121002,
+          "listed_count": 4,
+          "tweet_count": 22809
+        },
+        "username": "Susiethegamer",
+        "verified": false
+      }
+    ]
+  }
+}

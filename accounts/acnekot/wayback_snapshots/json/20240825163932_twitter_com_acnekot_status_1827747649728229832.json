@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1827738818902106340",
+    "created_at": "2024-08-25T16:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-25T17:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827747649728229832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1574189676222717952",
+          "start": 0,
+          "username": "BgjO_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827747649728229832",
+    "in_reply_to_user_id": "1574189676222717952",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827738818902106340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BgjO_o 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1827738818902106340",
+        "created_at": "2024-08-25T16:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T17:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827747649728229832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1574189676222717952",
+              "start": 0,
+              "username": "BgjO_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827747649728229832",
+        "in_reply_to_user_id": "1574189676222717952",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827738818902106340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BgjO_o 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827738748299497472"
+          ]
+        },
+        "author_id": "1574189676222717952",
+        "conversation_id": "1827738818902106340",
+        "created_at": "2024-08-25T16:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T17:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827738818902106340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/deloumsd0w",
+              "end": 29,
+              "expanded_url": "https://twitter.com/BgjO_o/status/1827738818902106340/photo/1",
+              "media_key": "3_1827738748299497472",
+              "start": 6,
+              "url": "https://t.co/DeLouMsD0W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827738818902106340",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "气球坏掉了 https://t.co/DeLouMsD0W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "真理就是没真理",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 329,
+          "like_count": 36381,
+          "listed_count": 5,
+          "tweet_count": 7584
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T00:10:48.000Z",
+        "description": "Eng. or Chn.\n日本语苦手\n2042242967@qq.com",
+        "id": "1574189676222717952",
+        "location": "on my desk",
+        "name": "不干胶_BuGoJi",
+        "pinned_tweet_id": "1680996110461206528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709055637114793984/_KDcJMZs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 765,
+          "like_count": 1649,
+          "listed_count": 0,
+          "tweet_count": 647
+        },
+        "username": "BgjO_o",
+        "verified": false
+      }
+    ]
+  }
+}

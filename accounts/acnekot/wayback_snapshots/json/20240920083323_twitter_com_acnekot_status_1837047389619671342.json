@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1836607658239103254",
+    "created_at": "2024-09-20T08:33:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T09:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837047389619671342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837047389619671342",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836607658239103254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 80%=5%\n我是否在梦中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1836607658239103254",
+        "created_at": "2024-09-20T08:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T09:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837047389619671342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837047389619671342",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836607658239103254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 80%=5%\n我是否在梦中"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1836607650928431104"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1836607658239103254",
+        "created_at": "2024-09-19T03:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T04:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836607658239103254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h9sodsrc5v",
+              "end": 23,
+              "expanded_url": "https://twitter.com/hsn8086/status/1836607658239103254/photo/1",
+              "media_key": "3_1836607650928431104",
+              "start": 0,
+              "url": "https://t.co/H9SodsRC5V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836607658239103254",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 36066,
+          "like_count": 467,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/H9SodsRC5V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "Break.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "177404.xyz",
+                "end": 23,
+                "expanded_url": "http://177404.xyz",
+                "start": 0,
+                "url": "https://t.co/Jk6nRkHp3d"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 331,
+          "like_count": 37255,
+          "listed_count": 5,
+          "tweet_count": 7694
+        },
+        "url": "https://t.co/Jk6nRkHp3d",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn!",
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1766387926320214177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707161507161944064/DD0pRpE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1939,
+          "following_count": 849,
+          "like_count": 35432,
+          "listed_count": 6,
+          "tweet_count": 5247
+        },
+        "username": "hsn8086",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2040966955319148625",
+    "created_at": "2026-04-06T04:33:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T05:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041011376676905205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "24313912",
+          "start": 0,
+          "username": "wey_gu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041011376676905205",
+    "in_reply_to_user_id": "24313912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040966955319148625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wey_gu 其实挺有意思的，建议保留（（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2040966955319148625",
+        "created_at": "2026-04-06T04:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T05:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041011376676905205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "24313912",
+              "start": 0,
+              "username": "wey_gu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041011376676905205",
+        "in_reply_to_user_id": "24313912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040966955319148625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wey_gu 其实挺有意思的，建议保留（（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "24313912",
+        "conversation_id": "2040966955319148625",
+        "created_at": "2026-04-06T01:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T02:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040966955319148625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luoling8192/st…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/luoling8192/status/2040859491500179608",
+              "start": 26,
+              "url": "https://t.co/lwNWMPyOqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040966955319148625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10215,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040859491500179608",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跟大家说一下，这个是我手动改出来的🫣\n已经修复了🙇 https://t.co/lwNWMPyOqd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n小窝只过熟人和互关\n回fo只回面熟\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 103,
+                "username": "nanno_64"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "距离你1.5KM",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978,
+          "following_count": 788,
+          "like_count": 89158,
+          "listed_count": 6,
+          "media_count": 3376,
+          "tweet_count": 15066
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-14T02:46:34.000Z",
+        "description": "Build things, troubleshoot& sing.\nCo-Founder @NowledgeLabs, build @NowledgeMem& https://t.co/RVZI2oX9pr\nMicrosoft MVP. Feminist. Prev @NebulaGraph, @Ericsson Cloud",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "NowledgeLabs"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "NowledgeMem"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "NebulaGraph"
+              },
+              {
+                "end": 157,
+                "start": 148,
+                "username": "Ericsson"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nowled.ge/kl",
+                "end": 103,
+                "expanded_url": "https://nowled.ge/kl",
+                "start": 80,
+                "url": "https://t.co/RVZI2oX9pr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "siwei.io/en/",
+                "end": 23,
+                "expanded_url": "https://siwei.io/en/",
+                "start": 0,
+                "url": "https://t.co/rQ8z4IElIi"
+              }
+            ]
+          }
+        },
+        "id": "24313912",
+        "location": "@siwei@mas.to",
+        "name": "Wey Gu 古思为",
+        "pinned_tweet_id": "1952559537703342350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1275624368618397697/kZ6PZRqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17085,
+          "following_count": 3748,
+          "like_count": 34394,
+          "listed_count": 239,
+          "media_count": 895,
+          "tweet_count": 19350
+        },
+        "url": "https://t.co/rQ8z4IElIi",
+        "username": "wey_gu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2030172034643501357",
+    "created_at": "2026-03-07T08:52:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T09:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030204834041958401"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "Windows",
+          "probability": 0.976,
+          "start": 13,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1037215747225911299",
+          "start": 0,
+          "username": "alucard_907"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030204834041958401",
+    "in_reply_to_user_id": "1037215747225911299",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030204524758245434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alucard_907 Windows"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2030172034643501357",
+        "created_at": "2026-03-07T08:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T09:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030204834041958401"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Windows",
+              "probability": 0.976,
+              "start": 13,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1037215747225911299",
+              "start": 0,
+              "username": "alucard_907"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030204834041958401",
+        "in_reply_to_user_id": "1037215747225911299",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030204524758245434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alucard_907 Windows"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1037215747225911299",
+        "conversation_id": "2030172034643501357",
+        "created_at": "2026-03-07T08:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T09:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030204524758245434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030204524758245434",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030172034643501357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot Mac么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度｜好丽友派:@wxb_NB\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好｜同类互关请私信）\n猫喜欢搬点梗图给大伙看看（炫耀\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "wxb_NB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "好奇?哈气!!!这对吗？这对的",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 786,
+          "like_count": 84009,
+          "listed_count": 7,
+          "media_count": 2927,
+          "tweet_count": 13605
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2018-09-05T05:47:59.000Z",
+        "description": "\"曾写BUG为生的决斗者-INTJ\", \n\"A duelist who once made a living off buggy code\", \n\"かつてバグコードで食ってたデュエリスト\", \n\n\"ACT/ARPG/FTG/Soul Like/OCG\",\n\"McD\",\"Coca\",\"Nintendo\",\"Tesla\"",
+        "id": "1037215747225911299",
+        "location": "Star City",
+        "name": "逆风狂撒花椒粉",
+        "pinned_tweet_id": "1988829300045267223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008218379728060416/P9SFJkRG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 813,
+          "like_count": 3389,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 3679
+        },
+        "username": "alucard_907",
+        "verified": true
+      }
+    ]
+  }
+}

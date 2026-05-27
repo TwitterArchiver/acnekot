@@ -1,0 +1,289 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370143648776523779",
+          "name": "Arcaea"
+        }
+      }
+    ],
+    "conversation_id": "1815107100215030224",
+    "created_at": "2024-07-22T00:26:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-22T01:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815181615989194752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1544496439770103808",
+          "start": 0,
+          "username": "LynoRoot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815181615989194752",
+    "in_reply_to_user_id": "1544496439770103808",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815107100215030224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LynoRoot phigros rizline arcaea pjsk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370143648776523779",
+              "name": "Arcaea"
+            }
+          }
+        ],
+        "conversation_id": "1815107100215030224",
+        "created_at": "2024-07-22T00:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T01:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815181615989194752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1544496439770103808",
+              "start": 0,
+              "username": "LynoRoot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815181615989194752",
+        "in_reply_to_user_id": "1544496439770103808",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815107100215030224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LynoRoot phigros rizline arcaea pjsk"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1815107097748783104",
+            "3_1815107098021347328"
+          ]
+        },
+        "author_id": "1544496439770103808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1815107100215030224",
+        "created_at": "2024-07-21T19:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-21T20:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815107100215030224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/9JcQWJ34TV",
+              "end": 35,
+              "expanded_url": "https://twitter.com/LynoRoot/status/1815107100215030224/photo/1",
+              "media_key": "3_1815107097748783104",
+              "start": 12,
+              "url": "https://t.co/9JcQWJ34TV"
+            },
+            {
+              "display_url": "pic.twitter.com/9JcQWJ34TV",
+              "end": 35,
+              "expanded_url": "https://twitter.com/LynoRoot/status/1815107100215030224/photo/1",
+              "media_key": "3_1815107098021347328",
+              "start": 12,
+              "url": "https://t.co/9JcQWJ34TV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815107100215030224",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我手机里所有游戏，猜吧 https://t.co/9JcQWJ34TV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "真理就是没真理",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "酸·好奇猫a",
+        "pinned_tweet_id": "1774830360578384099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 322,
+          "like_count": 34562,
+          "listed_count": 5,
+          "tweet_count": 7361
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-06T01:40:39.000Z",
+        "description": "简体中文,繁体中文,English,微量の日本語/\n一个曲师/\n周期性性格缺陷，有的时候我自己都不知道我在干什么/\ninfp-t/\n普通通过音游玩家/\n初音ミク厨/\n希望我和大家都能开心/\n最喜欢的歌是《ウミユリ海底譚》/\n亲友:@bakautopia/\n？？？:@nature_teaa/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "bakautopia"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "nature_teaa"
+              }
+            ]
+          }
+        },
+        "id": "1544496439770103808",
+        "location": "舞萌DX游戏机前面（正在排卡）",
+        "name": "自然是我茶叶啦！🍃（世观专辑完成度完全无法进行）",
+        "pinned_tweet_id": "1746924708073988359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768336489484845059/QPv5cGIz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 547,
+          "like_count": 13566,
+          "listed_count": 0,
+          "tweet_count": 3110
+        },
+        "username": "LynoRoot",
+        "verified": false
+      }
+    ]
+  }
+}

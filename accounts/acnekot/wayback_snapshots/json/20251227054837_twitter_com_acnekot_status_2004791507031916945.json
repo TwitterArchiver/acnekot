@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004791472462413825"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2004526795736183209",
+    "created_at": "2025-12-27T05:48:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T06:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004791507031916945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "713889171962667008",
+          "start": 0,
+          "username": "Lustre_Blade"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7LYLANhHnX",
+          "end": 53,
+          "expanded_url": "https://x.com/acnekot/status/2004791507031916945/photo/1",
+          "media_key": "3_2004791472462413825",
+          "start": 30,
+          "url": "https://t.co/7LYLANhHnX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004791507031916945",
+    "in_reply_to_user_id": "713889171962667008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004526795736183209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lustre_Blade 为什么要女装Linux终端（） https://t.co/7LYLANhHnX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 56,
+        "media_key": "3_2004791472462413825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9JzOOzawAECFRS.png",
+        "width": 245
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2004526788152532992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9GCfk6WIAASn1z.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004791472462413825"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2004526795736183209",
+        "created_at": "2025-12-27T05:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T06:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004791507031916945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "713889171962667008",
+              "start": 0,
+              "username": "Lustre_Blade"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7LYLANhHnX",
+              "end": 53,
+              "expanded_url": "https://x.com/acnekot/status/2004791507031916945/photo/1",
+              "media_key": "3_2004791472462413825",
+              "start": 30,
+              "url": "https://t.co/7LYLANhHnX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004791507031916945",
+        "in_reply_to_user_id": "713889171962667008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004526795736183209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lustre_Blade 为什么要女装Linux终端（） https://t.co/7LYLANhHnX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004526788152532992"
+          ]
+        },
+        "author_id": "713889171962667008",
+        "conversation_id": "2004526795736183209",
+        "created_at": "2025-12-26T12:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T13:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004526795736183209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nWr8pKCvOF",
+              "end": 33,
+              "expanded_url": "https://x.com/Lustre_Blade/status/2004526795736183209/photo/1",
+              "media_key": "3_2004526788152532992",
+              "start": 10,
+              "url": "https://t.co/nWr8pKCvOF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004526795736183209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 589,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呦小米终于开窍了 https://t.co/nWr8pKCvOF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PkaB"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 550,
+          "like_count": 60879,
+          "listed_count": 5,
+          "media_count": 2057,
+          "tweet_count": 9569
+        },
+        "url": "https://t.co/raYZh1PkaB",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-27T00:43:36.000Z",
+        "description": "3D Creator: 70% of my body is made of games.\n3Dアーティスト：僕の体の70%はゲームでできている",
+        "id": "713889171962667008",
+        "location": "Feel Good Inc, Cracker Island",
+        "name": "光锋",
+        "pinned_tweet_id": "1705971238215283141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960061731184746496/ScCRd6cz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2712,
+          "following_count": 583,
+          "like_count": 4683,
+          "listed_count": 6,
+          "media_count": 7084,
+          "tweet_count": 13595
+        },
+        "username": "Lustre_Blade",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2023665865053663234"
+      ],
+      "media_source_tweet_id": [
+        "2023666314221412675"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2023735822646649072",
+    "created_at": "2026-02-17T12:26:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T13:26:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023735822646649072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1718745049213849600",
+          "start": 3,
+          "username": "7eaFwi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TGZDjtLkJk",
+          "end": 35,
+          "expanded_url": "https://x.com/7eaFwi/status/2023666314221412675/video/1",
+          "media_key": "13_2023665865053663234",
+          "start": 12,
+          "url": "https://t.co/TGZDjtLkJk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023735822646649072",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023666314221412675",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7eaFwi: https://t.co/TGZDjtLkJk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27966,
+        "height": 720,
+        "media_key": "13_2023665865053663234",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023665865053663234/img/HYdu40seTomMCbq6.jpg",
+        "public_metrics": {
+          "view_count": 1108
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023665865053663234/vid/avc1/360x270/bZNyQuAbhwVzpDpz.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023665865053663234/vid/avc1/480x360/KBS5TTlBhMcx74z2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023665865053663234/vid/avc1/960x720/rrgh4RUzRqkOjrxd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023665865053663234/pl/onueg3kTfL_t6RnS.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023665865053663234"
+          ],
+          "media_source_tweet_id": [
+            "2023666314221412675"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2023735822646649072",
+        "created_at": "2026-02-17T12:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T13:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023735822646649072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1718745049213849600",
+              "start": 3,
+              "username": "7eaFwi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TGZDjtLkJk",
+              "end": 35,
+              "expanded_url": "https://x.com/7eaFwi/status/2023666314221412675/video/1",
+              "media_key": "13_2023665865053663234",
+              "start": 12,
+              "url": "https://t.co/TGZDjtLkJk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023735822646649072",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023666314221412675",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7eaFwi: https://t.co/TGZDjtLkJk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023665865053663234"
+          ]
+        },
+        "author_id": "1718745049213849600",
+        "conversation_id": "2023666314221412675",
+        "created_at": "2026-02-17T07:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T08:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023666314221412675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TGZDjtLkJk",
+              "end": 23,
+              "expanded_url": "https://x.com/7eaFwi/status/2023666314221412675/video/1",
+              "media_key": "13_2023665865053663234",
+              "start": 0,
+              "url": "https://t.co/TGZDjtLkJk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023666314221412675",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 3645,
+          "like_count": 319,
+          "quote_count": 3,
+          "reply_count": 21,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TGZDjtLkJk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語 以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 768,
+          "like_count": 79415,
+          "listed_count": 6,
+          "media_count": 2656,
+          "tweet_count": 12329
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-29T21:42:12.000Z",
+        "description": "魔女🥀🪉, 3D写真  (NOT V/TUBER, NOT V/RChat), 雑多やBMSなど, 音楽の話題NG⚠️\nメインアカウント：@7eaF\n一般用タグ：#leafbms\n自撮り用： #leafbga\nモデル：@Sourxuan939\nデザイン：@toconiwa1",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 81,
+                "tag": "leafbms"
+              },
+              {
+                "end": 104,
+                "start": 96,
+                "tag": "leafbga"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 74,
+                "start": 69,
+                "username": "7eaF"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "Sourxuan939"
+              },
+              {
+                "end": 137,
+                "start": 127,
+                "username": "toconiwa1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCq57M…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCq57Mh587hgFDXaxDjTP6Cw",
+                "start": 0,
+                "url": "https://t.co/i9FB9AuoJ4"
+              }
+            ]
+          }
+        },
+        "id": "1718745049213849600",
+        "name": "LeaF2",
+        "pinned_tweet_id": "2023329635547926636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719313620063109120/PtWqGh_J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28369,
+          "following_count": 553,
+          "like_count": 26757,
+          "listed_count": 33,
+          "media_count": 1272,
+          "tweet_count": 25703
+        },
+        "url": "https://t.co/i9FB9AuoJ4",
+        "username": "7eaFwi",
+        "verified": true
+      }
+    ]
+  }
+}

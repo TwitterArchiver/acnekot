@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1833912138978799837",
+    "created_at": "2024-09-13T16:35:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T17:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834631884397281336"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "恭喜",
+          "probability": 0.6318,
+          "start": 19,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1329449687062032385",
+          "start": 0,
+          "username": "Stv_Lynn"
+        },
+        {
+          "end": 18,
+          "id": "1633650246168502272",
+          "start": 10,
+          "username": "dify_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834631884397281336",
+    "in_reply_to_user_id": "1329449687062032385",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833912138978799837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stv_Lynn @dify_ai 恭喜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1833912138978799837",
+        "created_at": "2024-09-13T16:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T17:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834631884397281336"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "恭喜",
+              "probability": 0.6318,
+              "start": 19,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1329449687062032385",
+              "start": 0,
+              "username": "Stv_Lynn"
+            },
+            {
+              "end": 18,
+              "id": "1633650246168502272",
+              "start": 10,
+              "username": "dify_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834631884397281336",
+        "in_reply_to_user_id": "1329449687062032385",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833912138978799837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stv_Lynn @dify_ai 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1329449687062032385",
+        "conversation_id": "1833912138978799837",
+        "created_at": "2024-09-11T16:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T17:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833912138978799837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1633650246168502272",
+              "start": 31,
+              "username": "dify_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833912138978799837",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 29548,
+          "like_count": 164,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "I’ll start my first internship @dify_ai next week!\n下周我就要作为实习生加入dify啦🥰\n大家如果有任何对dify的活动或者任何其他想法，欢迎找我聊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "Twitter Break.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "177404.xyz",
+                "end": 23,
+                "expanded_url": "http://177404.xyz",
+                "start": 0,
+                "url": "https://t.co/Jk6nRkHp3d"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 330,
+          "like_count": 36998,
+          "listed_count": 5,
+          "tweet_count": 7664
+        },
+        "url": "https://t.co/Jk6nRkHp3d",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-19T15:41:29.000Z",
+        "description": "Internship @dify_ai |「喂马、劈柴、周游世界」| AI dev | EN/CH/JP | 留学予備中 | ❤️@hatunagi_yuzuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "dify_ai"
+              },
+              {
+                "end": 81,
+                "start": 65,
+                "username": "hatunagi_yuzuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stv.lol",
+                "end": 23,
+                "expanded_url": "https://stv.lol",
+                "start": 0,
+                "url": "https://t.co/PMLgG4GHep"
+              }
+            ]
+          }
+        },
+        "id": "1329449687062032385",
+        "location": "Yuzuki's Heart ",
+        "name": "Steven Lynn",
+        "pinned_tweet_id": "1832446853734134103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663823879536787456/vVDRjDpF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2720,
+          "following_count": 646,
+          "like_count": 36679,
+          "listed_count": 18,
+          "tweet_count": 6583
+        },
+        "url": "https://t.co/PMLgG4GHep",
+        "username": "Stv_Lynn",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-09T02:05:53.000Z",
+        "description": "An open-source LLM app development platform.\nGitHub：https://t.co/7MWGu2QQ1o\nDiscord：https://t.co/MEaPZpnE5M",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/langgenius/dify",
+                "end": 75,
+                "expanded_url": "https://github.com/langgenius/dify",
+                "start": 52,
+                "url": "https://t.co/7MWGu2QQ1o"
+              },
+              {
+                "display_url": "discord.gg/FngNHpbcY7",
+                "end": 107,
+                "expanded_url": "https://discord.gg/FngNHpbcY7",
+                "start": 84,
+                "url": "https://t.co/MEaPZpnE5M"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dify.ai",
+                "end": 23,
+                "expanded_url": "https://dify.ai",
+                "start": 0,
+                "url": "https://t.co/9X6T43wDug"
+              }
+            ]
+          }
+        },
+        "id": "1633650246168502272",
+        "name": "Dify.AI",
+        "pinned_tweet_id": "1777383670522990998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655803813012578304/o9VWWTmG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11517,
+          "following_count": 153,
+          "like_count": 581,
+          "listed_count": 150,
+          "tweet_count": 516
+        },
+        "url": "https://t.co/9X6T43wDug",
+        "username": "dify_ai",
+        "verified": true
+      }
+    ]
+  }
+}

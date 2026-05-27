@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1985918913906143307",
+    "created_at": "2025-11-05T06:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T07:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985961698378072359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "931274436610633728",
+          "start": 0,
+          "username": "Myuri__watti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985961698378072359",
+    "in_reply_to_user_id": "931274436610633728",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985918913906143307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Myuri__watti 👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1985918913906143307",
+        "created_at": "2025-11-05T06:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T07:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985961698378072359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "931274436610633728",
+              "start": 0,
+              "username": "Myuri__watti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985961698378072359",
+        "in_reply_to_user_id": "931274436610633728",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985918913906143307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Myuri__watti 👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "931274436610633728",
+        "conversation_id": "1985918913906143307",
+        "created_at": "2025-11-05T03:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T04:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985918913906143307"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985918913906143307",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ハーイ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明",
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984849769211314179/Mzcgzncy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 464,
+          "like_count": 45550,
+          "listed_count": 4,
+          "media_count": 1892,
+          "tweet_count": 8808
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-16T21:35:02.000Z",
+        "description": "アイコンはくすのきママ（@sunchikusunoki ）|エロゲisマイライフ|ケモ耳大好きでアニメ消化が終わらない猫|#あいすはオレの嫁|エロゲ垢 @LEMONYAN_ICE",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 61,
+                "tag": "あいすはオレの嫁"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "sunchikusunoki"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "LEMONYAN_ICE"
+              }
+            ]
+          }
+        },
+        "id": "931274436610633728",
+        "location": "狼と香辛料亭",
+        "name": "レモにゃん🦵",
+        "pinned_tweet_id": "1907714011145421205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768300235057713152/iJ1M08I5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 519,
+          "like_count": 10353,
+          "listed_count": 1,
+          "media_count": 2441,
+          "tweet_count": 15335
+        },
+        "username": "Myuri__watti",
+        "verified": false
+      }
+    ]
+  }
+}

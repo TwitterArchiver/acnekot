@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2010661562047189325",
+    "created_at": "2026-01-12T10:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T11:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010662047298838959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1919761076264304641",
+          "start": 0,
+          "username": "newxiaoshaye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010662047298838959",
+    "in_reply_to_user_id": "1919761076264304641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010661562047189325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@newxiaoshaye 这种东西有什么听懂的必要啊喂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2010661562047189325",
+        "created_at": "2026-01-12T10:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T11:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010662047298838959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1919761076264304641",
+              "start": 0,
+              "username": "newxiaoshaye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010662047298838959",
+        "in_reply_to_user_id": "1919761076264304641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010661562047189325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@newxiaoshaye 这种东西有什么听懂的必要啊喂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919761076264304641",
+        "conversation_id": "2010661562047189325",
+        "created_at": "2026-01-12T10:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T11:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010661562047189325"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010661562047189325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你真的听懂了急急那如律令嘛咪呗呗哄吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "到处闲逛的猫ᗜ_ᗜ\n音游爱好者|不鉴证|欢迎和我互动|VRChat|非敌对友好\n非中文使用翻译器 如有错意欢迎指正\n回fo请私信或者留言 不然就是纯随机(笑\nいつ終わるかな 意味もないのに",
+        "id": "1552213521253150720",
+        "location": "http://mocat.asia",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 566,
+          "like_count": 65729,
+          "listed_count": 5,
+          "media_count": 2204,
+          "tweet_count": 10033
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-06T14:28:37.000Z",
+        "description": "以前中推的少弟弟/P5X玩家/doro/猫推/互fo",
+        "id": "1919761076264304641",
+        "location": "Melbourne, Victoria",
+        "name": "Newxiaoshaoye🇦🇺🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993509468521611265/-3aPnI1v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 1579,
+          "like_count": 71566,
+          "listed_count": 4,
+          "media_count": 871,
+          "tweet_count": 3464
+        },
+        "username": "newxiaoshaye",
+        "verified": true
+      }
+    ]
+  }
+}

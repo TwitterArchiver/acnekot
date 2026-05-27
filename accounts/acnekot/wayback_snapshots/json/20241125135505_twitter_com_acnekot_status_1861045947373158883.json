@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1861045947373158883",
+    "created_at": "2024-11-25T13:55:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T14:55:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861045947373158883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1329449687062032385",
+          "start": 3,
+          "username": "Stv_Lynn"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Titter MBTI Receipt",
+          "display_url": "twi.am",
+          "end": 67,
+          "expanded_url": "http://twi.am",
+          "images": [
+            {
+              "height": 1024,
+              "url": "https://pbs.twimg.com/news_img/1860631479044476928/srnEvohs?format=jpg&name=orig",
+              "width": 1365
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1860631479044476928/srnEvohs?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 44,
+          "status": 200,
+          "title": "Twi.AM",
+          "unwound_url": "https://twi.am/",
+          "url": "https://t.co/LHiXrv80QZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861045947373158883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860631466264403977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Stv_Lynn: 做了一个小项目：Twitter MBTI收据🧾\nDemo: https://t.co/LHiXrv80QZ\n\n后端：Dify\n前端：Vue+TailwindCSS\n\n之前就做过了MBTI分析工具，小火了一阵子，这个项目是新壶装旧酒 https://t…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1861045947373158883",
+        "created_at": "2024-11-25T13:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T14:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861045947373158883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1329449687062032385",
+              "start": 3,
+              "username": "Stv_Lynn"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Titter MBTI Receipt",
+              "display_url": "twi.am",
+              "end": 67,
+              "expanded_url": "http://twi.am",
+              "images": [
+                {
+                  "height": 1024,
+                  "url": "https://pbs.twimg.com/news_img/1860631479044476928/srnEvohs?format=jpg&name=orig",
+                  "width": 1365
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1860631479044476928/srnEvohs?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 44,
+              "status": 200,
+              "title": "Twi.AM",
+              "unwound_url": "https://twi.am/",
+              "url": "https://t.co/LHiXrv80QZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861045947373158883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860631466264403977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Stv_Lynn: 做了一个小项目：Twitter MBTI收据🧾\nDemo: https://t.co/LHiXrv80QZ\n\n后端：Dify\n前端：Vue+TailwindCSS\n\n之前就做过了MBTI分析工具，小火了一阵子，这个项目是新壶装旧酒 https://t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1860629350707814400"
+          ]
+        },
+        "author_id": "1329449687062032385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1860631466264403977",
+        "created_at": "2024-11-24T10:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T11:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860631466264403977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Titter MBTI Receipt",
+              "display_url": "twi.am",
+              "end": 53,
+              "expanded_url": "http://twi.am",
+              "images": [
+                {
+                  "height": 1024,
+                  "url": "https://pbs.twimg.com/news_img/1860631479044476928/srnEvohs?format=jpg&name=orig",
+                  "width": 1365
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1860631479044476928/srnEvohs?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 30,
+              "status": 200,
+              "title": "Twi.AM",
+              "unwound_url": "https://twi.am/",
+              "url": "https://t.co/LHiXrv80QZ"
+            },
+            {
+              "display_url": "pic.x.com/bVtck5rQYc",
+              "end": 139,
+              "expanded_url": "https://x.com/Stv_Lynn/status/1860631466264403977/video/1",
+              "media_key": "7_1860629350707814400",
+              "start": 116,
+              "url": "https://t.co/bVtck5rQYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860631466264403977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 185,
+          "impression_count": 85394,
+          "like_count": 263,
+          "quote_count": 27,
+          "reply_count": 46,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "做了一个小项目：Twitter MBTI收据🧾\nDemo: https://t.co/LHiXrv80QZ\n\n后端：Dify\n前端：Vue+TailwindCSS\n\n之前就做过了MBTI分析工具，小火了一阵子，这个项目是新壶装旧酒 https://t.co/bVtck5rQYc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "awo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/acnekot",
+                "end": 23,
+                "expanded_url": "https://bonjour.bio/acnekot",
+                "start": 0,
+                "url": "https://t.co/dihqxxtjTA"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 372,
+          "like_count": 39767,
+          "listed_count": 3,
+          "tweet_count": 8059
+        },
+        "url": "https://t.co/dihqxxtjTA",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-19T15:41:29.000Z",
+        "description": "Internship @dify_ai |「喂马、劈柴、周游世界」| AI dev | EN/CH/JP | INTJ venrified by https://t.co/2tmQZnKGJT | ❤️@hatunagi_yuzuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "dify_ai"
+              },
+              {
+                "end": 117,
+                "start": 101,
+                "username": "hatunagi_yuzuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twi.am",
+                "end": 96,
+                "expanded_url": "http://twi.am",
+                "start": 73,
+                "url": "https://t.co/2tmQZnKGJT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stv.lol",
+                "end": 23,
+                "expanded_url": "https://stv.lol",
+                "start": 0,
+                "url": "https://t.co/PMLgG4Hf3X"
+              }
+            ]
+          }
+        },
+        "id": "1329449687062032385",
+        "location": "Yuzuki's Heart ",
+        "name": "Steven Lynn",
+        "pinned_tweet_id": "1860631466264403977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663823879536787456/vVDRjDpF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3711,
+          "following_count": 737,
+          "like_count": 38250,
+          "listed_count": 25,
+          "tweet_count": 6894
+        },
+        "url": "https://t.co/PMLgG4Hf3X",
+        "username": "Stv_Lynn",
+        "verified": true
+      }
+    ]
+  }
+}

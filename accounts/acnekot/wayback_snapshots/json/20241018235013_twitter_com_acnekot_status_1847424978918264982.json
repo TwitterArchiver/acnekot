@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1847168484310188032"
+      ],
+      "media_source_tweet_id": [
+        "1847168489070764191"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "1847424978918264982",
+    "created_at": "2024-10-18T23:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-19T00:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847424978918264982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1432458662",
+          "start": 3,
+          "username": "hanmokka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DUad54JeVV",
+          "end": 43,
+          "expanded_url": "https://x.com/hanmokka/status/1847168489070764191/photo/1",
+          "media_key": "3_1847168484310188032",
+          "start": 20,
+          "url": "https://t.co/DUad54JeVV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847424978918264982",
+    "lang": "tl",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 271
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847168489070764191",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hanmokka: amiya https://t.co/DUad54JeVV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3600,
+        "media_key": "3_1847168484310188032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GaJ18yObAAARtzU.jpg",
+        "width": 3200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847168484310188032"
+          ],
+          "media_source_tweet_id": [
+            "1847168489070764191"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "1847424978918264982",
+        "created_at": "2024-10-18T23:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T00:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847424978918264982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1432458662",
+              "start": 3,
+              "username": "hanmokka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DUad54JeVV",
+              "end": 43,
+              "expanded_url": "https://x.com/hanmokka/status/1847168489070764191/photo/1",
+              "media_key": "3_1847168484310188032",
+              "start": 20,
+              "url": "https://t.co/DUad54JeVV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847424978918264982",
+        "lang": "tl",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 271
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847168489070764191",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hanmokka: amiya https://t.co/DUad54JeVV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847168484310188032"
+          ]
+        },
+        "author_id": "1432458662",
+        "conversation_id": "1847168489070764191",
+        "created_at": "2024-10-18T06:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T07:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847168489070764191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DUad54JeVV",
+              "end": 29,
+              "expanded_url": "https://x.com/hanmokka/status/1847168489070764191/photo/1",
+              "media_key": "3_1847168484310188032",
+              "start": 6,
+              "url": "https://t.co/DUad54JeVV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847168489070764191",
+        "lang": "tl",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 27168,
+          "like_count": 2129,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 271
+        },
+        "reply_settings": "everyone",
+        "text": "amiya https://t.co/DUad54JeVV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "awo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/acnekot",
+                "end": 23,
+                "expanded_url": "https://bonjour.bio/acnekot",
+                "start": 0,
+                "url": "https://t.co/dihqxxtjTA"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 362,
+          "like_count": 39606,
+          "listed_count": 4,
+          "tweet_count": 8004
+        },
+        "url": "https://t.co/dihqxxtjTA",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-16T08:05:17.000Z",
+        "description": "アークナイツ • 😈🥧/🐦✴  // AI 🚫\nhttps://t.co/RsPYW8FY7x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/hanmok…",
+                "end": 47,
+                "expanded_url": "https://bsky.app/profile/hanmokka.bsky.social",
+                "start": 24,
+                "url": "https://t.co/RsPYW8FY7x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/hanmokka",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/hanmokka",
+                "start": 0,
+                "url": "https://t.co/jhSdxrBeY1"
+              }
+            ]
+          }
+        },
+        "id": "1432458662",
+        "location": "IKEA",
+        "name": "モカ🧪",
+        "pinned_tweet_id": "1781366562169221259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781707206175739904/DfSdiPH__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5905,
+          "following_count": 77,
+          "like_count": 1394,
+          "listed_count": 36,
+          "tweet_count": 620
+        },
+        "url": "https://t.co/jhSdxrBeY1",
+        "username": "hanmokka",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1885257732779106479",
+    "created_at": "2025-02-02T08:07:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T09:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885963162434080978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1647170304844914689",
+          "start": 0,
+          "username": "DustSwallo15805"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885963162434080978",
+    "in_reply_to_user_id": "1647170304844914689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885257732779106479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DustSwallo15805 wait，这个杯子的比例，这玩意不是鸡腿？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1885257732779106479",
+        "created_at": "2025-02-02T08:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T09:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885963162434080978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885963162434080978",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885257732779106479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 wait，这个杯子的比例，这玩意不是鸡腿？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1885257725455851524",
+            "3_1885257725472604160"
+          ]
+        },
+        "author_id": "1647170304844914689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1885257732779106479",
+        "created_at": "2025-01-31T09:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T10:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885257732779106479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AgPhvEhmyF",
+              "end": 39,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1885257732779106479/photo/1",
+              "media_key": "3_1885257725455851524",
+              "start": 16,
+              "url": "https://t.co/AgPhvEhmyF"
+            },
+            {
+              "display_url": "pic.x.com/AgPhvEhmyF",
+              "end": 39,
+              "expanded_url": "https://x.com/DustSwallo15805/status/1885257732779106479/photo/1",
+              "media_key": "3_1885257725472604160",
+              "start": 16,
+              "url": "https://t.co/AgPhvEhmyF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885257732779106479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 37835,
+          "like_count": 287,
+          "quote_count": 3,
+          "reply_count": 134,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "谁能告诉一下这玩意应该怎么吃？ https://t.co/AgPhvEhmyF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "在忙着给自己改花刀",
+        "id": "1552213521253150720",
+        "location": "THE UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871051316312895489/MYVorhms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 384,
+          "like_count": 40699,
+          "listed_count": 3,
+          "media_count": 1774,
+          "tweet_count": 8247
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T09:29:47.000Z",
+        "description": "是个杂家，什么都沾点却什么也不精😇",
+        "id": "1647170304844914689",
+        "name": "Swallowing Dust",
+        "pinned_tweet_id": "1668093095173554176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883486987329634304/Y8qbCYNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 107,
+          "like_count": 5304,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 560
+        },
+        "username": "DustSwallo15805",
+        "verified": false
+      }
+    ]
+  }
+}

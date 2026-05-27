@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054459098121621504"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2054458226725597617",
+    "created_at": "2026-05-13T07:10:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T08:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054459157408075879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jI3Oo6UlNg",
+          "end": 57,
+          "expanded_url": "https://x.com/acnekot/status/2054459157408075879/photo/1",
+          "media_key": "3_2054459098121621504",
+          "start": 34,
+          "url": "https://t.co/jI3Oo6UlNg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054459157408075879",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054458226725597617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech 开源病毒？？还是简单修改就能部署，逗我呢 https://t.co/jI3Oo6UlNg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 580,
+        "media_key": "3_2054459098121621504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILnqi0b0AAsnOQ.jpg",
+        "width": 580
+      },
+      {
+        "height": 983,
+        "media_key": "3_2054458214532726784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILm3HMbQAA8x9K.jpg",
+        "width": 1600
+      },
+      {
+        "height": 900,
+        "media_key": "3_2054458214545252352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILm3HPaYAAv-gc.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054459098121621504"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2054458226725597617",
+        "created_at": "2026-05-13T07:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054459157408075879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jI3Oo6UlNg",
+              "end": 57,
+              "expanded_url": "https://x.com/acnekot/status/2054459157408075879/photo/1",
+              "media_key": "3_2054459098121621504",
+              "start": 34,
+              "url": "https://t.co/jI3Oo6UlNg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054459157408075879",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054458226725597617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech 开源病毒？？还是简单修改就能部署，逗我呢 https://t.co/jI3Oo6UlNg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054458214532726784",
+            "3_2054458214545252352"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2054458226725597617",
+        "created_at": "2026-05-13T07:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054458226725597617"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 19,
+              "tag": "TeamPCP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "ourl.co/112919",
+              "end": 169,
+              "expanded_url": "https://ourl.co/112919",
+              "start": 146,
+              "unwound_url": "https://www.landian.news/archives/112919.html",
+              "url": "https://t.co/rBKuAMwaWH"
+            },
+            {
+              "display_url": "pic.x.com/Rq0UGm6dbD",
+              "end": 193,
+              "expanded_url": "https://x.com/landiantech/status/2054458226725597617/photo/1",
+              "media_key": "3_2054458214532726784",
+              "start": 170,
+              "url": "https://t.co/Rq0UGm6dbD"
+            },
+            {
+              "display_url": "pic.x.com/Rq0UGm6dbD",
+              "end": 193,
+              "expanded_url": "https://x.com/landiantech/status/2054458226725597617/photo/1",
+              "media_key": "3_2054458214545252352",
+              "start": 170,
+              "url": "https://t.co/Rq0UGm6dbD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054458226725597617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 78,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "病毒开源也是开源？致力于供应链攻击的 #TeamPCP 团队在 GitHub 开源蠕虫病毒 Shai-Hulud，随后还有好心人贡献代码让蠕虫支持 FreeBSD (用户：我可谢谢你)。这个蠕虫病毒只需要简单修改即可部署使用，OX 分析师也确认代码是有效的，与黑客此前发起攻击使用的代码相同：https://t.co/rBKuAMwaWH https://t.co/Rq0UGm6dbD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 126,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 103,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2368,
+          "following_count": 796,
+          "like_count": 91882,
+          "listed_count": 7,
+          "media_count": 3815,
+          "tweet_count": 16232
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / OpenClaw 重度用户🦞🦞🦞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35061,
+          "following_count": 722,
+          "like_count": 4809,
+          "listed_count": 275,
+          "media_count": 5480,
+          "tweet_count": 15266
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

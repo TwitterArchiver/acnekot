@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017036042713567232"
+      ],
+      "media_source_tweet_id": [
+        "2017036050020065462"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2017039458902933755",
+    "created_at": "2026-01-30T00:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T01:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017039458902933755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1999007250829230080",
+          "start": 3,
+          "username": "DDaquaforever"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G4tDf0AExh",
+          "end": 42,
+          "expanded_url": "https://x.com/DDaquaforever/status/2017036050020065462/photo/1",
+          "media_key": "3_2017036042713567232",
+          "start": 19,
+          "url": "https://t.co/G4tDf0AExh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017039458902933755",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017036050020065462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDaquaforever: https://t.co/G4tDf0AExh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2017039458902933755].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2017039458902933755",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2017039458902933755"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2017036042713567232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_3zmBkaEAAl7v5.png",
+        "width": 712
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017036042713567232"
+          ]
+        },
+        "author_id": "1999007250829230080",
+        "conversation_id": "2017036050020065462",
+        "created_at": "2026-01-30T00:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T01:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017036050020065462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G4tDf0AExh",
+              "end": 23,
+              "expanded_url": "https://x.com/DDaquaforever/status/2017036050020065462/photo/1",
+              "media_key": "3_2017036042713567232",
+              "start": 0,
+              "url": "https://t.co/G4tDf0AExh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017036050020065462",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/G4tDf0AExh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者|不鉴证|欢迎和我互动|VRChat|无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語 以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\n\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "tg@nanno_64",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 726,
+          "like_count": 73821,
+          "listed_count": 6,
+          "media_count": 2460,
+          "tweet_count": 11224
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "不想多说什么了 可爱的YOYO：@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2186,
+          "following_count": 2671,
+          "like_count": 3292,
+          "listed_count": 9,
+          "media_count": 1251,
+          "tweet_count": 5349
+        },
+        "username": "DDaquaforever",
+        "verified": false
+      }
+    ]
+  }
+}

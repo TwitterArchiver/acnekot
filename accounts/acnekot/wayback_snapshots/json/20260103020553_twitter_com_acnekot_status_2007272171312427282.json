@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2007096599315636462",
+    "created_at": "2026-01-03T02:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T03:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007272171312427282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1905936813904281600",
+          "start": 0,
+          "username": "aaa_wmc"
+        },
+        {
+          "end": 16,
+          "id": "1613079089879076864",
+          "start": 9,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007272171312427282",
+    "in_reply_to_user_id": "1905936813904281600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007272008023978139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaa_wmc @Cldeop 何意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2007096599315636462",
+        "created_at": "2026-01-03T02:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T03:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007272171312427282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1905936813904281600",
+              "start": 0,
+              "username": "aaa_wmc"
+            },
+            {
+              "end": 16,
+              "id": "1613079089879076864",
+              "start": 9,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007272171312427282",
+        "in_reply_to_user_id": "1905936813904281600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007272008023978139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaa_wmc @Cldeop 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905936813904281600",
+        "conversation_id": "2007096599315636462",
+        "created_at": "2026-01-03T02:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T03:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007272008023978139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            },
+            {
+              "end": 16,
+              "id": "1613079089879076864",
+              "start": 9,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007272008023978139",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007107919498850512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot @Cldeop 我是滚木，有人线下吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "那天我本以为是暂别，没想到是永远\n我将沉寂在夜晚，但不知是否会天明",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mocat.asia",
+                "end": 23,
+                "expanded_url": "http://mocat.asia",
+                "start": 0,
+                "url": "https://t.co/raYZh1PkaB"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 558,
+          "like_count": 62105,
+          "listed_count": 5,
+          "media_count": 2086,
+          "tweet_count": 9668
+        },
+        "url": "https://t.co/raYZh1PkaB",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-29T10:55:34.000Z",
+        "description": "",
+        "id": "1905936813904281600",
+        "name": "AAA.熊谷玲🏳️‍⚧️🍥 全国可✈️㊙️㊙️㊙️🔞🔞🔞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993744313931714570/r3LzOFd4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 242,
+          "like_count": 476,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 447
+        },
+        "username": "aaa_wmc",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2006394934333710386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96559,
+          "following_count": 665,
+          "like_count": 33475,
+          "listed_count": 275,
+          "media_count": 14555,
+          "tweet_count": 21065
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

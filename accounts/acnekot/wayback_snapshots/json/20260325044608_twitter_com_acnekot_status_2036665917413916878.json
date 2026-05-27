@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2036620831166718002",
+    "created_at": "2026-03-25T04:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T05:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036665917413916878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2011761912187666432",
+          "start": 0,
+          "username": "RodneyWygl87443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036665917413916878",
+    "in_reply_to_user_id": "2011761912187666432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036662967224218011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RodneyWygl87443 骗人，我钱包里面哪有钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2036620831166718002",
+        "created_at": "2026-03-25T04:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036665917413916878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2011761912187666432",
+              "start": 0,
+              "username": "RodneyWygl87443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036665917413916878",
+        "in_reply_to_user_id": "2011761912187666432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036662967224218011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RodneyWygl87443 骗人，我钱包里面哪有钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011761912187666432",
+        "conversation_id": "2036620831166718002",
+        "created_at": "2026-03-25T04:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T05:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036662967224218011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036662967224218011",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036620831166718002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 你钱包里的钱刚刚是不是喊我名字了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动\n发言纯依靠我那微薄的知识 如有错意欢迎指正\nあなたと繋いだ それが浮遊感",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1865,
+          "following_count": 789,
+          "like_count": 87287,
+          "listed_count": 6,
+          "media_count": 3238,
+          "tweet_count": 14561
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-15T11:26:32.000Z",
+        "description": "",
+        "id": "2011761912187666432",
+        "name": "Ttyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011761928847212544/zFRIPc0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 81,
+          "like_count": 3485,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1013
+        },
+        "username": "RodneyWygl87443",
+        "verified": false
+      }
+    ]
+  }
+}

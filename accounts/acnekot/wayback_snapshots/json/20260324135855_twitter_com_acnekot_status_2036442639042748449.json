@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036442633346875392"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2036441390327144582",
+    "created_at": "2026-03-24T13:58:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T14:58:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036442639042748449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1842504398850928640",
+          "start": 0,
+          "username": "hsn8086k"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DEF6SYsE4t",
+          "end": 46,
+          "expanded_url": "https://x.com/acnekot/status/2036442639042748449/photo/1",
+          "media_key": "3_2036442633346875392",
+          "start": 23,
+          "url": "https://t.co/DEF6SYsE4t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036442639042748449",
+    "in_reply_to_user_id": "1842504398850928640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036441390327144582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086k 为什么我水群感觉我像傻子 https://t.co/DEF6SYsE4t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1082,
+        "media_key": "3_2036442633346875392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HELlyRYaAAA9SAX.jpg",
+        "width": 1082
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036442633346875392"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2036441390327144582",
+        "created_at": "2026-03-24T13:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036442639042748449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DEF6SYsE4t",
+              "end": 46,
+              "expanded_url": "https://x.com/acnekot/status/2036442639042748449/photo/1",
+              "media_key": "3_2036442633346875392",
+              "start": 23,
+              "url": "https://t.co/DEF6SYsE4t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036442639042748449",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036441390327144582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 为什么我水群感觉我像傻子 https://t.co/DEF6SYsE4t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2036441390327144582",
+        "created_at": "2026-03-24T13:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036441390327144582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/hsn8086/status/2036440465999012273",
+              "start": 21,
+              "url": "https://t.co/a2v9vT2ut9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036441390327144582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036440465999012273",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不得不说我和 npy 是水群认识的... https://t.co/a2v9vT2ut9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动\n发言纯依靠我那微薄的知识 如有错意欢迎指正\nあなたと繋いだ それが浮遊感",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1845,
+          "following_count": 789,
+          "like_count": 87235,
+          "listed_count": 6,
+          "media_count": 3231,
+          "tweet_count": 14545
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 194,
+          "like_count": 6068,
+          "listed_count": 5,
+          "media_count": 157,
+          "tweet_count": 1638
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

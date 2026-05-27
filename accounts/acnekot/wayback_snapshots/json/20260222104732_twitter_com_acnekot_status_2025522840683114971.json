@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025508601096540160",
+        "3_2025508601096482816",
+        "3_2025508601130074112",
+        "3_2025508601100668929"
+      ],
+      "media_source_tweet_id": [
+        "2025508611641012551",
+        "2025508611641012551",
+        "2025508611641012551",
+        "2025508611641012551"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2025522840683114971",
+    "created_at": "2026-02-22T10:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T11:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025522840683114971"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 17,
+          "tag": "三連休はフォロワーさんが増えるらしい"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1569793046447005696",
+          "start": 3,
+          "username": "nabegoroshi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9OGdPwywvz",
+          "end": 60,
+          "expanded_url": "https://x.com/nabegoroshi/status/2025508611641012551/photo/1",
+          "media_key": "3_2025508601096540160",
+          "start": 37,
+          "url": "https://t.co/9OGdPwywvz"
+        },
+        {
+          "display_url": "pic.x.com/9OGdPwywvz",
+          "end": 60,
+          "expanded_url": "https://x.com/nabegoroshi/status/2025508611641012551/photo/1",
+          "media_key": "3_2025508601096482816",
+          "start": 37,
+          "url": "https://t.co/9OGdPwywvz"
+        },
+        {
+          "display_url": "pic.x.com/9OGdPwywvz",
+          "end": 60,
+          "expanded_url": "https://x.com/nabegoroshi/status/2025508611641012551/photo/1",
+          "media_key": "3_2025508601130074112",
+          "start": 37,
+          "url": "https://t.co/9OGdPwywvz"
+        },
+        {
+          "display_url": "pic.x.com/9OGdPwywvz",
+          "end": 60,
+          "expanded_url": "https://x.com/nabegoroshi/status/2025508611641012551/photo/1",
+          "media_key": "3_2025508601100668929",
+          "start": 37,
+          "url": "https://t.co/9OGdPwywvz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025522840683114971",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025508611641012551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nabegoroshi: #三連休はフォロワーさんが増えるらしい https://t.co/9OGdPwywvz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025508601096540160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwNV1HbkAAAKoy.jpg",
+        "width": 1402
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025508601096482816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwNV1HasAAKzFh.jpg",
+        "width": 1705
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025508601130074112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwNV1PbQAAFMnE.jpg",
+        "width": 1515
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025508601100668929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwNV1IakAEuwtm.jpg",
+        "width": 1244
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025508601096540160",
+            "3_2025508601096482816",
+            "3_2025508601130074112",
+            "3_2025508601100668929"
+          ],
+          "media_source_tweet_id": [
+            "2025508611641012551",
+            "2025508611641012551",
+            "2025508611641012551",
+            "2025508611641012551"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2025522840683114971",
+        "created_at": "2026-02-22T10:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T11:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025522840683114971"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 17,
+              "tag": "三連休はフォロワーさんが増えるらしい"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1569793046447005696",
+              "start": 3,
+              "username": "nabegoroshi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9OGdPwywvz",
+              "end": 60,
+              "expanded_url": "https://x.com/nabegoroshi/status/2025508611641012551/photo/1",
+              "media_key": "3_2025508601096540160",
+              "start": 37,
+              "url": "https://t.co/9OGdPwywvz"
+            },
+            {
+              "display_url": "pic.x.com/9OGdPwywvz",
+              "end": 60,
+              "expanded_url": "https://x.com/nabegoroshi/status/2025508611641012551/photo/1",
+              "media_key": "3_2025508601096482816",
+              "start": 37,
+              "url": "https://t.co/9OGdPwywvz"
+            },
+            {
+              "display_url": "pic.x.com/9OGdPwywvz",
+              "end": 60,
+              "expanded_url": "https://x.com/nabegoroshi/status/2025508611641012551/photo/1",
+              "media_key": "3_2025508601130074112",
+              "start": 37,
+              "url": "https://t.co/9OGdPwywvz"
+            },
+            {
+              "display_url": "pic.x.com/9OGdPwywvz",
+              "end": 60,
+              "expanded_url": "https://x.com/nabegoroshi/status/2025508611641012551/photo/1",
+              "media_key": "3_2025508601100668929",
+              "start": 37,
+              "url": "https://t.co/9OGdPwywvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025522840683114971",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025508611641012551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nabegoroshi: #三連休はフォロワーさんが増えるらしい https://t.co/9OGdPwywvz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025508601096540160",
+            "3_2025508601096482816",
+            "3_2025508601130074112",
+            "3_2025508601100668929"
+          ]
+        },
+        "author_id": "1569793046447005696",
+        "conversation_id": "2025508611641012551",
+        "created_at": "2026-02-22T09:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T10:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025508611641012551"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 0,
+              "tag": "三連休はフォロワーさんが増えるらしい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9OGdPwywvz",
+              "end": 43,
+              "expanded_url": "https://x.com/nabegoroshi/status/2025508611641012551/photo/1",
+              "media_key": "3_2025508601096540160",
+              "start": 20,
+              "url": "https://t.co/9OGdPwywvz"
+            },
+            {
+              "display_url": "pic.x.com/9OGdPwywvz",
+              "end": 43,
+              "expanded_url": "https://x.com/nabegoroshi/status/2025508611641012551/photo/1",
+              "media_key": "3_2025508601096482816",
+              "start": 20,
+              "url": "https://t.co/9OGdPwywvz"
+            },
+            {
+              "display_url": "pic.x.com/9OGdPwywvz",
+              "end": 43,
+              "expanded_url": "https://x.com/nabegoroshi/status/2025508611641012551/photo/1",
+              "media_key": "3_2025508601130074112",
+              "start": 20,
+              "url": "https://t.co/9OGdPwywvz"
+            },
+            {
+              "display_url": "pic.x.com/9OGdPwywvz",
+              "end": 43,
+              "expanded_url": "https://x.com/nabegoroshi/status/2025508611641012551/photo/1",
+              "media_key": "3_2025508601100668929",
+              "start": 20,
+              "url": "https://t.co/9OGdPwywvz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025508611641012551",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1552,
+          "like_count": 138,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "#三連休はフォロワーさんが増えるらしい https://t.co/9OGdPwywvz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度｜好丽友派:@wxb_NB\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "wxb_NB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94kyF"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 779,
+          "like_count": 80790,
+          "listed_count": 6,
+          "media_count": 2728,
+          "tweet_count": 12669
+        },
+        "url": "https://t.co/HEkBb94kyF",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-13T21:00:17.000Z",
+        "description": "漫画/イラスト/動画 https://t.co/f8mvhEOWLh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@nabegoroshi",
+                "end": 34,
+                "expanded_url": "https://skeb.jp/@nabegoroshi",
+                "start": 11,
+                "url": "https://t.co/f8mvhEOWLh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nabegoroshi",
+                "end": 23,
+                "expanded_url": "https://lit.link/nabegoroshi",
+                "start": 0,
+                "url": "https://t.co/Vf74SZxmYu"
+              }
+            ]
+          }
+        },
+        "id": "1569793046447005696",
+        "name": "鍋564",
+        "pinned_tweet_id": "2018973174264971734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957857753474691072/MGcQGlfE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11839,
+          "following_count": 24,
+          "like_count": 1311,
+          "listed_count": 75,
+          "media_count": 403,
+          "tweet_count": 726
+        },
+        "url": "https://t.co/Vf74SZxmYu",
+        "username": "nabegoroshi",
+        "verified": true
+      }
+    ]
+  }
+}

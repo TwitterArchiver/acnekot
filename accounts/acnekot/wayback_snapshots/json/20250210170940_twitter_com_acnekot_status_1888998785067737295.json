@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "1888997037502501257",
+    "created_at": "2025-02-10T17:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T18:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888998785067737295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1418767108427550723",
+          "start": 0,
+          "username": "Ryan_19180"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888998785067737295",
+    "in_reply_to_user_id": "1418767108427550723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888998364572000356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ryan_19180 不知道，我名字都没有大改动🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "1888997037502501257",
+        "created_at": "2025-02-10T17:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T18:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888998785067737295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1418767108427550723",
+              "start": 0,
+              "username": "Ryan_19180"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888998785067737295",
+        "in_reply_to_user_id": "1418767108427550723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888998364572000356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ryan_19180 不知道，我名字都没有大改动🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418767108427550723",
+        "conversation_id": "1888997037502501257",
+        "created_at": "2025-02-10T17:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T18:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888998364572000356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888998364572000356",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888997037502501257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 你是谁？我为什么会关注你？🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "生活就像海洋，只有意志坚强的人才能到达彼岸\n人生は海のようなものだ。意志の強い人間のみが対岸にたどり着ける\nThis is an apple, i like apples,apples are good for our health.",
+        "id": "1552213521253150720",
+        "location": "UNKNOW.",
+        "name": "好奇猫a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871051316312895489/MYVorhms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 389,
+          "like_count": 41206,
+          "listed_count": 3,
+          "media_count": 1795,
+          "tweet_count": 8356
+        },
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T02:58:03.000Z",
+        "description": "I just want to play",
+        "id": "1418767108427550723",
+        "name": "Ryan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1485121344911994881/06y2QaxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 829,
+          "like_count": 18253,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 132
+        },
+        "username": "Ryan_19180",
+        "verified": false
+      }
+    ]
+  }
+}

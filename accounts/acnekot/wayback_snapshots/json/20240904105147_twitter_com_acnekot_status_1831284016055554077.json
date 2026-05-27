@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596731871232",
+          "name": "Banking - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10044592030",
+          "name": "HSBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      }
+    ],
+    "conversation_id": "1830998348704383295",
+    "created_at": "2024-09-04T10:51:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-04T11:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831284016055554077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1298928410358505473",
+          "start": 0,
+          "username": "echirru"
+        },
+        {
+          "end": 25,
+          "id": "1163276261168308224",
+          "start": 9,
+          "username": "17791532qweNASA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831284016055554077",
+    "in_reply_to_user_id": "1298928410358505473",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831137291471048934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@echirru @17791532qweNASA 还真是，我暑假送过hsbc的件收件人说等了很久🙃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044592030",
+              "name": "HSBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "1830998348704383295",
+        "created_at": "2024-09-04T10:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T11:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831284016055554077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1298928410358505473",
+              "start": 0,
+              "username": "echirru"
+            },
+            {
+              "end": 25,
+              "id": "1163276261168308224",
+              "start": 9,
+              "username": "17791532qweNASA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831284016055554077",
+        "in_reply_to_user_id": "1298928410358505473",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831137291471048934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@echirru @17791532qweNASA 还真是，我暑假送过hsbc的件收件人说等了很久🙃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1298928410358505473",
+        "conversation_id": "1830998348704383295",
+        "created_at": "2024-09-04T01:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T02:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831137291471048934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1163276261168308224",
+              "start": 0,
+              "username": "17791532qweNASA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831137291471048934",
+        "in_reply_to_user_id": "1163276261168308224",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 539,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830998348704383295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17791532qweNASA 先别急🤗，先给邮政烧高香"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "真理就是没真理",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "177404.xyz",
+                "end": 23,
+                "expanded_url": "http://177404.xyz",
+                "start": 0,
+                "url": "https://t.co/Jk6nRkHp3d"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 330,
+          "like_count": 36738,
+          "listed_count": 5,
+          "tweet_count": 7625
+        },
+        "url": "https://t.co/Jk6nRkHp3d",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-27T10:21:13.000Z",
+        "description": "破碎的记忆/是过于普通啥都不会的废柴的乙乙/也可以叫我“孤久为安”or\"Ann\"(安)/ LGBTQ+ 友好/国际主义 Internationalist/碎碎念/ https://t.co/tZFEFrfpW2 /频道及频道群生人勿入！/头像及横幅来自@mari_kosaji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 126,
+                "username": "mari_kosaji"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/echirru",
+                "end": 105,
+                "expanded_url": "http://t.me/echirru",
+                "start": 82,
+                "url": "https://t.co/tZFEFrfpW2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "echiru.top",
+                "end": 23,
+                "expanded_url": "https://echiru.top",
+                "start": 0,
+                "url": "https://t.co/u5a2ZMl1yx"
+              }
+            ]
+          }
+        },
+        "id": "1298928410358505473",
+        "location": "World",
+        "name": "CH₃COOC₂H₅",
+        "pinned_tweet_id": "1440319129211133975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774425150970306560/nUFajo36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2681,
+          "following_count": 743,
+          "like_count": 46029,
+          "listed_count": 26,
+          "tweet_count": 14761
+        },
+        "url": "https://t.co/u5a2ZMl1yx",
+        "username": "echirru",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-19T02:27:38.000Z",
+        "description": "精勤求學 敦篤勵志 果毅力行 忠恕任事 為世界之光/卡诺定理：所有工作于两恒温热源之间的热机，以可逆热机的效率为最高，并且所有可逆热机的效率都相等，它只与两恒温热源温度有关，与工作物质无关",
+        "id": "1163276261168308224",
+        "location": "科学之奥府，艺术之林园-北宇治高校物理学部量子力学教研组",
+        "name": "Kousaka Reina的卡诺定理",
+        "pinned_tweet_id": "1582789106714611712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820381448303497216/KOhW9EPL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1868,
+          "following_count": 979,
+          "like_count": 16779,
+          "listed_count": 17,
+          "tweet_count": 9828
+        },
+        "username": "17791532qweNASA",
+        "verified": false
+      }
+    ]
+  }
+}

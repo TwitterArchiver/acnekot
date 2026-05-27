@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2039884205866541469",
+    "created_at": "2026-04-03T01:54:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T02:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039884295242953040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1809315506740162565",
+          "start": 0,
+          "username": "ywz708"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039884295242953040",
+    "in_reply_to_user_id": "1809315506740162565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039884205866541469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ywz708 我去不早说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2039884205866541469",
+        "created_at": "2026-04-03T01:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T02:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039884295242953040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1809315506740162565",
+              "start": 0,
+              "username": "ywz708"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039884295242953040",
+        "in_reply_to_user_id": "1809315506740162565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039884205866541469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ywz708 我去不早说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809315506740162565",
+        "conversation_id": "2039884205866541469",
+        "created_at": "2026-04-03T01:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T02:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039884205866541469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/acnekot/status…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/acnekot/status/2039706615511920961",
+              "start": 27,
+              "url": "https://t.co/K4sTgJbnCG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039884205866541469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039706615511920961",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在小时候大人也不是来解决问题的，是来给我制造问题的😄 https://t.co/K4sTgJbnCG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n小窝只过熟人和互关\n回fo只回面熟\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 103,
+                "username": "nanno_64"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "距离你1.5KM",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1978,
+          "following_count": 786,
+          "like_count": 88609,
+          "listed_count": 6,
+          "media_count": 3340,
+          "tweet_count": 14951
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-05T19:57:16.000Z",
+        "description": "s 发烧&碎碎念小号 我推是我的狗（什\n\n可以叫我猫猫哦 我会很开心 \n猫好人坏！",
+        "id": "1809315506740162565",
+        "name": "：△",
+        "pinned_tweet_id": "1931318661936976201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809317125175275522/pv1Auhfi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 12,
+          "like_count": 133,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 967
+        },
+        "username": "ywz708",
+        "verified": false
+      }
+    ]
+  }
+}

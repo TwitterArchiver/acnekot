@@ -1,0 +1,132 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "16_1803469167200444416"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "1803469225203474614",
+    "created_at": "2024-06-19T16:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T17:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1803469225203474614"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/XQKJMqfP3S",
+          "end": 23,
+          "expanded_url": "https://twitter.com/acnekot/status/1803469225203474614/photo/1",
+          "media_key": "16_1803469167200444416",
+          "start": 0,
+          "url": "https://t.co/XQKJMqfP3S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803469225203474614",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/XQKJMqfP3S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "16_1803469167200444416",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GQc1pwJaIAAPPW3.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GQc1pwJaIAAPPW3.mp4"
+          }
+        ],
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "16_1803469167200444416"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "1803469225203474614",
+        "created_at": "2024-06-19T16:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T17:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803469225203474614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/XQKJMqfP3S",
+              "end": 23,
+              "expanded_url": "https://twitter.com/acnekot/status/1803469225203474614/photo/1",
+              "media_key": "16_1803469167200444416",
+              "start": 0,
+              "url": "https://t.co/XQKJMqfP3S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803469225203474614",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XQKJMqfP3S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "我已然丢失自我",
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "A'CID",
+        "pinned_tweet_id": "1774830360578384099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 322,
+          "like_count": 34060,
+          "listed_count": 5,
+          "tweet_count": 7310
+        },
+        "username": "acnekot",
+        "verified": false
+      }
+    ]
+  }
+}

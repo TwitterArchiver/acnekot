@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2053495585853034892",
+    "created_at": "2026-05-11T14:34:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T15:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053846192006836247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028456227680993280",
+          "start": 0,
+          "username": "Tvin_master"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053846192006836247",
+    "in_reply_to_user_id": "2028456227680993280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053843285282836930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Tvin_master 我敢用是因为我的ip比较纯，其实基本上还是用中转连rikkahub用，为此我自己搭了中转（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2053495585853034892",
+        "created_at": "2026-05-11T14:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053846192006836247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028456227680993280",
+              "start": 0,
+              "username": "Tvin_master"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053846192006836247",
+        "in_reply_to_user_id": "2028456227680993280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053843285282836930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Tvin_master 我敢用是因为我的ip比较纯，其实基本上还是用中转连rikkahub用，为此我自己搭了中转（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028456227680993280",
+        "conversation_id": "2053495585853034892",
+        "created_at": "2026-05-11T14:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T15:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053843285282836930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053843285282836930",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053495585853034892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@acnekot 刚被 ban\n现在在用 API 中转😟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 126,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 103,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2329,
+          "following_count": 797,
+          "like_count": 91812,
+          "listed_count": 7,
+          "media_count": 3805,
+          "tweet_count": 16205
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-02T13:04:48.000Z",
+        "description": "男| he/him | 不是跨不是同 | 蟒蛇语言受益者 | Claude Code 重度依赖用户 {但是没钱续 Pro 了😊}\n*如果说话冒犯到你了实在不好意思 我不善于表述我的情绪*\n推星野 希望和你交个朋友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/zfLZqptMdv"
+              }
+            ]
+          }
+        },
+        "id": "2028456227680993280",
+        "location": "localhost",
+        "name": "DELETED ACCOUNT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028458666555551744/NIccXzU9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 30,
+          "like_count": 403,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 175
+        },
+        "url": "https://t.co/zfLZqptMdv",
+        "username": "Tvin_master",
+        "verified": false
+      }
+    ]
+  }
+}

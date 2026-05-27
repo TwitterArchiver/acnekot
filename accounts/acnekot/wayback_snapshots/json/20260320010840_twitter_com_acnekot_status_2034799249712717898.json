@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034799122918907907",
+        "3_2034799132943294468"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2034667537951338592",
+    "created_at": "2026-03-20T01:08:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T02:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034799249712717898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1863439189909618688",
+          "start": 0,
+          "username": "hsn8086xe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qcxn1AAuKM",
+          "end": 61,
+          "expanded_url": "https://x.com/acnekot/status/2034799249712717898/photo/1",
+          "media_key": "3_2034799122918907907",
+          "start": 38,
+          "url": "https://t.co/Qcxn1AAuKM"
+        },
+        {
+          "display_url": "pic.x.com/Qcxn1AAuKM",
+          "end": 61,
+          "expanded_url": "https://x.com/acnekot/status/2034799249712717898/photo/1",
+          "media_key": "3_2034799132943294468",
+          "start": 38,
+          "url": "https://t.co/Qcxn1AAuKM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034799249712717898",
+    "in_reply_to_user_id": "1863439189909618688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034667537951338592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086xe 左边GPT 右边grok\n不得不说grok是真宽松啊 https://t.co/Qcxn1AAuKM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 87,
+        "media_key": "3_2034799122918907907",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD0PBX7boAM_AB-.png",
+        "width": 474
+      },
+      {
+        "height": 136,
+        "media_key": "3_2034799132943294468",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD0PB9RboAQnyos.png",
+        "width": 419
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2034667503625134081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDyXUH2bYAEXevt.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034799122918907907",
+            "3_2034799132943294468"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2034667537951338592",
+        "created_at": "2026-03-20T01:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T02:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034799249712717898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qcxn1AAuKM",
+              "end": 61,
+              "expanded_url": "https://x.com/acnekot/status/2034799249712717898/photo/1",
+              "media_key": "3_2034799122918907907",
+              "start": 38,
+              "url": "https://t.co/Qcxn1AAuKM"
+            },
+            {
+              "display_url": "pic.x.com/Qcxn1AAuKM",
+              "end": 61,
+              "expanded_url": "https://x.com/acnekot/status/2034799249712717898/photo/1",
+              "media_key": "3_2034799132943294468",
+              "start": 38,
+              "url": "https://t.co/Qcxn1AAuKM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034799249712717898",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034667537951338592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe 左边GPT 右边grok\n不得不说grok是真宽松啊 https://t.co/Qcxn1AAuKM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034667503625134081"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2034667537951338592",
+        "created_at": "2026-03-19T16:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T17:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034667537951338592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9jnrLsbWl8",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2034667537951338592/photo/1",
+              "media_key": "3_2034667503625134081",
+              "start": 0,
+              "url": "https://t.co/9jnrLsbWl8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034667537951338592",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 4186,
+          "like_count": 125,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9jnrLsbWl8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动\n发言纯依靠我那微薄的知识 如有错意欢迎指正\nあなたと繋いだ それが浮遊感",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1755,
+          "following_count": 785,
+          "like_count": 86222,
+          "listed_count": 6,
+          "media_count": 3127,
+          "tweet_count": 14273
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35226,
+          "following_count": 351,
+          "like_count": 159,
+          "listed_count": 98,
+          "media_count": 12057,
+          "tweet_count": 12129
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

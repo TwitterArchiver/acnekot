@@ -1,0 +1,415 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2025095935047700480"
+      ],
+      "media_source_tweet_id": [
+        "2025095993126212056"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1471629300579241986",
+          "name": "Blender"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1273386679273807873",
+          "name": "3D animation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1471629300579241986",
+          "name": "Blender"
+        }
+      }
+    ],
+    "conversation_id": "2025148544429281514",
+    "created_at": "2026-02-21T10:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T11:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025148544429281514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "980148853306417152",
+          "start": 3,
+          "username": "arukuremu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wEjM4Hs3n4",
+          "end": 61,
+          "expanded_url": "https://x.com/arukuremu/status/2025095993126212056/video/1",
+          "media_key": "13_2025095935047700480",
+          "start": 38,
+          "url": "https://t.co/wEjM4Hs3n4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025148544429281514",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025095993126212056",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @arukuremu: 映像その1\nBlenderに初挑戦しました。 https://t.co/wEjM4Hs3n4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27625,
+        "height": 1080,
+        "media_key": "13_2025095935047700480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2025095935047700480/img/l4lKwACicFl5FwvI.jpg",
+        "public_metrics": {
+          "view_count": 5766
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025095935047700480/vid/avc1/1920x1080/SsVgw8GfiSp1vtcQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025095935047700480/pl/rYa_3csLBj324ShU.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025095935047700480/vid/avc1/1280x720/ZuCfNR1RPjZMbupQ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025095935047700480/vid/avc1/640x360/Fxc9nCJCxyH2h7GZ.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025095935047700480/vid/avc1/480x270/0MWG-l0cfU5hEW76.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025095935047700480"
+          ],
+          "media_source_tweet_id": [
+            "2025095993126212056"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1471629300579241986",
+              "name": "Blender"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1471629300579241986",
+              "name": "Blender"
+            }
+          }
+        ],
+        "conversation_id": "2025148544429281514",
+        "created_at": "2026-02-21T10:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T11:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025148544429281514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "980148853306417152",
+              "start": 3,
+              "username": "arukuremu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wEjM4Hs3n4",
+              "end": 61,
+              "expanded_url": "https://x.com/arukuremu/status/2025095993126212056/video/1",
+              "media_key": "13_2025095935047700480",
+              "start": 38,
+              "url": "https://t.co/wEjM4Hs3n4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025148544429281514",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025095993126212056",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @arukuremu: 映像その1\nBlenderに初挑戦しました。 https://t.co/wEjM4Hs3n4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025095935047700480"
+          ]
+        },
+        "author_id": "980148853306417152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1471629300579241986",
+              "name": "Blender"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273386679273807873",
+              "name": "3D animation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1471629300579241986",
+              "name": "Blender"
+            }
+          }
+        ],
+        "conversation_id": "2025095993126212056",
+        "created_at": "2026-02-21T06:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025095993126212056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wEjM4Hs3n4",
+              "end": 46,
+              "expanded_url": "https://x.com/arukuremu/status/2025095993126212056/video/1",
+              "media_key": "13_2025095935047700480",
+              "start": 23,
+              "url": "https://t.co/wEjM4Hs3n4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025095993126212056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 15382,
+          "like_count": 744,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "reply_settings": "following",
+        "text": "映像その1\nBlenderに初挑戦しました。 https://t.co/wEjM4Hs3n4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 776,
+          "like_count": 80501,
+          "listed_count": 6,
+          "media_count": 2709,
+          "tweet_count": 12574
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-31T18:24:31.000Z",
+        "description": "YouTube - https://t.co/wpFwfqivZY kyumaru906(at)gmail. com | #art_906",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "art_906"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCtwSC…",
+                "end": 33,
+                "expanded_url": "http://youtube.com/channel/UCtwSCTpftyPm4-TBf9S6kfQ",
+                "start": 10,
+                "url": "https://t.co/wpFwfqivZY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/62414278",
+                "end": 23,
+                "expanded_url": "http://nicovideo.jp/mylist/62414278",
+                "start": 0,
+                "url": "https://t.co/cUqNRds8Uz"
+              }
+            ]
+          }
+        },
+        "id": "980148853306417152",
+        "name": "r-906",
+        "pinned_tweet_id": "2006385631707230668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981589439945060352/2Vj7iP2Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96954,
+          "following_count": 990,
+          "like_count": 9024,
+          "listed_count": 482,
+          "media_count": 422,
+          "tweet_count": 3386
+        },
+        "url": "https://t.co/cUqNRds8Uz",
+        "username": "arukuremu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -5,5 +5,14 @@
   "location": "我活着 我思考 我睡觉",
   "link": "catsuki.cc",
   "avatar": "avatar/avatar.jpg",
-  "banner": "avatar/1500x500.jpg"
+  "banner": "avatar/1500x500.jpg",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 30,
+        "start": 16,
+        "username": "acnekot_tan90"
+      }
+    ]
+  }
 }

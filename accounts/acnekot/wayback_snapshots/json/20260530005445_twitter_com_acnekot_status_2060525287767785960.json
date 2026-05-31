@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2060291044281844199",
+    "created_at": "2026-05-30T00:54:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T01:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060525287767785960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "36659991",
+          "start": 0,
+          "username": "kenw_2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060525287767785960",
+    "in_reply_to_user_id": "36659991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060291044281844199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kenw_2 确实很干净"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9966,
+        "height": 1920,
+        "media_key": "13_2060290992436125699",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060290992436125699/img/Cy-ko-RMwpr6cpV3.jpg",
+        "public_metrics": {
+          "view_count": 9748
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060290992436125699/pl/fu9X--CT2NU2pzHa.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060290992436125699/vid/avc1/320x568/PYXc8Tf4FR1DQkcs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060290992436125699/vid/avc1/720x1280/Pie0jk-KkcqLCuoN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060290992436125699/vid/avc1/480x852/rODNhAnir-fkVuwa.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060290992436125699/vid/avc1/1080x1920/oOqWA088dtiVH0u6.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2060291044281844199",
+        "created_at": "2026-05-30T00:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T01:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060525287767785960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "36659991",
+              "start": 0,
+              "username": "kenw_2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060525287767785960",
+        "in_reply_to_user_id": "36659991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060291044281844199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kenw_2 确实很干净"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060290992436125699"
+          ]
+        },
+        "author_id": "36659991",
+        "conversation_id": "2060291044281844199",
+        "created_at": "2026-05-29T09:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060291044281844199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iFW2VcfDzK",
+              "end": 46,
+              "expanded_url": "https://x.com/kenw_2/status/2060291044281844199/video/1",
+              "media_key": "13_2060290992436125699",
+              "start": 23,
+              "url": "https://t.co/iFW2VcfDzK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060291044281844199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 21486,
+          "like_count": 298,
+          "quote_count": 9,
+          "reply_count": 11,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "这是哪位大师的vibe coding神作么？ https://t.co/iFW2VcfDzK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 126,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 103,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2462,
+          "following_count": 799,
+          "like_count": 93127,
+          "listed_count": 10,
+          "media_count": 3938,
+          "tweet_count": 16713
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-30T13:22:37.000Z",
+        "description": "An old friend, stay curious, stay human.",
+        "id": "36659991",
+        "location": "The Earth",
+        "name": "Ken W",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944368718231801856/MThgS-Qy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173675,
+          "following_count": 469,
+          "like_count": 2757,
+          "listed_count": 569,
+          "media_count": 2252,
+          "tweet_count": 7899
+        },
+        "username": "kenw_2",
+        "verified": true
+      }
+    ]
+  }
+}

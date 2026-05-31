@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2060261556827595209",
+    "created_at": "2026-05-29T18:26:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T19:26:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060427691367743875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20008…",
+          "end": 39,
+          "expanded_url": "https://x.com/i/status/2000895027963416809",
+          "start": 16,
+          "url": "https://t.co/7poLLhkC2b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060427691367743875",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000895027963416809",
+        "type": "quoted"
+      },
+      {
+        "id": "2060261556827595209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 早就可以了 https://t.co/7poLLhkC2b"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16558,
+        "height": 1080,
+        "media_key": "13_2000894782508576768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000894782508576768/img/cMpw84ZlfjqCuAOM.jpg",
+        "public_metrics": {
+          "view_count": 39
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000894782508576768/pl/vw5HRS2O5pKW9etD.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000894782508576768/vid/avc1/1280x720/3aHZY-BczXOzYKTU.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000894782508576768/vid/avc1/1920x1080/a3amKhWIAPzSIdbe.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000894782508576768/vid/avc1/480x270/CsQbmgTrpADuagtu.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000894782508576768/vid/avc1/640x360/Ooo0rGUZR2vR3s4S.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 120999,
+        "height": 544,
+        "media_key": "7_2060261461713424384",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2060261461713424384/pu/img/x8bL8hqru9dxWjt4.jpg",
+        "public_metrics": {
+          "view_count": 2713
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060261461713424384/pu/vid/avc1/478x270/SwahfFVD-39PL2-8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060261461713424384/pu/vid/avc1/638x360/mIgRQaVLv0KFV6uh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060261461713424384/pu/vid/avc1/966x544/KNMSuqAAvSDa8pQA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2060261461713424384/pu/pl/drchW9oHLf6xX23R.m3u8?v=cfc"
+          }
+        ],
+        "width": 967
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2060261556827595209",
+        "created_at": "2026-05-29T18:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T19:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060427691367743875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20008…",
+              "end": 39,
+              "expanded_url": "https://x.com/i/status/2000895027963416809",
+              "start": 16,
+              "url": "https://t.co/7poLLhkC2b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060427691367743875",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000895027963416809",
+            "type": "quoted"
+          },
+          {
+            "id": "2060261556827595209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 早就可以了 https://t.co/7poLLhkC2b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000894782508576768"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000895027963416809",
+        "created_at": "2025-12-16T11:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T12:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000895027963416809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C9DoRkV0N7",
+              "end": 38,
+              "expanded_url": "https://x.com/acnekot/status/2000895027963416809/video/1",
+              "media_key": "13_2000894782508576768",
+              "start": 15,
+              "url": "https://t.co/C9DoRkV0N7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000895027963416809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然说很抽象，但是它还挺好玩 https://t.co/C9DoRkV0N7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2060261461713424384"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "conversation_id": "2060261556827595209",
+        "created_at": "2026-05-29T07:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060261556827595209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UDfQG2WuGu",
+              "end": 31,
+              "expanded_url": "https://x.com/jlxc2001/status/2060261556827595209/video/1",
+              "media_key": "7_2060261461713424384",
+              "start": 8,
+              "url": "https://t.co/UDfQG2WuGu"
+            },
+            {
+              "display_url": "x.com/Meguminsama200…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/Meguminsama2009/status/2060257975563075956",
+              "start": 32,
+              "url": "https://t.co/ivGER5GO24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060261556827595209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9286,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060257975563075956",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有的兄弟，有的 https://t.co/UDfQG2WuGu https://t.co/ivGER5GO24"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 126,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 103,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2461,
+          "following_count": 799,
+          "like_count": 93112,
+          "listed_count": 10,
+          "media_count": 3937,
+          "tweet_count": 16705
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n公司在深圳和江西萍乡，有手机或者汽车发布会的时候，发布会所在城市线下可面基\n\nこちら技術オタクです（たぶん\nガジェット、DIY、そして初音ミクが大好きなプロダクトマネージャーです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7xqCz"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "pinned_tweet_id": "2059940003623621082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17351,
+          "following_count": 215,
+          "like_count": 576,
+          "listed_count": 41,
+          "media_count": 1113,
+          "tweet_count": 2938
+        },
+        "url": "https://t.co/pIA1Q7xqCz",
+        "username": "jlxc2001",
+        "verified": true
+      }
+    ]
+  }
+}

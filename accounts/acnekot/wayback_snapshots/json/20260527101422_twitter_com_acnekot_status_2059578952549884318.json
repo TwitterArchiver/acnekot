@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2059566719744835695",
+    "created_at": "2026-05-27T10:14:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T11:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059578952549884318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1799009511333830656",
+          "start": 0,
+          "username": "canmi21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059578952549884318",
+    "in_reply_to_user_id": "1799009511333830656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059566719744835695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@canmi21 这是什么🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 528,
+        "media_key": "3_2059566409483751424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUMvMSbEAA69ju.jpg",
+        "width": 2052
+      },
+      {
+        "height": 444,
+        "media_key": "3_2059566680926527488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUM-_fbIAAMvPs.jpg",
+        "width": 2176
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2059566719744835695",
+        "created_at": "2026-05-27T10:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T11:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059578952549884318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1799009511333830656",
+              "start": 0,
+              "username": "canmi21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059578952549884318",
+        "in_reply_to_user_id": "1799009511333830656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059566719744835695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@canmi21 这是什么🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059566409483751424",
+            "3_2059566680926527488"
+          ]
+        },
+        "author_id": "1799009511333830656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059566719744835695",
+        "created_at": "2026-05-27T09:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059566719744835695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/51egVC0tkZ",
+              "end": 35,
+              "expanded_url": "https://x.com/canmi21/status/2059566719744835695/photo/1",
+              "media_key": "3_2059566409483751424",
+              "start": 12,
+              "url": "https://t.co/51egVC0tkZ"
+            },
+            {
+              "display_url": "pic.x.com/51egVC0tkZ",
+              "end": 35,
+              "expanded_url": "https://x.com/canmi21/status/2059566719744835695/photo/1",
+              "media_key": "3_2059566680926527488",
+              "start": 12,
+              "url": "https://t.co/51egVC0tkZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059566719744835695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一代人有一代人的免费🥚 https://t.co/51egVC0tkZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 126,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 103,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426,
+          "following_count": 799,
+          "like_count": 92988,
+          "listed_count": 9,
+          "media_count": 3917,
+          "tweet_count": 16632
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-07T09:24:43.000Z",
+        "description": "猫不错 | Software & Hardware Developer | CN/EN/JP\n摸摸 Rust x TS | INFP(2025) INFJ(2023) ENTP (2019)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ill.li",
+                "end": 23,
+                "expanded_url": "https://ill.li",
+                "start": 0,
+                "url": "https://t.co/4w4PKDF6lx"
+              }
+            ]
+          }
+        },
+        "id": "1799009511333830656",
+        "location": "Carolina",
+        "name": "Canmi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043309116349915136/HEoWBPua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1986,
+          "following_count": 171,
+          "like_count": 16245,
+          "listed_count": 17,
+          "media_count": 689,
+          "tweet_count": 4542
+        },
+        "url": "https://t.co/4w4PKDF6lx",
+        "username": "canmi21",
+        "verified": true
+      }
+    ]
+  }
+}

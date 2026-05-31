@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2060162236593885504",
+    "created_at": "2026-05-29T18:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T19:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060427371581469016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2008812080099672064",
+          "start": 0,
+          "username": "Xiaoyi_0324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060427371581469016",
+    "in_reply_to_user_id": "2008812080099672064",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060162236593885504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Xiaoyi_0324 👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2060162236593885504",
+        "created_at": "2026-05-29T18:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T19:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060427371581469016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2008812080099672064",
+              "start": 0,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060427371581469016",
+        "in_reply_to_user_id": "2008812080099672064",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060162236593885504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Xiaoyi_0324 👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2060162236593885504",
+        "created_at": "2026-05-29T00:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T01:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060162236593885504"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060162236593885504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 19187,
+          "like_count": 437,
+          "quote_count": 1,
+          "reply_count": 335,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "测试一下 这条推文只有我的社交圈可以回复\n我看看都有谁(👀)\nQAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 126,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 103,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2461,
+          "following_count": 799,
+          "like_count": 93111,
+          "listed_count": 10,
+          "media_count": 3937,
+          "tweet_count": 16704
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞|爱人:@YuChenawa|直fo成分回|友跨/同类直接回(没看到要私信🥹|MTFTX|出柜:26/4/30|家长不管党?|无证含糖|🍥:26/5/26|碎碎念移步@NiaoYou83766|第二人格:@Ruai_0324|求求你了来玩提問箱吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "YuChenawa"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "NiaoYou83766"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "Ruai_0324"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi0324",
+                "start": 0,
+                "url": "https://t.co/SiMjjU6DSn"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "location": "工作郵箱:Ruai@transcircle.org",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2059891753067659361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966864163880960/7aHicZzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 298,
+          "like_count": 1453,
+          "listed_count": 5,
+          "media_count": 244,
+          "tweet_count": 1866
+        },
+        "url": "https://t.co/SiMjjU6DSn",
+        "username": "Xiaoyi_0324",
+        "verified": true
+      }
+    ]
+  }
+}

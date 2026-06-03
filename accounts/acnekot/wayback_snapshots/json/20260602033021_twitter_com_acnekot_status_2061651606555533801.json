@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061437053930463232"
+      ],
+      "media_source_tweet_id": [
+        "2061437074327454008"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2061651606555533801",
+    "created_at": "2026-06-02T03:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T04:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061651606555533801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "214416286",
+          "start": 3,
+          "username": "harumaki_gohan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wAxkZdq8sY",
+          "end": 74,
+          "expanded_url": "https://x.com/harumaki_gohan/status/2061437074327454008/photo/1",
+          "media_key": "3_2061437053930463232",
+          "start": 51,
+          "url": "https://t.co/wAxkZdq8sY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061651606555533801",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 287
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061437074327454008",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @harumaki_gohan: 弾き語り配信ありがとうございました\nまたやるので来てください https://t.co/wAxkZdq8sY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2061437053930463232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuyFB5aYAA5HZ4.jpg",
+        "width": 3084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061437053930463232"
+          ],
+          "media_source_tweet_id": [
+            "2061437074327454008"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2061651606555533801",
+        "created_at": "2026-06-02T03:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061651606555533801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "214416286",
+              "start": 3,
+              "username": "harumaki_gohan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wAxkZdq8sY",
+              "end": 74,
+              "expanded_url": "https://x.com/harumaki_gohan/status/2061437074327454008/photo/1",
+              "media_key": "3_2061437053930463232",
+              "start": 51,
+              "url": "https://t.co/wAxkZdq8sY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061651606555533801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 287
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061437074327454008",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @harumaki_gohan: 弾き語り配信ありがとうございました\nまたやるので来てください https://t.co/wAxkZdq8sY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061437053930463232"
+          ]
+        },
+        "author_id": "214416286",
+        "conversation_id": "2061437074327454008",
+        "created_at": "2026-06-01T13:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061437074327454008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wAxkZdq8sY",
+              "end": 54,
+              "expanded_url": "https://x.com/harumaki_gohan/status/2061437074327454008/photo/1",
+              "media_key": "3_2061437053930463232",
+              "start": 31,
+              "url": "https://t.co/wAxkZdq8sY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061437074327454008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 46136,
+          "like_count": 2235,
+          "quote_count": 39,
+          "reply_count": 22,
+          "retweet_count": 287
+        },
+        "reply_settings": "everyone",
+        "text": "弾き語り配信ありがとうございました\nまたやるので来てください https://t.co/wAxkZdq8sY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2467,
+          "following_count": 799,
+          "like_count": 93431,
+          "listed_count": 10,
+          "media_count": 3952,
+          "tweet_count": 16794
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2010-11-11T10:47:14.000Z",
+        "description": "ボカロP　🍚 Music / Illustration / Animation / 作ります  \nアニメ「お姉ちゃんごっこ」制作中 \nYouTube : https://t.co/JgkbDhiXBt \nniconico : https://t.co/FE9T9LLE2P",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/harumakigohan",
+                "end": 100,
+                "expanded_url": "http://youtube.com/c/harumakigohan",
+                "start": 77,
+                "url": "https://t.co/JgkbDhiXBt"
+              },
+              {
+                "display_url": "nicovideo.jp/mylist/57349416",
+                "end": 136,
+                "expanded_url": "http://nicovideo.jp/mylist/57349416",
+                "start": 113,
+                "url": "https://t.co/FE9T9LLE2P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "harumakigohan.com",
+                "end": 23,
+                "expanded_url": "https://harumakigohan.com",
+                "start": 0,
+                "url": "https://t.co/yXvQ8we9fz"
+              }
+            ]
+          }
+        },
+        "id": "214416286",
+        "location": "Melty Land",
+        "name": "はるまきごはん",
+        "pinned_tweet_id": "2050103107833807219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035655168470200320/5ze9Q6KK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238064,
+          "following_count": 993,
+          "like_count": 12346,
+          "listed_count": 1492,
+          "media_count": 2054,
+          "tweet_count": 16071
+        },
+        "url": "https://t.co/yXvQ8we9fz",
+        "username": "harumaki_gohan",
+        "verified": true
+      }
+    ]
+  }
+}

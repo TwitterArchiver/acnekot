@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2061400766682898770",
+    "created_at": "2026-06-01T11:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T12:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061412678476976313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1619675758519271424",
+          "start": 0,
+          "username": "_816R_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061412678476976313",
+    "in_reply_to_user_id": "1619675758519271424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061411758410207261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_816R_ 红米k70u"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2061400766682898770",
+        "created_at": "2026-06-01T11:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061412678476976313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1619675758519271424",
+              "start": 0,
+              "username": "_816R_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061412678476976313",
+        "in_reply_to_user_id": "1619675758519271424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061411758410207261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_816R_ 红米k70u"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619675758519271424",
+        "conversation_id": "2061400766682898770",
+        "created_at": "2026-06-01T11:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061411758410207261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061411758410207261",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061400766682898770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 是国行还是外版（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2466,
+          "following_count": 798,
+          "like_count": 93348,
+          "listed_count": 10,
+          "media_count": 3951,
+          "tweet_count": 16774
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-29T12:37:32.000Z",
+        "description": "编辑个人资料???\n17y.r. | ISFP-T | 啥也不会",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "816r.org",
+                "end": 23,
+                "expanded_url": "https://www.816r.org/",
+                "start": 0,
+                "url": "https://t.co/1uFsaoFBMF"
+              }
+            ]
+          }
+        },
+        "id": "1619675758519271424",
+        "location": "127.0.0.1",
+        "name": "816R",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620661216866881536/50ZhXpJ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 127,
+          "like_count": 4436,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 327
+        },
+        "url": "https://t.co/1uFsaoFBMF",
+        "username": "_816R_",
+        "verified": false
+      }
+    ]
+  }
+}

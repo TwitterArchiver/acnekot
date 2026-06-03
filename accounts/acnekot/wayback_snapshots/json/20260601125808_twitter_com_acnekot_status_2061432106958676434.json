@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2061424130180919325",
+    "created_at": "2026-06-01T12:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T13:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061432106958676434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1768487038645678080",
+          "start": 0,
+          "username": "Yamada_Ryoooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061432106958676434",
+    "in_reply_to_user_id": "1768487038645678080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061424130180919325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yamada_Ryoooo 是我了，这玩意是真上瘾\n←从免费账号到自建api中转"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2061424120575975425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJumUNZaYAEU73h.jpg",
+        "width": 994
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2061424130180919325",
+        "created_at": "2026-06-01T12:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T13:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061432106958676434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1768487038645678080",
+              "start": 0,
+              "username": "Yamada_Ryoooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061432106958676434",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061424130180919325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryoooo 是我了，这玩意是真上瘾\n←从免费账号到自建api中转"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061424120575975425"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "2061424130180919325",
+        "created_at": "2026-06-01T12:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T13:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061424130180919325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/efBmqMo9St",
+              "end": 109,
+              "expanded_url": "https://x.com/Yamada_Ryoooo/status/2061424130180919325/photo/1",
+              "media_key": "3_2061424120575975425",
+              "start": 86,
+              "url": "https://t.co/efBmqMo9St"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061424130180919325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 35,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用opus真的会上瘾的😭😭😭\n以前Gemini3.1pro的代码我都能接受，自从爽用了三天kiro给的opus我就再也回不去了只用antigravity的opus了😭😭😭 https://t.co/efBmqMo9St"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2466,
+          "following_count": 798,
+          "like_count": 93362,
+          "listed_count": 10,
+          "media_count": 3951,
+          "tweet_count": 16779
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": " ｜中度抑郁-重度焦虑｜INFP\n里推@YamadaRyoooooo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "YamadaRyoooooo"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "山田リョウ⛩️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027658918839914498/2HURmpiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6556,
+          "following_count": 1015,
+          "like_count": 17725,
+          "listed_count": 23,
+          "media_count": 1797,
+          "tweet_count": 9863
+        },
+        "username": "Yamada_Ryoooo",
+        "verified": true
+      }
+    ]
+  }
+}

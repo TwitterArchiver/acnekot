@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2061109275183763912",
+    "created_at": "2026-06-02T03:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T04:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061654644359921913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3159447194",
+          "start": 0,
+          "username": "doodlehuang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061654644359921913",
+    "in_reply_to_user_id": "3159447194",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061109275183763912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@doodlehuang 逆天"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061109270658109443",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJqH9iDXUAM45Gr.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061109270649749506",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJqH9iBXwAIC2R_.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2061109275183763912",
+        "created_at": "2026-06-02T03:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061654644359921913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3159447194",
+              "start": 0,
+              "username": "doodlehuang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061654644359921913",
+        "in_reply_to_user_id": "3159447194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061109275183763912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doodlehuang 逆天"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061109270658109443",
+            "3_2061109270649749506"
+          ]
+        },
+        "author_id": "3159447194",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2061109275183763912",
+        "created_at": "2026-05-31T15:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061109275183763912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/htm1nM78dN",
+              "end": 108,
+              "expanded_url": "https://x.com/doodlehuang/status/2061109275183763912/photo/1",
+              "media_key": "3_2061109270658109443",
+              "start": 85,
+              "url": "https://t.co/htm1nM78dN"
+            },
+            {
+              "display_url": "pic.x.com/htm1nM78dN",
+              "end": 108,
+              "expanded_url": "https://x.com/doodlehuang/status/2061109275183763912/photo/1",
+              "media_key": "3_2061109270649749506",
+              "start": 85,
+              "url": "https://t.co/htm1nM78dN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061109275183763912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 112572,
+          "like_count": 301,
+          "quote_count": 1,
+          "reply_count": 35,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "GitHub不是小红书！！吉林科技职业学院的谢子涵（音译自 Zihan Xie），虽然不知道是不是真实身份，但是你觉得用AI在这发狗咬狗的spam，能为你的简历添光吗？ https://t.co/htm1nM78dN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2467,
+          "following_count": 799,
+          "like_count": 93444,
+          "listed_count": 10,
+          "media_count": 3953,
+          "tweet_count": 16798
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2015-04-16T10:27:22.000Z",
+        "description": "原创内容为主 拒绝无良搬运 请放心观看",
+        "id": "3159447194",
+        "name": "Doodle Huang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045583834100408320/1FneSkFb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 101,
+          "like_count": 2778,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 661
+        },
+        "username": "doodlehuang",
+        "verified": true
+      }
+    ]
+  }
+}

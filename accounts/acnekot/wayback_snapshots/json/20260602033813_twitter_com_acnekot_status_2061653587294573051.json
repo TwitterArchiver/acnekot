@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2061653587294573051",
+    "created_at": "2026-06-02T03:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T04:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061653587294573051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "770222871083819009",
+          "start": 3,
+          "username": "sasuke_maschine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061653587294573051",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 204
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061320493588959709",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sasuke_maschine: 確かに、したかも"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2061653587294573051",
+        "created_at": "2026-06-02T03:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061653587294573051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "770222871083819009",
+              "start": 3,
+              "username": "sasuke_maschine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061653587294573051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 204
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061320493588959709",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sasuke_maschine: 確かに、したかも"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "770222871083819009",
+        "conversation_id": "2061320493588959709",
+        "created_at": "2026-06-01T05:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T06:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061320493588959709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/adachirei0/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/adachirei0/status/2061270281071804642",
+              "start": 9,
+              "url": "https://t.co/jOxjOyne4Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061320493588959709",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 101735,
+          "like_count": 2908,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 204
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061270281071804642",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "確かに、したかも https://t.co/jOxjOyne4Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2467,
+          "following_count": 799,
+          "like_count": 93438,
+          "listed_count": 10,
+          "media_count": 3953,
+          "tweet_count": 16797
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2016-08-29T11:33:37.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sasukeharaguchi",
+                "end": 23,
+                "expanded_url": "https://lit.link/sasukeharaguchi",
+                "start": 0,
+                "url": "https://t.co/3iUICqD7Yq"
+              }
+            ]
+          }
+        },
+        "id": "770222871083819009",
+        "name": "原口沙輔",
+        "pinned_tweet_id": "2060375981777621163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655045120398614528/p7GyXCA5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154243,
+          "following_count": 5060,
+          "like_count": 48608,
+          "listed_count": 430,
+          "media_count": 1075,
+          "tweet_count": 13298
+        },
+        "url": "https://t.co/3iUICqD7Yq",
+        "username": "sasuke_maschine",
+        "verified": false
+      }
+    ]
+  }
+}

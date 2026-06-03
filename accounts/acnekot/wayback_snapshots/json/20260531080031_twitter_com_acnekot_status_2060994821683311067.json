@@ -1,0 +1,582 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060754668213641216"
+      ],
+      "media_source_tweet_id": [
+        "2060754673951477883"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247289661778571264",
+          "name": "Utaite"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297717277677166593",
+          "name": "Karaoke"
+        }
+      }
+    ],
+    "conversation_id": "2060994821683311067",
+    "created_at": "2026-05-31T08:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T09:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060994821683311067"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 100,
+          "start": 94,
+          "tag": "歌ってみた"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1633929885306720257",
+          "start": 3,
+          "username": "PoshikaSakigane"
+        }
+      ],
+      "urls": [
+        {
+          "description": "原曲:なきそ 様https://youtu.be/3iUgKH8c7p4?si=dinElIgosHvpeye1MIX:いるふぁ...",
+          "display_url": "youtu.be/2zIBN61O2SA?si…",
+          "end": 72,
+          "expanded_url": "https://youtu.be/2zIBN61O2SA?si=-aBCoWbjyvpiY7n2",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2060742985025982464/rMidzWmZ?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2060742985025982464/rMidzWmZ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 49,
+          "status": 200,
+          "title": "【cover】いますぐ輪廻/咲鐘 星架",
+          "unwound_url": "https://www.youtube.com/watch?si=-aBCoWbjyvpiY7n2&v=2zIBN61O2SA&feature=youtu.be",
+          "url": "https://t.co/SnABit6hnr"
+        },
+        {
+          "display_url": "pic.x.com/BBlWeZyngn",
+          "end": 124,
+          "expanded_url": "https://x.com/PoshikaSakigane/status/2060754673951477883/photo/1",
+          "media_key": "3_2060754668213641216",
+          "start": 101,
+          "url": "https://t.co/BBlWeZyngn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060994821683311067",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060754673951477883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @PoshikaSakigane: 【cover】いますぐ輪廻/咲鐘 星架\n投稿しました！\nhttps://t.co/SnABit6hnr\n原曲:なきそ 様\nMIX:いるふぁな 様\n#歌ってみた https://t.co/BBlWeZyngn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2060754668213641216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJlFc9AaIAAYNex.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060754668213641216"
+          ],
+          "media_source_tweet_id": [
+            "2060754673951477883"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "2060994821683311067",
+        "created_at": "2026-05-31T08:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T09:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060994821683311067"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 94,
+              "tag": "歌ってみた"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1633929885306720257",
+              "start": 3,
+              "username": "PoshikaSakigane"
+            }
+          ],
+          "urls": [
+            {
+              "description": "原曲:なきそ 様https://youtu.be/3iUgKH8c7p4?si=dinElIgosHvpeye1MIX:いるふぁ...",
+              "display_url": "youtu.be/2zIBN61O2SA?si…",
+              "end": 72,
+              "expanded_url": "https://youtu.be/2zIBN61O2SA?si=-aBCoWbjyvpiY7n2",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2060742985025982464/rMidzWmZ?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2060742985025982464/rMidzWmZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 49,
+              "status": 200,
+              "title": "【cover】いますぐ輪廻/咲鐘 星架",
+              "unwound_url": "https://www.youtube.com/watch?si=-aBCoWbjyvpiY7n2&v=2zIBN61O2SA&feature=youtu.be",
+              "url": "https://t.co/SnABit6hnr"
+            },
+            {
+              "display_url": "pic.x.com/BBlWeZyngn",
+              "end": 124,
+              "expanded_url": "https://x.com/PoshikaSakigane/status/2060754673951477883/photo/1",
+              "media_key": "3_2060754668213641216",
+              "start": 101,
+              "url": "https://t.co/BBlWeZyngn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060994821683311067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060754673951477883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @PoshikaSakigane: 【cover】いますぐ輪廻/咲鐘 星架\n投稿しました！\nhttps://t.co/SnABit6hnr\n原曲:なきそ 様\nMIX:いるふぁな 様\n#歌ってみた https://t.co/BBlWeZyngn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060754668213641216"
+          ]
+        },
+        "author_id": "1633929885306720257",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "2060754673951477883",
+        "created_at": "2026-05-30T16:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060754673951477883"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 73,
+              "tag": "歌ってみた"
+            }
+          ],
+          "urls": [
+            {
+              "description": "原曲:なきそ 様https://youtu.be/3iUgKH8c7p4?si=dinElIgosHvpeye1MIX:いるふぁ...",
+              "display_url": "youtu.be/2zIBN61O2SA?si…",
+              "end": 51,
+              "expanded_url": "https://youtu.be/2zIBN61O2SA?si=-aBCoWbjyvpiY7n2",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2060742985025982464/rMidzWmZ?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2060742985025982464/rMidzWmZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 28,
+              "status": 200,
+              "title": "【cover】いますぐ輪廻/咲鐘 星架",
+              "unwound_url": "https://www.youtube.com/watch?si=-aBCoWbjyvpiY7n2&v=2zIBN61O2SA&feature=youtu.be",
+              "url": "https://t.co/SnABit6hnr"
+            },
+            {
+              "display_url": "pic.x.com/BBlWeZyngn",
+              "end": 103,
+              "expanded_url": "https://x.com/PoshikaSakigane/status/2060754673951477883/photo/1",
+              "media_key": "3_2060754668213641216",
+              "start": 80,
+              "url": "https://t.co/BBlWeZyngn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060754673951477883",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 12737,
+          "like_count": 814,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "【cover】いますぐ輪廻/咲鐘 星架\n投稿しました！\nhttps://t.co/SnABit6hnr\n原曲:なきそ 様\nMIX:いるふぁな 様\n#歌ってみた https://t.co/BBlWeZyngn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat同名\n发言纯依靠我那微薄的知识 如有错意欢迎指正\n\nあなたと繋いだ それが浮遊感\n里推/tg:@nanno_64\n生成推特互动圈https://t.co/nm8NG97Rrg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "nanno_64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "circle.catsuki.cc",
+                "end": 126,
+                "expanded_url": "http://circle.catsuki.cc",
+                "start": 103,
+                "url": "https://t.co/nm8NG97Rrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "我活着 我思考 我睡觉",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2463,
+          "following_count": 797,
+          "like_count": 93264,
+          "listed_count": 10,
+          "media_count": 3946,
+          "tweet_count": 16753
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-09T20:37:12.000Z",
+        "description": "僕含むすべてに見えている共通幻覚。暮星の宴（一次創作）→（@Kurehoshi_utage） 感想→ #ぽしか讃頌 FA→ #ぽしか最強伝説 \n規約や案件について等→https://t.co/7RF9YnAozd",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "ぽしか讃頌"
+              },
+              {
+                "end": 70,
+                "start": 62,
+                "tag": "ぽしか最強伝説"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 45,
+                "start": 29,
+                "username": "Kurehoshi_utage"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "profcard.info/u/5pR67oUq0GTp…",
+                "end": 106,
+                "expanded_url": "https://profcard.info/u/5pR67oUq0GTpfT7WGwTrLLvzZQF2",
+                "start": 83,
+                "url": "https://t.co/7RF9YnAozd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@poshikasakiga…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@poshikasakigane?si=msDm1aXBXo_J5IA7",
+                "start": 0,
+                "url": "https://t.co/3Z8LEBqdmg"
+              }
+            ]
+          }
+        },
+        "id": "1633929885306720257",
+        "location": "イラストの無断使用や転載禁止。詳細は規約へ",
+        "name": "咲鐘 星架",
+        "pinned_tweet_id": "2060754673951477883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987148807805825024/24PF-4SG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14658,
+          "following_count": 90,
+          "like_count": 2705,
+          "listed_count": 63,
+          "media_count": 320,
+          "tweet_count": 2170
+        },
+        "url": "https://t.co/3Z8LEBqdmg",
+        "username": "PoshikaSakigane",
+        "verified": false
+      }
+    ]
+  }
+}

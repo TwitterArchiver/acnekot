@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061518358416334848",
+        "3_2061518358416433152",
+        "3_2061518358420525056"
+      ],
+      "media_source_tweet_id": [
+        "2061583572520071384",
+        "2061583572520071384",
+        "2061583572520071384"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2061607985240268869",
+    "created_at": "2026-06-02T00:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T01:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061607985240268869"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 13,
+          "tag": "超かぐや姫"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813736523046817792",
+          "start": 3,
+          "username": "imT0nyS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iANbni18qR",
+          "end": 52,
+          "expanded_url": "https://x.com/imT0nyS/status/2061583572520071384/photo/1",
+          "media_key": "3_2061518358416334848",
+          "start": 29,
+          "url": "https://t.co/iANbni18qR"
+        },
+        {
+          "display_url": "pic.x.com/iANbni18qR",
+          "end": 52,
+          "expanded_url": "https://x.com/imT0nyS/status/2061583572520071384/photo/1",
+          "media_key": "3_2061518358416433152",
+          "start": 29,
+          "url": "https://t.co/iANbni18qR"
+        },
+        {
+          "display_url": "pic.x.com/iANbni18qR",
+          "end": 52,
+          "expanded_url": "https://x.com/imT0nyS/status/2061583572520071384/photo/1",
+          "media_key": "3_2061518358420525056",
+          "start": 29,
+          "url": "https://t.co/iANbni18qR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061607985240268869",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 165
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061583572520071384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @imT0nyS: #超かぐや姫\nいろはの制服！🏫 https://t.co/iANbni18qR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2061607985240268869].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2061607985240268869",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2061607985240268869"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1940,
+        "media_key": "3_2061518358416334848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJv8BktaIAAIQUx.jpg",
+        "width": 1400
+      },
+      {
+        "height": 2330,
+        "media_key": "3_2061518358416433152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJv8BktboAAwYVf.jpg",
+        "width": 1400
+      },
+      {
+        "height": 1210,
+        "media_key": "3_2061518358420525056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJv8BkuaEAAd9Q9.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061518358416334848",
+            "3_2061518358416433152",
+            "3_2061518358420525056"
+          ]
+        },
+        "author_id": "1813736523046817792",
+        "conversation_id": "2061583572520071384",
+        "created_at": "2026-06-01T23:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T00:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061583572520071384"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iANbni18qR",
+              "end": 39,
+              "expanded_url": "https://x.com/imT0nyS/status/2061583572520071384/photo/1",
+              "media_key": "3_2061518358416334848",
+              "start": 16,
+              "url": "https://t.co/iANbni18qR"
+            },
+            {
+              "display_url": "pic.x.com/iANbni18qR",
+              "end": 39,
+              "expanded_url": "https://x.com/imT0nyS/status/2061583572520071384/photo/1",
+              "media_key": "3_2061518358416433152",
+              "start": 16,
+              "url": "https://t.co/iANbni18qR"
+            },
+            {
+              "display_url": "pic.x.com/iANbni18qR",
+              "end": 39,
+              "expanded_url": "https://x.com/imT0nyS/status/2061583572520071384/photo/1",
+              "media_key": "3_2061518358420525056",
+              "start": 16,
+              "url": "https://t.co/iANbni18qR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061583572520071384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 164,
+          "impression_count": 4573,
+          "like_count": 884,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 165
+        },
+        "reply_settings": "everyone",
+        "text": "#超かぐや姫\nいろはの制服！🏫 https://t.co/iANbni18qR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2467,
+          "following_count": 798,
+          "like_count": 93383,
+          "listed_count": 10,
+          "media_count": 3952,
+          "tweet_count": 16783
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-18T00:44:27.000Z",
+        "description": "🍀*约稿爆满啦！将于八月份重新开放~~🍀\n\n谢谢你打开了我的主页、谢谢你看到了这条简介，还要再谢谢你发现了我的谢谢！🍀\nᗜˬᗜ\n我非常喜欢CPK！\n\npixiv：https://t.co/Vx70akGtyk\n🍀个人网站↓↓↓*约稿、联系方式、建议箱*🍀",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/65407506",
+                "end": 104,
+                "expanded_url": "https://www.pixiv.net/users/65407506",
+                "start": 81,
+                "url": "https://t.co/Vx70akGtyk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/t0nys",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/t0nys",
+                "start": 0,
+                "url": "https://t.co/BfNa1P3EO6"
+              }
+            ]
+          }
+        },
+        "id": "1813736523046817792",
+        "name": "T0nyS",
+        "pinned_tweet_id": "2049762908138275247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813736667628683264/EniEqFtm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27236,
+          "following_count": 685,
+          "like_count": 3319,
+          "listed_count": 108,
+          "media_count": 187,
+          "tweet_count": 967
+        },
+        "url": "https://t.co/BfNa1P3EO6",
+        "username": "imT0nyS",
+        "verified": true
+      }
+    ]
+  }
+}

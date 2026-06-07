@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2061697319959994429",
+    "created_at": "2026-06-02T06:34:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T07:34:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061698040675893422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        },
+        {
+          "end": 22,
+          "id": "1689053928",
+          "start": 13,
+          "username": "telegram"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061698040675893422",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061697319959994429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech @telegram 好事啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1014,
+        "media_key": "3_2061673556346548224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJyJLSDaMAAl8hQ.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2061697319959994429",
+        "created_at": "2026-06-02T06:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T07:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061698040675893422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            },
+            {
+              "end": 22,
+              "id": "1689053928",
+              "start": 13,
+              "username": "telegram"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061698040675893422",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061697319959994429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech @telegram 好事啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061673556346548224"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2061697319959994429",
+        "created_at": "2026-06-02T06:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T07:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061697319959994429"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "Telegram"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 88,
+              "id": "1689053928",
+              "start": 79,
+              "username": "telegram"
+            }
+          ],
+          "urls": [
+            {
+              "description": "#软件资讯 Telegram 桌面客户端现已原生支持简体中文和繁体中文，不需要再安装非官方语言包。在 4 月份 Telegram f…",
+              "display_url": "ourl.co/113212?x",
+              "end": 168,
+              "expanded_url": "https://ourl.co/113212?x",
+              "start": 145,
+              "status": 200,
+              "title": "Telegram桌面客户端现已原生支持简体中文 无需安装非官方语言包",
+              "unwound_url": "https://www.landian.news/archives/113212.html?utm_campaign=share&utm_source=x.com&utm_medium=social&utm_content=landiantech&utm_term=landian-default",
+              "url": "https://t.co/Vv1wDydpDW"
+            },
+            {
+              "display_url": "pic.x.com/LP5ls3jHGo",
+              "end": 192,
+              "expanded_url": "https://x.com/landiantech/status/2061697319959994429/photo/1",
+              "media_key": "3_2061673556346548224",
+              "start": 169,
+              "url": "https://t.co/LP5ls3jHGo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061697319959994429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#Telegram 桌面客户端现已原生支持简体中文和繁体中文，不需要再安装非官方语言包。\n\n在 4 月份 iOS / 安卓版率先带来官方版中文包的支持，现在 @Telegram for macOS/Windows 也带来官方中文包，升级到最新版后转到设置的语言选项里切换即可。\n\n查看详情：https://t.co/Vv1wDydpDW https://t.co/LP5ls3jHGo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2466,
+          "following_count": 800,
+          "like_count": 93516,
+          "listed_count": 9,
+          "media_count": 3953,
+          "tweet_count": 16807
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / OpenClaw 重度用户🦞🦞🦞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "pinned_tweet_id": "2061311181663715671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35616,
+          "following_count": 727,
+          "like_count": 4904,
+          "listed_count": 276,
+          "media_count": 5671,
+          "tweet_count": 15646
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-21T19:47:05.000Z",
+        "description": "Simple, fast, secure – and synced across all your devices. One of the top 5 most-downloaded apps in the world with over 1 billion active users.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.org",
+                "end": 23,
+                "expanded_url": "http://telegram.org",
+                "start": 0,
+                "url": "https://t.co/zHAc9lS7Jy"
+              }
+            ]
+          }
+        },
+        "id": "1689053928",
+        "name": "Telegram Messenger",
+        "pinned_tweet_id": "2056790887095763337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1183117696730390529/LRDASku7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1943775,
+          "following_count": 9,
+          "like_count": 6740,
+          "listed_count": 4535,
+          "media_count": 3928,
+          "tweet_count": 50517
+        },
+        "url": "https://t.co/zHAc9lS7Jy",
+        "username": "telegram",
+        "verified": true
+      }
+    ]
+  }
+}

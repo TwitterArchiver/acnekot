@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2061746835862212828",
+    "created_at": "2026-06-02T11:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061777901918564685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1656785328680886277",
+          "start": 0,
+          "username": "scted544901"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061777901918564685",
+    "in_reply_to_user_id": "1656785328680886277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061767100809789692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scted544901 我这边是名字写的网名海关审核7次最后打电话才给我过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2061746835862212828",
+        "created_at": "2026-06-02T11:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061777901918564685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1656785328680886277",
+              "start": 0,
+              "username": "scted544901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061777901918564685",
+        "in_reply_to_user_id": "1656785328680886277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061767100809789692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scted544901 我这边是名字写的网名海关审核7次最后打电话才给我过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656785328680886277",
+        "conversation_id": "2061746835862212828",
+        "created_at": "2026-06-02T11:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061767100809789692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061767100809789692",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061746835862212828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 海淘时候最好在地址后面写上手机号，要不快递员联系不上就直接不送😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2473,
+          "following_count": 799,
+          "like_count": 93544,
+          "listed_count": 9,
+          "media_count": 3959,
+          "tweet_count": 16825
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-11T22:16:27.000Z",
+        "description": "一个普通人，只是没事想说说话罢了。\n自用高速专线IPLC/IEPL机场➡➡ https://t.co/bgsZcDDCyg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cmy5.network/register?aff=H…",
+                "end": 61,
+                "expanded_url": "https://cmy5.network/register?aff=HBVX",
+                "start": 38,
+                "url": "https://t.co/bgsZcDDCyg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cmy5.network/register?aff=H…",
+                "end": 23,
+                "expanded_url": "https://cmy5.network/register?aff=HBVX",
+                "start": 0,
+                "url": "https://t.co/bgsZcDDCyg"
+              }
+            ]
+          }
+        },
+        "id": "1656785328680886277",
+        "location": "亚洲",
+        "name": "scted",
+        "pinned_tweet_id": "2059161914308198760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657295538335907840/l8J9whaQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 24,
+          "like_count": 4867,
+          "listed_count": 2,
+          "media_count": 848,
+          "tweet_count": 4625
+        },
+        "url": "https://t.co/bgsZcDDCyg",
+        "username": "scted544901",
+        "verified": true
+      }
+    ]
+  }
+}

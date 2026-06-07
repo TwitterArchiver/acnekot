@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2061715361591087597",
+    "created_at": "2026-06-02T08:45:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T09:45:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061730845170495509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "850937205040087040",
+          "start": 0,
+          "username": "HarukawaSayaka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061730845170495509",
+    "in_reply_to_user_id": "850937205040087040",
+    "lang": "ro",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061715361591087597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HarukawaSayaka CVE-2026-66767: Sun Jun Remote Login Vulnerability"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 424,
+        "media_key": "3_2061715354607587328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJyvMQtakAA91_e.png",
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2061715361591087597",
+        "created_at": "2026-06-02T08:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061730845170495509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "850937205040087040",
+              "start": 0,
+              "username": "HarukawaSayaka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061730845170495509",
+        "in_reply_to_user_id": "850937205040087040",
+        "lang": "ro",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061715361591087597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HarukawaSayaka CVE-2026-66767: Sun Jun Remote Login Vulnerability"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061715354607587328"
+          ]
+        },
+        "author_id": "850937205040087040",
+        "conversation_id": "2061715361591087597",
+        "created_at": "2026-06-02T07:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061715361591087597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fUxYD6VT00",
+              "end": 23,
+              "expanded_url": "https://x.com/HarukawaSayaka/status/2061715361591087597/photo/1",
+              "media_key": "3_2061715354607587328",
+              "start": 0,
+              "url": "https://t.co/fUxYD6VT00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061715361591087597",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fUxYD6VT00"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2469,
+          "following_count": 800,
+          "like_count": 93542,
+          "listed_count": 9,
+          "media_count": 3957,
+          "tweet_count": 16820
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2017-04-09T05:03:34.000Z",
+        "description": "e/acc | harukawa.eth | sayaka.sol | 東方好き @touhou_works | 🦋https://t.co/2AAZSRcbGd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "touhou_works"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "harukawasayaka.bsky.social",
+                "end": 81,
+                "expanded_url": "http://harukawasayaka.bsky.social",
+                "start": 58,
+                "url": "https://t.co/2AAZSRcbGd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "baka.studio",
+                "end": 23,
+                "expanded_url": "https://baka.studio",
+                "start": 0,
+                "url": "https://t.co/5cRUMpg22J"
+              }
+            ]
+          }
+        },
+        "id": "850937205040087040",
+        "location": "Machida-shi, Tokyo",
+        "name": "晴猫@幻夢結社",
+        "pinned_tweet_id": "1954584081175658619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004808436408832000/_O8KiHpR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21778,
+          "following_count": 11633,
+          "like_count": 49971,
+          "listed_count": 52,
+          "media_count": 2072,
+          "tweet_count": 13703
+        },
+        "url": "https://t.co/5cRUMpg22J",
+        "username": "HarukawaSayaka",
+        "verified": true
+      }
+    ]
+  }
+}

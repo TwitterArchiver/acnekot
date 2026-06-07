@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2062896998328816039",
+    "created_at": "2026-06-05T15:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062917685604999357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828985250162323456",
+          "start": 0,
+          "username": "hishn948957"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062917685604999357",
+    "in_reply_to_user_id": "1828985250162323456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062916888133562463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hishn948957 要大量消耗的，deepseek说是有sonnet水平，编码好像还可以，我是决策让claude看，然后deepseek跑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2062896998328816039",
+        "created_at": "2026-06-05T15:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062917685604999357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828985250162323456",
+              "start": 0,
+              "username": "hishn948957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062917685604999357",
+        "in_reply_to_user_id": "1828985250162323456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062916888133562463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hishn948957 要大量消耗的，deepseek说是有sonnet水平，编码好像还可以，我是决策让claude看，然后deepseek跑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828985250162323456",
+        "conversation_id": "2062896998328816039",
+        "created_at": "2026-06-05T15:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062916888133562463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062916888133562463",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062896998328816039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot deepseek 用来做啥比较好（思考"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2479,
+          "following_count": 798,
+          "like_count": 93677,
+          "listed_count": 9,
+          "media_count": 3969,
+          "tweet_count": 16867
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-29T02:37:49.000Z",
+        "description": "沉淀ing.",
+        "id": "1828985250162323456",
+        "name": "白",
+        "pinned_tweet_id": "2014678800689435113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941141219477712896/2rdSKM0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 198,
+          "like_count": 8912,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1342
+        },
+        "username": "hishn948957",
+        "verified": false
+      }
+    ]
+  }
+}

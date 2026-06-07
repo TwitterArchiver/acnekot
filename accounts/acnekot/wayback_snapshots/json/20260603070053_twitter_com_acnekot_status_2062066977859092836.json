@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062066928211136512"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2062066977859092836",
+    "created_at": "2026-06-03T07:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T08:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062066977859092836"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6cyUiHWZij",
+          "end": 33,
+          "expanded_url": "https://x.com/acnekot/status/2062066977859092836/photo/1",
+          "media_key": "3_2062066928211136512",
+          "start": 10,
+          "url": "https://t.co/6cyUiHWZij"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062066977859092836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我月底没钱我就这样 https://t.co/6cyUiHWZij"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 359,
+        "media_key": "3_2062066928211136512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3u8icbEAAPc3R.png",
+        "width": 282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062066928211136512"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2062066977859092836",
+        "created_at": "2026-06-03T07:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062066977859092836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6cyUiHWZij",
+              "end": 33,
+              "expanded_url": "https://x.com/acnekot/status/2062066977859092836/photo/1",
+              "media_key": "3_2062066928211136512",
+              "start": 10,
+              "url": "https://t.co/6cyUiHWZij"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062066977859092836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我月底没钱我就这样 https://t.co/6cyUiHWZij"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2472,
+          "following_count": 797,
+          "like_count": 93583,
+          "listed_count": 9,
+          "media_count": 3961,
+          "tweet_count": 16834
+        },
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

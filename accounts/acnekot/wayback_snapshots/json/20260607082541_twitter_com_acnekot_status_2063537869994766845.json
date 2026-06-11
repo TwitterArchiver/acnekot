@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2063390664273088979",
+    "created_at": "2026-06-07T08:25:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T09:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063537869994766845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1351485882696548357",
+          "start": 0,
+          "username": "OnlyAppleCanDo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063537869994766845",
+    "in_reply_to_user_id": "1351485882696548357",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063535748054487503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OnlyAppleCanDo www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2063390664273088979",
+        "created_at": "2026-06-07T08:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063537869994766845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1351485882696548357",
+              "start": 0,
+              "username": "OnlyAppleCanDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063537869994766845",
+        "in_reply_to_user_id": "1351485882696548357",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063535748054487503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OnlyAppleCanDo www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1351485882696548357",
+        "conversation_id": "2063390664273088979",
+        "created_at": "2026-06-07T08:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T09:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063535748054487503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063535748054487503",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063531772420469072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 好奇貓要天天好奇哦😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2520,
+          "following_count": 799,
+          "like_count": 93758,
+          "listed_count": 9,
+          "media_count": 3971,
+          "tweet_count": 16883
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-19T11:05:27.000Z",
+        "description": "貓不要吃我O_0｜在HKG活動｜可愛得意先係最大本領｜",
+        "id": "1351485882696548357",
+        "location": "Hong Kong",
+        "name": "meow!🐭",
+        "pinned_tweet_id": "2063390664273088979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038936941018906625/oKeygUjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 909,
+          "like_count": 55204,
+          "listed_count": 5,
+          "media_count": 2613,
+          "tweet_count": 12416
+        },
+        "username": "OnlyAppleCanDo",
+        "verified": false
+      }
+    ]
+  }
+}

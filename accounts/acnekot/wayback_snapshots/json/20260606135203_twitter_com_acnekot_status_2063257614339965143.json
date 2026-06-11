@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2063257614339965143",
+    "created_at": "2026-06-06T13:52:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T14:52:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063257614339965143"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/acnekot/status…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/acnekot/status/2061731046467735602",
+          "start": 19,
+          "url": "https://t.co/EqzBeUrDkh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063257614339965143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061731046467735602",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "明天孙军就会开始入侵你的linux） https://t.co/EqzBeUrDkh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 424,
+        "media_key": "3_2061730963269533696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJy9YzgawAAV54W.png",
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2063257614339965143",
+        "created_at": "2026-06-06T13:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063257614339965143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/acnekot/status…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/acnekot/status/2061731046467735602",
+              "start": 19,
+              "url": "https://t.co/EqzBeUrDkh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063257614339965143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061731046467735602",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明天孙军就会开始入侵你的linux） https://t.co/EqzBeUrDkh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061730963269533696"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2061731046467735602",
+        "created_at": "2026-06-02T08:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061731046467735602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2nV8oco6Kj",
+              "end": 74,
+              "expanded_url": "https://x.com/acnekot/status/2061731046467735602/photo/1",
+              "media_key": "3_2061730963269533696",
+              "start": 51,
+              "url": "https://t.co/2nV8oco6Kj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061731046467735602",
+        "lang": "ro",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 132184,
+          "like_count": 905,
+          "quote_count": 7,
+          "reply_count": 27,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "CVE-2026-66767: Sun Jun Remote Login Vulnerability https://t.co/2nV8oco6Kj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2510,
+          "following_count": 799,
+          "like_count": 93714,
+          "listed_count": 9,
+          "media_count": 3969,
+          "tweet_count": 16873
+        },
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

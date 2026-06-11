@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062962506545655808"
+      ],
+      "media_source_tweet_id": [
+        "2062962509179720164"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "History",
+          "id": "1047111583309029381",
+          "name": "History"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "History",
+          "id": "1047111583309029381",
+          "name": "History"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2063214471137616109",
+    "created_at": "2026-06-06T11:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T12:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063214471137616109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1579306840185528322",
+          "start": 3,
+          "username": "mgrsk1960385817"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B2lnEvUkmc",
+          "end": 70,
+          "expanded_url": "https://x.com/mgrsk1960385817/status/2062962509179720164/photo/1",
+          "media_key": "3_2062962506545655808",
+          "start": 47,
+          "url": "https://t.co/B2lnEvUkmc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063214471137616109",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062962509179720164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mgrsk1960385817: 歴史的瞬間\n1919円＝81.0元\n日本円↔中国元 https://t.co/B2lnEvUkmc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2024,
+        "media_key": "3_2062962506545655808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEdeDuacAAhR7m.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062962506545655808"
+          ],
+          "media_source_tweet_id": [
+            "2062962509179720164"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2063214471137616109",
+        "created_at": "2026-06-06T11:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063214471137616109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1579306840185528322",
+              "start": 3,
+              "username": "mgrsk1960385817"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B2lnEvUkmc",
+              "end": 70,
+              "expanded_url": "https://x.com/mgrsk1960385817/status/2062962509179720164/photo/1",
+              "media_key": "3_2062962506545655808",
+              "start": 47,
+              "url": "https://t.co/B2lnEvUkmc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063214471137616109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062962509179720164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mgrsk1960385817: 歴史的瞬間\n1919円＝81.0元\n日本円↔中国元 https://t.co/B2lnEvUkmc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062962506545655808"
+          ]
+        },
+        "author_id": "1579306840185528322",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "History",
+              "id": "1047111583309029381",
+              "name": "History"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2062962509179720164",
+        "created_at": "2026-06-05T18:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062962509179720164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B2lnEvUkmc",
+              "end": 49,
+              "expanded_url": "https://x.com/mgrsk1960385817/status/2062962509179720164/photo/1",
+              "media_key": "3_2062962506545655808",
+              "start": 26,
+              "url": "https://t.co/B2lnEvUkmc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062962509179720164",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1962,
+          "like_count": 109,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "歴史的瞬間\n1919円＝81.0元\n日本円↔中国元 https://t.co/B2lnEvUkmc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2510,
+          "following_count": 799,
+          "like_count": 93684,
+          "listed_count": 9,
+          "media_count": 3969,
+          "tweet_count": 16871
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-10T03:04:49.000Z",
+        "description": "MGR Only - Not Vtuber\n歌う星、宇宙を横切る虹、目を閉じたときに現れる目、潜在意識マグロ\n✨🎶🌈🐟🎼✨🍭🐟🦄🪄🍬🎤🌈✨🍭🎶🎤✨🪄🎼🐟🦄🍭✨🍭🎼🎤🪄🌈🦄🎶🐟✨🌈🍬🎤🎶✨🪄🐟🍭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "drive.google.com/drive/folders/…",
+                "end": 23,
+                "expanded_url": "https://drive.google.com/drive/folders/1nB6t_tJP1fuGI-OM1ppyQECfmrQ-EFO2?usp=drive_link",
+                "start": 0,
+                "url": "https://t.co/69nnN3eK2F"
+              }
+            ]
+          }
+        },
+        "id": "1579306840185528322",
+        "name": "MGRSK",
+        "pinned_tweet_id": "2063054992358158829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996983906512605184/93d0-1IW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1779,
+          "following_count": 66,
+          "like_count": 595,
+          "listed_count": 4,
+          "media_count": 555,
+          "tweet_count": 946
+        },
+        "url": "https://t.co/69nnN3eK2F",
+        "username": "mgrsk1960385817",
+        "verified": false
+      }
+    ]
+  }
+}

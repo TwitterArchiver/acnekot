@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2064553076346978720",
+    "created_at": "2026-06-10T09:00:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T10:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064633836496167230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "821614513736781825",
+          "start": 0,
+          "username": "14ManGo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064633836496167230",
+    "in_reply_to_user_id": "821614513736781825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064553076346978720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@14ManGo1 正常....目前X就这样.....机器人大军\n只能就是发帖的时候选择社交圈内可回复，但是这样路人就不能回复,,,,,\n哎.."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 495,
+        "media_key": "3_2064552734578315264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbDxgyaEAAT8tC.png",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2064553076346978720",
+        "created_at": "2026-06-10T09:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064633836496167230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "821614513736781825",
+              "start": 0,
+              "username": "14ManGo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064633836496167230",
+        "in_reply_to_user_id": "821614513736781825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064553076346978720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@14ManGo1 正常....目前X就这样.....机器人大军\n只能就是发帖的时候选择社交圈内可回复，但是这样路人就不能回复,,,,,\n哎.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064552734578315264"
+          ]
+        },
+        "author_id": "821614513736781825",
+        "conversation_id": "2064553076346978720",
+        "created_at": "2026-06-10T03:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064553076346978720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dkQR33NnQH",
+              "end": 54,
+              "expanded_url": "https://x.com/14ManGo1/status/2064553076346978720/photo/1",
+              "media_key": "3_2064552734578315264",
+              "start": 31,
+              "url": "https://t.co/dkQR33NnQH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064553076346978720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 15408,
+          "like_count": 289,
+          "quote_count": 1,
+          "reply_count": 55,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "关于我X的评论区全是各种黄色广告怎么办。。。怎么会这样。。。 https://t.co/dkQR33NnQH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2521,
+          "following_count": 798,
+          "like_count": 93959,
+          "listed_count": 9,
+          "media_count": 3983,
+          "tweet_count": 16925
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-18T07:05:39.000Z",
+        "description": "MTF 底层画师 车车人 bilibili底层虚拟主播",
+        "id": "821614513736781825",
+        "location": "中华人民共和国",
+        "name": "芒伊木M-emo",
+        "pinned_tweet_id": "2011094910473289883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004772707540606976/yHcgxQAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37000,
+          "following_count": 178,
+          "like_count": 568,
+          "listed_count": 118,
+          "media_count": 231,
+          "tweet_count": 443
+        },
+        "username": "14ManGo1",
+        "verified": false
+      }
+    ]
+  }
+}

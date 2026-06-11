@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2063568177553121314",
+    "created_at": "2026-06-07T10:29:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:29:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063569130293489896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1842504398850928640",
+          "start": 0,
+          "username": "hsn8086k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063569130293489896",
+    "in_reply_to_user_id": "1842504398850928640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063568177553121314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "@hsn8086k 吓哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2063568177553121314",
+        "created_at": "2026-06-07T10:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063569130293489896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063569130293489896",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063568177553121314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "@hsn8086k 吓哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2063568177553121314",
+        "created_at": "2026-06-07T10:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063568177553121314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/2063503497539264919",
+              "start": 17,
+              "url": "https://t.co/Lm5lz3W4qR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063568177553121314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063503497539264919",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "?bot成精了, 随机随到这张了 https://t.co/Lm5lz3W4qR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2521,
+          "following_count": 799,
+          "like_count": 93780,
+          "listed_count": 9,
+          "media_count": 3972,
+          "tweet_count": 16887
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2188,
+          "following_count": 234,
+          "like_count": 9041,
+          "listed_count": 9,
+          "media_count": 204,
+          "tweet_count": 2211
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

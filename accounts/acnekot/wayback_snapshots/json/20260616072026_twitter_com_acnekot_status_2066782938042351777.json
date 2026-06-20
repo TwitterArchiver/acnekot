@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066763498995200000"
+      ],
+      "media_source_tweet_id": [
+        "2066763624165896429"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2066782938042351777",
+    "created_at": "2026-06-16T07:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T08:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066782938042351777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1786720410106761216",
+          "start": 3,
+          "username": "uni_lattes2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jiLfyXh4js",
+          "end": 52,
+          "expanded_url": "https://x.com/uni_lattes2/status/2066763624165896429/photo/1",
+          "media_key": "3_2066763498995200000",
+          "start": 29,
+          "url": "https://t.co/jiLfyXh4js"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066782938042351777",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066763624165896429",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uni_lattes2: 😮 ! ! ! ! ! https://t.co/jiLfyXh4js"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2066763498995200000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6ec8BaMAAFDnv.png",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066763498995200000"
+          ],
+          "media_source_tweet_id": [
+            "2066763624165896429"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2066782938042351777",
+        "created_at": "2026-06-16T07:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066782938042351777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1786720410106761216",
+              "start": 3,
+              "username": "uni_lattes2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jiLfyXh4js",
+              "end": 52,
+              "expanded_url": "https://x.com/uni_lattes2/status/2066763624165896429/photo/1",
+              "media_key": "3_2066763498995200000",
+              "start": 29,
+              "url": "https://t.co/jiLfyXh4js"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066782938042351777",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066763624165896429",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uni_lattes2: 😮 ! ! ! ! ! https://t.co/jiLfyXh4js"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066763498995200000"
+          ]
+        },
+        "author_id": "1786720410106761216",
+        "conversation_id": "2066763624165896429",
+        "created_at": "2026-06-16T06:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066763624165896429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jiLfyXh4js",
+              "end": 35,
+              "expanded_url": "https://x.com/uni_lattes2/status/2066763624165896429/photo/1",
+              "media_key": "3_2066763498995200000",
+              "start": 12,
+              "url": "https://t.co/jiLfyXh4js"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066763624165896429",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 3599,
+          "like_count": 588,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "😮 ! ! ! ! ! https://t.co/jiLfyXh4js"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2526,
+          "following_count": 801,
+          "like_count": 94471,
+          "listed_count": 9,
+          "media_count": 3999,
+          "tweet_count": 17002
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-04T11:32:14.000Z",
+        "description": "🇰🇷🇯🇵   | 라떼라고 해요  | ホシノイタチ !!🎨 |  라떼하면 강라떼\n\n💬 @lattes2_pr2 // ᴛᴀɢ #ラテあーと\n\nFANBOX : https://t.co/tUxCGfZ6CP\n숄더 : https://t.co/93sFHjOU22",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "ラテあーと"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lattes2_pr2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "uni-lattes2.fanbox.cc",
+                "end": 106,
+                "expanded_url": "https://uni-lattes2.fanbox.cc/",
+                "start": 83,
+                "url": "https://t.co/tUxCGfZ6CP"
+              },
+              {
+                "display_url": "shoulder.fan/@uni_lattes2",
+                "end": 135,
+                "expanded_url": "https://shoulder.fan/@uni_lattes2",
+                "start": 112,
+                "url": "https://t.co/93sFHjOU22"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/41997119",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/41997119",
+                "start": 0,
+                "url": "https://t.co/RzglK6UKY2"
+              }
+            ]
+          }
+        },
+        "id": "1786720410106761216",
+        "location": "夢の中 ✉️ unilattes2@gmail.com",
+        "name": "라떼쨩 ラテちゃん @C108(土)東キ-43a",
+        "pinned_tweet_id": "2062811994957504752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825803014764105728/iTtFPkGv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37398,
+          "following_count": 194,
+          "like_count": 2382,
+          "listed_count": 124,
+          "media_count": 603,
+          "tweet_count": 2256
+        },
+        "url": "https://t.co/RzglK6UKY2",
+        "username": "uni_lattes2",
+        "verified": true
+      }
+    ]
+  }
+}

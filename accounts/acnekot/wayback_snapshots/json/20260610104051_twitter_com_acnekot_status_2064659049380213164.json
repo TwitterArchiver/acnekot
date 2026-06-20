@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2064615022375194730",
+    "created_at": "2026-06-10T10:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064659049380213164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1642259798077874176",
+          "start": 0,
+          "username": "lunamilukumochi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064659049380213164",
+    "in_reply_to_user_id": "1642259798077874176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064615022375194730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lunamilukumochi 你还是买华为吧✋😭✋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2064615019917225984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKb8a_waMAA_ebL.jpg",
+        "width": 693
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2064615022375194730",
+        "created_at": "2026-06-10T10:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064659049380213164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1642259798077874176",
+              "start": 0,
+              "username": "lunamilukumochi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064659049380213164",
+        "in_reply_to_user_id": "1642259798077874176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064615022375194730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lunamilukumochi 你还是买华为吧✋😭✋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064615019917225984"
+          ]
+        },
+        "author_id": "1642259798077874176",
+        "conversation_id": "2064615022375194730",
+        "created_at": "2026-06-10T07:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064615022375194730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VkjeOkknnM",
+              "end": 23,
+              "expanded_url": "https://x.com/umirukumochi/status/2064615022375194730/photo/1",
+              "media_key": "3_2064615019917225984",
+              "start": 0,
+              "url": "https://t.co/VkjeOkknnM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064615022375194730",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2778,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VkjeOkknnM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2521,
+          "following_count": 798,
+          "like_count": 93977,
+          "listed_count": 9,
+          "media_count": 3984,
+          "tweet_count": 16928
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-01T20:17:16.000Z",
+        "description": "好友位52互关免费 此人态度极其恶劣 好友位啥也没有",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/kueutsuro",
+                "end": 23,
+                "expanded_url": "http://ko-fi.com/kueutsuro",
+                "start": 0,
+                "url": "https://t.co/suFVoKn6LA"
+              }
+            ]
+          }
+        },
+        "id": "1642259798077874176",
+        "name": "ゆめね よみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064639646378991616/zYkl8tXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1811,
+          "following_count": 129,
+          "like_count": 793,
+          "listed_count": 2,
+          "media_count": 262,
+          "tweet_count": 887
+        },
+        "url": "https://t.co/suFVoKn6LA",
+        "username": "lunamilukumochi",
+        "verified": false
+      }
+    ]
+  }
+}

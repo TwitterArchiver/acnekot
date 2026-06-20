@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064835759992184832"
+      ],
+      "media_source_tweet_id": [
+        "2064974413486084300"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2065075646028828794",
+    "created_at": "2026-06-11T14:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065075646028828794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1322574186695467008",
+          "start": 3,
+          "username": "kp_oj8"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aqs4nJTuTF",
+          "end": 45,
+          "expanded_url": "https://x.com/kp_oj8/status/2064974413486084300/photo/1",
+          "media_key": "3_2064835759992184832",
+          "start": 22,
+          "url": "https://t.co/aqs4nJTuTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065075646028828794",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1527
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064974413486084300",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kp_oj8: ぼざろ　リョウ先輩 https://t.co/aqs4nJTuTF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1125,
+        "media_key": "3_2064835759992184832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKfFLwnboAAUbTj.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064835759992184832"
+          ],
+          "media_source_tweet_id": [
+            "2064974413486084300"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2065075646028828794",
+        "created_at": "2026-06-11T14:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065075646028828794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1322574186695467008",
+              "start": 3,
+              "username": "kp_oj8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aqs4nJTuTF",
+              "end": 45,
+              "expanded_url": "https://x.com/kp_oj8/status/2064974413486084300/photo/1",
+              "media_key": "3_2064835759992184832",
+              "start": 22,
+              "url": "https://t.co/aqs4nJTuTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065075646028828794",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1527
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064974413486084300",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kp_oj8: ぼざろ　リョウ先輩 https://t.co/aqs4nJTuTF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064835759992184832"
+          ]
+        },
+        "author_id": "1322574186695467008",
+        "conversation_id": "2064974413486084300",
+        "created_at": "2026-06-11T07:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064974413486084300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aqs4nJTuTF",
+              "end": 33,
+              "expanded_url": "https://x.com/kp_oj8/status/2064974413486084300/photo/1",
+              "media_key": "3_2064835759992184832",
+              "start": 10,
+              "url": "https://t.co/aqs4nJTuTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064974413486084300",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2889,
+          "impression_count": 438141,
+          "like_count": 26602,
+          "quote_count": 13,
+          "reply_count": 22,
+          "retweet_count": 1527
+        },
+        "reply_settings": "everyone",
+        "text": "ぼざろ　リョウ先輩 https://t.co/aqs4nJTuTF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2527,
+          "following_count": 799,
+          "like_count": 94065,
+          "listed_count": 9,
+          "media_count": 3985,
+          "tweet_count": 16944
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-31T16:20:56.000Z",
+        "description": "絵うまくなりたい。気ままにイラスト描きます。 いいねフォロー励みになります。 アニメ、ゲーム、漫画が好きです。",
+        "id": "1322574186695467008",
+        "name": "scripco(すくりぷこ)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912065889442185216/N3bDs4sf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13131,
+          "following_count": 0,
+          "like_count": 417,
+          "listed_count": 97,
+          "media_count": 103,
+          "tweet_count": 106
+        },
+        "username": "kp_oj8",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065992521306763265"
+      ],
+      "media_source_tweet_id": [
+        "2065992529842176050"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cooking/Baking",
+          "id": "831530561680191490",
+          "name": "Cooking"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Barbecues and Grilling",
+          "id": "858037909219192833",
+          "name": "Grilling"
+        }
+      }
+    ],
+    "conversation_id": "2066398007869002183",
+    "created_at": "2026-06-15T05:50:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T06:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066398007869002183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "84625899",
+          "start": 3,
+          "username": "sasakure__UK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NfgC988mkm",
+          "end": 90,
+          "expanded_url": "https://x.com/sasakure__UK/status/2065992529842176050/photo/1",
+          "media_key": "3_2065992521306763265",
+          "start": 67,
+          "url": "https://t.co/NfgC988mkm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066398007869002183",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2200
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065992529842176050",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sasakure__UK: 焼肉を焼こうとして間違って自分自身を焼いてしまったため、sasakure.‌UKは滅亡しました。 https://t.co/NfgC988mkm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1344,
+        "media_key": "3_2065992521306763265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKvhQIUacAEbiND.jpg",
+        "width": 1322
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065992521306763265"
+          ],
+          "media_source_tweet_id": [
+            "2065992529842176050"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Barbecues and Grilling",
+              "id": "858037909219192833",
+              "name": "Grilling"
+            }
+          }
+        ],
+        "conversation_id": "2066398007869002183",
+        "created_at": "2026-06-15T05:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066398007869002183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "84625899",
+              "start": 3,
+              "username": "sasakure__UK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NfgC988mkm",
+              "end": 90,
+              "expanded_url": "https://x.com/sasakure__UK/status/2065992529842176050/photo/1",
+              "media_key": "3_2065992521306763265",
+              "start": 67,
+              "url": "https://t.co/NfgC988mkm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066398007869002183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2200
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065992529842176050",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sasakure__UK: 焼肉を焼こうとして間違って自分自身を焼いてしまったため、sasakure.‌UKは滅亡しました。 https://t.co/NfgC988mkm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065992521306763265"
+          ]
+        },
+        "author_id": "84625899",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Barbecues and Grilling",
+              "id": "858037909219192833",
+              "name": "Grilling"
+            }
+          }
+        ],
+        "conversation_id": "2065992529842176050",
+        "created_at": "2026-06-14T02:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065992529842176050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NfgC988mkm",
+              "end": 72,
+              "expanded_url": "https://x.com/sasakure__UK/status/2065992529842176050/photo/1",
+              "media_key": "3_2065992521306763265",
+              "start": 49,
+              "url": "https://t.co/NfgC988mkm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065992529842176050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 638,
+          "impression_count": 395226,
+          "like_count": 18456,
+          "quote_count": 137,
+          "reply_count": 43,
+          "retweet_count": 2200
+        },
+        "reply_settings": "everyone",
+        "text": "焼肉を焼こうとして間違って自分自身を焼いてしまったため、sasakure.‌UKは滅亡しました。 https://t.co/NfgC988mkm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2528,
+          "following_count": 800,
+          "like_count": 94381,
+          "listed_count": 9,
+          "media_count": 3993,
+          "tweet_count": 16984
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2009-10-23T16:06:14.000Z",
+        "description": "Music Composer／有形ランペイジ @UKRampage_info ▼Youtube https://t.co/qanjCAcQQF ▼niconico https://t.co/iiVSZJaMoI ◆contact https://t.co/KYtx88ht9v",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "UKRampage_info"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/c/sasakureUK02…",
+                "end": 71,
+                "expanded_url": "http://youtube.com/c/sasakureUK0211",
+                "start": 48,
+                "url": "https://t.co/qanjCAcQQF"
+              },
+              {
+                "display_url": "nicovideo.jp/mylist/6280579",
+                "end": 105,
+                "expanded_url": "http://nicovideo.jp/mylist/6280579",
+                "start": 82,
+                "url": "https://t.co/iiVSZJaMoI"
+              },
+              {
+                "display_url": "x.gd/hcZzV",
+                "end": 138,
+                "expanded_url": "https://x.gd/hcZzV",
+                "start": 115,
+                "url": "https://t.co/KYtx88ht9v"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sasakuration.com",
+                "end": 23,
+                "expanded_url": "https://www.sasakuration.com/",
+                "start": 0,
+                "url": "https://t.co/sG4aEuLqzF"
+              }
+            ]
+          }
+        },
+        "id": "84625899",
+        "location": "???",
+        "name": "sasakure.UK",
+        "pinned_tweet_id": "2058160305801445689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039503248797868032/ZTfvL5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295463,
+          "following_count": 1135,
+          "like_count": 9047,
+          "listed_count": 2706,
+          "media_count": 4522,
+          "tweet_count": 30873
+        },
+        "url": "https://t.co/sG4aEuLqzF",
+        "username": "sasakure__UK",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2062029509050646814",
+    "created_at": "2026-06-03T04:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T05:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062030897877303617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062030897877303617",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062029509050646814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech 北方买的人有福了，冬天就开这个就行（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 705,
+        "media_key": "3_2062017277822984192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3BygVbYAANhNa.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1032,
+        "media_key": "3_2062017278280101889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3ByiCacAEqT5V.jpg",
+        "width": 1600
+      },
+      {
+        "height": 714,
+        "media_key": "3_2062017277793587200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3BygOa0AAHVtC.jpg",
+        "width": 1600
+      },
+      {
+        "height": 900,
+        "media_key": "3_2062017277780992000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3BygLaoAApW_u.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2062029509050646814",
+        "created_at": "2026-06-03T04:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062030897877303617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062030897877303617",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062029509050646814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech 北方买的人有福了，冬天就开这个就行（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062017277822984192",
+            "3_2062017278280101889",
+            "3_2062017277793587200",
+            "3_2062017277780992000"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10026414931",
+              "name": "Microsoft - Surface"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Microsoft - AI",
+              "id": "10050907865",
+              "name": "Microsoft - AI"
+            }
+          }
+        ],
+        "conversation_id": "2062029509050646814",
+        "created_at": "2026-06-03T04:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062029509050646814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5gLGXY5elw",
+              "end": 142,
+              "expanded_url": "https://x.com/landiantech/status/2062029509050646814/photo/1",
+              "media_key": "3_2062017277822984192",
+              "start": 119,
+              "url": "https://t.co/5gLGXY5elw"
+            },
+            {
+              "display_url": "pic.x.com/5gLGXY5elw",
+              "end": 142,
+              "expanded_url": "https://x.com/landiantech/status/2062029509050646814/photo/1",
+              "media_key": "3_2062017278280101889",
+              "start": 119,
+              "url": "https://t.co/5gLGXY5elw"
+            },
+            {
+              "display_url": "pic.x.com/5gLGXY5elw",
+              "end": 142,
+              "expanded_url": "https://x.com/landiantech/status/2062029509050646814/photo/1",
+              "media_key": "3_2062017277793587200",
+              "start": 119,
+              "url": "https://t.co/5gLGXY5elw"
+            },
+            {
+              "display_url": "pic.x.com/5gLGXY5elw",
+              "end": 142,
+              "expanded_url": "https://x.com/landiantech/status/2062029509050646814/photo/1",
+              "media_key": "3_2062017277780992000",
+              "start": 119,
+              "url": "https://t.co/5gLGXY5elw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062029509050646814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "ourl.co/113262?x",
+                "end": 198,
+                "expanded_url": "https://ourl.co/113262?x",
+                "start": 175,
+                "url": "https://t.co/zdSDKsxWf4"
+              }
+            ]
+          },
+          "text": "微软面向开发者推出 Microsoft Surface RTX SPARK 工作站，利用英伟达芯片的超强 AI 算力为开发者提供本地运行 AI 模型的支持。\n\n这款工作站看着像是显示器底座，但上面可不能放置任何东西，因为顶部有 1000 个散热孔用来散热，工作站外壳采用阳极氧化铝材质并且也连接散热器，所以整个工作站就是个巨大的暖宝宝。\n\n查看详情：https://t.co/zdSDKsxWf4"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "微软面向开发者推出 Microsoft Surface RTX SPARK 工作站，利用英伟达芯片的超强 AI 算力为开发者提供本地运行 AI 模型的支持。\n\n这款工作站看着像是显示器底座，但上面可不能放置任何东西，因为顶部有 1000 https://t.co/5gLGXY5elw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2472,
+          "following_count": 797,
+          "like_count": 93580,
+          "listed_count": 9,
+          "media_count": 3960,
+          "tweet_count": 16832
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / OpenClaw 重度用户🦞🦞🦞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landiannews.com",
+                "end": 23,
+                "expanded_url": "https://www.landiannews.com/",
+                "start": 0,
+                "url": "https://t.co/Uu7DejZQOg"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "pinned_tweet_id": "2061311181663715671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35638,
+          "following_count": 728,
+          "like_count": 4916,
+          "listed_count": 275,
+          "media_count": 5685,
+          "tweet_count": 15671
+        },
+        "url": "https://t.co/Uu7DejZQOg",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

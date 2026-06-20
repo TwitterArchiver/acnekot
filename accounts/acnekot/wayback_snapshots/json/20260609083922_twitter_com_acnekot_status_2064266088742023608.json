@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2064262796641271928",
+    "created_at": "2026-06-09T08:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T09:39:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064266088742023608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064266088742023608",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064262796641271928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 ✻ Gesticulating… (60m57s)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 114,
+        "media_key": "3_2064262775027957760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKW8DpSagAArc-4.jpg",
+        "width": 274
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2064262796641271928",
+        "created_at": "2026-06-09T08:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064266088742023608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064266088742023608",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064262796641271928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 ✻ Gesticulating… (60m57s)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064262775027957760"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2064262796641271928",
+        "created_at": "2026-06-09T08:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064262796641271928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F6YBFzVrJc",
+              "end": 31,
+              "expanded_url": "https://x.com/hsn8086/status/2064262796641271928/photo/1",
+              "media_key": "3_2064262775027957760",
+              "start": 8,
+              "url": "https://t.co/F6YBFzVrJc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064262796641271928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 436,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天才程序员陨落 https://t.co/F6YBFzVrJc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2520,
+          "following_count": 798,
+          "like_count": 93864,
+          "listed_count": 9,
+          "media_count": 3976,
+          "tweet_count": 16901
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120868,
+          "following_count": 1119,
+          "like_count": 52181,
+          "listed_count": 296,
+          "media_count": 22002,
+          "tweet_count": 32480
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

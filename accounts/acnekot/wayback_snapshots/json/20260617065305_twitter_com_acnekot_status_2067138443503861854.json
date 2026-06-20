@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2066884815488782474",
+    "created_at": "2026-06-17T06:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T07:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067138443503861854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1863439189909618688",
+          "start": 0,
+          "username": "hsn8086xe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067138443503861854",
+    "in_reply_to_user_id": "1863439189909618688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066884815488782474",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086xe 什么粉红兔子头"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1176,
+        "media_key": "3_2066884801538531328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8MxrNboAAKptC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2066884815488782474",
+        "created_at": "2026-06-17T06:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T07:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067138443503861854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067138443503861854",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066884815488782474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe 什么粉红兔子头"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066884801538531328"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2066884815488782474",
+        "created_at": "2026-06-16T14:05:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:05:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066884815488782474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rdBo1SFvWW",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2066884815488782474/photo/1",
+              "media_key": "3_2066884801538531328",
+              "start": 0,
+              "url": "https://t.co/rdBo1SFvWW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066884815488782474",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 21033,
+          "like_count": 120,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rdBo1SFvWW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2526,
+          "following_count": 802,
+          "like_count": 94520,
+          "listed_count": 9,
+          "media_count": 4004,
+          "tweet_count": 17018
+        },
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36445,
+          "following_count": 371,
+          "like_count": 229,
+          "listed_count": 107,
+          "media_count": 15832,
+          "tweet_count": 15916
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

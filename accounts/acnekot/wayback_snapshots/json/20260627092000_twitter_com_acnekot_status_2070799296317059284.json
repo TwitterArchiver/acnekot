@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2070799141593067602",
+    "created_at": "2026-06-27T09:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T10:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070799296317059284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1818257539886460928",
+          "start": 0,
+          "username": "qqqqqf_"
+        },
+        {
+          "end": 18,
+          "id": "2021509446640562176",
+          "start": 9,
+          "username": "memoh_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070799296317059284",
+    "in_reply_to_user_id": "1818257539886460928",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070799141593067602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqf_ @memoh_ai xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3584,
+        "media_key": "3_2070799089542008832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLz0zOVakAASYBX.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2070799089697161216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLz0zO6aAAAvl0T.jpg",
+        "width": 2731
+      },
+      {
+        "height": 3584,
+        "media_key": "3_2070799090238324736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLz0zQ7bgAAQyD4.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2070799090263396352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLz0zRBaEAAVBga.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2070799141593067602",
+        "created_at": "2026-06-27T09:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070799296317059284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1818257539886460928",
+              "start": 0,
+              "username": "qqqqqf_"
+            },
+            {
+              "end": 18,
+              "id": "2021509446640562176",
+              "start": 9,
+              "username": "memoh_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070799296317059284",
+        "in_reply_to_user_id": "1818257539886460928",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070799141593067602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf_ @memoh_ai xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070799089542008832",
+            "3_2070799089697161216",
+            "3_2070799090238324736",
+            "3_2070799090263396352"
+          ]
+        },
+        "author_id": "1818257539886460928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          }
+        ],
+        "conversation_id": "2070799141593067602",
+        "created_at": "2026-06-27T09:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070799141593067602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "2021509446640562176",
+              "start": 17,
+              "username": "memoh_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kYIq9xunI0",
+              "end": 50,
+              "expanded_url": "https://x.com/qqqqqf_/status/2070799141593067602/photo/1",
+              "media_key": "3_2070799089542008832",
+              "start": 27,
+              "url": "https://t.co/kYIq9xunI0"
+            },
+            {
+              "display_url": "pic.x.com/kYIq9xunI0",
+              "end": 50,
+              "expanded_url": "https://x.com/qqqqqf_/status/2070799141593067602/photo/1",
+              "media_key": "3_2070799089697161216",
+              "start": 27,
+              "url": "https://t.co/kYIq9xunI0"
+            },
+            {
+              "display_url": "pic.x.com/kYIq9xunI0",
+              "end": 50,
+              "expanded_url": "https://x.com/qqqqqf_/status/2070799141593067602/photo/1",
+              "media_key": "3_2070799090238324736",
+              "start": 27,
+              "url": "https://t.co/kYIq9xunI0"
+            },
+            {
+              "display_url": "pic.x.com/kYIq9xunI0",
+              "end": 50,
+              "expanded_url": "https://x.com/qqqqqf_/status/2070799141593067602/photo/1",
+              "media_key": "3_2070799090263396352",
+              "start": 27,
+              "url": "https://t.co/kYIq9xunI0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070799141593067602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "迪士尼 one day\nwith @memoh_ai https://t.co/kYIq9xunI0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2550,
+          "following_count": 802,
+          "like_count": 94914,
+          "listed_count": 9,
+          "media_count": 4046,
+          "tweet_count": 17129
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-30T12:09:26.000Z",
+        "description": "building https://t.co/Q5DJkrjOuI  / https://t.co/Z8CwRk435m\n博客:https://t.co/YPfuXnEcRK  \nArkloop的TelegramGroup :https://t.co/GiCrumiY7W",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Arkloop.io",
+                "end": 32,
+                "expanded_url": "http://Arkloop.io",
+                "start": 9,
+                "url": "https://t.co/Q5DJkrjOuI"
+              },
+              {
+                "display_url": "Memoh.ai",
+                "end": 59,
+                "expanded_url": "http://Memoh.ai",
+                "start": 36,
+                "url": "https://t.co/Z8CwRk435m"
+              },
+              {
+                "display_url": "清凤.fun",
+                "end": 86,
+                "expanded_url": "https://xn--l9qq99d.fun",
+                "start": 63,
+                "url": "https://t.co/YPfuXnEcRK"
+              },
+              {
+                "display_url": "t.me/Arkloop_io",
+                "end": 135,
+                "expanded_url": "https://t.me/Arkloop_io",
+                "start": 112,
+                "url": "https://t.co/GiCrumiY7W"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/jrg4ChmKLg"
+              }
+            ]
+          }
+        },
+        "id": "1818257539886460928",
+        "location": "Ningbo,Zhejiang",
+        "name": "清凤",
+        "pinned_tweet_id": "2049776170246471804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021583893238059008/7Mh6eK6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1300,
+          "following_count": 859,
+          "like_count": 17498,
+          "listed_count": 4,
+          "media_count": 298,
+          "tweet_count": 1389
+        },
+        "url": "https://t.co/jrg4ChmKLg",
+        "username": "qqqqqf_",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-11T09:00:00.000Z",
+        "description": "Bitterness or sweetness, all in the box✨📦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "memoh.ai",
+                "end": 23,
+                "expanded_url": "http://memoh.ai",
+                "start": 0,
+                "url": "https://t.co/gW1mArKDj0"
+              }
+            ]
+          }
+        },
+        "id": "2021509446640562176",
+        "location": "Hong Kong",
+        "name": "Memoh AI",
+        "pinned_tweet_id": "2023333509323210856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021510095994277888/zlS2DM43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 26,
+          "like_count": 2,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "https://t.co/gW1mArKDj0",
+        "username": "memoh_ai",
+        "verified": true
+      }
+    ]
+  }
+}

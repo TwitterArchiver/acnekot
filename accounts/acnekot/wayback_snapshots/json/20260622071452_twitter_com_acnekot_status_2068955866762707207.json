@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068489245975814146"
+      ],
+      "media_source_tweet_id": [
+        "2068489340179947586"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068955866762707207",
+    "created_at": "2026-06-22T07:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T08:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068955866762707207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2030571277954752512",
+          "start": 3,
+          "username": "grpv2kIjGc78941"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/twjfYifZZm",
+          "end": 57,
+          "expanded_url": "https://x.com/grpv2kIjGc78941/status/2068489340179947586/video/1",
+          "media_key": "13_2068489245975814146",
+          "start": 34,
+          "url": "https://t.co/twjfYifZZm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068955866762707207",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 432
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068489340179947586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @grpv2kIjGc78941: ぷるとるあとえんぺいらぁ https://t.co/twjfYifZZm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 129590,
+        "height": 1080,
+        "media_key": "13_2068489245975814146",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068489245975814146/img/qCToeUJAUK76p-zf.jpg",
+        "public_metrics": {
+          "view_count": 73816
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068489245975814146/vid/avc1/480x270/1pRZfN8iO4Z66MaU.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068489245975814146/vid/avc1/640x360/RXyQx4oHsrnJuIzj.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068489245975814146/vid/avc1/1280x720/AlLNzxCS5z3eaacm.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068489245975814146/pl/qA1af6ryyB_607_l.m3u8?tag=14&v=101"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068489245975814146"
+          ],
+          "media_source_tweet_id": [
+            "2068489340179947586"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068955866762707207",
+        "created_at": "2026-06-22T07:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068955866762707207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2030571277954752512",
+              "start": 3,
+              "username": "grpv2kIjGc78941"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/twjfYifZZm",
+              "end": 57,
+              "expanded_url": "https://x.com/grpv2kIjGc78941/status/2068489340179947586/video/1",
+              "media_key": "13_2068489245975814146",
+              "start": 34,
+              "url": "https://t.co/twjfYifZZm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068955866762707207",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 432
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068489340179947586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @grpv2kIjGc78941: ぷるとるあとえんぺいらぁ https://t.co/twjfYifZZm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068489245975814146"
+          ]
+        },
+        "author_id": "2030571277954752512",
+        "conversation_id": "2068489340179947586",
+        "created_at": "2026-06-21T00:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T01:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068489340179947586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/twjfYifZZm",
+              "end": 36,
+              "expanded_url": "https://x.com/grpv2kIjGc78941/status/2068489340179947586/video/1",
+              "media_key": "13_2068489245975814146",
+              "start": 13,
+              "url": "https://t.co/twjfYifZZm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068489340179947586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 523,
+          "impression_count": 180482,
+          "like_count": 2576,
+          "quote_count": 91,
+          "reply_count": 5,
+          "retweet_count": 432
+        },
+        "reply_settings": "everyone",
+        "text": "ぷるとるあとえんぺいらぁ https://t.co/twjfYifZZm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2533,
+          "following_count": 802,
+          "like_count": 94747,
+          "listed_count": 9,
+          "media_count": 4013,
+          "tweet_count": 17060
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-08T09:08:23.000Z",
+        "description": "音ゲー好きの中2男子です\nプロセカとウニ中心にやってます\nニーゴ＆遥＆こはね好きです\nプセライバルさん→@sky_mtm_18/ウニライバル→@Macaron_story\n師匠→@takeuti1uy、@rk073110、@All_Green_48、@tw_pixel256\n弟子→@Nagiamami0619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 52,
+                "username": "sky_mtm_18"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "username": "Macaron_story"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "takeuti1uy"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "rk073110"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "All_Green_48"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "tw_pixel256"
+              },
+              {
+                "end": 155,
+                "start": 141,
+                "username": "Nagiamami0619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/olfkw7qbjpdmqp…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/olfkw7qbjpdmqpo?t=dP9TJ0&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/mo3zRImTRb"
+              }
+            ]
+          }
+        },
+        "id": "2030571277954752512",
+        "name": "ぬさ",
+        "pinned_tweet_id": "2067934347274174938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030571363665395712/9wi8I13U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 406,
+          "like_count": 25889,
+          "listed_count": 1,
+          "media_count": 294,
+          "tweet_count": 2490
+        },
+        "url": "https://t.co/mo3zRImTRb",
+        "username": "grpv2kIjGc78941",
+        "verified": false
+      }
+    ]
+  }
+}

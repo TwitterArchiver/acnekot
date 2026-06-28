@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070529123953610752"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2070368702911197566",
+    "created_at": "2026-06-26T15:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T16:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070529131503370591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1876613242887282688",
+          "start": 0,
+          "username": "liujiayi1111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vh7BxP2HWO",
+          "end": 37,
+          "expanded_url": "https://x.com/acnekot/status/2070529131503370591/photo/1",
+          "media_key": "3_2070529123953610752",
+          "start": 14,
+          "url": "https://t.co/Vh7BxP2HWO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070529131503370591",
+    "in_reply_to_user_id": "1876613242887282688",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070494409167171862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liujiayi1111 https://t.co/Vh7BxP2HWO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 468,
+        "media_key": "3_2070529123953610752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLv_RKJbEAA2Jrq.png",
+        "width": 641
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070529123953610752"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2070368702911197566",
+        "created_at": "2026-06-26T15:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070529131503370591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1876613242887282688",
+              "start": 0,
+              "username": "liujiayi1111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vh7BxP2HWO",
+              "end": 37,
+              "expanded_url": "https://x.com/acnekot/status/2070529131503370591/photo/1",
+              "media_key": "3_2070529123953610752",
+              "start": 14,
+              "url": "https://t.co/Vh7BxP2HWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070529131503370591",
+        "in_reply_to_user_id": "1876613242887282688",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070494409167171862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liujiayi1111 https://t.co/Vh7BxP2HWO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876613242887282688",
+        "conversation_id": "2070368702911197566",
+        "created_at": "2026-06-26T13:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T14:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070494409167171862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070494409167171862",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 767,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070368702911197566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 免费的还是付费的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2548,
+          "following_count": 802,
+          "like_count": 94886,
+          "listed_count": 9,
+          "media_count": 4040,
+          "tweet_count": 17118
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-07T12:54:22.000Z",
+        "description": "生活类博主，分享心情、吐槽、碎碎念，偶尔掉落日常生活碎片。不互fo，只关注自己感兴趣的。被Tauri伤透两回，再也不喜欢Tauri了！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liujiayi1111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liujiayi1111",
+                "start": 0,
+                "url": "https://t.co/MsaRlYJfyF"
+              }
+            ]
+          }
+        },
+        "id": "1876613242887282688",
+        "name": "刘佳怡",
+        "pinned_tweet_id": "2058900883270758469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058024477871468544/mleLXsRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9154,
+          "following_count": 96,
+          "like_count": 10458,
+          "listed_count": 26,
+          "media_count": 251,
+          "tweet_count": 2328
+        },
+        "url": "https://t.co/MsaRlYJfyF",
+        "username": "liujiayi1111",
+        "verified": true
+      }
+    ]
+  }
+}

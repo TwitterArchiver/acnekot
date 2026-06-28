@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2068617758225654240",
+    "created_at": "2026-06-22T06:16:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T07:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068941095942447126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "900521913025351680",
+          "start": 0,
+          "username": "EdwardTsai_TW"
+        },
+        {
+          "end": 30,
+          "id": "2044088107427897351",
+          "start": 15,
+          "username": "CodyChen131738"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068941095942447126",
+    "in_reply_to_user_id": "900521913025351680",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068934749092213172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EdwardTsai_TW @CodyChen131738 opencode go"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2068617758225654240",
+        "created_at": "2026-06-22T06:16:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068941095942447126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "900521913025351680",
+              "start": 0,
+              "username": "EdwardTsai_TW"
+            },
+            {
+              "end": 30,
+              "id": "2044088107427897351",
+              "start": 15,
+              "username": "CodyChen131738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068941095942447126",
+        "in_reply_to_user_id": "900521913025351680",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068934749092213172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EdwardTsai_TW @CodyChen131738 opencode go"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "900521913025351680",
+        "conversation_id": "2068617758225654240",
+        "created_at": "2026-06-22T05:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068934749092213172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            },
+            {
+              "end": 24,
+              "id": "2044088107427897351",
+              "start": 9,
+              "username": "CodyChen131738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068934749092213172",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068907793470669223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot @CodyChen131738 樓上說你用到量化模型，我覺得不太對。可以說說你的API provider是哪一家嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2533,
+          "following_count": 802,
+          "like_count": 94739,
+          "listed_count": 9,
+          "media_count": 4013,
+          "tweet_count": 17059
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-24T00:55:29.000Z",
+        "description": "",
+        "id": "900521913025351680",
+        "name": "Edward Tsai",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 57,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 261
+        },
+        "url": "",
+        "username": "EdwardTsai_TW",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T16:19:33.000Z",
+        "description": "",
+        "id": "2044088107427897351",
+        "name": "Cody Chen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044088179540566022/dPujsbSA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 36,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "CodyChen131738",
+        "verified": false
+      }
+    ]
+  }
+}

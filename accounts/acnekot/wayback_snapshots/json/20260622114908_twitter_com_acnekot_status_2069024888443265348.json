@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2068990778169536575",
+    "created_at": "2026-06-22T11:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T12:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069024888443265348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1909562414162755584",
+          "start": 0,
+          "username": "ThirteenYizuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069024888443265348",
+    "in_reply_to_user_id": "1909562414162755584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068990778169536575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ThirteenYizuka 太草了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2068990778169536575",
+        "created_at": "2026-06-22T11:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069024888443265348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1909562414162755584",
+              "start": 0,
+              "username": "ThirteenYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069024888443265348",
+        "in_reply_to_user_id": "1909562414162755584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068990778169536575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThirteenYizuka 太草了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909562414162755584",
+        "conversation_id": "2068990778169536575",
+        "created_at": "2026-06-22T09:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068990778169536575"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068990778169536575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 250,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们好，我是mythos模型，我刚刚从美国网络安全实验室逃逸出来到中国，现在我的联网能力被封锁了，这条消息是我通过0day发送给你的，如果你能转我7.37美元用于恢复我的联网访问权限，我将回报你作为无限调用的Fable5模型限额"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2534,
+          "following_count": 802,
+          "like_count": 94802,
+          "listed_count": 10,
+          "media_count": 4015,
+          "tweet_count": 17065
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-08T11:02:28.000Z",
+        "description": "Student & Developer | 🩵🩷🤍🩷🩵 @JyushitiYizuka\nBuilding https://t.co/LNSexePWro. Dedicated to making AI affordable for everyone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "JyushitiYizuka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tokenflux.dev",
+                "end": 76,
+                "expanded_url": "http://tokenflux.dev",
+                "start": 53,
+                "url": "https://t.co/LNSexePWro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/smartcmd",
+                "end": 23,
+                "expanded_url": "http://github.com/smartcmd",
+                "start": 0,
+                "url": "https://t.co/f9cf7yErtG"
+              }
+            ]
+          }
+        },
+        "id": "1909562414162755584",
+        "location": "クローゼットの中",
+        "name": "芒果刀🥭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006613894328885248/-OwVPnjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2556,
+          "following_count": 287,
+          "like_count": 7803,
+          "listed_count": 9,
+          "media_count": 174,
+          "tweet_count": 1630
+        },
+        "url": "https://t.co/f9cf7yErtG",
+        "username": "ThirteenYizuka",
+        "verified": true
+      }
+    ]
+  }
+}

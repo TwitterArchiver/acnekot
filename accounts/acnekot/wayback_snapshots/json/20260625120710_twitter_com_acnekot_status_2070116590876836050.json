@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070116525084921856"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2070116590876836050",
+    "created_at": "2026-06-25T12:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T13:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070116590876836050"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6Pnss5kGvd",
+          "end": 70,
+          "expanded_url": "https://x.com/acnekot/status/2070116590876836050/photo/1",
+          "media_key": "3_2070116525084921856",
+          "start": 47,
+          "url": "https://t.co/6Pnss5kGvd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070116590876836050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哇哦，打开一看手机流量莫名其妙切到中国移动的保号卡然后还没关被中国移动扣了50块钱真是太赞了 https://t.co/6Pnss5kGvd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 79,
+        "media_key": "3_2070116525084921856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqIAvlaUAAVFxs.jpg",
+        "width": 150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070116525084921856"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2070116590876836050",
+        "created_at": "2026-06-25T12:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070116590876836050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6Pnss5kGvd",
+              "end": 70,
+              "expanded_url": "https://x.com/acnekot/status/2070116590876836050/photo/1",
+              "media_key": "3_2070116525084921856",
+              "start": 47,
+              "url": "https://t.co/6Pnss5kGvd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070116590876836050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇哦，打开一看手机流量莫名其妙切到中国移动的保号卡然后还没关被中国移动扣了50块钱真是太赞了 https://t.co/6Pnss5kGvd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2538,
+          "following_count": 800,
+          "like_count": 94844,
+          "listed_count": 9,
+          "media_count": 4031,
+          "tweet_count": 17100
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070373005897957376"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2070116590876836050",
+    "created_at": "2026-06-26T05:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T06:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070373016266301854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1351485882696548357",
+          "start": 0,
+          "username": "OnlyAppleCanDo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eFaPQGktgM",
+          "end": 39,
+          "expanded_url": "https://x.com/acnekot/status/2070373016266301854/photo/1",
+          "media_key": "3_2070373005897957376",
+          "start": 16,
+          "url": "https://t.co/eFaPQGktgM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070373016266301854",
+    "in_reply_to_user_id": "1351485882696548357",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070372589986570460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OnlyAppleCanDo https://t.co/eFaPQGktgM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 79,
+        "media_key": "3_2070373005897957376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtxR5EbAAAM6JK.jpg",
+        "width": 150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070373005897957376"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2070116590876836050",
+        "created_at": "2026-06-26T05:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070373016266301854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1351485882696548357",
+              "start": 0,
+              "username": "OnlyAppleCanDo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eFaPQGktgM",
+              "end": 39,
+              "expanded_url": "https://x.com/acnekot/status/2070373016266301854/photo/1",
+              "media_key": "3_2070373005897957376",
+              "start": 16,
+              "url": "https://t.co/eFaPQGktgM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070373016266301854",
+        "in_reply_to_user_id": "1351485882696548357",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070372589986570460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OnlyAppleCanDo https://t.co/eFaPQGktgM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1351485882696548357",
+        "conversation_id": "2070116590876836050",
+        "created_at": "2026-06-26T05:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070372589986570460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070372589986570460",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070116590876836050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot 你又扁了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2543,
+          "following_count": 800,
+          "like_count": 94856,
+          "listed_count": 9,
+          "media_count": 4037,
+          "tweet_count": 17110
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-19T11:05:27.000Z",
+        "description": "玩天際線嗎？｜貓不要吃我O_0｜在NYC活動｜可愛得意先係最大本領｜🏳️‍⚧️🍥",
+        "id": "1351485882696548357",
+        "location": "Nakayama",
+        "name": "meow!🐭",
+        "pinned_tweet_id": "2063390664273088979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038936941018906625/oKeygUjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 933,
+          "like_count": 56206,
+          "listed_count": 5,
+          "media_count": 2642,
+          "tweet_count": 12629
+        },
+        "url": "",
+        "username": "OnlyAppleCanDo",
+        "verified": false
+      }
+    ]
+  }
+}

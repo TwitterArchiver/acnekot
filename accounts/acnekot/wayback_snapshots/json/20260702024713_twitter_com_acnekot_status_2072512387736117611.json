@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2072259919060111360"
+      ],
+      "media_source_tweet_id": [
+        "2072260179308195849"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "2072512387736117611",
+    "created_at": "2026-07-02T02:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T03:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072512387736117611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1009980587539480576",
+          "start": 3,
+          "username": "Kawakawakaze"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YfBjdhlExr",
+          "end": 74,
+          "expanded_url": "https://x.com/Kawakawakaze/status/2072260179308195849/video/1",
+          "media_key": "13_2072259919060111360",
+          "start": 51,
+          "url": "https://t.co/YfBjdhlExr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072512387736117611",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 201
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072260179308195849",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kawakawakaze: 14年前にリリースされたスマホ音ゲーの最難関譜面はこんな感じです https://t.co/YfBjdhlExr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29696,
+        "height": 1080,
+        "media_key": "13_2072259919060111360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072259919060111360/img/_mtZz3tN-eo1fnJ3.jpg",
+        "public_metrics": {
+          "view_count": 79389
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072259919060111360/vid/avc1/480x270/nKqRQNuKtfzx8C2x.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072259919060111360/vid/avc1/640x360/UIqbdFecc1iw0K5l.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072259919060111360/vid/avc1/1280x720/d3rRszoHiKa1tUFn.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072259919060111360/pl/S2M-bjj8lAU47XTd.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072259919060111360"
+          ],
+          "media_source_tweet_id": [
+            "2072260179308195849"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2072512387736117611",
+        "created_at": "2026-07-02T02:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T03:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072512387736117611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1009980587539480576",
+              "start": 3,
+              "username": "Kawakawakaze"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YfBjdhlExr",
+              "end": 74,
+              "expanded_url": "https://x.com/Kawakawakaze/status/2072260179308195849/video/1",
+              "media_key": "13_2072259919060111360",
+              "start": 51,
+              "url": "https://t.co/YfBjdhlExr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072512387736117611",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 201
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072260179308195849",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kawakawakaze: 14年前にリリースされたスマホ音ゲーの最難関譜面はこんな感じです https://t.co/YfBjdhlExr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072259919060111360"
+          ]
+        },
+        "author_id": "1009980587539480576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2072260179308195849",
+        "created_at": "2026-07-01T10:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072260179308195849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YfBjdhlExr",
+              "end": 56,
+              "expanded_url": "https://x.com/Kawakawakaze/status/2072260179308195849/video/1",
+              "media_key": "13_2072259919060111360",
+              "start": 33,
+              "url": "https://t.co/YfBjdhlExr"
+            },
+            {
+              "display_url": "x.com/Kawakawakaze/s…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/Kawakawakaze/status/2072249449041236104",
+              "start": 57,
+              "url": "https://t.co/EVtepXc644"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072260179308195849",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 209,
+          "impression_count": 318158,
+          "like_count": 1846,
+          "quote_count": 46,
+          "reply_count": 0,
+          "retweet_count": 201
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072249449041236104",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "14年前にリリースされたスマホ音ゲーの最難関譜面はこんな感じです https://t.co/YfBjdhlExr https://t.co/EVtepXc644"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2565,
+          "following_count": 802,
+          "like_count": 95413,
+          "listed_count": 9,
+          "media_count": 4062,
+          "tweet_count": 17214
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-22T02:05:11.000Z",
+        "description": "チョコだいすきです \n音ゲーやっています → \nプロセカWCSファイナリスト \n制覇歴: プロセカ全虹、Arcaea Future+Beyond全PM maimai 真、熊、星、祭神\nプロフィール画像 / ヘッダー by @kotakuma_\nご連絡/お仕事はDMへ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 111,
+                "username": "kotakuma_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/ReinLovesKaw…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/ReinLovesKawakaze?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/ndXCfIxFtw"
+              }
+            ]
+          }
+        },
+        "id": "1009980587539480576",
+        "name": "Rein♡江風",
+        "pinned_tweet_id": "2055128822736097381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558709178905923584/Qo7hy0ED_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12030,
+          "following_count": 537,
+          "like_count": 23573,
+          "listed_count": 23,
+          "media_count": 7036,
+          "tweet_count": 18363
+        },
+        "url": "https://t.co/ndXCfIxFtw",
+        "username": "Kawakawakaze",
+        "verified": false
+      }
+    ]
+  }
+}

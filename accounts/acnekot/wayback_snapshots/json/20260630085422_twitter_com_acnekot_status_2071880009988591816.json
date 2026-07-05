@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2071873363900010570",
+    "created_at": "2026-06-30T08:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T09:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071880009988591816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1503710587901014016",
+          "start": 0,
+          "username": "chy224025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071880009988591816",
+    "in_reply_to_user_id": "1503710587901014016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071873363900010570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chy224025 何意味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2061,
+        "media_key": "3_2071873303539519489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDFytUWkAE6GKv.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2071873363900010570",
+        "created_at": "2026-06-30T08:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T09:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071880009988591816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1503710587901014016",
+              "start": 0,
+              "username": "chy224025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071880009988591816",
+        "in_reply_to_user_id": "1503710587901014016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071873363900010570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chy224025 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071873303539519489"
+          ]
+        },
+        "author_id": "1503710587901014016",
+        "conversation_id": "2071873363900010570",
+        "created_at": "2026-06-30T08:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T09:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071873363900010570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T8TEHDjyxc",
+              "end": 29,
+              "expanded_url": "https://x.com/chy224025/status/2071873363900010570/photo/1",
+              "media_key": "3_2071873303539519489",
+              "start": 6,
+              "url": "https://t.co/T8TEHDjyxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071873363900010570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不愧是小米 https://t.co/T8TEHDjyxc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2562,
+          "following_count": 804,
+          "like_count": 95248,
+          "listed_count": 9,
+          "media_count": 4059,
+          "tweet_count": 17196
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-15T12:32:11.000Z",
+        "description": "06，喜欢打音游的无聊大学生，平常也喜欢数码，刷机一类，喜欢玩Minecraft，使用Linux (Debian GNU/Linux 13)，Telegram：https://t.co/aLlTvGiCyi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chy224025",
+                "end": 103,
+                "expanded_url": "http://t.me/chy224025",
+                "start": 80,
+                "url": "https://t.co/aLlTvGiCyi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/chy2240",
+                "end": 23,
+                "expanded_url": "http://github.com/chy2240",
+                "start": 0,
+                "url": "https://t.co/KAZ7mSqjae"
+              }
+            ]
+          }
+        },
+        "id": "1503710587901014016",
+        "name": "chy224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004261535129260032/NpeqKixU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 1544,
+          "like_count": 2170,
+          "listed_count": 0,
+          "media_count": 415,
+          "tweet_count": 2109
+        },
+        "url": "https://t.co/KAZ7mSqjae",
+        "username": "chy224025",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2072527447812431872"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2072124157123571850",
+    "created_at": "2026-07-02T03:48:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T04:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072527776347988435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1733115346448678912",
+          "start": 0,
+          "username": "mikazapi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IOBe9Et0HE",
+          "end": 41,
+          "expanded_url": "https://x.com/acnekot/status/2072527776347988435/photo/1",
+          "media_key": "16_2072527447812431872",
+          "start": 18,
+          "url": "https://t.co/IOBe9Et0HE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072527776347988435",
+    "in_reply_to_user_id": "1733115346448678912",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072124157123571850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikazapi hell no https://t.co/IOBe9Et0HE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 112,
+        "media_key": "16_2072527447812431872",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMMYu6obYAA373_.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMMYu6obYAA373_.mp4"
+          }
+        ],
+        "width": 112
+      },
+      {
+        "duration_ms": 16366,
+        "height": 1080,
+        "media_key": "13_2072124100961775617",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072124100961775617/img/cULFFv2nFhP7b3cL.jpg",
+        "public_metrics": {
+          "view_count": 32292
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072124100961775617/vid/avc1/480x270/oH31YlaJ50FK0PRC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072124100961775617/vid/avc1/640x360/iEh-hgI4tIUyLDST.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072124100961775617/vid/avc1/1280x720/wUjwNomSvlOsxiYN.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072124100961775617/pl/04G4keEOUnWpE8TT.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2072527447812431872"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2072124157123571850",
+        "created_at": "2026-07-02T03:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072527776347988435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1733115346448678912",
+              "start": 0,
+              "username": "mikazapi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IOBe9Et0HE",
+              "end": 41,
+              "expanded_url": "https://x.com/acnekot/status/2072527776347988435/photo/1",
+              "media_key": "16_2072527447812431872",
+              "start": 18,
+              "url": "https://t.co/IOBe9Et0HE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072527776347988435",
+        "in_reply_to_user_id": "1733115346448678912",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072124157123571850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikazapi hell no https://t.co/IOBe9Et0HE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072124100961775617"
+          ]
+        },
+        "author_id": "1733115346448678912",
+        "conversation_id": "2072124157123571850",
+        "created_at": "2026-07-01T01:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T02:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072124157123571850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dyC5UriZox",
+              "end": 33,
+              "expanded_url": "https://x.com/mikazapi/status/2072124157123571850/video/1",
+              "media_key": "13_2072124100961775617",
+              "start": 10,
+              "url": "https://t.co/dyC5UriZox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072124157123571850",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 487,
+          "impression_count": 78557,
+          "like_count": 1626,
+          "quote_count": 16,
+          "reply_count": 11,
+          "retweet_count": 150
+        },
+        "reply_settings": "everyone",
+        "text": "新しい遊び方覚えた https://t.co/dyC5UriZox"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2565,
+          "following_count": 802,
+          "like_count": 95432,
+          "listed_count": 9,
+          "media_count": 4063,
+          "tweet_count": 17217
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-08T13:24:51.000Z",
+        "description": "vrchat始めましたから1年\n過去に特別はまったゲーム\nﾎﾟｹﾓﾝｼﾘｰｽﾞ(7世代まで)、minecraft,biohazard4、FEｼﾘｰｽﾞEmilChronicleonline、Newsuperhookgirl、東方萃夢想・永夜抄\n遊戯王DM・GX、ﾃﾞｨｽｶﾞｲｱ、拡散性・乖離性ﾐﾘｵﾝｱｰｻｰ",
+        "id": "1733115346448678912",
+        "name": "みかざぴ",
+        "pinned_tweet_id": "1922340414339547356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769006440705138688/M8BvLAHG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 77,
+          "like_count": 2050,
+          "listed_count": 2,
+          "media_count": 379,
+          "tweet_count": 806
+        },
+        "url": "",
+        "username": "mikazapi",
+        "verified": false
+      }
+    ]
+  }
+}

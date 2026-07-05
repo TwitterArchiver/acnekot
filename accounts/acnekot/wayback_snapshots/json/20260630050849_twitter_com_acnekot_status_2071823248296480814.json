@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2071822670644261235",
+    "created_at": "2026-06-30T05:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T06:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071823248296480814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071823248296480814",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071822670644261235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech \"开发者无需安装 Docker Desktop 即可运行容器，而且不会被常驻进程占用额外的资源。\"\n😯真的假的\n那不得不试试了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2071822554499579904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCXouaXAAAqxIt.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2071822670644261235",
+        "created_at": "2026-06-30T05:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071823248296480814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071823248296480814",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071822670644261235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech \"开发者无需安装 Docker Desktop 即可运行容器，而且不会被常驻进程占用额外的资源。\"\n😯真的假的\n那不得不试试了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071822554499579904"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "conversation_id": "2071822670644261235",
+        "created_at": "2026-06-30T05:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071822670644261235"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 55,
+              "tag": "WSLC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QED2GzH5ez",
+              "end": 174,
+              "expanded_url": "https://x.com/landiantech/status/2071822670644261235/photo/1",
+              "media_key": "3_2071822554499579904",
+              "start": 151,
+              "url": "https://t.co/QED2GzH5ez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071822670644261235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 55,
+                "tag": "WSLC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ourl.co/113703?x",
+                "end": 180,
+                "expanded_url": "https://ourl.co/113703?x",
+                "start": 157,
+                "url": "https://t.co/hu5ijDvSwy"
+              }
+            ]
+          },
+          "text": "🎉🎉🎉微软宣布 WSL 容器功能开始进行预览，开发者只需要将 WSL 更新到最新预览版即可使用 WSLC。\n\n#WSLC 容器功能支持创建、管理、运行、导出容器等，原生支持 GPU 容器，支持网络管理。\n\n开发者无需安装 Docker Desktop 即可运行容器，而且不会被常驻进程占用额外的资源。\n\n下载地址：https://t.co/hu5ijDvSwy"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🎉🎉🎉微软宣布 WSL 容器功能开始进行预览，开发者只需要将 WSL 更新到最新预览版即可使用 WSLC。\n\n#WSLC 容器功能支持创建、管理、运行、导出容器等，原生支持 GPU 容器，支持网络管理。\n\n开发者无需安装 Docker Desktop 即可运行容器，而且不会被常驻进程占用额外的资源。 https://t.co/QED2GzH5ez"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2559,
+          "following_count": 804,
+          "like_count": 95079,
+          "listed_count": 9,
+          "media_count": 4057,
+          "tweet_count": 17169
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / 重度 Codex & Claude Code 用户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landian.news",
+                "end": 23,
+                "expanded_url": "https://www.landian.news/",
+                "start": 0,
+                "url": "https://t.co/AQRoCx3e7F"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "pinned_tweet_id": "2061311181663715671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36091,
+          "following_count": 762,
+          "like_count": 5106,
+          "listed_count": 280,
+          "media_count": 5926,
+          "tweet_count": 16208
+        },
+        "url": "https://t.co/AQRoCx3e7F",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

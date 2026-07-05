@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2071822670644261235",
+    "created_at": "2026-06-30T06:38:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T07:38:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071845928944996601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602320477347000325",
+          "start": 0,
+          "username": "landiantech"
+        },
+        {
+          "end": 25,
+          "id": "1674748611089821696",
+          "start": 13,
+          "username": "all_be88337"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071845928944996601",
+    "in_reply_to_user_id": "1602320477347000325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071845683792138451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landiantech @all_be88337 docker desktop在我电脑还会莫名其妙卡死关不掉进程）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2071822670644261235",
+        "created_at": "2026-06-30T06:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T07:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071845928944996601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602320477347000325",
+              "start": 0,
+              "username": "landiantech"
+            },
+            {
+              "end": 25,
+              "id": "1674748611089821696",
+              "start": 13,
+              "username": "all_be88337"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071845928944996601",
+        "in_reply_to_user_id": "1602320477347000325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071845683792138451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landiantech @all_be88337 docker desktop在我电脑还会莫名其妙卡死关不掉进程）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1602320477347000325",
+        "conversation_id": "2071822670644261235",
+        "created_at": "2026-06-30T06:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T07:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071845683792138451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1674748611089821696",
+              "start": 0,
+              "username": "all_be88337"
+            },
+            {
+              "end": 21,
+              "id": "1552213521253150720",
+              "start": 13,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071845683792138451",
+        "in_reply_to_user_id": "1674748611089821696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071842602161439085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@all_be88337 @acnekot 是不额外消耗，因为你用docker desktop会有额外进程占用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2560,
+          "following_count": 804,
+          "like_count": 95185,
+          "listed_count": 9,
+          "media_count": 4058,
+          "tweet_count": 17188
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / 重度 Codex & Claude Code 用户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landian.news",
+                "end": 23,
+                "expanded_url": "https://www.landian.news/",
+                "start": 0,
+                "url": "https://t.co/AQRoCx3e7F"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "pinned_tweet_id": "2061311181663715671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36094,
+          "following_count": 762,
+          "like_count": 5106,
+          "listed_count": 280,
+          "media_count": 5930,
+          "tweet_count": 16216
+        },
+        "url": "https://t.co/AQRoCx3e7F",
+        "username": "landiantech",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-30T11:56:19.000Z",
+        "description": "Auto AI development  ING...",
+        "id": "1674748611089821696",
+        "name": "@Be_all",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693468618397548544/m3bYKB7H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 504,
+          "like_count": 4352,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1704
+        },
+        "url": "",
+        "username": "all_be88337",
+        "verified": false
+      }
+    ]
+  }
+}

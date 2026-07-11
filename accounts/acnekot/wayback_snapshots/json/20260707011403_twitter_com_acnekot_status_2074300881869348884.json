@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2074238813896118609",
+    "created_at": "2026-07-07T01:14:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T02:14:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074300881869348884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "821614513736781825",
+          "start": 0,
+          "username": "14ManGo1"
+        },
+        {
+          "end": 26,
+          "id": "2074131584093970433",
+          "start": 10,
+          "username": "fuckingshit0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074300881869348884",
+    "in_reply_to_user_id": "821614513736781825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074238813896118609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@14ManGo1 @fuckingshit0721 这个好像是漏洞获取的，注意安全啊劳斯，不过好像有很多无辜的人也获得，应该还好（？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 953,
+        "media_key": "3_2074238811442499584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMktNY9b0AApgq9.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074238811492745216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMktNZJagAAEuvI.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2074238813896118609",
+        "created_at": "2026-07-07T01:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T02:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074300881869348884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "821614513736781825",
+              "start": 0,
+              "username": "14ManGo1"
+            },
+            {
+              "end": 26,
+              "id": "2074131584093970433",
+              "start": 10,
+              "username": "fuckingshit0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074300881869348884",
+        "in_reply_to_user_id": "821614513736781825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074238813896118609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@14ManGo1 @fuckingshit0721 这个好像是漏洞获取的，注意安全啊劳斯，不过好像有很多无辜的人也获得，应该还好（？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074238811442499584",
+            "3_2074238811492745216"
+          ]
+        },
+        "author_id": "821614513736781825",
+        "conversation_id": "2074238813896118609",
+        "created_at": "2026-07-06T21:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T22:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074238813896118609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 69,
+              "id": "2074131584093970433",
+              "start": 53,
+              "username": "fuckingshit0721"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XlojlXDzG6",
+              "end": 93,
+              "expanded_url": "https://x.com/14ManGo1/status/2074238813896118609/photo/1",
+              "media_key": "3_2074238811442499584",
+              "start": 70,
+              "url": "https://t.co/XlojlXDzG6"
+            },
+            {
+              "display_url": "pic.x.com/XlojlXDzG6",
+              "end": 93,
+              "expanded_url": "https://x.com/14ManGo1/status/2074238813896118609/photo/1",
+              "media_key": "3_2074238811492745216",
+              "start": 70,
+              "url": "https://t.co/XlojlXDzG6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074238813896118609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1900,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿哲。。。？！富富！？\n谢谢老大Σ( ° △ °|||)︴（这下知道就算是蓝v也没法设置成关注者可回复了）@fuckingshit0721 https://t.co/XlojlXDzG6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2574,
+          "following_count": 813,
+          "like_count": 95828,
+          "listed_count": 9,
+          "media_count": 4077,
+          "tweet_count": 17283
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-18T07:05:39.000Z",
+        "description": "MTF 底层画师 车车人 bilibili底层虚拟主播",
+        "id": "821614513736781825",
+        "location": "中华人民共和国",
+        "name": "芒伊木",
+        "pinned_tweet_id": "2011094910473289883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004772707540606976/yHcgxQAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40134,
+          "following_count": 187,
+          "like_count": 643,
+          "listed_count": 125,
+          "media_count": 260,
+          "tweet_count": 485
+        },
+        "url": "",
+        "username": "14ManGo1",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-06T14:02:40.000Z",
+        "description": "万物生发复归根，凡事从此始喵🏳️‍🌈\n茫茫冻土身相随，有心炽如火喵🏳️‍⚧️",
+        "id": "2074131584093970433",
+        "name": "sin🍥",
+        "pinned_tweet_id": "2074208529175531893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074175326490693632/MHVw21ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 0,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "fuckingshit0721",
+        "verified": true
+      }
+    ]
+  }
+}

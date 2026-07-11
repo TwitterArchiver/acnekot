@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072952337807843328"
+      ],
+      "media_source_tweet_id": [
+        "2072952348016857493"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2073219862617530745",
+    "created_at": "2026-07-04T01:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T02:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073219862617530745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1226155676050677761",
+          "start": 3,
+          "username": "chidolyee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4ERBXDDSmB",
+          "end": 56,
+          "expanded_url": "https://x.com/chidolyee/status/2072952348016857493/photo/1",
+          "media_key": "3_2072952337807843328",
+          "start": 33,
+          "url": "https://t.co/4ERBXDDSmB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073219862617530745",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072952348016857493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @chidolyee: 오늘은 히로쨩을 마셔보겠습니다. https://t.co/4ERBXDDSmB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072952337807843328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSbKxNaIAA0W47.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072952337807843328"
+          ],
+          "media_source_tweet_id": [
+            "2072952348016857493"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2073219862617530745",
+        "created_at": "2026-07-04T01:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T02:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073219862617530745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1226155676050677761",
+              "start": 3,
+              "username": "chidolyee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ERBXDDSmB",
+              "end": 56,
+              "expanded_url": "https://x.com/chidolyee/status/2072952348016857493/photo/1",
+              "media_key": "3_2072952337807843328",
+              "start": 33,
+              "url": "https://t.co/4ERBXDDSmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073219862617530745",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072952348016857493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @chidolyee: 오늘은 히로쨩을 마셔보겠습니다. https://t.co/4ERBXDDSmB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072952337807843328"
+          ]
+        },
+        "author_id": "1226155676050677761",
+        "conversation_id": "2072952348016857493",
+        "created_at": "2026-07-03T07:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072952348016857493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ERBXDDSmB",
+              "end": 41,
+              "expanded_url": "https://x.com/chidolyee/status/2072952348016857493/photo/1",
+              "media_key": "3_2072952337807843328",
+              "start": 18,
+              "url": "https://t.co/4ERBXDDSmB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072952348016857493",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 7991,
+          "like_count": 313,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 18
+        },
+        "reply_settings": "following",
+        "text": "오늘은 히로쨩을 마셔보겠습니다. https://t.co/4ERBXDDSmB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2565,
+          "following_count": 804,
+          "like_count": 95617,
+          "listed_count": 9,
+          "media_count": 4068,
+          "tweet_count": 17237
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-08T14:47:56.000Z",
+        "description": "마노사바 파먹고 있습니다",
+        "id": "1226155676050677761",
+        "location": "Korea",
+        "name": "치돌이 ▪︎ 7코 CM_71",
+        "pinned_tweet_id": "2062420727090102637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072675067302232064/TQlWH6KX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 361,
+          "like_count": 19232,
+          "listed_count": 8,
+          "media_count": 3040,
+          "tweet_count": 21339
+        },
+        "url": "",
+        "username": "chidolyee",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2074304553877721534",
+    "created_at": "2026-07-07T01:28:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T02:28:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074304553877721534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1616813571433959424",
+          "start": 3,
+          "username": "lv__qx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074304553877721534",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073862311920677009",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lv__qx: 中国には死にたいって言ってる人いないの？中国版のTwitterで死にたいって呟いてる子いないの？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2074304553877721534",
+        "created_at": "2026-07-07T01:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T02:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074304553877721534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1616813571433959424",
+              "start": 3,
+              "username": "lv__qx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074304553877721534",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073862311920677009",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lv__qx: 中国には死にたいって言ってる人いないの？中国版のTwitterで死にたいって呟いてる子いないの？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616813571433959424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2073862311920677009",
+        "created_at": "2026-07-05T20:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T21:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073862311920677009"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073862311920677009",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 298618,
+          "like_count": 1174,
+          "quote_count": 19,
+          "reply_count": 935,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "中国には死にたいって言ってる人いないの？中国版のTwitterで死にたいって呟いてる子いないの？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2574,
+          "following_count": 814,
+          "like_count": 95850,
+          "listed_count": 9,
+          "media_count": 4077,
+          "tweet_count": 17287
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-21T15:02:57.000Z",
+        "description": "裏裏裏裏裏思考垂れ流し愚痴垢 ^. .^ ♡",
+        "id": "1616813571433959424",
+        "location": "日本語しか読めないですよ＞ᴗ＜♩翻訳してきて＞ᴗ＜♩",
+        "name": "るな",
+        "pinned_tweet_id": "1876738846538309985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071613131902926849/sEASNdP3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2366,
+          "following_count": 1,
+          "like_count": 926,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 2192
+        },
+        "url": "",
+        "username": "lv__qx",
+        "verified": true
+      }
+    ]
+  }
+}

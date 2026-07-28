@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080221272840265728"
+      ],
+      "media_source_tweet_id": [
+        "2080221576088440912"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2080222325690265836",
+    "created_at": "2026-07-23T09:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T10:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080222325690265836"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 13,
+          "tag": "超かぐや姫"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813736523046817792",
+          "start": 3,
+          "username": "imT0nyS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qVs9E23Edw",
+          "end": 57,
+          "expanded_url": "https://x.com/imT0nyS/status/2080221576088440912/photo/1",
+          "media_key": "3_2080221272840265728",
+          "start": 34,
+          "url": "https://t.co/qVs9E23Edw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080222325690265836",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080221576088440912",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @imT0nyS: #超かぐや姫\n「  見ちゃダメだよ。 」 https://t.co/qVs9E23Edw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2700,
+        "media_key": "3_2080221272840265728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5uOeXa4AA3GtZ.jpg",
+        "width": 2200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080221272840265728"
+          ]
+        },
+        "author_id": "1813736523046817792",
+        "conversation_id": "2080221576088440912",
+        "created_at": "2026-07-23T09:20:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:20:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080221576088440912"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qVs9E23Edw",
+              "end": 44,
+              "expanded_url": "https://x.com/imT0nyS/status/2080221576088440912/photo/1",
+              "media_key": "3_2080221272840265728",
+              "start": 21,
+              "url": "https://t.co/qVs9E23Edw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080221576088440912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 472,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "#超かぐや姫\n「  見ちゃダメだよ。 」 https://t.co/qVs9E23Edw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080221272840265728"
+          ],
+          "media_source_tweet_id": [
+            "2080221576088440912"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2080222325690265836",
+        "created_at": "2026-07-23T09:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080222325690265836"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813736523046817792",
+              "start": 3,
+              "username": "imT0nyS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qVs9E23Edw",
+              "end": 57,
+              "expanded_url": "https://x.com/imT0nyS/status/2080221576088440912/photo/1",
+              "media_key": "3_2080221272840265728",
+              "start": 34,
+              "url": "https://t.co/qVs9E23Edw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080222325690265836",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080221576088440912",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @imT0nyS: #超かぐや姫\n「  見ちゃダメだよ。 」 https://t.co/qVs9E23Edw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2574,
+          "following_count": 823,
+          "like_count": 96560,
+          "listed_count": 9,
+          "media_count": 4115,
+          "tweet_count": 17374
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-18T00:44:27.000Z",
+        "description": "🍀*约稿爆满啦！将于八月份重新开放~~🍀\n\n谢谢你打开了我的主页、谢谢你看到了这条简介，还要再谢谢你发现了我的谢谢！🍀\nᗜˬᗜ\n我非常喜欢CPK！\n\npixiv：https://t.co/Vx70akGtyk\n🍀个人网站↓↓↓*约稿、联系方式、建议箱*🍀",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/65407506",
+                "end": 104,
+                "expanded_url": "https://www.pixiv.net/users/65407506",
+                "start": 81,
+                "url": "https://t.co/Vx70akGtyk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/t0nys",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/t0nys",
+                "start": 0,
+                "url": "https://t.co/BfNa1P3EO6"
+              }
+            ]
+          }
+        },
+        "id": "1813736523046817792",
+        "name": "T0nyS @7/26-D13 @ 8/16",
+        "pinned_tweet_id": "2079455742986469400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813736667628683264/EniEqFtm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31872,
+          "following_count": 734,
+          "like_count": 3904,
+          "listed_count": 130,
+          "media_count": 230,
+          "tweet_count": 1134
+        },
+        "url": "https://t.co/BfNa1P3EO6",
+        "username": "imT0nyS",
+        "verified": true
+      }
+    ]
+  }
+}

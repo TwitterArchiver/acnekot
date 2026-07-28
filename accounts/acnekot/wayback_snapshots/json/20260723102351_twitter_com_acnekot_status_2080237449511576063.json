@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2079898569868525956",
+    "created_at": "2026-07-23T10:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T11:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080237449511576063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1679858508467159041",
+          "start": 0,
+          "username": "Amiartisan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080237449511576063",
+    "in_reply_to_user_id": "1679858508467159041",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079898569868525956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amiartisan 🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079898560053784576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1IuHjaMAAVYd8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2079898569868525956",
+        "created_at": "2026-07-23T10:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080237449511576063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1679858508467159041",
+              "start": 0,
+              "username": "Amiartisan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080237449511576063",
+        "in_reply_to_user_id": "1679858508467159041",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079898569868525956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amiartisan 🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079898560053784576"
+          ]
+        },
+        "author_id": "1679858508467159041",
+        "conversation_id": "2079898569868525956",
+        "created_at": "2026-07-22T11:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T12:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079898569868525956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/reLixOKbfW",
+              "end": 36,
+              "expanded_url": "https://x.com/Amiartisan/status/2079898569868525956/photo/1",
+              "media_key": "3_2079898560053784576",
+              "start": 13,
+              "url": "https://t.co/reLixOKbfW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079898569868525956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2166,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜呜身材好贫瘠好难看🥲 https://t.co/reLixOKbfW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2574,
+          "following_count": 823,
+          "like_count": 96564,
+          "listed_count": 9,
+          "media_count": 4115,
+          "tweet_count": 17375
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-14T14:20:59.000Z",
+        "description": "🏳️‍⚧️｜She/Her｜烤｜mai｜mzk推｜计算机｜Mac｜Linux｜Smartisan大好き｜试着去成为这个世界美好的那部分吧",
+        "id": "1679858508467159041",
+        "name": "夕子",
+        "pinned_tweet_id": "1980666621510451487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017219721939357696/Ioed0US1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 139,
+          "like_count": 3293,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 937
+        },
+        "url": "",
+        "username": "Amiartisan",
+        "verified": false
+      }
+    ]
+  }
+}

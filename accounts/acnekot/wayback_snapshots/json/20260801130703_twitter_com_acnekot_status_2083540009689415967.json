@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083539963623436288"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2083540009689415967",
+    "created_at": "2026-08-01T13:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083540009689415967"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pcFg1ZR1VI",
+          "end": 34,
+          "expanded_url": "https://x.com/acnekot/status/2083540009689415967/photo/1",
+          "media_key": "3_2083539963623436288",
+          "start": 11,
+          "url": "https://t.co/pcFg1ZR1VI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083540009689415967",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "求舞萌w45吃分推荐 https://t.co/pcFg1ZR1VI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2083539963623436288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOo4js8a8AAbCds.jpg",
+        "width": 2766
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083539963623436288"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2083540009689415967",
+        "created_at": "2026-08-01T13:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083540009689415967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pcFg1ZR1VI",
+              "end": 34,
+              "expanded_url": "https://x.com/acnekot/status/2083540009689415967/photo/1",
+              "media_key": "3_2083539963623436288",
+              "start": 11,
+              "url": "https://t.co/pcFg1ZR1VI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083540009689415967",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求舞萌w45吃分推荐 https://t.co/pcFg1ZR1VI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2562,
+          "following_count": 821,
+          "like_count": 96598,
+          "listed_count": 9,
+          "media_count": 4128,
+          "tweet_count": 17408
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

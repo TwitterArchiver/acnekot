@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2082855439180738839",
+    "created_at": "2026-07-31T07:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T08:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083088882187592115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1421750198821289985",
+          "start": 0,
+          "username": "vrcLuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083088882187592115",
+    "in_reply_to_user_id": "1421750198821289985",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082855439180738839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vrcLuu happy birthday🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2082,
+        "media_key": "3_2082855337137414145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfJ5MiaIAEe3L5.jpg",
+        "width": 1469
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2082855439180738839",
+        "created_at": "2026-07-31T07:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083088882187592115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1421750198821289985",
+              "start": 0,
+              "username": "vrcLuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083088882187592115",
+        "in_reply_to_user_id": "1421750198821289985",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082855439180738839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vrcLuu happy birthday🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082855337137414145"
+          ]
+        },
+        "author_id": "1421750198821289985",
+        "conversation_id": "2082855439180738839",
+        "created_at": "2026-07-30T15:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082855439180738839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hoLYnctMFY",
+              "end": 29,
+              "expanded_url": "https://x.com/vrcLuu/status/2082855439180738839/photo/1",
+              "media_key": "3_2082855337137414145",
+              "start": 6,
+              "url": "https://t.co/hoLYnctMFY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082855439180738839",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 11148,
+          "like_count": 1057,
+          "quote_count": 0,
+          "reply_count": 143,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "생일입니다 https://t.co/hoLYnctMFY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2560,
+          "following_count": 821,
+          "like_count": 96573,
+          "listed_count": 9,
+          "media_count": 4127,
+          "tweet_count": 17404
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-01T08:31:22.000Z",
+        "description": "사진 좋아해요\n VRC : Lu..\nhttps://t.co/hDGZ2oiKJC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/4088290098/",
+                "end": 43,
+                "expanded_url": "http://pushoong.com/ask/4088290098/",
+                "start": 20,
+                "url": "https://t.co/hDGZ2oiKJC"
+              }
+            ]
+          }
+        },
+        "id": "1421750198821289985",
+        "name": "Lu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001091874023739392/-DbmTlDS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7047,
+          "following_count": 4429,
+          "like_count": 132613,
+          "listed_count": 24,
+          "media_count": 4639,
+          "tweet_count": 13704
+        },
+        "url": "",
+        "username": "vrcLuu",
+        "verified": true
+      }
+    ]
+  }
+}

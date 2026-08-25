@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2090887366835859685",
+    "created_at": "2026-08-22T07:26:11.000Z",
+    "display_text_range": [
+      12,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T08:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091064372408053891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1679858508467159041",
+          "start": 0,
+          "username": "Amiartisan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091064372408053891",
+    "in_reply_to_user_id": "1679858508467159041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090887366835859685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amiartisan DeepSeek客户端屏蔽词贼多，用起来很难受😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090887357969166336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQRS-V0bcAAJUE3.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090887357923041280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQRS-VpboAAjTb4.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2090887366835859685",
+        "created_at": "2026-08-22T07:26:11.000Z",
+        "display_text_range": [
+          12,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T08:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091064372408053891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1679858508467159041",
+              "start": 0,
+              "username": "Amiartisan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091064372408053891",
+        "in_reply_to_user_id": "1679858508467159041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090887366835859685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amiartisan DeepSeek客户端屏蔽词贼多，用起来很难受😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090887357969166336",
+            "3_2090887357923041280"
+          ]
+        },
+        "author_id": "1679858508467159041",
+        "conversation_id": "2090887366835859685",
+        "created_at": "2026-08-21T19:42:49.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T20:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090887366835859685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9U0omE2bKo",
+              "end": 46,
+              "expanded_url": "https://x.com/Amiartisan/status/2090887366835859685/photo/1",
+              "media_key": "3_2090887357969166336",
+              "start": 23,
+              "url": "https://t.co/9U0omE2bKo"
+            },
+            {
+              "display_url": "pic.x.com/9U0omE2bKo",
+              "end": 46,
+              "expanded_url": "https://x.com/Amiartisan/status/2090887366835859685/photo/1",
+              "media_key": "3_2090887357923041280",
+              "start": 23,
+              "url": "https://t.co/9U0omE2bKo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090887366835859685",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090887357969166336"
+          },
+          {
+            "media_key": "3_2090887357923041280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这就是我们掌握了科技话语权的优秀人工智能✌️ https://t.co/9U0omE2bKo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2091064372408053891",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552213521253150720/1780231074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2637,
+          "following_count": 818,
+          "like_count": 96494,
+          "listed_count": 9,
+          "media_count": 4133,
+          "tweet_count": 17422
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-14T14:20:59.000Z",
+        "description": "🏳️‍⚧️｜She/Her｜烤｜mai｜mzk推｜计算机｜Mac｜Linux｜Smartisan大好き｜最好最好的宝宝@WuYueMeow｜试着去成为这个世界美好的那部分吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "WuYueMeow"
+              }
+            ]
+          }
+        },
+        "id": "1679858508467159041",
+        "is_identity_verified": false,
+        "location": "宝宝心里❤️",
+        "most_recent_tweet_id": "2090887366835859685",
+        "name": "夕子",
+        "pinned_tweet_id": "1980666621510451487",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1679858508467159041/1769603323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017219721939357696/Ioed0US1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 147,
+          "like_count": 3603,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 1023
+        },
+        "url": "",
+        "username": "Amiartisan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

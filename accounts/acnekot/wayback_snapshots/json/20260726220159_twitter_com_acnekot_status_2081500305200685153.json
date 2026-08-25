@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080897978961944576"
+      ],
+      "media_source_tweet_id": [
+        "2080897997710438769"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2081500305200685153",
+    "created_at": "2026-07-26T22:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T23:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081500305200685153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1689719215",
+          "start": 3,
+          "username": "Ryujo_Kohaku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b18haMxzNB",
+          "end": 56,
+          "expanded_url": "https://x.com/Ryujo_Kohaku/status/2080897997710438769/video/1",
+          "media_key": "13_2080897978961944576",
+          "start": 33,
+          "url": "https://t.co/b18haMxzNB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081500305200685153",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 568
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080897997710438769",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ryujo_Kohaku: 支払いのキプフェル可愛かった https://t.co/b18haMxzNB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2401,
+        "height": 1280,
+        "media_key": "13_2080897978961944576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080897978961944576/img/tMkKHuhPDzTxX7NY.jpg",
+        "public_metrics": {
+          "view_count": 77977
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080897978961944576/vid/avc1/320x568/HZWxo-sV0o1tdbJ5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080897978961944576/vid/avc1/480x852/56OJ6wUnGAeRy5yG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080897978961944576/vid/avc1/720x1280/pM2PddvfzHBAHZnI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080897978961944576/pl/KPIHbA3QJO861VLx.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080897978961944576"
+          ]
+        },
+        "author_id": "1689719215",
+        "conversation_id": "2080897997710438769",
+        "created_at": "2026-07-25T06:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080897997710438769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b18haMxzNB",
+              "end": 38,
+              "expanded_url": "https://x.com/Ryujo_Kohaku/status/2080897997710438769/video/1",
+              "media_key": "13_2080897978961944576",
+              "start": 15,
+              "url": "https://t.co/b18haMxzNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080897997710438769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 580,
+          "impression_count": 193488,
+          "like_count": 5683,
+          "quote_count": 13,
+          "reply_count": 12,
+          "retweet_count": 568
+        },
+        "reply_settings": "everyone",
+        "text": "支払いのキプフェル可愛かった https://t.co/b18haMxzNB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080897978961944576"
+          ],
+          "media_source_tweet_id": [
+            "2080897997710438769"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2081500305200685153",
+        "created_at": "2026-07-26T22:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T23:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081500305200685153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1689719215",
+              "start": 3,
+              "username": "Ryujo_Kohaku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b18haMxzNB",
+              "end": 56,
+              "expanded_url": "https://x.com/Ryujo_Kohaku/status/2080897997710438769/video/1",
+              "media_key": "13_2080897978961944576",
+              "start": 33,
+              "url": "https://t.co/b18haMxzNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081500305200685153",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 568
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080897997710438769",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ryujo_Kohaku: 支払いのキプフェル可愛かった https://t.co/b18haMxzNB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2567,
+          "following_count": 823,
+          "like_count": 96641,
+          "listed_count": 9,
+          "media_count": 4120,
+          "tweet_count": 17385
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-22T01:32:05.000Z",
+        "description": "VRC⌇20⤴︎⌇2025.08.01START\nフルトラ⌇ネフェリサ⌇焔花⌇士堂⌇斑霞⌇キプフェル⌇MICA\nアバターのアンバーサダー等やらせてもらってます。\n\n雌雄同体のメタモン",
+        "id": "1689719215",
+        "name": "龍驤 こはく/ Ryujo Kohaku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048498133697720320/c0IPtBvo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 124,
+          "like_count": 10556,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 920
+        },
+        "url": "",
+        "username": "Ryujo_Kohaku",
+        "verified": false
+      }
+    ]
+  }
+}

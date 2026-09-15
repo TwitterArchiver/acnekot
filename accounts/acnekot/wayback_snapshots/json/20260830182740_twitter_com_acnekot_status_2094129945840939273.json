@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094129940728066048"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2094129945840939273",
+    "created_at": "2026-08-30T18:27:40.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T19:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094129945840939273"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/X8FbSAdpEB",
+          "end": 23,
+          "expanded_url": "https://x.com/acnekot/status/2094129945840939273/photo/1",
+          "media_key": "3_2094129940728066048",
+          "start": 0,
+          "url": "https://t.co/X8FbSAdpEB"
+        },
+        {
+          "display_url": "x.com/srtkreadonly/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/srtkreadonly/status/2093702910735781952",
+          "start": 24,
+          "url": "https://t.co/NxHaAKpVnb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094129945840939273",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2094129940728066048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093702910735781952",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/X8FbSAdpEB https://t.co/NxHaAKpVnb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 160,
+        "media_key": "3_2094129940728066048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ_YFf6bMAA2h4A.jpg",
+        "width": 160
+      },
+      {
+        "duration_ms": 22964,
+        "height": 720,
+        "media_key": "13_2093702840439222272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093702840439222272/img/A2Bj1TYRdOr2DNaB.jpg",
+        "public_metrics": {
+          "view_count": 546229
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093702840439222272/vid/avc1/320x570/doiy4q5G3QNoWNsM.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093702840439222272/vid/avc1/404x720/13OQMXHQr7LIK_zh.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093702840439222272/pl/3gBo3qjHSWSRscLi.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 404
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094129940728066048"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2094129945840939273",
+        "created_at": "2026-08-30T18:27:40.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T19:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094129945840939273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X8FbSAdpEB",
+              "end": 23,
+              "expanded_url": "https://x.com/acnekot/status/2094129945840939273/photo/1",
+              "media_key": "3_2094129940728066048",
+              "start": 0,
+              "url": "https://t.co/X8FbSAdpEB"
+            },
+            {
+              "display_url": "x.com/srtkreadonly/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/srtkreadonly/status/2093702910735781952",
+              "start": 24,
+              "url": "https://t.co/NxHaAKpVnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094129945840939273",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2094129940728066048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093702910735781952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/X8FbSAdpEB https://t.co/NxHaAKpVnb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093702840439222272"
+          ]
+        },
+        "author_id": "1830234392478027776",
+        "conversation_id": "2093702910735781952",
+        "created_at": "2026-08-29T14:10:47.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T15:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093702910735781952"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C1DUN2FNIT",
+              "end": 34,
+              "expanded_url": "https://x.com/srtkreadonly/status/2093702910735781952/video/1",
+              "media_key": "13_2093702840439222272",
+              "start": 11,
+              "url": "https://t.co/C1DUN2FNIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093702910735781952",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2093702840439222272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1370,
+          "impression_count": 1073993,
+          "like_count": 5478,
+          "quote_count": 184,
+          "reply_count": 28,
+          "retweet_count": 941
+        },
+        "reply_settings": "everyone",
+        "text": "はやくこれになりたい https://t.co/C1DUN2FNIT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2094129945840939273",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552213521253150720/1780231074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2602,
+          "following_count": 815,
+          "like_count": 96555,
+          "listed_count": 9,
+          "media_count": 4141,
+          "tweet_count": 17446
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-01T13:21:06.000Z",
+        "description": "オタク",
+        "id": "1830234392478027776",
+        "is_identity_verified": false,
+        "location": "新潟",
+        "most_recent_tweet_id": "2094029290556043705",
+        "name": "修羅滝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1830234392478027776/1778942425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959980241969135616/pXKjhGhk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 149,
+          "like_count": 17918,
+          "listed_count": 4,
+          "media_count": 781,
+          "tweet_count": 3761
+        },
+        "url": "",
+        "username": "srtkreadonly",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

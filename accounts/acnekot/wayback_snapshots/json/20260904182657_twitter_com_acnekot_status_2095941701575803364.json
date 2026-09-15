@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2095857579155157386",
+    "created_at": "2026-09-04T18:26:57.000Z",
+    "display_text_range": [
+      10,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T19:26:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095941701575803364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1504405808133865474",
+          "start": 0,
+          "username": "kazemio_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095941701575803364",
+    "in_reply_to_user_id": "1504405808133865474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095857579155157386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kazemio_ 梦回一键root时代"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_2095857552059998208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRX7VtpbIAACKXz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2340,
+        "media_key": "3_2095857562264670208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRX7WTqaEAAGrZo.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2340,
+        "media_key": "3_2095857570191921154",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRX7WxMaUAIXG0F.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2095857579155157386",
+        "created_at": "2026-09-04T18:26:57.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T19:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095941701575803364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1504405808133865474",
+              "start": 0,
+              "username": "kazemio_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095941701575803364",
+        "in_reply_to_user_id": "1504405808133865474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095857579155157386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kazemio_ 梦回一键root时代"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095857552059998208",
+            "3_2095857562264670208",
+            "3_2095857570191921154"
+          ]
+        },
+        "author_id": "1504405808133865474",
+        "conversation_id": "2095857579155157386",
+        "created_at": "2026-09-04T12:52:40.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T13:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095857579155157386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yn8BV0dTHi",
+              "end": 28,
+              "expanded_url": "https://x.com/kazemio_/status/2095857579155157386/photo/1",
+              "media_key": "3_2095857552059998208",
+              "start": 5,
+              "url": "https://t.co/yn8BV0dTHi"
+            },
+            {
+              "display_url": "pic.x.com/yn8BV0dTHi",
+              "end": 28,
+              "expanded_url": "https://x.com/kazemio_/status/2095857579155157386/photo/1",
+              "media_key": "3_2095857562264670208",
+              "start": 5,
+              "url": "https://t.co/yn8BV0dTHi"
+            },
+            {
+              "display_url": "pic.x.com/yn8BV0dTHi",
+              "end": 28,
+              "expanded_url": "https://x.com/kazemio_/status/2095857579155157386/photo/1",
+              "media_key": "3_2095857570191921154",
+              "start": 5,
+              "url": "https://t.co/yn8BV0dTHi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095857579155157386",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095857552059998208"
+          },
+          {
+            "media_key": "3_2095857562264670208"
+          },
+          {
+            "media_key": "3_2095857570191921154"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 692,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太伟大了 https://t.co/yn8BV0dTHi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2095941701575803364",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552213521253150720/1780231074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2593,
+          "following_count": 815,
+          "like_count": 96668,
+          "listed_count": 9,
+          "media_count": 4144,
+          "tweet_count": 17453
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-17T10:34:36.000Z",
+        "description": "https://t.co/iVXttOqHBk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miobyte.net",
+                "end": 23,
+                "expanded_url": "http://miobyte.net",
+                "start": 0,
+                "url": "https://t.co/iVXttOqHBk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+0F6-_Zlb9ghmO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+0F6-_Zlb9ghmODgx",
+                "start": 0,
+                "url": "https://t.co/RaG8cWG1Cf"
+              }
+            ]
+          }
+        },
+        "id": "1504405808133865474",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095874315375816995",
+        "name": "下一个天亮",
+        "pinned_tweet_id": "1925199258170646912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504405808133865474/1773581876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088873655153668096/c-vfZ1R9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2368,
+          "following_count": 507,
+          "like_count": 3674,
+          "listed_count": 7,
+          "media_count": 304,
+          "tweet_count": 2307
+        },
+        "url": "https://t.co/RaG8cWG1Cf",
+        "username": "kazemio_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

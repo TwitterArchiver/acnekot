@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093683212459642880"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2093683223775821976",
+    "created_at": "2026-08-29T12:52:33.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T13:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093683223775821976"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 13,
+          "start": 0,
+          "tag": "今天maimai断网了吗"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fp516VS6jh",
+          "end": 37,
+          "expanded_url": "https://x.com/acnekot/status/2093683223775821976/photo/1",
+          "media_key": "3_2093683212459642880",
+          "start": 14,
+          "url": "https://t.co/fp516VS6jh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093683223775821976",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2093683212459642880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#今天maimai断网了吗 https://t.co/fp516VS6jh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3458,
+        "media_key": "3_2093683212459642880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ5ByfbbEAA_4bN.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093683212459642880"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2093683223775821976",
+        "created_at": "2026-08-29T12:52:33.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T13:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093683223775821976"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "今天maimai断网了吗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fp516VS6jh",
+              "end": 37,
+              "expanded_url": "https://x.com/acnekot/status/2093683223775821976/photo/1",
+              "media_key": "3_2093683212459642880",
+              "start": 14,
+              "url": "https://t.co/fp516VS6jh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093683223775821976",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2093683212459642880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#今天maimai断网了吗 https://t.co/fp516VS6jh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2093683223775821976",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552213521253150720/1780231074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2604,
+          "following_count": 814,
+          "like_count": 96495,
+          "listed_count": 9,
+          "media_count": 4138,
+          "tweet_count": 17434
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

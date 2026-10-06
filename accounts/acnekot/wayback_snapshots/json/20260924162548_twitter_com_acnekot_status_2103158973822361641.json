@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2103116539839049896",
+    "created_at": "2026-09-24T16:25:48.000Z",
+    "display_text_range": [
+      26,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T17:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103158973822361641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1996700779907059712",
+          "start": 0,
+          "username": "r17357238"
+        },
+        {
+          "end": 25,
+          "id": "1990633723885465602",
+          "start": 11,
+          "username": "bang_dream_on"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103158973822361641",
+    "in_reply_to_user_id": "1996700779907059712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103128552933859694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@r17357238 @bang_dream_on 我还以为是我的网络问题）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2103116539839049896",
+        "created_at": "2026-09-24T16:25:48.000Z",
+        "display_text_range": [
+          26,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T17:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103158973822361641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1996700779907059712",
+              "start": 0,
+              "username": "r17357238"
+            },
+            {
+              "end": 25,
+              "id": "1990633723885465602",
+              "start": 11,
+              "username": "bang_dream_on"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103158973822361641",
+        "in_reply_to_user_id": "1996700779907059712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103128552933859694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@r17357238 @bang_dream_on 我还以为是我的网络问题）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996700779907059712",
+        "conversation_id": "2103116539839049896",
+        "created_at": "2026-09-24T14:24:55.000Z",
+        "display_text_range": [
+          15,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T15:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103128552933859694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1990633723885465602",
+              "start": 0,
+              "username": "bang_dream_on"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103128552933859694",
+        "in_reply_to_user_id": "1990633723885465602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5808,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103116539839049896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bang_dream_on 那个奖励箱我一点一键领取，就会显示网络不佳并退回标题画面，如果不是只有我一个人这样的话，希望能修复一下，辛苦了😘"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94kyF"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2103158973822361641",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552213521253150720/1780231074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101168404732493824/JIak13Xx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2571,
+          "following_count": 825,
+          "like_count": 98559,
+          "listed_count": 9,
+          "media_count": 4172,
+          "tweet_count": 17607
+        },
+        "url": "https://t.co/HEkBb94kyF",
+        "username": "acnekot",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-04T21:59:25.000Z",
+        "description": "",
+        "id": "1996700779907059712",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2103128552933859694",
+        "name": "loml",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1996700779907059712/1778460441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053638056092246016/FLL4OStP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 45,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "r17357238",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2082827306335371265/XeH4bms6_bigger.jpg",
+          "description": "バンドリ！ BanG Dream! 公式",
+          "url": "https://twitter.com/bang_dream_info",
+          "user_id": [
+            "3009772568"
+          ]
+        },
+        "created_at": "2025-11-18T04:11:15.000Z",
+        "description": "「バンドリ！アワーノーツ」の公式アカウントです。 #アワーノーツ の最新情報をお届けします。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 25,
+                "tag": "アワーノーツ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bang-dream-on.bushimo.jp",
+                "end": 23,
+                "expanded_url": "https://bang-dream-on.bushimo.jp/",
+                "start": 0,
+                "url": "https://t.co/L3fVZlg0qf"
+              }
+            ]
+          }
+        },
+        "id": "1990633723885465602",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103116539839049896",
+        "name": "バンドリ！アワーノーツ",
+        "pinned_tweet_id": "2103077172990947684",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1990633723885465602/1790248176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103079395107999744/ToaeVudE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157399,
+          "following_count": 36,
+          "like_count": 0,
+          "listed_count": 340,
+          "media_count": 398,
+          "tweet_count": 590
+        },
+        "url": "https://t.co/L3fVZlg0qf",
+        "username": "bang_dream_on",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

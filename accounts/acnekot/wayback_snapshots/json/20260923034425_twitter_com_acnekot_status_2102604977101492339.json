@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2102220393381797889"
+      ],
+      "media_source_tweet_id": [
+        "2102220508226060504"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2102604977101492339",
+    "created_at": "2026-09-23T03:44:25.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T04:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102604977101492339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1580767946179194882",
+          "start": 3,
+          "username": "kafkaup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TEAYjRHBID",
+          "end": 61,
+          "expanded_url": "https://x.com/kafkaup/status/2102220508226060504/video/1",
+          "media_key": "13_2102220393381797889",
+          "start": 38,
+          "url": "https://t.co/TEAYjRHBID"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102604977101492339",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2102220393381797889"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2366
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102220508226060504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kafkaup: 当你打开一个 vibe coding 出来的网站 https://t.co/TEAYjRHBID"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26410,
+        "height": 1424,
+        "media_key": "13_2102220393381797889",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102220393381797889/img/TwPXU4Y39dFEQxuc.jpg",
+        "public_metrics": {
+          "view_count": 333892
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102220393381797889/pl/Y_6sTNmgEuwL7LZp.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102220393381797889/vid/avc1/320x344/M-UFIFRTriv4iiCR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102220393381797889/vid/avc1/720x776/Uy84i0bX1AHfQwjl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102220393381797889/vid/avc1/480x516/3L6quN7d8lFxPnJH.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102220393381797889/vid/avc1/1320x1424/idEni05kEcPg9lz5.mp4"
+          }
+        ],
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102220393381797889"
+          ],
+          "media_source_tweet_id": [
+            "2102220508226060504"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2102604977101492339",
+        "created_at": "2026-09-23T03:44:25.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T04:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102604977101492339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1580767946179194882",
+              "start": 3,
+              "username": "kafkaup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TEAYjRHBID",
+              "end": 61,
+              "expanded_url": "https://x.com/kafkaup/status/2102220508226060504/video/1",
+              "media_key": "13_2102220393381797889",
+              "start": 38,
+              "url": "https://t.co/TEAYjRHBID"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102604977101492339",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2102220393381797889"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2366
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102220508226060504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kafkaup: 当你打开一个 vibe coding 出来的网站 https://t.co/TEAYjRHBID"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102220393381797889"
+          ]
+        },
+        "author_id": "1580767946179194882",
+        "conversation_id": "2102220508226060504",
+        "created_at": "2026-09-22T02:16:41.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T03:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102220508226060504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TEAYjRHBID",
+              "end": 48,
+              "expanded_url": "https://x.com/kafkaup/status/2102220508226060504/video/1",
+              "media_key": "13_2102220393381797889",
+              "start": 25,
+              "url": "https://t.co/TEAYjRHBID"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102220508226060504",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2102220393381797889"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1465,
+          "impression_count": 645663,
+          "like_count": 10877,
+          "quote_count": 177,
+          "reply_count": 281,
+          "retweet_count": 2366
+        },
+        "reply_settings": "everyone",
+        "text": "当你打开一个 vibe coding 出来的网站 https://t.co/TEAYjRHBID"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94kyF"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2102604977101492339",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552213521253150720/1780231074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101168404732493824/JIak13Xx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2574,
+          "following_count": 824,
+          "like_count": 98031,
+          "listed_count": 9,
+          "media_count": 4169,
+          "tweet_count": 17582
+        },
+        "url": "https://t.co/HEkBb94kyF",
+        "username": "acnekot",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-14T03:50:34.000Z",
+        "description": "AI | full stack dev | shitposting",
+        "id": "1580767946179194882",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2102602482866335824",
+        "name": "卡夫卡",
+        "pinned_tweet_id": "2086414373380325747",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1580767946179194882/1777778078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097560351852343296/ZFI_YgUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14545,
+          "following_count": 711,
+          "like_count": 20047,
+          "listed_count": 60,
+          "media_count": 2066,
+          "tweet_count": 13858
+        },
+        "url": "",
+        "username": "kafkaup",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

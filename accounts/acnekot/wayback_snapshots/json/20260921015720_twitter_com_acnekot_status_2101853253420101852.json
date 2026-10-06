@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2101587416012435937",
+    "created_at": "2026-09-21T01:57:20.000Z",
+    "display_text_range": [
+      11,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T02:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101853253420101852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1368897611672018953",
+          "start": 0,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101853253420101852",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101587416012435937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUEQIUxka 他们不都是一家的吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2101325396910505984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSloULBbgAAsuFa.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2101587416012435937",
+        "created_at": "2026-09-21T01:57:20.000Z",
+        "display_text_range": [
+          11,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T02:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101853253420101852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101853253420101852",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101587416012435937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 他们不都是一家的吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101325396910505984"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2101587416012435937",
+        "created_at": "2026-09-20T08:21:00.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T09:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101587416012435937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aWohwjnpGg",
+              "end": 33,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2101587416012435937/photo/1",
+              "media_key": "3_2101325396910505984",
+              "start": 10,
+              "url": "https://t.co/aWohwjnpGg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101587416012435937",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101325396910505984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2745,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鲁巴佩大战东鹏特饮 https://t.co/aWohwjnpGg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94kyF"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2101853253420101852",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552213521253150720/1780231074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101168404732493824/JIak13Xx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2567,
+          "following_count": 822,
+          "like_count": 97401,
+          "listed_count": 9,
+          "media_count": 4164,
+          "tweet_count": 17542
+        },
+        "url": "https://t.co/HEkBb94kyF",
+        "username": "acnekot",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n官方uk账号：@XUEQIUxka_uk\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "XUEQIUxka_uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.com",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.com",
+                "start": 0,
+                "url": "https://t.co/vOIvxkqVXT"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "is_identity_verified": false,
+        "location": "雪球工业园",
+        "most_recent_tweet_id": "2101850650401460462",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1368897611672018953/1774177998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9779,
+          "following_count": 2330,
+          "like_count": 33580,
+          "listed_count": 25,
+          "media_count": 1773,
+          "tweet_count": 6191
+        },
+        "url": "https://t.co/vOIvxkqVXT",
+        "username": "XUEQIUxka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

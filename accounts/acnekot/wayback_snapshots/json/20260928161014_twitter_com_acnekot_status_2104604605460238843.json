@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2104563023348220320",
+    "created_at": "2026-09-28T16:10:14.000Z",
+    "display_text_range": [
+      30,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T17:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104604605460238843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1949141450131931137",
+          "start": 0,
+          "username": "Lizhizuodiyi"
+        },
+        {
+          "end": 29,
+          "id": "1918274202580467713",
+          "start": 14,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104604605460238843",
+    "in_reply_to_user_id": "1949141450131931137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104596848707281282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lizhizuodiyi @CyberKanjousen 最后的token"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2104563023348220320",
+        "created_at": "2026-09-28T16:10:14.000Z",
+        "display_text_range": [
+          30,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T17:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104604605460238843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1949141450131931137",
+              "start": 0,
+              "username": "Lizhizuodiyi"
+            },
+            {
+              "end": 29,
+              "id": "1918274202580467713",
+              "start": 14,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104604605460238843",
+        "in_reply_to_user_id": "1949141450131931137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104596848707281282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lizhizuodiyi @CyberKanjousen 最后的token"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949141450131931137",
+        "conversation_id": "2104563023348220320",
+        "created_at": "2026-09-28T15:39:24.000Z",
+        "display_text_range": [
+          25,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T16:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104596848707281282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1552213521253150720",
+              "start": 0,
+              "username": "acnekot"
+            },
+            {
+              "end": 24,
+              "id": "1918274202580467713",
+              "start": 9,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104596848707281282",
+        "in_reply_to_user_id": "1552213521253150720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104574911364915373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acnekot @CyberKanjousen 最后的晚餐"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94kyF"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2104604605460238843",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552213521253150720/1780231074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101168404732493824/JIak13Xx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2574,
+          "following_count": 825,
+          "like_count": 99146,
+          "listed_count": 9,
+          "media_count": 4189,
+          "tweet_count": 17654
+        },
+        "url": "https://t.co/HEkBb94kyF",
+        "username": "acnekot",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-26T16:15:18.000Z",
+        "description": "05年男大｜Web3｜Price Action",
+        "id": "1949141450131931137",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104596848707281282",
+        "name": "我不想变笨",
+        "pinned_tweet_id": "2090739267807084894",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1949141450131931137/1761330568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981790083846938624/BsbnCSmr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 888,
+          "like_count": 3266,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1260
+        },
+        "url": "",
+        "username": "Lizhizuodiyi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2104584162372194491",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21293,
+          "following_count": 893,
+          "like_count": 36898,
+          "listed_count": 32,
+          "media_count": 3339,
+          "tweet_count": 14298
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

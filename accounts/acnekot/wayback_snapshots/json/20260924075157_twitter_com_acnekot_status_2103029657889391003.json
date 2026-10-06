@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2102680750827122742",
+    "created_at": "2026-09-24T07:51:57.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T08:51:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103029657889391003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1818817734744166400",
+          "start": 0,
+          "username": "emFZ1fRHsl60917"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103029657889391003",
+    "in_reply_to_user_id": "1818817734744166400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102680750827122742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emFZ1fRHsl60917 中文？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2102680750827122742",
+        "created_at": "2026-09-24T07:51:57.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T08:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103029657889391003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1818817734744166400",
+              "start": 0,
+              "username": "emFZ1fRHsl60917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103029657889391003",
+        "in_reply_to_user_id": "1818817734744166400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102680750827122742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emFZ1fRHsl60917 中文？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818817734744166400",
+        "conversation_id": "2102680750827122742",
+        "created_at": "2026-09-23T08:45:31.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T09:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102680750827122742"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102680750827122742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 317,
+          "impression_count": 646729,
+          "like_count": 5666,
+          "quote_count": 38,
+          "reply_count": 644,
+          "retweet_count": 212
+        },
+        "reply_settings": "everyone",
+        "text": "大家好！我是来自中国的中国人！我很高兴，因为通过这个软件我可以和大家聊天。\n我在中国住了18年。我喜欢中国文化，所以学习了中文。中文对我来说真的真的非常困难，但是我已经不需要翻译器了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94kyF"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2103029657889391003",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552213521253150720/1780231074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101168404732493824/JIak13Xx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2571,
+          "following_count": 824,
+          "like_count": 98371,
+          "listed_count": 9,
+          "media_count": 4171,
+          "tweet_count": 17598
+        },
+        "url": "https://t.co/HEkBb94kyF",
+        "username": "acnekot",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-01T01:15:26.000Z",
+        "description": "Die Freiheit ist in Nichts",
+        "id": "1818817734744166400",
+        "is_identity_verified": false,
+        "location": "Alien👽",
+        "most_recent_tweet_id": "2103019211346104739",
+        "name": "いけ",
+        "pinned_tweet_id": "2099935185974505721",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097473181078704128/l6JpwPuk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 1,
+          "like_count": 505,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "emFZ1fRHsl60917",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

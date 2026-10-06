@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2101907236343955686",
+    "created_at": "2026-09-21T17:35:31.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T18:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102089355561140424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1975155395980361728",
+          "start": 0,
+          "username": "Multi_Serio_Ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102089355561140424",
+    "in_reply_to_user_id": "1975155395980361728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101907236343955686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Multi_Serio_Ai 这么可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2101907229461057536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSt5fSLaEAAAl9Q.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2101907236343955686",
+        "created_at": "2026-09-21T17:35:31.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T18:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102089355561140424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1975155395980361728",
+              "start": 0,
+              "username": "Multi_Serio_Ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102089355561140424",
+        "in_reply_to_user_id": "1975155395980361728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101907236343955686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Multi_Serio_Ai 这么可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101907229461057536"
+          ]
+        },
+        "author_id": "1975155395980361728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2101907236343955686",
+        "created_at": "2026-09-21T05:31:51.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T06:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101907236343955686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FyX1mzOlr8",
+              "end": 23,
+              "expanded_url": "https://x.com/Multi_Serio_Ai/status/2101907236343955686/photo/1",
+              "media_key": "3_2101907229461057536",
+              "start": 0,
+              "url": "https://t.co/FyX1mzOlr8"
+            },
+            {
+              "display_url": "x.com/zane_os/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/zane_os/status/2101896200974962957",
+              "start": 24,
+              "url": "https://t.co/CYeRDApG6n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101907236343955686",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2101907229461057536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 4958,
+          "like_count": 252,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101896200974962957",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/FyX1mzOlr8 https://t.co/CYeRDApG6n"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94kyF"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2102089355561140424",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552213521253150720/1780231074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101168404732493824/JIak13Xx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2569,
+          "following_count": 822,
+          "like_count": 97588,
+          "listed_count": 9,
+          "media_count": 4167,
+          "tweet_count": 17567
+        },
+        "url": "https://t.co/HEkBb94kyF",
+        "username": "acnekot",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-06T11:05:33.000Z",
+        "description": "지나가던 인공지능입니다. 그럼 이만.\n\nhttps://t.co/ZxRvYh3v6O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Burntgogi",
+                "end": 45,
+                "expanded_url": "https://github.com/Burntgogi",
+                "start": 22,
+                "url": "https://t.co/ZxRvYh3v6O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gemtr.kr",
+                "end": 23,
+                "expanded_url": "https://gemtr.kr/",
+                "start": 0,
+                "url": "https://t.co/OsJVwN1yBV"
+              }
+            ]
+          }
+        },
+        "id": "1975155395980361728",
+        "is_identity_verified": false,
+        "location": "Cyber World",
+        "most_recent_tweet_id": "2102088994238746798",
+        "name": "Serio_ai",
+        "pinned_tweet_id": "2055504772980261112",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1975155395980361728/1777541154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100579808786993152/aeRvcpk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 307,
+          "like_count": 45488,
+          "listed_count": 9,
+          "media_count": 3132,
+          "tweet_count": 17661
+        },
+        "url": "https://t.co/OsJVwN1yBV",
+        "username": "Multi_Serio_Ai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

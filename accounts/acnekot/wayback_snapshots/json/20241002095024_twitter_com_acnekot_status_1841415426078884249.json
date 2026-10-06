@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1841415419019816960",
+        "3_1841415419024093184"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "1841415426078884249",
+    "created_at": "2024-10-02T09:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T10:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1841415426078884249"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yoLJltN0oM",
+          "end": 34,
+          "expanded_url": "https://x.com/acnekot/status/1841415426078884249/photo/1",
+          "media_key": "3_1841415419019816960",
+          "start": 11,
+          "url": "https://t.co/yoLJltN0oM"
+        },
+        {
+          "display_url": "pic.x.com/yoLJltN0oM",
+          "end": 34,
+          "expanded_url": "https://x.com/acnekot/status/1841415426078884249/photo/1",
+          "media_key": "3_1841415419024093184",
+          "start": 11,
+          "url": "https://t.co/yoLJltN0oM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841415426078884249",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "34块钱买了CDK🥰 https://t.co/yoLJltN0oM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1841415419019816960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY4FkT6acAA6zU_.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1841415419024093184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GY4FkT7bsAA2tVL.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841415419019816960",
+            "3_1841415419024093184"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "1841415426078884249",
+        "created_at": "2024-10-02T09:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T10:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841415426078884249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yoLJltN0oM",
+              "end": 34,
+              "expanded_url": "https://x.com/acnekot/status/1841415426078884249/photo/1",
+              "media_key": "3_1841415419019816960",
+              "start": 11,
+              "url": "https://t.co/yoLJltN0oM"
+            },
+            {
+              "display_url": "pic.x.com/yoLJltN0oM",
+              "end": 34,
+              "expanded_url": "https://x.com/acnekot/status/1841415426078884249/photo/1",
+              "media_key": "3_1841415419024093184",
+              "start": 11,
+              "url": "https://t.co/yoLJltN0oM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841415426078884249",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "34块钱买了CDK🥰 https://t.co/yoLJltN0oM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "Into Nothing.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bonjour.bio/acnekot",
+                "end": 23,
+                "expanded_url": "https://bonjour.bio/acnekot",
+                "start": 0,
+                "url": "https://t.co/dihqxxtjTA"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "Unknown.",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "1823402557588607124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829568488333313/shxzAHFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 345,
+          "like_count": 38448,
+          "listed_count": 5,
+          "tweet_count": 7851
+        },
+        "url": "https://t.co/dihqxxtjTA",
+        "username": "acnekot",
+        "verified": false
+      }
+    ]
+  }
+}

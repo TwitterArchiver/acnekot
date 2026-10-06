@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100941907975426048"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2100941965630251023",
+    "created_at": "2026-09-18T13:36:12.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T14:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100941965630251023"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n3vaw7tZPX",
+          "end": 33,
+          "expanded_url": "https://x.com/acnekot/status/2100941965630251023/photo/1",
+          "media_key": "3_2100941907975426048",
+          "start": 10,
+          "url": "https://t.co/n3vaw7tZPX"
+        },
+        {
+          "display_url": "x.com/Yayoi_no_yume/…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/Yayoi_no_yume/status/2100597593214734708",
+          "start": 34,
+          "url": "https://t.co/tT1Zf936wU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100941965630251023",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100941907975426048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100597593214734708",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "方向不对，懒得调了 https://t.co/n3vaw7tZPX https://t.co/tT1Zf936wU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2100941907975426048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgLiLabUAA-Vkv.jpg",
+        "width": 1254
+      },
+      {
+        "alt_text": "拿着参考图和GPT-image-2.5说“你参考着这个bot头图，去为图二中的角色绘制类似风格的头图，注意图中没有脖子及以下部分，瞳色与图二中角色瞳色的主色调保持一致，面部轻微抬起，整体仰视右上方。”之类的话应该就能生成类似的图像。",
+        "height": 2160,
+        "media_key": "3_2100597584142458880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbSX5La4AA9EFQ.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100941907975426048"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2100941965630251023",
+        "created_at": "2026-09-18T13:36:12.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100941965630251023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n3vaw7tZPX",
+              "end": 33,
+              "expanded_url": "https://x.com/acnekot/status/2100941965630251023/photo/1",
+              "media_key": "3_2100941907975426048",
+              "start": 10,
+              "url": "https://t.co/n3vaw7tZPX"
+            },
+            {
+              "display_url": "x.com/Yayoi_no_yume/…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/Yayoi_no_yume/status/2100597593214734708",
+              "start": 34,
+              "url": "https://t.co/tT1Zf936wU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100941965630251023",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100941907975426048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100597593214734708",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "方向不对，懒得调了 https://t.co/n3vaw7tZPX https://t.co/tT1Zf936wU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100597584142458880"
+          ]
+        },
+        "author_id": "1413448007362650115",
+        "conversation_id": "2100597593214734708",
+        "created_at": "2026-09-17T14:47:48.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T15:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100597593214734708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Access leading AI models through one unified, OpenAI-compatible API. Connect to ChatGPT, Claude, Gemini, DeepSeek, Doubao, Qwen and more through a single endpoint.",
+              "display_url": "aihubmix.com",
+              "end": 121,
+              "expanded_url": "https://aihubmix.com/",
+              "start": 98,
+              "status": 200,
+              "title": "AIHubMix - One API for Any Model",
+              "unwound_url": "https://aihubmix.com/",
+              "url": "https://t.co/B26XqlWLcK"
+            },
+            {
+              "display_url": "pic.x.com/XwSAhXkkht",
+              "end": 145,
+              "expanded_url": "https://x.com/Yayoi_no_yume/status/2100597593214734708/photo/1",
+              "media_key": "3_2100597584142458880",
+              "start": 122,
+              "url": "https://t.co/XwSAhXkkht"
+            },
+            {
+              "display_url": "x.com/Yayoi_no_yume/…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/Yayoi_no_yume/status/2100543667815752058",
+              "start": 146,
+              "url": "https://t.co/j4TUFcNKRc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100597593214734708",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "alt_text": "拿着参考图和GPT-image-2.5说“你参考着这个bot头图，去为图二中的角色绘制类似风格的头图，注意图中没有脖子及以下部分，瞳色与图二中角色瞳色的主色调保持一致，面部轻微抬起，整体仰视右上方。”之类的话应该就能生成类似的图像。",
+            "media_key": "3_2100597584142458880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 463,
+          "impression_count": 69246,
+          "like_count": 720,
+          "quote_count": 24,
+          "reply_count": 50,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100543667815752058",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "统一说明，没有固定的提示词，且这四张图我有描改一些部分。\n\n(字数限制，参考提示词在ALT)\n\n一个比巴卜跑跑糖就能画一张图，没有GPT会员的直接使用Aihubmix的服务就行，生图速度很快！\n\nhttps://t.co/B26XqlWLcK https://t.co/XwSAhXkkht https://t.co/j4TUFcNKRc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100941965630251023",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552213521253150720/1780231074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2553,
+          "following_count": 818,
+          "like_count": 97114,
+          "listed_count": 9,
+          "media_count": 4156,
+          "tweet_count": 17503
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-09T10:40:52.000Z",
+        "description": "KISARAGIノ桜🌸/普通人/写真家📸/◂Ⓘ▸电吉他手🎸/🖌️绘画/文字📖/🥇Learn in public/LLM应用🔍/和开发者做朋友☀️/“🤖e/acc🚀”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.yayoi.love",
+                "end": 23,
+                "expanded_url": "http://blog.yayoi.love",
+                "start": 0,
+                "url": "https://t.co/5m3BySZ4lO"
+              }
+            ]
+          }
+        },
+        "id": "1413448007362650115",
+        "is_identity_verified": false,
+        "location": "朝焼の涙、青空の色、夕日の風、夜の月と星",
+        "most_recent_tweet_id": "2100925464630251976",
+        "name": "◂Ⓘ▸YAYOI の 夢",
+        "pinned_tweet_id": "1918326235861794892",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1413448007362650115/1696754274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995478435255447552/upWdfDFt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4767,
+          "following_count": 4108,
+          "like_count": 19279,
+          "listed_count": 36,
+          "media_count": 4670,
+          "tweet_count": 25817
+        },
+        "url": "https://t.co/5m3BySZ4lO",
+        "username": "Yayoi_no_yume",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

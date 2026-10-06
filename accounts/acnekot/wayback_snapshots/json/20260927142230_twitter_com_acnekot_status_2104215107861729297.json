@@ -1,0 +1,535 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2103482892206973412",
+    "created_at": "2026-09-27T14:22:30.000Z",
+    "display_text_range": [
+      14,
+      198
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T15:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104215107861729297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2071620785769496576",
+          "start": 0,
+          "username": "devvaibhav37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104215107861729297",
+    "in_reply_to_user_id": "2071620785769496576",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103482892206973412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@devvaibhav37 what happen...?I am not collecting any information; in fact, the version on GitHub is the one currently in use, and I use GitHub to transfer the content. You may review it at any time."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2103482892206973412",
+        "created_at": "2026-09-27T14:22:30.000Z",
+        "display_text_range": [
+          14,
+          198
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104215107861729297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2071620785769496576",
+              "start": 0,
+              "username": "devvaibhav37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104215107861729297",
+        "in_reply_to_user_id": "2071620785769496576",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103482892206973412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@devvaibhav37 what happen...?I am not collecting any information; in fact, the version on GitHub is the one currently in use, and I use GitHub to transfer the content. You may review it at any time."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071620785769496576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2103482892206973412",
+        "created_at": "2026-09-25T13:52:56.000Z",
+        "display_text_range": [
+          0,
+          277
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T14:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103482892206973412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一个基于twitterapi或者yahoo的推特圈生成器. Contribute to acnekot/NekoCircle development by creating an account on GitHub.",
+              "display_url": "github.com/ACNekot/NekoCi…",
+              "end": 161,
+              "expanded_url": "https://github.com/ACNekot/NekoCircle",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2101854300934897664/SdV4jnOl?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2101854300934897664/SdV4jnOl?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 138,
+              "status": 200,
+              "title": "GitHub - acnekot/NekoCircle: 一个基于twitterapi或者yahoo的推特圈生成器",
+              "unwound_url": "https://github.com/ACNekot/NekoCircle",
+              "url": "https://t.co/GD09Lt9o1K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103482892206973412",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 433,
+                "id": "1724044772506234880",
+                "start": 420,
+                "username": "anuragdotdev"
+              },
+              {
+                "end": 553,
+                "id": "1724044772506234880",
+                "start": 540,
+                "username": "anuragdotdev"
+              },
+              {
+                "end": 665,
+                "id": "1724044772506234880",
+                "start": 652,
+                "username": "anuragdotdev"
+              },
+              {
+                "end": 1027,
+                "id": "1724044772506234880",
+                "start": 1014,
+                "username": "anuragdotdev"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/ACNekot/NekoCi…",
+                "end": 161,
+                "expanded_url": "http://github.com/ACNekot/NekoCircle",
+                "start": 138,
+                "url": "https://t.co/WNLJypg4sD"
+              },
+              {
+                "display_url": "github.com/ACNekot/NekoCi…",
+                "end": 1931,
+                "expanded_url": "https://github.com/ACNekot/NekoCircle",
+                "start": 1908,
+                "url": "https://t.co/vugcpPEef9"
+              },
+              {
+                "display_url": "support.yahoo-net.jp/SccRealtime/s/…",
+                "end": 1979,
+                "expanded_url": "https://support.yahoo-net.jp/SccRealtime/s/article/H000011629",
+                "start": 1956,
+                "url": "https://t.co/1em3rx2kdC"
+              }
+            ]
+          },
+          "text": "I usually don't do this, but there's way too much half information going around, so let's clear something up.\n\nNekoCircle is open source:\nhttps://t.co/WNLJypg4sD\n\nIt supports Yahoo Realtime Search as a data source, and Yahoo Realtime Search lets you search publicly available X posts, including posts directed at an @username.\n\nNow here's the important part:\n\nWE LITERALLY JUST TYPED A PUBLIC @USERNAME 😭\n\nIn this case: @anuragdotdev\n\nNo X login.\nNo password.\nNo 2FA code.\nNo OAuth authorization.\nNo cookies or session tokens.\n\nThat's it.\n\n@anuragdotdev is already public information. Anyone can type his or anyone else's username into that box.\n\nNow, @anuragdotdev did get a password reset notification after using the site, and yeah, that should be taken seriously.\n\nBut the timing alone doesn't prove what caused it.\n\nIf someone has actual technical evidence connecting simply entering a public username on NekoCircle to that password reset or an account compromise, show it.\n\nI'll happily correct myself.\n\nAnd @anuragdotdev, if you haven't enabled 2FA yet, please do 😭\nRegardless of this whole situation, running an important account without 2FA is just an unnecessary risk.\n\nAnd before someone twists what I'm saying:\n\nI'm NOT saying NekoCircle is 100% safe.\n\nOpen source ≠ automatically safe.\nThe live deployment could theoretically differ from the public source code, and proving complete safety would require actually auditing it.\n\nI'm saying there's a massive difference between:\n\n\"be careful with third party websites\"\n\nand\n\n\"you typed your username there, that's why your password got reset or your account was compromised.\"\n\nThe second claim needs evidence.\n\nIf you have technical evidence, I'm interested.\nIf we're just going to argue emotionally about what \"might have happened\", I'm not.\n\nI'm simply putting the facts we currently have on the table.\n\nRest is up to you.\n\nSources:\n\nNekoCircle:\nhttps://t.co/vugcpPEef9\n\nYahoo Realtime Search:\nhttps://t.co/1em3rx2kdC"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1327,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "I usually don't do this, but there's way too much half information going around, so let's clear something up.\n\nNekoCircle is open source:\nhttps://t.co/GD09Lt9o1K\n\nIt supports Yahoo Realtime Search as a data source, and Yahoo Realtime Search lets you search publicly available X"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94kyF"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2104215107861729297",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552213521253150720/1780231074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101168404732493824/JIak13Xx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2571,
+          "following_count": 826,
+          "like_count": 99002,
+          "listed_count": 10,
+          "media_count": 4184,
+          "tweet_count": 17635
+        },
+        "url": "https://t.co/HEkBb94kyF",
+        "username": "acnekot",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-29T15:47:18.000Z",
+        "description": "name:- Vaibhav\nbounty:- 0 berries\nweapon:- Rust 🦀\nfuel:- black coffee ☕\ndestination:- unknown",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Vaibh37",
+                "end": 23,
+                "expanded_url": "https://github.com/Vaibh37",
+                "start": 0,
+                "url": "https://t.co/ULPH27dkLL"
+              }
+            ]
+          }
+        },
+        "id": "2071620785769496576",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104213602341445772",
+        "name": "devvaibhav",
+        "pinned_tweet_id": "2103157335497859227",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071620785769496576/1790504062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099510263674486784/3gtWDr4h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 1027,
+          "like_count": 29968,
+          "listed_count": 2,
+          "media_count": 6422,
+          "tweet_count": 15861
+        },
+        "url": "https://t.co/ULPH27dkLL",
+        "username": "devvaibhav37",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

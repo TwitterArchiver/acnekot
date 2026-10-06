@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1552213521253150720",
+    "conversation_id": "2104573424177913986",
+    "created_at": "2026-09-28T18:28:33.000Z",
+    "display_text_range": [
+      16,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T19:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104639416367247527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2050253104935997440",
+          "start": 0,
+          "username": "auspiceshirley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104639416367247527",
+    "in_reply_to_user_id": "2050253104935997440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104573424177913986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@auspiceshirley sora不是似了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552213521253150720",
+        "conversation_id": "2104573424177913986",
+        "created_at": "2026-09-28T18:28:33.000Z",
+        "display_text_range": [
+          16,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T19:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104639416367247527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2050253104935997440",
+              "start": 0,
+              "username": "auspiceshirley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104639416367247527",
+        "in_reply_to_user_id": "2050253104935997440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104573424177913986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@auspiceshirley sora不是似了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050253104935997440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2104573424177913986",
+        "created_at": "2026-09-28T14:06:20.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T15:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104573424177913986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104573424177913986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 199,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "ChatGPT 也能生成视频……有趣，甚是有趣"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94kyF"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2104639416367247527",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552213521253150720/1780231074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101168404732493824/JIak13Xx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2574,
+          "following_count": 826,
+          "like_count": 99161,
+          "listed_count": 9,
+          "media_count": 4189,
+          "tweet_count": 17658
+        },
+        "url": "https://t.co/HEkBb94kyF",
+        "username": "acnekot",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "数声风笛离亭晚，君向潇湘我向秦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.auspiceshirley.dev",
+                "end": 23,
+                "expanded_url": "https://me.auspiceshirley.dev",
+                "start": 0,
+                "url": "https://t.co/1qfE6dIPvx"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "is_identity_verified": false,
+        "location": "UTC+8",
+        "most_recent_tweet_id": "2104595432651227386",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2103441253044240661",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050253104935997440/1780333609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 268,
+          "like_count": 2871,
+          "listed_count": 2,
+          "media_count": 851,
+          "tweet_count": 5132
+        },
+        "url": "https://t.co/1qfE6dIPvx",
+        "username": "auspiceshirley",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

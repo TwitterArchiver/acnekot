@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100957614385643522"
+      ],
+      "media_source_tweet_id": [
+        "2100957619469062158"
+      ]
+    },
+    "author_id": "1552213521253150720",
+    "conversation_id": "2101016447099216111",
+    "created_at": "2026-09-18T18:32:10.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T19:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101016447099216111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1849001365949095936",
+          "start": 3,
+          "username": "AmslKkririr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MyYqdyOrz6",
+          "end": 50,
+          "expanded_url": "https://x.com/AmslKkririr/status/2100957619469062158/photo/1",
+          "media_key": "3_2100957614385643522",
+          "start": 27,
+          "url": "https://t.co/MyYqdyOrz6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101016447099216111",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2100957614385643522"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 247
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100957619469062158",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @AmslKkririr: にゃんこー 🐈‍⬛ https://t.co/MyYqdyOrz6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100957614385643522",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgZ0aWbwAIwRjr.jpg",
+        "width": 1534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100957614385643522"
+          ],
+          "media_source_tweet_id": [
+            "2100957619469062158"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2101016447099216111",
+        "created_at": "2026-09-18T18:32:10.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T19:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101016447099216111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849001365949095936",
+              "start": 3,
+              "username": "AmslKkririr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MyYqdyOrz6",
+              "end": 50,
+              "expanded_url": "https://x.com/AmslKkririr/status/2100957619469062158/photo/1",
+              "media_key": "3_2100957614385643522",
+              "start": 27,
+              "url": "https://t.co/MyYqdyOrz6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101016447099216111",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100957614385643522"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 247
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100957619469062158",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @AmslKkririr: にゃんこー 🐈‍⬛ https://t.co/MyYqdyOrz6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100957614385643522"
+          ]
+        },
+        "author_id": "1849001365949095936",
+        "conversation_id": "2100957619469062158",
+        "created_at": "2026-09-18T14:38:25.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100957619469062158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MyYqdyOrz6",
+              "end": 33,
+              "expanded_url": "https://x.com/AmslKkririr/status/2100957619469062158/photo/1",
+              "media_key": "3_2100957614385643522",
+              "start": 10,
+              "url": "https://t.co/MyYqdyOrz6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100957619469062158",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100957614385643522"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 237,
+          "impression_count": 16865,
+          "like_count": 2646,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 247
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "にゃんこー 🐈‍⬛ https://t.co/MyYqdyOrz6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "non-reflection",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2101016447099216111",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552213521253150720/1780231074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2552,
+          "following_count": 816,
+          "like_count": 97128,
+          "listed_count": 9,
+          "media_count": 4156,
+          "tweet_count": 17504
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-23T08:14:56.000Z",
+        "description": "おさげちゃん描いてます ほとんど左向き 投稿頻度:低 さぶ@popo_sabu178",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "popo_sabu178"
+              }
+            ]
+          }
+        },
+        "id": "1849001365949095936",
+        "is_identity_verified": false,
+        "location": "お絵描き練習中",
+        "most_recent_tweet_id": "2100957619469062158",
+        "name": "ぽぽ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849001365949095936/1783587407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007782234435272704/2h1-5Kjk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13198,
+          "following_count": 43,
+          "like_count": 11131,
+          "listed_count": 44,
+          "media_count": 77,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "AmslKkririr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
